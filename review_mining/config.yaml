@@ -1,0 +1,9 @@
+APP: ReviewMining
+
+app_id:
+  bolt_apple: 'bolt-fast-affordable-rides'
+  bolt_google: 'ee.mtakso.client'
+  uber_apple: 'uber'
+  uber_google: 'com.ubercab'
+
+country_code: 'gb'
