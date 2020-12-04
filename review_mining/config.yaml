@@ -24,3 +24,5 @@ app_id:
 
 country_code: 'gb'
 # country_code: ['gb','ee','fr', 'de']
+
+review_colname: ['review']

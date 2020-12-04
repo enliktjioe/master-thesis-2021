@@ -1,15 +1,21 @@
-## 30 November 2020
+## 4 Dec 2020
+- Finished feature extraction from the remaining top 10 ridesharing apps
+- Found [available tools](https://mast.informatik.uni-hamburg.de/wp-content/uploads/2016/08/Coding-Guide-V8_Final.pdf) related to paper references about feature extraction from app description and app reviews
+- Found [documentation](https://mast.informatik.uni-hamburg.de/wp-content/uploads/2016/08/Coding-Guide-V8_Final.pdf) related to automatic review analysis
+- Test Google Translate Document Translation using .xls file, and manually export it into Excel file
+
+## 30 Nov 2020
 - Added all top 10 app id for both app store and play store
 - All csv output can be accessed from [Google Drive]
 - Added `progress_updates.md` to track my thesis progress
 
-## 20 November 2020
+## 20 Nov 2020
 - Added review mining result for Uber. Spreadsheet from here (sheet name uber_ee_google_playstore_review and uber_gb_apple_appstore_review)
 - Updated python code for review mining, now using yaml config file to store meta data (app_id, country_code, etc)
 - example of config yaml file: [config.yaml]
 - Added functional and non-functional requirement for ridesharing app. [spreadsheet]
 
-## 13 November 2020
+## 13 Nov 2020
 - Finding “top 10 European ride sharing applications”
   - Check the [spreadsheet]
   - Due to some restriction, I can’t get Apple App Store total downloads and latest update date
