@@ -1,6 +1,6 @@
 ## 4 Dec 2020
 - Finished feature extraction from the remaining top 10 ridesharing apps
-- Found [available tools](https://mast.informatik.uni-hamburg.de/wp-content/uploads/2016/08/Coding-Guide-V8_Final.pdf) related to paper references about feature extraction from app description and app reviews
+- Found [available tools](https://mast.informatik.uni-hamburg.de/app-review-analysis/) related to paper references about feature extraction from app description and app reviews
 - Found [documentation](https://mast.informatik.uni-hamburg.de/wp-content/uploads/2016/08/Coding-Guide-V8_Final.pdf) related to automatic review analysis
 - Test Google Translate Document Translation using .xls file, and manually export it into Excel file
 
