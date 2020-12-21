@@ -1,14 +1,5 @@
 *.xlsx
 *.csv
 .idea
-references/app_review_analysis/automatic_classification_app_reviews/REJ_data/all.json
-references/app_review_analysis/automatic_classification_app_reviews/REJ_data/Bug.json
-references/app_review_analysis/automatic_classification_app_reviews/REJ_data/Feature.json
-references/app_review_analysis/automatic_classification_app_reviews/REJ_data/Rating.json
-references/app_review_analysis/automatic_classification_app_reviews/REJ_data/UserExperience.json
-references/app_review_analysis/automatic_classification_app_reviews/ReviewClassifier4J/data/Bug_tt.json
-references/app_review_analysis/automatic_classification_app_reviews/ReviewClassifier4J/data/Feature_tt.json
-references/app_review_analysis/automatic_classification_app_reviews/ReviewClassifier4J/data/Rating_tt.json
-references/app_review_analysis/automatic_classification_app_reviews/ReviewClassifier4J/data/UserExperience_tt.json
-
-references/re_2017_johann_et-al/
+references/
+review_mining/xls_output/

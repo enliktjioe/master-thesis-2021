@@ -18,17 +18,39 @@ config_file = open('config.yaml')
 config = yaml.load(config_file, Loader=yaml.FullLoader)
 
 
-app_id = config['app_id']['uber_apple']
-country_code = config['country_code']
-csv_file_name = app_id + '_' + country_code + '_apple_appstore_review.csv'
+# app_id = config['app_id']['uber_apple']
+list_of_app_id = [
+    config['app_id']['bolt_apple'],
+#     config['app_id']['uber_apple'],
+#     config['app_id']['blablacar_apple'],
+#     config['app_id']['cabify_apple'],
+#     config['app_id']['via_apple'],
+#     config['app_id']['getaround_apple'],
+#     config['app_id']['olacabs_apple'],
+#     config['app_id']['taxieu_apple'],
+#     config['app_id']['freenow_apple'],
+#     config['app_id']['yandexgo_apple']
+]
+    
+list_of_country_code = config['country_code']
+output_path = config['output_path']
 
 
-appstore = AppStore(country=country_code, app_name=app_id)
-appstore.review(how_many=100000)
+for app_id in list_of_app_id:
+    df_merged = None
+    
+    for country_code in list_of_country_code:
+        appstore = AppStore(country=country_code, app_name=app_id)
+        appstore.review(how_many=100000)
+
+        if df_merged is not None:
+            df = pd.json_normalize(appstore.reviews)
+            df_merged.append(df)
+        else:
+            df_merged = pd.json_normalize(appstore.reviews)
 
 
-df = pd.json_normalize(appstore.reviews)
+        csv_file_name = app_id + '_apple_appstore_review.csv'
 
-
-df.to_csv(csv_file_name)
+    df_merged.to_csv(output_path + csv_file_name)
 

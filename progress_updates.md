@@ -1,3 +1,8 @@
+## 21 Dec 2020
+- Now it's possible to fetch multiple `app_id` for both Google Play Store and Apple App Store
+- Added multiple country code for Apple App Store only
+- Updated library `google-play-scraper` to v0.1.2
+
 ## 4 Dec 2020
 - Finished feature extraction from the remaining top 10 ridesharing apps
 - Found [available tools](https://mast.informatik.uni-hamburg.de/app-review-analysis/) related to paper references about feature extraction from app description and app reviews

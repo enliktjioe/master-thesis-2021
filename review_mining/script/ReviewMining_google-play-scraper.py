@@ -24,33 +24,34 @@ config_file = open('config.yaml')
 config = yaml.load(config_file, Loader=yaml.FullLoader)
 
 
-app_id = config['app_id']['yandexgo_google']
-# country_code = config['country_code']
-country_code = 'us'
-csv_file_name = app_id + '_' + country_code + '_google_playstore_review.csv'
+list_of_app_id = [
+#     config['app_id']['bolt_google'],
+    config['app_id']['uber_google'],
+#     config['app_id']['blablacar_google'],
+    config['app_id']['cabify_google'],
+    config['app_id']['via_google'],
+    config['app_id']['getaround_google'],
+    config['app_id']['olacabs_google'],
+    config['app_id']['taxieu_google'],
+#     config['app_id']['freenow_google'],
+#     config['app_id']['yandexgo_google']
+]
 
-# country_code = []
-# csv_file_name = []
-# for i in config['country_code']:
-#     country_code.append(i)
-#     csv_file_name.append(app_id + '_' + country_code + '_google_playstore_review.csv')
+output_path = config['output_path']
 
 
 # ## App Reviews
 
-result = reviews_all(
-    app_id,
-    sleep_milliseconds=0, # defaults to 0
-    lang='en', # defaults to 'en'
-    country=country_code, # defaults to 'us'
-    sort=Sort.MOST_RELEVANT, # defaults to Sort.MOST_RELEVANT
-    filter_score_with=None # defaults to None(means all score)
-)
-
-
-df = pd.json_normalize(result)
-# print(df)
-
-
-df.to_csv(csv_file_name)
+for app_id in list_of_app_id:
+    result = reviews_all(
+        app_id,
+        lang='en', # defaults to 'en'
+        country='us', # defaults to 'us'
+        sort=Sort.MOST_RELEVANT, # defaults to Sort.MOST_RELEVANT
+        filter_score_with=None # defaults to None(means all score)
+    )
+    df = pd.json_normalize(result)
+    
+    csv_file_name = app_id + '_google_playstore_review.csv'
+    df.to_csv(output_path + csv_file_name)
 

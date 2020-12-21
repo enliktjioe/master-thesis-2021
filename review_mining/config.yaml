@@ -22,7 +22,15 @@ app_id:
   yandexgo_apple: 'yandex-go-taxi-and-delivery'
   yandexgo_google: 'ru.yandex.taxi'
 
-country_code: 'gb'
-# country_code: ['gb','ee','fr', 'de']
+# Only used for App Store
+# Top 5 European Countries with highest number of Apple Store + Estonia
+# https://www.statista.com/statistics/1041526/apple-store-numbers-european-countries/
+
+# List of Apple iTunes Store Country Codes
+# https://gist.github.com/daFish/5990634
+country_code: ['gb','fr','it','de','es','ee']
+
+
 
 review_colname: ['review']
+output_path: 'csv_output/'
