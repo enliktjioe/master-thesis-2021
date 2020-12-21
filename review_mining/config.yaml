@@ -29,6 +29,7 @@ app_id:
 # List of Apple iTunes Store Country Codes
 # https://gist.github.com/daFish/5990634
 country_code: ['gb','fr','it','de','es','ee']
+# country_code: ['it']
 
 
 

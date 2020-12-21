@@ -21,15 +21,15 @@ config = yaml.load(config_file, Loader=yaml.FullLoader)
 # app_id = config['app_id']['uber_apple']
 list_of_app_id = [
 #     config['app_id']['bolt_apple'],
-    config['app_id']['uber_apple'],
+#     config['app_id']['uber_apple'],
     config['app_id']['blablacar_apple'],
-    config['app_id']['cabify_apple'],
-    config['app_id']['via_apple'],
-    config['app_id']['getaround_apple'],
-    config['app_id']['olacabs_apple'],
-    config['app_id']['taxieu_apple'],
-    config['app_id']['freenow_apple'],
-    config['app_id']['yandexgo_apple']
+#     config['app_id']['cabify_apple'],
+#     config['app_id']['via_apple'],
+#     config['app_id']['getaround_apple'],
+#     config['app_id']['olacabs_apple'],
+#     config['app_id']['taxieu_apple'],
+#     config['app_id']['freenow_apple'],
+#     config['app_id']['yandexgo_apple']
 ]
     
 list_of_country_code = config['country_code']
