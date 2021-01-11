@@ -3,3 +3,5 @@
 .idea
 references/
 review_mining/xls_output/
+
+notebooks/.ipynb_checkpoints/
