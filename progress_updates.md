@@ -1,3 +1,7 @@
+## Jan 12 2021
+- Added notebook for [example feature extraction](https://github.com/enliktjioe/master-thesis-2021/blob/main/notebooks/safe_feature_extraction.ipynb) from [SAFE paper](https://mast.informatik.uni-hamburg.de/wp-content/uploads/2017/07/RE_2017_SAFE_preprint.pdf)
+- Main python script from the author was licensed, so I didn't push it to this public repository to make it private for research purpose only
+
 ## 21 Dec 2020
 - Now it's possible to fetch multiple `app_id` for both Google Play Store and Apple App Store
 - Added multiple country code for Apple App Store only
