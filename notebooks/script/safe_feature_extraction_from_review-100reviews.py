@@ -17,6 +17,14 @@
 # nltk.download('punkt')
 # ```
 
+# import nltk
+# nltk.download('stopwords')
+# nltk.download('punkt')
+
+import nltk
+nltk.download('wordnet')
+
+
 # Python path referencing
 import os
 import sys
@@ -31,7 +39,16 @@ import FE_SAFE as fs
 
 # ## [Test] Manual Copy Paste Review 
 
-get_ipython().run_cell_magic('time', '', '\n\nexample_review = """\n        I love bolt. I don’t use uber often because one ride even if it’s short is like £11. Whereas from my high street to my house is £3. Not only that but their drivers are SUPER friendly! I was sick one day (my first time using bolt) and the driver was so understanding and encouraged me throughout my journey. Bolt is 100% recommended by me. I don’t write reviews so that’s how you know I defiantly recommend it. My Instagram name is: TeeKezi if you wish to get in contact with me about bolt. I’m not an ambassador 😂 or anything like that. Just super happy with the service I have been receiving x,5,Love it\n    """\n\n#     feature_extractor = SAFE()\nfeature_extractor = fs.SAFE()\nfeature_extractor.extract_from_review(example_review)')
+# %%time
+
+
+# example_review = """
+#         I love bolt. I don’t use uber often because one ride even if it’s short is like £11. Whereas from my high street to my house is £3. Not only that but their drivers are SUPER friendly! I was sick one day (my first time using bolt) and the driver was so understanding and encouraged me throughout my journey. Bolt is 100% recommended by me. I don’t write reviews so that’s how you know I defiantly recommend it. My Instagram name is: TeeKezi if you wish to get in contact with me about bolt. I’m not an ambassador 😂 or anything like that. Just super happy with the service I have been receiving x,5,Love it
+#     """
+
+# #     feature_extractor = SAFE()
+# feature_extractor = fs.SAFE()
+# feature_extractor.extract_from_review(example_review)
 
 
 # ## Data Pre-Processing
@@ -52,7 +69,7 @@ freenow_path = "../review_mining/csv_output/9_freenow/freenow_google_playstore_r
 yandexgo_path = "../review_mining/csv_output/10_yandexgo/yandexgo_google_playstore_review.csv"
 
 review_col = [4] # column that contains review text
-number_of_rows = 1 # for testing, only used the first 100 rows of csv file
+number_of_rows = 100 # for testing, only used the first 100 rows of csv file
 
 
 review_bolt = pd.read_csv(bolt_path, usecols=review_col, nrows = number_of_rows)
