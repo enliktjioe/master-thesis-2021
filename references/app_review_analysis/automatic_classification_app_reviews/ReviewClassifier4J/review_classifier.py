@@ -99,7 +99,7 @@ def _get_review_data_old(label, pos_tblname, neg_tblname):
     if not data_file_json_p.exists():
         raise Exception("Missing data file.")
     else:
-        print "Load json data from json"
+        print("Load json data from json")
         Data = _load_from_json("data/", label + "_tt")
 
     return Data
@@ -111,20 +111,20 @@ def _get_review_data(label, pos_tblname, neg_tblname, filename_suffix = ""):
     if not data_file_json_p.exists():
         raise Exception("Missing data file.")
     else:
-        print "Load json data from json"
+        print("Load json data from json")
         Data = _load_from_json("data/", label + filename_suffix)
 
     return Data
 
 def _get_review_data_custom(label, pos_tblname, neg_tblname, filename_suffix = "_custom"):
     data_file_json = "data/%s" % label + filename_suffix + ".json"
-    print "looking for file %s " % data_file_json
+    print("looking for file %s " % data_file_json)
     data_file_json_p = pathlib.Path(data_file_json)
 
     if not data_file_json_p.exists():
         raise Exception("Missing data file.")
     else:
-        print "Load json data from json"
+        print("Load json data from json")
         Data = _load_from_json("data/", label + filename_suffix)
 
     return Data
@@ -157,8 +157,8 @@ class BaseReviewClassifier(object):
                     review = ""
 
             except:
-                print (sys.exc_info()[0])
-                print ("!!!! ERROR: %s" % row[classifier_cfg.db_comment_column_name])
+                print(sys.exc_info()[0])
+                print("!!!! ERROR: %s" % row[classifier_cfg.db_comment_column_name])
                 continue
 
             if title is None or title =="":
@@ -270,7 +270,7 @@ class BaseReviewClassifier(object):
             f = nltk.f_measure(refsets[label], testsets[label])
             if f is None:
                 f = 0
-            print "label: %s" % label
+            print("label: %s" % label)
             print("P:%s, R:%s, F:%s" % (p,r,f))
             P[label] = p
             R[label] = r
@@ -378,8 +378,8 @@ class ReviewClassifier (BaseReviewClassifier):
             Data = Data + d
 
         if len(labels) > 1:
-            print "multiclass version..."
-            print "filter Not_ Labels..."
+            print("multiclass version...")
+            print("filter Not_ Labels...")
 
             Data = [item for item in Data if item["label"] in labels]
 
@@ -458,7 +458,7 @@ class ReviewClassifier (BaseReviewClassifier):
             P, R, F, t = self.classifier_Train(self.train, self.test, labels)
 
             # print training/testing ratio
-            print "ratio training/testing: %s" % len(self.train), len(self.test)
+            print("ratio training/testing: %s" % len(self.train), len(self.test))
 
             for label in labels:
                 self.precision[label].append(P[label])
@@ -490,15 +490,15 @@ class ReviewClassifier (BaseReviewClassifier):
 
         for label in labels:
             csv_prefix_tmp = csv_prefix + label + "_"
-            print "Means for %s" % label
-            print "Mean_precision"
-            print self.mean_precision[label]
-            print "Mean_recall"
-            print self.mean_recall[label]
-            print "Mean_f_measure"
-            print self.mean_f_measure[label]
-            print "Mean_time"
-            print self.mean_time
+            print("Means for %s" % label)
+            print("Mean_precision")
+            print(self.mean_precision[label])
+            print("Mean_recall")
+            print(self.mean_recall[label])
+            print("Mean_f_measure")
+            print(self.mean_f_measure[label])
+            print("Mean_time")
+            print(self.mean_time)
 
             filename = '%smeanscores_70_30.csv' % csv_prefix_tmp
             p = pathlib.Path(filename)
@@ -586,8 +586,8 @@ class ReviewClassifier (BaseReviewClassifier):
 
 def probability(self, text, classifier, label):
     prob_dist = classifier.prob_classify(text)
-    print "probaility of having a %s report review" % label
-    print prob_dist.prob(label)
-    print "classified as :"
-    print prob_dist.max()
+    print("probaility of having a %s report review" % label)
+    print(prob_dist.prob(label))
+    print("classified as :")
+    print(prob_dist.max())
 

@@ -44,7 +44,7 @@ def _get_combinations(dict):
 
             # lemmatize and remove_stopwords make only sense with bow
             if len(text_f.intersection(set(out_combi))) == 0 and ("lemmatize" in out_combi or "remove_stopwords" in out_combi):
-                print "NO!!!: %s" % out_combi
+                print("NO!!!: %s" % out_combi)
                 continue
 
             out.append(out_combi)
@@ -132,4 +132,4 @@ if DEBUG:
     ct = get_all_classifier_techniques()
     ct_cfg = get_all_classifier_technique_configs(ct)
 
-    print ct
+    print(ct)
