@@ -64,7 +64,7 @@ def _get_words_from_dataset(dataset):
     # Words may be either a string or a list of tokens. Return an iterator
     # of tokens accordingly
     def tokenize(words):
-        if isinstance(words, basestring):
+        if isinstance(words, str):
             return word_tokenize(words, include_punc=False)
         else:
             return words
@@ -74,7 +74,7 @@ def _get_words_from_dataset(dataset):
 
 
 def _get_document_tokens(document):
-    if isinstance(document, basestring):
+    if isinstance(document, str):
         tokens = set((strip_punc(w, all=False)
                       for w in word_tokenize(document, include_punc=False)))
     else:
@@ -300,14 +300,18 @@ class BaseReviewClassifier(object):
             bow_features = dict(((u'contains({0})'.format(word), (word in token_list))
                              for word in self.word_features))
 
-            feats = dict(feats.items() + bow_features.items())
+            feats = dict(list(feats.items()) + list(bow_features.items()))
+            # feats = feats.copy()
+            # feats = feats.update(bow_features)
 
         if self.cfg.bigram:
             bigrams = self.extract_bigram_words(token_list)
             bigram_features = dict()
             for (w1,w2) in bigrams:
                 bigram_features[u'collocation({0},{1})'.format(w1,w2)] = True
-            feats = dict(feats.items() + bigram_features.items())
+            feats = dict(list(feats.items()) + list(bigram_features.items()))
+            # feats = feats.copy()
+            # feats = feats.update(bigram_features)
 
         if self.cfg.rating:
             feats["rating({0})".format(rating_dict.get(document))] = True
@@ -513,7 +517,7 @@ class ReviewClassifier (BaseReviewClassifier):
                     writer.writeheader()
 
                 row_dict_means = {'Mean_Precision': self.mean_precision[label], 'Mean_Recall': self.mean_recall[label], 'Mean_F1Score': self.mean_f_measure[label], 'Mean_Time' : self.mean_time}
-                row_dict_final = dict ({"cfg_id" : cfg_id}.items() + row_dict_techniques.items() + row_dict_means.items())
+                row_dict_final = dict(list({"cfg_id" : cfg_id}.items()) + list(row_dict_techniques.items()) + list(row_dict_means.items()))
 
                 writer.writerow(row_dict_final)
 
@@ -530,7 +534,8 @@ class ReviewClassifier (BaseReviewClassifier):
 
                 row_dict_folds = {'%s_fold'%i : self.precision[label][i-1] for i in range(1,num_folds+1)}
 
-                row_dict_final = dict ({"cfg_id" : cfg_id}.items() +row_dict_techniques.items() + row_dict_folds.items())
+                # row_dict_final = dict ({"cfg_id" : cfg_id}.items() +row_dict_techniques.items() + row_dict_folds.items())
+                row_dict_final = dict(list({"cfg_id" : cfg_id}.items()) + list(row_dict_techniques.items()) + list(row_dict_folds.items()))
                 writer.writerow(row_dict_final)
 
 
@@ -548,7 +553,8 @@ class ReviewClassifier (BaseReviewClassifier):
 
                 row_dict_folds = {'%s_fold'%i : self.recall[label][i-1] for i in range(1,num_folds+1)}
 
-                row_dict_final = dict ({"cfg_id" : cfg_id}.items() +row_dict_techniques.items() + row_dict_folds.items())
+                # row_dict_final = dict ({"cfg_id" : cfg_id}.items() +row_dict_techniques.items() + row_dict_folds.items())
+                row_dict_final = dict(list({"cfg_id" : cfg_id}.items()) + list(row_dict_techniques.items()) + list(row_dict_folds.items()))
                 writer.writerow(row_dict_final)
 
             filename = '%sf1score_70_30.csv' % csv_prefix_tmp
@@ -564,7 +570,8 @@ class ReviewClassifier (BaseReviewClassifier):
 
                 row_dict_folds = {'%s_fold'%i : self.f_measure[label][i-1] for i in range(1,num_folds+1)}
 
-                row_dict_final = dict ({"cfg_id" : cfg_id}.items() + row_dict_techniques.items() + row_dict_folds.items())
+                # row_dict_final = dict ({"cfg_id" : cfg_id}.items() + row_dict_techniques.items() + row_dict_folds.items())
+                row_dict_final = dict(list({"cfg_id" : cfg_id}.items()) + list(row_dict_techniques.items()) + list(row_dict_folds.items()))
                 writer.writerow(row_dict_final)
 
 
@@ -581,7 +588,8 @@ class ReviewClassifier (BaseReviewClassifier):
 
             row_dict_folds = {'%s_fold'%i : self.time[i-1] for i in range(1,num_folds+1)}
 
-            row_dict_final = dict ({"cfg_id" : cfg_id}.items() + row_dict_techniques.items() + row_dict_folds.items())
+            # row_dict_final = dict ({"cfg_id" : cfg_id}.items() + row_dict_techniques.items() + row_dict_folds.items())
+            row_dict_final = dict(list({"cfg_id" : cfg_id}.items()) + list(row_dict_techniques.items()) + list(row_dict_folds.items()))
             writer.writerow(row_dict_final)
 
 def probability(self, text, classifier, label):

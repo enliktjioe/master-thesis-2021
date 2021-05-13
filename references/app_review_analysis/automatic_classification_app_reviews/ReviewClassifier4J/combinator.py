@@ -58,6 +58,7 @@ def get_all_classifier_techniques():
     return out
 
 def get_all_classifier_technique_configs(class_techniques_combis):
+    print(class_techniques_combis)
 
     out = []
     # 04: comment (unpreprocessed text)
@@ -66,38 +67,38 @@ def get_all_classifier_technique_configs(class_techniques_combis):
     # 16: stopwords_removal_nltk
     # 17: stopwords_removal_lemmatization
 
-    for combis in class_techniques_combis:
-        db_comment_column_name = "comment"
+    # for combis in class_techniques_combis:
+    #     db_comment_column_name = "comment"
 
-        #
-        # the relevant db column for the comment
-        if "remove_stopwords" in combis and "lemmatize" in combis:
-            db_comment_column_name = "stopwords_removal_lemmatization"
-        elif "remove_stopwords" in combis:
-            db_comment_column_name = "stopwords_removal"
-        elif "lemmatize" in combis:
-            db_comment_column_name = "lemmatized_comment"
+    #     #
+    #     # the relevant db column for the comment
+    #     if "remove_stopwords" in combis and "lemmatize" in combis:
+    #         db_comment_column_name = "stopwords_removal_lemmatization"
+    #     elif "remove_stopwords" in combis:
+    #         db_comment_column_name = "stopwords_removal"
+    #     elif "lemmatize" in combis:
+    #         db_comment_column_name = "lemmatized_comment"
 
-        classifier_technique_cfg = classifier_technique_configurator(
-            bow = "bow" in combis,
-            bigram = "bigram" in combis,
-            lemmatize = "lemmatize" in combis,       #depends on BoW
-            remove_stopwords = "remove_stopwords" in combis, #depends on BoW
-            rating = "rating" in combis,
-            length = "length" in combis,
-            tense = "tense" in combis,
-            sentiment1 = "sentiment1" in combis,
-            sentiment2 = "sentiment2" in combis,
-            db_comment_column_name = db_comment_column_name
-        )
+    #     classifier_technique_cfg = classifier_technique_configurator(
+    #         bow = "bow" in combis,
+    #         bigram = "bigram" in combis,
+    #         lemmatize = "lemmatize" in combis,       #depends on BoW
+    #         remove_stopwords = "remove_stopwords" in combis, #depends on BoW
+    #         rating = "rating" in combis,
+    #         length = "length" in combis,
+    #         tense = "tense" in combis,
+    #         sentiment1 = "sentiment1" in combis,
+    #         sentiment2 = "sentiment2" in combis,
+    #         db_comment_column_name = db_comment_column_name
+    #     )
 
-        out.append(classifier_technique_cfg)
+    #     out.append(classifier_technique_cfg)
 
     return out
 
 
 def get_key_for_classifier_config(cfg):
-    return "-".join([field for i,field in enumerate(cfg._fields) if not isinstance(cfg[i], basestring) and cfg[i]])
+    return "-".join([field for i,field in enumerate(cfg._fields) if not isinstance(cfg[i], str) and cfg[i]])
 
 def get_classifier_technique_config(bow=False, bigram=False, lemmatize = False, remove_stopwords = False, rating = False, length = False, tense = False, sentiment1 = False, sentiment2 = False):
 
@@ -127,7 +128,7 @@ def get_classifier_technique_config(bow=False, bigram=False, lemmatize = False, 
 
     return classifier_technique_cfg
 
-DEBUG = False
+DEBUG = False   
 if DEBUG:
     ct = get_all_classifier_techniques()
     ct_cfg = get_all_classifier_technique_configs(ct)

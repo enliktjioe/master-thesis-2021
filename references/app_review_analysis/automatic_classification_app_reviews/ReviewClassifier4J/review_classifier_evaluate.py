@@ -49,7 +49,7 @@ def run_multiclass_ttdata(cfgs_dict, datafile_suffix):
     DEBUG_LABELS = ["Bug","Feature","UserExperience","Rating"]
 
     csv_prefix = OUTPUT_FOLDER + "multiclass_result_tt_"
-    for (cfg_id, cfg) in DEBUG_CFGS.iteritems():
+    for (cfg_id, cfg) in DEBUG_CFGS.items():
             ReviewClassifier(csv_prefix, DEBUG_LABELS, "", "", cfg, cfg_id, [], old_traintest_set=False, datafile_suffix=datafile_suffix)
 
 def run_bin_classifier(label, cfgs_dict, datafile_suffix):
@@ -57,7 +57,7 @@ def run_bin_classifier(label, cfgs_dict, datafile_suffix):
     DEBUG_LABELS = [label]
 
     csv_prefix = OUTPUT_FOLDER + "nb_all_results_"
-    for (cfg_id, cfg) in DEBUG_CFGS.iteritems():
+    for (cfg_id, cfg) in DEBUG_CFGS.items():
         ReviewClassifier(csv_prefix, DEBUG_LABELS, "", "", cfg, cfg_id, [], old_traintest_set=False, datafile_suffix=datafile_suffix)
 
 if __name__ == '__main__':
@@ -65,7 +65,9 @@ if __name__ == '__main__':
     # cfgs = get_bow_cfg()
     cfgs = get_combined_cfgs_journal_version()
 
-    run_bin_classifier("Bug", cfgs, "_tt")
+    # run_bin_classifier("Bug", cfgs, "_tt")
+    run_bin_classifier("Bug", cfgs, "_tt_lite")
+
     # debug_run_all_data("Feature", cfgs, "_tt")
     # debug_run_all_data("UserExperience", cfgs, "_tt")
     # debug_run_all_data("Rating", cfgs, "_tt")
