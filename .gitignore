@@ -9,3 +9,5 @@ notebooks/.ipynb_checkpoints/
 .vscode/
 
 enlik_thesis.code-workspace
+
+.ipynb_checkpoints/
