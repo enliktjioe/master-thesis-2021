@@ -1,0 +1,4 @@
+textblob==0.15.3
+seaborn==0.11.1
+spellchecker==0.4
+pyspellchecker==0.6.2
