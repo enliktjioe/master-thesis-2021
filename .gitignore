@@ -11,3 +11,8 @@ notebooks/.ipynb_checkpoints/
 enlik_thesis.code-workspace
 
 .ipynb_checkpoints/
+sandbox/bert-topic-sentiment/model_files/bert-topic-sentiment-colab-final.bin
+sandbox/bert-topic-sentiment/model_files/label_encoder.pkl
+sandbox/bert-topic-sentiment/model_files/special_tokens_map.json
+sandbox/bert-topic-sentiment/model_files/tokenizer_config.json
+sandbox/bert-topic-sentiment/model_files/vocab.txt
