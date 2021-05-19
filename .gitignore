@@ -16,3 +16,5 @@ sandbox/bert-topic-sentiment/model_files/label_encoder.pkl
 sandbox/bert-topic-sentiment/model_files/special_tokens_map.json
 sandbox/bert-topic-sentiment/model_files/tokenizer_config.json
 sandbox/bert-topic-sentiment/model_files/vocab.txt
+sandbox/duyunshu-bert-sentiment-analysis/data/metacritic/train.tsv
+sandbox/duyunshu-bert-sentiment-analysis/test.tsv
