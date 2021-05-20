@@ -1,0 +1,2606 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="1">
+    <text>i love this app so much.</text>
+  </sentence>
+  <sentence id="2">
+    <text>amazinnng.</text>
+  </sentence>
+  <sentence id="3">
+    <text>Don't attempt to edit your board description.	Apparently, when editing a long board description using this app, it erases everything on the right that you're not able to see. The window is small, so you only see the bit that you're modifying. What you don't see is also what you won't get after editing!</text>
+  </sentence>
+  <sentence id="4">
+    <text>Love it!!	So many good ideas.</text>
+  </sentence>
+  <sentence id="5">
+    <text>Boot at Start-up	Why does it need to boot when you turn on the phone? There should be no reason pinterest needs that permission. Not updating until this is removed.</text>
+  </sentence>
+  <sentence id="6">
+    <text>Ok	Pi n problem has recently beensolved.</text>
+  </sentence>
+  <sentence id="7">
+    <text>Love!!!!!!!</text>
+  </sentence>
+  <sentence id="8">
+    <text>Amazing	I love it</text>
+  </sentence>
+  <sentence id="9">
+    <text>Great	I love Pinterest</text>
+  </sentence>
+  <sentence id="10">
+    <text>Mouse	Outstands apart from the competition...</text>
+  </sentence>
+  <sentence id="11">
+    <text>Great clean App and easy to use	Only feedback would be to improve image fetching in browsers, sometimes it wouldn't load the images that I want to pin, otherwise great work!</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="116" term="load the images" to="131"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="12">
+    <text>Love it.	Can keep up with everything I love in one place. I love it.</text>
+  </sentence>
+  <sentence id="13">
+    <text>To Pinterest people	I logged out and than I tryed to login and all of my stuff was gone. So wtf is that all about. I really not happy with you guys( Pinterest) so can you fixs it?</text>
+  </sentence>
+  <sentence id="14">
+    <text>Ugh.</text>
+  </sentence>
+  <sentence id="15">
+    <text>I hate the new update, it won't let me pin stuff and mever sends link to reset password.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="11" term="new update" to="21"/>
+      <aspectTerm class="B" from="39" term="pin" to="42"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="16">
+    <text>Every time you go to a picture it goes to comments first.</text>
+  </sentence>
+  <sentence id="17">
+    <text>Please fix!</text>
+  </sentence>
+  <sentence id="18">
+    <text>Hate it.</text>
+  </sentence>
+  <sentence id="19">
+    <text>Great App.</text>
+  </sentence>
+  <sentence id="20">
+    <text>I have over 100 boards of interesting topics, crafting interests, recipes, photos, and they all continue to grow.</text>
+  </sentence>
+  <sentence id="21">
+    <text>Love this App.</text>
+  </sentence>
+  <sentence id="22">
+    <text>The  coolest and it's free, for all ages.</text>
+  </sentence>
+  <sentence id="23">
+    <text>My husband just started  pinning his own interests.</text>
+  </sentence>
+  <sentence id="24">
+    <text>Awesome! !!	I can find anything. ..</text>
+  </sentence>
+  <sentence id="25">
+    <text>I save and post recipes, then just open the app to follow them.</text>
+  </sentence>
+  <sentence id="26">
+    <text>Boards are a great way to save links to articles I want to read.</text>
+  </sentence>
+  <sentence id="27">
+    <text>Sending links to friends and pinning is so easy, and fun!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="29" term="pinning" to="36"/>
+      <aspectTerm class="E" from="0" term="Sending links" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="28">
+    <text>I love Pinterest!</text>
+  </sentence>
+  <sentence id="29">
+    <text>Summary review	I really love this app.</text>
+  </sentence>
+  <sentence id="30">
+    <text>It would make it easier to organize pins.</text>
+  </sentence>
+  <sentence id="31">
+    <text>I would suggest maybe adding a feature for making sub folders or subcategories within boards.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="43" term="making sub folders or subcategories within boards" to="92"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="32">
+    <text>Its probably the app I use the most on all of my devices.</text>
+  </sentence>
+  <sentence id="33">
+    <text>Its quick and easy to find pins you love.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="22" term="find pins" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="34">
+    <text>Dislike the update...	...</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="12" term="update" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="35">
+    <text>:-(</text>
+  </sentence>
+  <sentence id="36">
+    <text>That opens links in its own browser instead of my preferred external browser.</text>
+  </sentence>
+  <sentence id="37">
+    <text>I can just pin all my fave recipes!</text>
+  </sentence>
+  <sentence id="38">
+    <text>I loved it so much!</text>
+  </sentence>
+  <sentence id="39">
+    <text>Fantastic app!</text>
+  </sentence>
+  <sentence id="40">
+    <text>Coz it's very useful for me.</text>
+  </sentence>
+  <sentence id="41">
+    <text>Easy uploading	Love it!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="5" term="uploading" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="42">
+    <text>Thanks</text>
+  </sentence>
+  <sentence id="43">
+    <text>Good	Nice and interesting.</text>
+  </sentence>
+  <sentence id="44">
+    <text>Love it!	Learn so much and get all sorts of great ideas for all kinds of things.</text>
+  </sentence>
+  <sentence id="45">
+    <text>Love it!	Best source for recipes and diy and so much more! Totally addicting and may cause weight gain ;)</text>
+  </sentence>
+  <sentence id="46">
+    <text>:/	I like this App, but what i hate in the last update is the name showen in header when i open the pic.</text>
+  </sentence>
+  <sentence id="47">
+    <text>I find everything on this app!!!	Everything I need, didn't know or just need a laugh, I find here!</text>
+  </sentence>
+  <sentence id="48">
+    <text>You Deserve 5 Stars Pinterest!	You are awesome for creating a place where people can meet and share some of the most beautiful photo's, places of travel, nature, crafts, cards, foods you name it, it's on Pinterest! Your Awesome Debra Smith Los Angeles, Califirnia</text>
+  </sentence>
+  <sentence id="49">
+    <text>I love this app	Its full of great ideas</text>
+  </sentence>
+  <sentence id="50">
+    <text>Pinterest	So much more fun than saving the pics on my hard drive.   Plus, it has the website link attached.</text>
+  </sentence>
+  <sentence id="51">
+    <text>!</text>
+  </sentence>
+  <sentence id="52">
+    <text>Love this app!!!</text>
+  </sentence>
+  <sentence id="53">
+    <text>I love this app	Pinterest is best way to collect everything your interested in from the Internet</text>
+  </sentence>
+  <sentence id="54">
+    <text>Nice	Must try</text>
+  </sentence>
+  <sentence id="55">
+    <text>Hi	Good</text>
+  </sentence>
+  <sentence id="56">
+    <text>Great ideas	Site runs great all the time!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="17" term="runs" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="57">
+    <text>Samsung GALAXY S4	Nice app but need to be upgraded with new UI and more features for android do it soon plzzz</text>
+  </sentence>
+  <sentence id="58">
+    <text>Potpourri madness</text>
+  </sentence>
+  <sentence id="59">
+    <text>Online scrapbooking at it's best.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="0" term="Online scrapbooking" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="60">
+    <text>I	Like it</text>
+  </sentence>
+  <sentence id="61">
+    <text>Great Apps	Great recipes great interaction with facebookers love to receive recipes from friends snd loved ones who knows i love to cook.</text>
+  </sentence>
+  <sentence id="62">
+    <text>THANKS PINTEREST</text>
+  </sentence>
+  <sentence id="63">
+    <text>Much LOVE!</text>
+  </sentence>
+  <sentence id="64">
+    <text>Love this</text>
+  </sentence>
+  <sentence id="65">
+    <text>It's my Favorite app</text>
+  </sentence>
+  <sentence id="66">
+    <text>Some can be really inspiring, generating new ideas.</text>
+  </sentence>
+  <sentence id="67">
+    <text>A great way to stay in touch with old friends too.</text>
+  </sentence>
+  <sentence id="68">
+    <text>Great app	Great way to share interests with pictures and comments.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="23" term="share interests" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="69">
+    <text>Addictive	I am addicted to pinterest!</text>
+  </sentence>
+  <sentence id="70">
+    <text>What a wonderful way to organize your interests</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="24" term="organize your interests" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="71">
+    <text>Very relaxing!</text>
+  </sentence>
+  <sentence id="72">
+    <text>I find this app very interesting, I can pin any and everything that I love.</text>
+  </sentence>
+  <sentence id="73">
+    <text>I love this app!</text>
+  </sentence>
+  <sentence id="74">
+    <text>Safe shopping	Its almost as good as shopping, having a awesome cookbook, and best diy tips.</text>
+  </sentence>
+  <sentence id="75">
+    <text>Pretty dope	love It, super handy info</text>
+  </sentence>
+  <sentence id="76">
+    <text>My favorite app	Love!</text>
+  </sentence>
+  <sentence id="77">
+    <text>Love it , very inspirational to me.</text>
+  </sentence>
+  <sentence id="78">
+    <text>You have to be too specific.</text>
+  </sentence>
+  <sentence id="79">
+    <text>I just wish it wouldn't close itself, and that when I close it, it would open where I left off the last time.</text>
+  </sentence>
+  <sentence id="80">
+    <text>Great, with a couple kinks	I love Pinterest and hope I never have to live without it!</text>
+  </sentence>
+  <sentence id="81">
+    <text>Also, the search function leaves something to be desired.</text>
+  </sentence>
+  <sentence id="82">
+    <text>Easy to pin &amp; navigate</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="8" term="pin" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="83">
+    <text>Great	Love this app</text>
+  </sentence>
+  <sentence id="84">
+    <text>It won't let me pin from that page.</text>
+  </sentence>
+  <sentence id="85">
+    <text>Other than that it's great if you're a Pinterest lover.</text>
+  </sentence>
+  <sentence id="86">
+    <text>Sometimes it gets a little buggy when you go to a pin's webpage within the app.</text>
+  </sentence>
+  <sentence id="87">
+    <text>Almost perfect	Great app.</text>
+  </sentence>
+  <sentence id="88">
+    <text>10/10.</text>
+  </sentence>
+  <sentence id="89">
+    <text>Awesome!</text>
+  </sentence>
+  <sentence id="90">
+    <text>Great app with loads of new and easy ways to access exactly what you want!</text>
+  </sentence>
+  <sentence id="91">
+    <text>Addictive!</text>
+  </sentence>
+  <sentence id="92">
+    <text>It has officially become what I do most on my phone.</text>
+  </sentence>
+  <sentence id="93">
+    <text>Great pictures, quotes, and ideas!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="6" term="pictures" to="14"/>
+      <aspectTerm class="E" from="16" term="quotes" to="22"/>
+      <aspectTerm class="E" from="28" term="ideas" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="94">
+    <text>I love this app.</text>
+  </sentence>
+  <sentence id="95">
+    <text>My thumbs are sore :-)</text>
+  </sentence>
+  <sentence id="96">
+    <text>Great ideas that are constantly updated</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="6" term="ideas" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="97">
+    <text>I can describe Pinterest in one word: addictive!</text>
+  </sentence>
+  <sentence id="98">
+    <text>PInterest	It's the best...</text>
+  </sentence>
+  <sentence id="99">
+    <text>Pinterest	Awesomeness</text>
+  </sentence>
+  <sentence id="100">
+    <text>Love it!	I use it everyday ?</text>
+  </sentence>
+  <sentence id="101">
+    <text>LOVE IT!! :D</text>
+  </sentence>
+  <sentence id="102">
+    <text>Awesome	I'M SO ADDICTED AHH.</text>
+  </sentence>
+  <sentence id="103">
+    <text>Addictive	As soon as I got ot it was okay then bam im on it 24/7</text>
+  </sentence>
+  <sentence id="104">
+    <text>And now i have it i am very pleased.</text>
+  </sentence>
+  <sentence id="105">
+    <text>Much easier to navigate.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="15" term="navigate" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="106">
+    <text>Been waiting for this app.</text>
+  </sentence>
+  <sentence id="107">
+    <text>Happy Girl	At last.</text>
+  </sentence>
+  <sentence id="108">
+    <text>Best App EVER!</text>
+  </sentence>
+  <sentence id="109">
+    <text>Love Love Love It!</text>
+  </sentence>
+  <sentence id="110">
+    <text>Best, wonderful, cool.	If you are interested in life, freaking download this app. Use this site.  It is awesome.  Take this artistic, scientist, musician, chef's word on this fact.</text>
+  </sentence>
+  <sentence id="111">
+    <text>All of them are for work-at-home &quot;opportunities&quot; and e cigarettes.</text>
+  </sentence>
+  <sentence id="112">
+    <text>Only one issue:	All of a sudden, I'm being sent many, MANY pins every day from people I don't know.</text>
+  </sentence>
+  <sentence id="113">
+    <text>Please add some way to block pins from people I don't follow!</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="23" term="block pins" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="114">
+    <text>I DO NOT like being spammed on Pinterest!</text>
+  </sentence>
+  <sentence id="115">
+    <text>This is INCREDIBLY irritating!</text>
+  </sentence>
+  <sentence id="116">
+    <text>Great!	Good so far!!</text>
+  </sentence>
+  <sentence id="117">
+    <text>Needs feature	I should be able to reorder boards via app &amp; cannot</text>
+  </sentence>
+  <sentence id="118">
+    <text>Luv luv luv	I can just about find anything on this app</text>
+  </sentence>
+  <sentence id="119">
+    <text>Galaxy s4	The best app ever</text>
+  </sentence>
+  <sentence id="120">
+    <text>Rating the app	Would give it a 5 out of 5 but it keeps crashing when I'm pinning! Very annoying and frustrating</text>
+  </sentence>
+  <sentence id="121">
+    <text>Please fix!	Was great until update. Now it's just a white screen &amp; freezes.</text>
+  </sentence>
+  <sentence id="122">
+    <text>Like it	Really like this application</text>
+  </sentence>
+  <sentence id="123">
+    <text>I love Pinterest!!!</text>
+  </sentence>
+  <sentence id="124">
+    <text>Love it!!</text>
+  </sentence>
+  <sentence id="125">
+    <text>I love pinning all kinds of things and seeing what others have found.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="7" term="pinning" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="126">
+    <text>!</text>
+  </sentence>
+  <sentence id="127">
+    <text>The absolute best!	My go to for everything I need to create</text>
+  </sentence>
+  <sentence id="128">
+    <text>See and Enjoy - Opens My Eyes	The Best of the Best</text>
+  </sentence>
+  <sentence id="129">
+    <text>My favorites	I love their idea and home docor! ???????</text>
+  </sentence>
+  <sentence id="130">
+    <text>Love it!	Works well!</text>
+  </sentence>
+  <sentence id="131">
+    <text>The ideas on here are endless.</text>
+  </sentence>
+  <sentence id="132">
+    <text>Pinterest	I love this app.</text>
+  </sentence>
+  <sentence id="133">
+    <text>I love DIY's.</text>
+  </sentence>
+  <sentence id="134">
+    <text>Amazing	Super amazing</text>
+  </sentence>
+  <sentence id="135">
+    <text>Excellent	Wunderful</text>
+  </sentence>
+  <sentence id="136">
+    <text>Fun and easy to use	So simple to use and quicker than going through a browser!</text>
+  </sentence>
+  <sentence id="137">
+    <text>Very helpful comes in handy alot</text>
+  </sentence>
+  <sentence id="138">
+    <text>There is no reason that justifies you to read a user's contact list or what other programs are running.</text>
+  </sentence>
+  <sentence id="139">
+    <text>Asking for too much personal information	Stop being so greedy about user information!</text>
+  </sentence>
+  <sentence id="140">
+    <text>While the app itself works fine I'm highly disappointed regarding your business ethics.</text>
+  </sentence>
+  <sentence id="141">
+    <text>We KNOW there should be tons of those.</text>
+  </sentence>
+  <sentence id="142">
+    <text>Some searches claim &quot;no results&quot;.</text>
+  </sentence>
+  <sentence id="143">
+    <text>Do a board search for &quot;Starry night wedding&quot;...</text>
+  </sentence>
+  <sentence id="144">
+    <text>Every search brings up irrelevant results.</text>
+  </sentence>
+  <sentence id="145">
+    <text>Also, many search results are from Etsy?</text>
+  </sentence>
+  <sentence id="146">
+    <text>Please fix ASAP, Pinterest People!</text>
+  </sentence>
+  <sentence id="147">
+    <text>Suddenly poor search results.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="14" term="search results" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="148">
+    <text>Love it. Addictive and useful.	Just not enough hours in the day!</text>
+  </sentence>
+  <sentence id="149">
+    <text>Just a beginner	I'm new to this app. I'm still learning how to use it but so far so good. How do I follow people and have them follow me?</text>
+  </sentence>
+  <sentence id="150">
+    <text>I love it.</text>
+  </sentence>
+  <sentence id="151">
+    <text>I freaken looove Pinterest.</text>
+  </sentence>
+  <sentence id="152">
+    <text>I think that this application is great.</text>
+  </sentence>
+  <sentence id="153">
+    <text>It's addictive.</text>
+  </sentence>
+  <sentence id="154">
+    <text>Pretty good	Sometimes it gets hung up and gives up on loading pins, but its really grood overall.</text>
+  </sentence>
+  <sentence id="155">
+    <text>Pinterest	Oh well can you please make pinterest more interesting hehehe</text>
+  </sentence>
+  <sentence id="156">
+    <text>Love it</text>
+  </sentence>
+  <sentence id="157">
+    <text>Awesome!</text>
+  </sentence>
+  <sentence id="158">
+    <text>Love this app!</text>
+  </sentence>
+  <sentence id="159">
+    <text>Some of the updates are annoying, but it's still great.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="12" term="updates" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="160">
+    <text>This app is more useful than any other i use</text>
+  </sentence>
+  <sentence id="161">
+    <text>Best app</text>
+  </sentence>
+  <sentence id="162">
+    <text>Great app	Love it.</text>
+  </sentence>
+  <sentence id="163">
+    <text>Pin	Great</text>
+  </sentence>
+  <sentence id="164">
+    <text>I love it!</text>
+  </sentence>
+  <sentence id="165">
+    <text>app!</text>
+  </sentence>
+  <sentence id="166">
+    <text>hate	Hate this app so MUCH</text>
+  </sentence>
+  <sentence id="167">
+    <text>Awesome Application	Wonderful place to share products, art, makeup, home furnishings, helpful tips, how to do, and recipes galore!</text>
+  </sentence>
+  <sentence id="168">
+    <text>:)	I love it!</text>
+  </sentence>
+  <sentence id="169">
+    <text>Love this app.</text>
+  </sentence>
+  <sentence id="170">
+    <text>Love Pinterest	Glad I'm finally able to do Pinterest from my phone, I tried the mobile website, but it had a bunch of problems.</text>
+  </sentence>
+  <sentence id="171">
+    <text>I</text>
+  </sentence>
+  <sentence id="172">
+    <text>Best app ever !</text>
+  </sentence>
+  <sentence id="173">
+    <text>Amazing	I love this site, its super  awesome, fun, and entertaining :)</text>
+  </sentence>
+  <sentence id="174">
+    <text>This app is fantastic and very user friendly</text>
+  </sentence>
+  <sentence id="175">
+    <text>Love this app</text>
+  </sentence>
+  <sentence id="176">
+    <text>Great?????	I love it!! So fun!!</text>
+  </sentence>
+  <sentence id="177">
+    <text>It it were a pin, I'd repin it!</text>
+  </sentence>
+  <sentence id="178">
+    <text>Great App!</text>
+  </sentence>
+  <sentence id="179">
+    <text>Easy to use, and more importantly, STABLE. Has only crashed once in months of use.</text>
+  </sentence>
+  <sentence id="180">
+    <text>I'm addicted! So many DIY ideas, gardening tips, fashion, holiday...</text>
+  </sentence>
+  <sentence id="181">
+    <text>Pinterest!</text>
+  </sentence>
+  <sentence id="182">
+    <text>So great for finding ceeative help!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="13" term="finding ceeative help" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="183">
+    <text>You name it; someone has something for it, with it, about it!</text>
+  </sentence>
+  <sentence id="184">
+    <text>Or you can share YOUR great idea.</text>
+  </sentence>
+  <sentence id="185">
+    <text>Love your site	Wish I had more control on selecting a pin anyplace on the Web to pin. But, not sure you have any control over my wish. If fact bet you wish this too.</text>
+  </sentence>
+  <sentence id="186">
+    <text>I love Pinterest	I am obsessed with pictures so this is a perfect online place to store and organize my interests in pictures</text>
+  </sentence>
+  <sentence id="187">
+    <text>Great	It needs an offline feature to view your own pins without internet connection.</text>
+  </sentence>
+  <sentence id="188">
+    <text>Awesomeness	This app is just epic</text>
+  </sentence>
+  <sentence id="189">
+    <text>mily	love it it helps me bobd with fa</text>
+  </sentence>
+  <sentence id="190">
+    <text>?EXCELENTE!</text>
+  </sentence>
+  <sentence id="191">
+    <text>Love it!</text>
+  </sentence>
+  <sentence id="192">
+    <text>Love it.	User friendly on my  Motorola droid HD</text>
+  </sentence>
+  <sentence id="193">
+    <text>I love this app	Its great, really easy to use</text>
+  </sentence>
+  <sentence id="194">
+    <text>I L.O.V.E this app.</text>
+  </sentence>
+  <sentence id="195">
+    <text>Perhaps less for how it functions and more for how I have instant access to both mine and others creative activities and vibes.</text>
+  </sentence>
+  <sentence id="196">
+    <text>Best virtual organizing app evah!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="5" term="virtual organizing app" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="197">
+    <text>Sedap lazat</text>
+  </sentence>
+  <sentence id="198">
+    <text>Addictive!</text>
+  </sentence>
+  <sentence id="199">
+    <text>Sometimes I'll start to browse and before you know I have to hit the back button 30 times to get back to the app</text>
+  </sentence>
+  <sentence id="200">
+    <text>It's fast and easy to use.</text>
+  </sentence>
+  <sentence id="201">
+    <text>The only thing I don't like is that when you click on a link it doesn't take you to your own browser.</text>
+  </sentence>
+  <sentence id="202">
+    <text>I really love this app.</text>
+  </sentence>
+  <sentence id="203">
+    <text>Very nice	Very nice and user frendly app</text>
+  </sentence>
+  <sentence id="204">
+    <text>I Love it	Many great ideas.</text>
+  </sentence>
+  <sentence id="205">
+    <text>So fun!	Haven't ever had any problems with app.</text>
+  </sentence>
+  <sentence id="206">
+    <text>Addictive...	Can't help but love this app!</text>
+  </sentence>
+  <sentence id="207">
+    <text>Love wasting time on here  lots of wonderful things to dream about.</text>
+  </sentence>
+  <sentence id="208">
+    <text>i like it.	i helped me do and make things i never would of dreamed about.</text>
+  </sentence>
+  <sentence id="209">
+    <text>Best app	My absolute favorite app ever.</text>
+  </sentence>
+  <sentence id="210">
+    <text>Great app	Addicting! !</text>
+  </sentence>
+  <sentence id="211">
+    <text>Fun and easy	It's like having a new magazine constantly  Love it</text>
+  </sentence>
+  <sentence id="212">
+    <text>Couldn't live without</text>
+  </sentence>
+  <sentence id="213">
+    <text>Great, especially when you are stuck in a boring meeting</text>
+  </sentence>
+  <sentence id="214">
+    <text>Awesome!</text>
+  </sentence>
+  <sentence id="215">
+    <text>You might become &quot;pindicted&quot;	Great app:)</text>
+  </sentence>
+  <sentence id="216">
+    <text>Error &quot;-24&quot;	I recently uninstalled the app and then tried reinstalling it, it won't let me and I keep getting error -24 could you please fix</text>
+  </sentence>
+  <sentence id="217">
+    <text>Love it	Lol cool</text>
+  </sentence>
+  <sentence id="218">
+    <text>Excellent</text>
+  </sentence>
+  <sentence id="219">
+    <text>Love it!!	Easy to use!</text>
+  </sentence>
+  <sentence id="220">
+    <text>Nice	Love Pintrest!!!</text>
+  </sentence>
+  <sentence id="221">
+    <text>Love pinning	Very good app</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="5" term="pinning" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="222">
+    <text>I know there are pictures!	It would be great if this app worked even half the time....but it doesn't.  I have reinstalled it twice.</text>
+  </sentence>
+  <sentence id="223">
+    <text>Best app iv ever had	Love it</text>
+  </sentence>
+  <sentence id="224">
+    <text>?	I love this.</text>
+  </sentence>
+  <sentence id="225">
+    <text>I'd rather be Pinning!	It has taken me from &quot;that looks cool&quot; to &quot;LOOK WHAT I MADE!&quot;</text>
+  </sentence>
+  <sentence id="226">
+    <text>Pinterest addict	Love it..</text>
+  </sentence>
+  <sentence id="227">
+    <text>Excellent!!!!</text>
+  </sentence>
+  <sentence id="228">
+    <text>Its amazing :)</text>
+  </sentence>
+  <sentence id="229">
+    <text>I love this app, its fun and simple.</text>
+  </sentence>
+  <sentence id="230">
+    <text>Sweet App	Much pics.</text>
+  </sentence>
+  <sentence id="231">
+    <text>So pin.</text>
+  </sentence>
+  <sentence id="232">
+    <text>Wow.</text>
+  </sentence>
+  <sentence id="233">
+    <text>Pretty awesome	Liked everything about it.</text>
+  </sentence>
+  <sentence id="234">
+    <text>Wish there was a way to save some of the photos though..</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="24" term="save some of the photos" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="235">
+    <text>I love it</text>
+  </sentence>
+  <sentence id="236">
+    <text>HTC One</text>
+  </sentence>
+  <sentence id="237">
+    <text>Bummer!	Since the latest update it keeps forcing close. Fix this and 5 stars will come back</text>
+  </sentence>
+  <sentence id="238">
+    <text>Love	Great app, easy fun app to use and great image searcher</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="46" term="image searcher" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="239">
+    <text>I would give it 5 stars if there was a separate tab or button to click to view only the pins that others have sent you rather than them being mixed in with pins that others have pinned or liked from your pins...</text>
+  </sentence>
+  <sentence id="240">
+    <text>Love it!</text>
+  </sentence>
+  <sentence id="241">
+    <text>I love Pinterest!</text>
+  </sentence>
+  <sentence id="242">
+    <text>I use it for everything!</text>
+  </sentence>
+  <sentence id="243">
+    <text>otherwise Pinterest is great!</text>
+  </sentence>
+  <sentence id="244">
+    <text>Excellent app	Works very well and does not crash</text>
+  </sentence>
+  <sentence id="245">
+    <text>Fabulous	An opportunity to show our unique way of fashion and knowledge love it</text>
+  </sentence>
+  <sentence id="246">
+    <text>User friendly	I am enjoying the pinterest app.</text>
+  </sentence>
+  <sentence id="247">
+    <text>Such inspiration!</text>
+  </sentence>
+  <sentence id="248">
+    <text>Love it!</text>
+  </sentence>
+  <sentence id="249">
+    <text>And to boot ...its a free app to enjoy endlessly!</text>
+  </sentence>
+  <sentence id="250">
+    <text>But seriously,  very great app.</text>
+  </sentence>
+  <sentence id="251">
+    <text>No tech problems.</text>
+  </sentence>
+  <sentence id="252">
+    <text>Pinterest is highly addictive and dont know that I could survive without it now.. jk of course. .</text>
+  </sentence>
+  <sentence id="253">
+    <text>Lots of USEFUL information and creative ideas!</text>
+  </sentence>
+  <sentence id="254">
+    <text>Just superb through and through!</text>
+  </sentence>
+  <sentence id="255">
+    <text>Love it!!	Very addictive but love it.</text>
+  </sentence>
+  <sentence id="256">
+    <text>Good except..	Would be 5 stars but whenever I try to use the shortcut &quot;pin it&quot; option it takes me 7 or 8 tries before I can get it to work.  The &quot;like&quot; and &quot;send&quot; ones work fine, and I don't have problems with anything else! Very annoying, enough that I avoid using it all together. No point using pinterest if you can't pin :)</text>
+  </sentence>
+  <sentence id="257">
+    <text>Freakin awesome	Really easy to use.</text>
+  </sentence>
+  <sentence id="258">
+    <text>Love this app for pinning when Im on the go!</text>
+  </sentence>
+  <sentence id="259">
+    <text>Love it!	Very addicting but found the best canning recipes here!</text>
+  </sentence>
+  <sentence id="260">
+    <text>...</text>
+  </sentence>
+  <sentence id="261">
+    <text>Love thr app it makes my life a bit more easy</text>
+  </sentence>
+  <sentence id="262">
+    <text>Love it	I am always on pinterest.  It is so much fun.  So many great ideas.</text>
+  </sentence>
+  <sentence id="263">
+    <text>Addicting &amp; inspiring	.</text>
+  </sentence>
+  <sentence id="264">
+    <text>Love it. MAKES MY DAY with all the love??</text>
+  </sentence>
+  <sentence id="265">
+    <text>Cannot send pins	Howcome?!?!?!?!</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="7" term="send pins" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="266">
+    <text>Good</text>
+  </sentence>
+  <sentence id="267">
+    <text>It's a really fun, good &amp; addictive app.</text>
+  </sentence>
+  <sentence id="268">
+    <text>Other than that great app!</text>
+  </sentence>
+  <sentence id="269">
+    <text>But sometimes the links take a long time to load.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="18" term="links" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="270">
+    <text>Amazing	It works properly, shorts out every once in a while but its rare, and it pretty easy to understand.</text>
+  </sentence>
+  <sentence id="271">
+    <text>It make harder to pin to my board</text>
+  </sentence>
+  <sentence id="272">
+    <text>I don't like the new update	The way that we must hold and slide our finger to choose from pin it, favourite and to share.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="17" term="new update" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="273">
+    <text>Amazing!</text>
+  </sentence>
+  <sentence id="274">
+    <text>Best app</text>
+  </sentence>
+  <sentence id="275">
+    <text>It has DIY stuff and it can be very inspirational.</text>
+  </sentence>
+  <sentence id="276">
+    <text>Yeah, you can probably find inspiration to do it on here!</text>
+  </sentence>
+  <sentence id="277">
+    <text>Love it.</text>
+  </sentence>
+  <sentence id="278">
+    <text>I love Pinterest because it has such a wide variety of things.</text>
+  </sentence>
+  <sentence id="279">
+    <text>You know that thing you have been putting off for about a month?</text>
+  </sentence>
+  <sentence id="280">
+    <text>I LOVE PINTEREST	Best place to pin.</text>
+  </sentence>
+  <sentence id="281">
+    <text>todo lo Que buscas esta a qui te encantara.</text>
+  </sentence>
+  <sentence id="282">
+    <text>Me encanta</text>
+  </sentence>
+  <sentence id="283">
+    <text>So far so good	Like a lot of things.Very nice.will come back later and possibly give 5 stars.</text>
+  </sentence>
+  <sentence id="284">
+    <text>Brilliant	Excellent, lots of inspirational pictures, a wonderful resource for artists/crafts people.</text>
+  </sentence>
+  <sentence id="285">
+    <text>Love it	Better than expected</text>
+  </sentence>
+  <sentence id="286">
+    <text>Cool site!	Pinterest is a great web site and the app just makes it all that more convenient.</text>
+  </sentence>
+  <sentence id="287">
+    <text>Awesome	Love this app!!</text>
+  </sentence>
+  <sentence id="288">
+    <text>Great	Love it</text>
+  </sentence>
+  <sentence id="289">
+    <text>Addicted!	Best addiction ever! I use it every, single day for just about anything and everything!</text>
+  </sentence>
+  <sentence id="290">
+    <text>Random Pin Button	I loveeeeeeeee the app.</text>
+  </sentence>
+  <sentence id="291">
+    <text>I wish we could go to a board and click a random pin button.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="42" term="random pin button" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="292">
+    <text>It would make crafting and dinner fun!</text>
+  </sentence>
+  <sentence id="293">
+    <text>Obsessed!</text>
+  </sentence>
+  <sentence id="294">
+    <text>Best app ever.</text>
+  </sentence>
+  <sentence id="295">
+    <text>I love Pinterest &amp; the Pinterest app is handy, especially when shopping &amp; I want to check a recipe!</text>
+  </sentence>
+  <sentence id="296">
+    <text>Love Pinterest!</text>
+  </sentence>
+  <sentence id="297">
+    <text>My only negative with Pinterest is that once I start looking, I spend hours on it!</text>
+  </sentence>
+  <sentence id="298">
+    <text>I like that there is no ad clutter.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="21" term="no ad clutter" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="299">
+    <text>I check everyday for new things to create, to be inspired, and to laugh.</text>
+  </sentence>
+  <sentence id="300">
+    <text>I love it</text>
+  </sentence>
+  <sentence id="301">
+    <text>Bravo makers of Pinterest.</text>
+  </sentence>
+  <sentence id="302">
+    <text>Good apps</text>
+  </sentence>
+  <sentence id="303">
+    <text>No changes needed.</text>
+  </sentence>
+  <sentence id="304">
+    <text>I've had the app for a while now, no problems have come up so no complaints at the moment.</text>
+  </sentence>
+  <sentence id="305">
+    <text>I love Pinterest!</text>
+  </sentence>
+  <sentence id="306">
+    <text>Very good!</text>
+  </sentence>
+  <sentence id="307">
+    <text>Love	I am so in love with Pinterest. I find myself looking at when I am at a meeting or while I am watching television with my family.  I enjoy using it on my phone so that I could use the press and hold pin feature.</text>
+  </sentence>
+  <sentence id="308">
+    <text>I have tried to get rid of the twenty but happens every time.</text>
+  </sentence>
+  <sentence id="309">
+    <text>It gets very frustrating.</text>
+  </sentence>
+  <sentence id="310">
+    <text>Such as I would put easy hairstyles but then it does this easy 20hairstyles.</text>
+  </sentence>
+  <sentence id="311">
+    <text>Searching	This new update has made it very difficult to search for something.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="56" term="search" to="62"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="312">
+    <text>Not liking to go on pintrest as much as I used to due to not being able to search anything.</text>
+  </sentence>
+  <sentence id="313">
+    <text>Every time I search something it puts twenty in front of the words all accept the first word.</text>
+  </sentence>
+  <sentence id="314">
+    <text>Thank you thank you thank you!	Great resources, great deals, great ideas, great great great!</text>
+  </sentence>
+  <sentence id="315">
+    <text>Freezes with a forceclose :(	I noticed through reading the reviews on your ratings that other users are having issues such as myself. My app has not always done this, but its been freezing while scrolling through boards and favorites of whomever i check out. If this is a glitch of sorts, please kindly fix it. I dont want to scroll down for 5min on someones board to find the image i left off at, again and again. -Update: still have crashing problems; frankly, sick of it. Did a factory reset on phone, but still crashing. Comments???</text>
+  </sentence>
+  <sentence id="316">
+    <text>It's not working	The new update causes the app to close and doesn't search what im looking for...</text>
+  </sentence>
+  <sentence id="317">
+    <text>Moon	River</text>
+  </sentence>
+  <sentence id="318">
+    <text>Not working on my tablet	Use to work, now it tells me I am not connected to the server, wtf?</text>
+  </sentence>
+  <sentence id="319">
+    <text>Great	Very easy to use, love it!</text>
+  </sentence>
+  <sentence id="320">
+    <text>Love it!!!	I enjoy the arts and different creations that you can find here. Gives one a different outlook out life itself.</text>
+  </sentence>
+  <sentence id="321">
+    <text>HTC First</text>
+  </sentence>
+  <sentence id="322">
+    <text>Good!!!	Love it???</text>
+  </sentence>
+  <sentence id="323">
+    <text>Love all the Pins</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="13" term="Pins" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="324">
+    <text>Love it	I love everything about the pinterest app. The only thing it's missing is being able to change the cover photos on the boards.</text>
+  </sentence>
+  <sentence id="325">
+    <text>Better than Tumblr! NEW RATING!	UPDATE: 2/3/14 Pinterest needs to not take up 50 MBS on my phone, I will be uninstalling this app soon if not changed,even if I love it.     Faster, easier , and more options to use. When Pinterest was introduced I thought it was stupid that they're trying to replace Tumblr because at that time it wasn't so slow and had not gone through the major face-lift yet. Anyway I'm not going to compare the two but  I got the App on my phone and have been addicted since. No more Tumblr for me anymore.</text>
+  </sentence>
+  <sentence id="326">
+    <text>Crack	Pintrest is crack, but the good kind of crack.</text>
+  </sentence>
+  <sentence id="327">
+    <text>Excellent app</text>
+  </sentence>
+  <sentence id="328">
+    <text>The first versions of this were a little slow but now the app is great.</text>
+  </sentence>
+  <sentence id="329">
+    <text>It has my favorite UI of all my most used apps.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="19" term="UI" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="330">
+    <text>Great	Love this app</text>
+  </sentence>
+  <sentence id="331">
+    <text>Best ever.</text>
+  </sentence>
+  <sentence id="332">
+    <text>Pinterest is amazing.</text>
+  </sentence>
+  <sentence id="333">
+    <text>There are plenty of things to ooooh and awwwww about.</text>
+  </sentence>
+  <sentence id="334">
+    <text>Animals, horses specifically are my absolute favorite.</text>
+  </sentence>
+  <sentence id="335">
+    <text>I spend hours at a time on this.</text>
+  </sentence>
+  <sentence id="336">
+    <text>So much to keep you Pintrest!	Can't eat', don't sleep and can't get any work done. Pintrest get all my time.</text>
+  </sentence>
+  <sentence id="337">
+    <text>I love pinterest but haven't tried the update yet, hopefully its great.</text>
+  </sentence>
+  <sentence id="338">
+    <text>Love it</text>
+  </sentence>
+  <sentence id="339">
+    <text>Very disappointed</text>
+  </sentence>
+  <sentence id="340">
+    <text>I will give 5 stars again when shutting down issue is resolved.</text>
+  </sentence>
+  <sentence id="341">
+    <text>Do not like all the &quot;send to&quot; recommendations either.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="20" term="&quot;send to&quot; recommendations" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="342">
+    <text>Don't even want to use since latest update	Freezing &amp; shutting down since latest update.</text>
+  </sentence>
+  <sentence id="343">
+    <text>Awesome!	Love it</text>
+  </sentence>
+  <sentence id="344">
+    <text>Superrrr</text>
+  </sentence>
+  <sentence id="345">
+    <text>It would be 5 stars if it wasn't so slow sometimes when loading during pinning.</text>
+  </sentence>
+  <sentence id="346">
+    <text>Addicted!!</text>
+  </sentence>
+  <sentence id="347">
+    <text>So much to do...</text>
+  </sentence>
+  <sentence id="348">
+    <text>Pintrest is awesome.</text>
+  </sentence>
+  <sentence id="349">
+    <text>Pinterest app	Love it</text>
+  </sentence>
+  <sentence id="350">
+    <text>I love it!!!! It's better than twitter and instagram	Easy to use and beautiful pictures &lt;3</text>
+  </sentence>
+  <sentence id="351">
+    <text>&quot;LOVE IT!!!&quot;	&quot;LOVE IT!!!&quot;</text>
+  </sentence>
+  <sentence id="352">
+    <text>Excellent	I had the last version on my htc rhyme and it would freeze alot.</text>
+  </sentence>
+  <sentence id="353">
+    <text>But I have a new phone and it works fabulously!</text>
+  </sentence>
+  <sentence id="354">
+    <text>Awesome	Cool</text>
+  </sentence>
+  <sentence id="355">
+    <text>Great</text>
+  </sentence>
+  <sentence id="356">
+    <text>Very good	Good</text>
+  </sentence>
+  <sentence id="357">
+    <text>Super Fun</text>
+  </sentence>
+  <sentence id="358">
+    <text>Needs widget	Now that they updated with a widget much better,</text>
+  </sentence>
+  <sentence id="359">
+    <text>Love Pinterest!</text>
+  </sentence>
+  <sentence id="360">
+    <text>Easy to use	Better than the desktop version</text>
+  </sentence>
+  <sentence id="361">
+    <text>Awesome	Awesome I absolutely love this app?</text>
+  </sentence>
+  <sentence id="362">
+    <text>Awesome	Great app and information love it</text>
+  </sentence>
+  <sentence id="363">
+    <text>Love this APP	Can be addictive .</text>
+  </sentence>
+  <sentence id="364">
+    <text>Best App Ever!</text>
+  </sentence>
+  <sentence id="365">
+    <text>Inspiration and ideas from around the globe.</text>
+  </sentence>
+  <sentence id="366">
+    <text>Sometimes the photo itself is too small, u can't even know what others' posting.</text>
+  </sentence>
+  <sentence id="367">
+    <text>Easy to Pin from Mobile.</text>
+  </sentence>
+  <sentence id="368">
+    <text>Can that be fix?</text>
+  </sentence>
+  <sentence id="369">
+    <text>Sumsang GNote 1	Still prefer the 1St version.</text>
+  </sentence>
+  <sentence id="370">
+    <text>Feb 7,14: Can't view the photos  anymore (if there's no HTTP link).</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="16" term="view the photos" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="371">
+    <text>The search function is FUBAR after this last update</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="search function" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="372">
+    <text>New update, bad search</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="16" term="search" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="373">
+    <text>No support from support.	Keep getting &quot;exceeds rate limit&quot; message, even on first pin of day.</text>
+  </sentence>
+  <sentence id="374">
+    <text>Too much awesomeness!	Not enough time!</text>
+  </sentence>
+  <sentence id="375">
+    <text>Force closes.</text>
+  </sentence>
+  <sentence id="376">
+    <text>(Anyone thinking of doing the same.. don't!)</text>
+  </sentence>
+  <sentence id="377">
+    <text>Just updated it.</text>
+  </sentence>
+  <sentence id="378">
+    <text>Ah man... it's all screwed up!</text>
+  </sentence>
+  <sentence id="379">
+    <text>Searches not working correctly.</text>
+  </sentence>
+  <sentence id="380">
+    <text>It's my fav app ever.</text>
+  </sentence>
+  <sentence id="381">
+    <text>Getting 20 and 20% in all searches, comments.</text>
+  </sentence>
+  <sentence id="382">
+    <text>Laggy.</text>
+  </sentence>
+  <sentence id="383">
+    <text>On it all the time.</text>
+  </sentence>
+  <sentence id="384">
+    <text>I LOVE pinterest.</text>
+  </sentence>
+  <sentence id="385">
+    <text>PLEASE fix these problems!  :'(</text>
+  </sentence>
+  <sentence id="386">
+    <text>I enjoy so much</text>
+  </sentence>
+  <sentence id="387">
+    <text>Awesome!</text>
+  </sentence>
+  <sentence id="388">
+    <text>Best app ever!</text>
+  </sentence>
+  <sentence id="389">
+    <text>Annoying	The app never recognizes if I follow someone. . The interface is ridiculous</text>
+  </sentence>
+  <sentence id="390">
+    <text>Love it!	I have become an amazing cook, it has helped my business,  and is great for laughs as well!</text>
+  </sentence>
+  <sentence id="391">
+    <text>The best	Love the whole app itself helps in many ways</text>
+  </sentence>
+  <sentence id="392">
+    <text>Very nice interface looks great and works fine</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="10" term="interface" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="393">
+    <text>Love it!	There are still some bugs, esp when trying to mention someone's name in a pin or comment from my phone..it always changes the name! But other than that I love the app...probably too much! ;)</text>
+  </sentence>
+  <sentence id="394">
+    <text>Love Pinterest =)	=)</text>
+  </sentence>
+  <sentence id="395">
+    <text>Too nice</text>
+  </sentence>
+  <sentence id="396">
+    <text>Love it</text>
+  </sentence>
+  <sentence id="397">
+    <text>There is nothing I don't like about it!</text>
+  </sentence>
+  <sentence id="398">
+    <text>Just the greatest	I LOVE pinterest I can spend hours and hours on it!</text>
+  </sentence>
+  <sentence id="399">
+    <text>Tooooooooooo...	ThinkAowsom...</text>
+  </sentence>
+  <sentence id="400">
+    <text>Love it!!	Its amazing :-) :-) :-) :-) :-)</text>
+  </sentence>
+  <sentence id="401">
+    <text>:)	Love it</text>
+  </sentence>
+  <sentence id="402">
+    <text>I love it!</text>
+  </sentence>
+  <sentence id="403">
+    <text>Absolutely love it....</text>
+  </sentence>
+  <sentence id="404">
+    <text>Visually appealing	Let's you see and collect all sorts of images without having to resort to scissors and scrapbooks.</text>
+  </sentence>
+  <sentence id="405">
+    <text>Pinterest	I love this site.</text>
+  </sentence>
+  <sentence id="406">
+    <text>Love	Love it</text>
+  </sentence>
+  <sentence id="407">
+    <text>Can't get better than this	Best app for those crafty minds.</text>
+  </sentence>
+  <sentence id="408">
+    <text>And best of all you can share upload and pretty much everything on this app! ?</text>
+  </sentence>
+  <sentence id="409">
+    <text>Wonderful time consumer when there's nothing to do!!</text>
+  </sentence>
+  <sentence id="410">
+    <text>Awesome	Awesome! Great ideas!</text>
+  </sentence>
+  <sentence id="411">
+    <text>awesome quotes</text>
+  </sentence>
+  <sentence id="412">
+    <text>Love Pinterest, and being able to organize what is special and important to me!</text>
+  </sentence>
+  <sentence id="413">
+    <text>Love!</text>
+  </sentence>
+  <sentence id="414">
+    <text>Love the  community vibe.</text>
+  </sentence>
+  <sentence id="415">
+    <text>It's already become a big part of my practice.</text>
+  </sentence>
+  <sentence id="416">
+    <text>Great app.</text>
+  </sentence>
+  <sentence id="417">
+    <text>See above.</text>
+  </sentence>
+  <sentence id="418">
+    <text>(Y)	(Y)</text>
+  </sentence>
+  <sentence id="419">
+    <text>Fun	Love browsing humor.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="9" term="browsing" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="420">
+    <text>Always makes me laugh.</text>
+  </sentence>
+  <sentence id="421">
+    <text>Just wish they would let me put whatever I wanted on my private boards since no one else can see them.</text>
+  </sentence>
+  <sentence id="422">
+    <text>Great	Great</text>
+  </sentence>
+  <sentence id="423">
+    <text>I'm really a photo and quote person.</text>
+  </sentence>
+  <sentence id="424">
+    <text>Therefore it's ideal and so app friendly, enjoyably easy to use.</text>
+  </sentence>
+  <sentence id="425">
+    <text>Thanks</text>
+  </sentence>
+  <sentence id="426">
+    <text>I really enjoy Pinterest!</text>
+  </sentence>
+  <sentence id="427">
+    <text>awesomw.	above sums it up</text>
+  </sentence>
+  <sentence id="428">
+    <text>Best thing ever!!!</text>
+  </sentence>
+  <sentence id="429">
+    <text>Great app	I love pinterest and I'm so glad it's an app in android.</text>
+  </sentence>
+  <sentence id="430">
+    <text>You can find cool creative idea, cute photos and much more	I really love that you can organize the pins in to boards so you can your photos again</text>
+  </sentence>
+  <sentence id="431">
+    <text>Won't let you search for pins or friends.</text>
+  </sentence>
+  <sentence id="432">
+    <text>Please fix asap</text>
+  </sentence>
+  <sentence id="433">
+    <text>New update sucks	New update is awful.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="17" term="New update" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="434">
+    <text>Shows up as no search.</text>
+  </sentence>
+  <sentence id="435">
+    <text>Pinterest addict	Pinterest is by far my favorite app!</text>
+  </sentence>
+  <sentence id="436">
+    <text>The app is unbearably slow when adding a pin.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="32" term="adding a pin" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="437">
+    <text>:\</text>
+  </sentence>
+  <sentence id="438">
+    <text>Soooooo sloooooooow</text>
+  </sentence>
+  <sentence id="439">
+    <text>Trying to pin an app from Play store, for example, takes 30 seconds just to load up all the pinnable images.</text>
+  </sentence>
+  <sentence id="440">
+    <text>Love Pinterest!</text>
+  </sentence>
+  <sentence id="441">
+    <text>So addicting!</text>
+  </sentence>
+  <sentence id="442">
+    <text>I have gotten so many great ideas from others.</text>
+  </sentence>
+  <sentence id="443">
+    <text>Love this app!</text>
+  </sentence>
+  <sentence id="444">
+    <text>It's so user friendly &amp; easy to figure out.</text>
+  </sentence>
+  <sentence id="445">
+    <text>Plus, everything you've pinned is right there at your fingertips, you don't have to search for it!</text>
+  </sentence>
+  <sentence id="446">
+    <text>Love it	Absolutly love this app, I now consider it easier to use from my phone and tablet,</text>
+  </sentence>
+  <sentence id="447">
+    <text>I love it!	Any and every diy projects and recipes!</text>
+  </sentence>
+  <sentence id="448">
+    <text>Im hooked!</text>
+  </sentence>
+  <sentence id="449">
+    <text>Love, love, love this app!</text>
+  </sentence>
+  <sentence id="450">
+    <text>Great	Great app!</text>
+  </sentence>
+  <sentence id="451">
+    <text>Won't load...</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="6" term="load" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="452">
+    <text>:(</text>
+  </sentence>
+  <sentence id="453">
+    <text>I love this app, but recently it won't load...</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="-8" term="load" to="-4"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="454">
+    <text>I miss Pinteresting :'(</text>
+  </sentence>
+  <sentence id="455">
+    <text>For my girlfriend	Its alright I don't really care for this app but my girlfriend made me an account so I pin stuff to make her happy</text>
+  </sentence>
+  <sentence id="456">
+    <text>love it	I do enjoy using it</text>
+  </sentence>
+  <sentence id="457">
+    <text>Great App</text>
+  </sentence>
+  <sentence id="458">
+    <text>Love it</text>
+  </sentence>
+  <sentence id="459">
+    <text>Love it, but would like a couple of tweeks.</text>
+  </sentence>
+  <sentence id="460">
+    <text>Wish I could pin to two or more boards at the same time.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="13" term="pin to two or more boards at the same time" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="461">
+    <text>I love it	You can never get bored with this App, what a brilliant idea. I love it.</text>
+  </sentence>
+  <sentence id="462">
+    <text>Love it!	Best thing for Crafty Fashionistas who love cooking, decorating, getting fit and looking glam :)</text>
+  </sentence>
+  <sentence id="463">
+    <text>Outstanding.	This is lightning quick. Don't pay attention to other people complaining about aspects of this program not working. It works awesome if you have a decent phone.</text>
+  </sentence>
+  <sentence id="464">
+    <text>Very good</text>
+  </sentence>
+  <sentence id="465">
+    <text>Very easy to use and a great app.</text>
+  </sentence>
+  <sentence id="466">
+    <text>Very useful.	Enjoy using it.</text>
+  </sentence>
+  <sentence id="467">
+    <text>Is pintrist yo, what else you want?	Pintrist</text>
+  </sentence>
+  <sentence id="468">
+    <text>Pinterest	I'm a little late but I'm glad its finally on Android!! Love that I can pin from my phone or tablet!!</text>
+  </sentence>
+  <sentence id="469">
+    <text>Love this app	Great place to find things of interest to you.</text>
+  </sentence>
+  <sentence id="470">
+    <text>Great app.</text>
+  </sentence>
+  <sentence id="471">
+    <text>Love pintrest!</text>
+  </sentence>
+  <sentence id="472">
+    <text>Love it!</text>
+  </sentence>
+  <sentence id="473">
+    <text>App is running waaaay better.</text>
+  </sentence>
+  <sentence id="474">
+    <text>I actually like the app better than the online site.</text>
+  </sentence>
+  <sentence id="475">
+    <text>New update= NO</text>
+  </sentence>
+  <sentence id="476">
+    <text>The new update sucks it doesn't let you look at all the pins and is always shutting down I wish they would revert back to the old one.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="new update" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="477">
+    <text>Excellent	Finally a great place to organize favorites!</text>
+  </sentence>
+  <sentence id="478">
+    <text>Love this app!</text>
+  </sentence>
+  <sentence id="479">
+    <text>Love it!!</text>
+  </sentence>
+  <sentence id="480">
+    <text>The best	I love it!</text>
+  </sentence>
+  <sentence id="481">
+    <text>Love pinterest	I love love love pinterest.</text>
+  </sentence>
+  <sentence id="482">
+    <text>Best app I have</text>
+  </sentence>
+  <sentence id="483">
+    <text>It's great for finding things you never even knew existed!	Use it all the time, I love it!</text>
+  </sentence>
+  <sentence id="484">
+    <text>A brilliant mind behind	Love it</text>
+  </sentence>
+  <sentence id="485">
+    <text>Amazing</text>
+  </sentence>
+  <sentence id="486">
+    <text>I love this app!</text>
+  </sentence>
+  <sentence id="487">
+    <text>Love it	Great ideas and beautiful pictures</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="34" term="pictures" to="42"/>
+      <aspectTerm class="E" from="14" term="ideas" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="488">
+    <text>Great	Yay</text>
+  </sentence>
+  <sentence id="489">
+    <text>I love this.	Everything!!!</text>
+  </sentence>
+  <sentence id="490">
+    <text>Love this site..wonderful ideas, places to see and food to eat...lots of variety</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="26" term="ideas" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="491">
+    <text>Luv it</text>
+  </sentence>
+  <sentence id="492">
+    <text>Love it!	I enjoy getting on Pinterest!</text>
+  </sentence>
+  <sentence id="493">
+    <text>Fun	It's awsome love it very cool! !</text>
+  </sentence>
+  <sentence id="494">
+    <text>Pinterest	Its an excellent and easy way to post what you're doing. It just keeps getting better and better I just loved all the postings and all that share.</text>
+  </sentence>
+  <sentence id="495">
+    <text>Hot	Great App, simple interface</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="22" term="interface" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="496">
+    <text>GREAT	You can find any recipe, craft idea, or really any idea for anything on this app.</text>
+  </sentence>
+  <sentence id="497">
+    <text>Good	Good</text>
+  </sentence>
+  <sentence id="498">
+    <text>I love this app	:-)</text>
+  </sentence>
+  <sentence id="499">
+    <text>Love it	So addicted</text>
+  </sentence>
+  <sentence id="500">
+    <text>Excellent	Superbb appp</text>
+  </sentence>
+  <sentence id="501">
+    <text>Love it	Couldn't imagine life without it :)</text>
+  </sentence>
+  <sentence id="502">
+    <text>!</text>
+  </sentence>
+  <sentence id="503">
+    <text>Wonderfull App!!!</text>
+  </sentence>
+  <sentence id="504">
+    <text>Wonderfull App!!</text>
+  </sentence>
+  <sentence id="505">
+    <text>?</text>
+  </sentence>
+  <sentence id="506">
+    <text>Try it,its fantastic you'll love it!!!?</text>
+  </sentence>
+  <sentence id="507">
+    <text>Obsessed	Absolutely love this app.</text>
+  </sentence>
+  <sentence id="508">
+    <text>I am almost constantly checking my feed.</text>
+  </sentence>
+  <sentence id="509">
+    <text>Sometimes it runs a little wonky but it's absolutely awesome.</text>
+  </sentence>
+  <sentence id="510">
+    <text>Love it.</text>
+  </sentence>
+  <sentence id="511">
+    <text>Wonderful app and it updates immediately!</text>
+  </sentence>
+  <sentence id="512">
+    <text>Love it!</text>
+  </sentence>
+  <sentence id="513">
+    <text>Love it except new features	I really hate that every time I pin something it suggests a person to send that pin to because they are into the same stuff.... well one of the people suggested to me was someone I deleted off of everything of mine so to have them pop up on pinterest is quite aggravating.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="77" term="suggests a person to send that pin to" to="114"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="514">
+    <text>Will delete all updates if I can't I will delete app!</text>
+  </sentence>
+  <sentence id="515">
+    <text>Cool	Very helpful             Mmmmmmmmmmmmmmmmmmmmmnnnnnnnnnnnnnnnnnnnnnn</text>
+  </sentence>
+  <sentence id="516">
+    <text>It is great :)	No faultys love it</text>
+  </sentence>
+  <sentence id="517">
+    <text>Mediocre at best	My pins constantly fail when trying to pin from other websites...boo!!!</text>
+  </sentence>
+  <sentence id="518">
+    <text>Love it	I absolutely just love this app</text>
+  </sentence>
+  <sentence id="519">
+    <text>Best	Love it</text>
+  </sentence>
+  <sentence id="520">
+    <text>?</text>
+  </sentence>
+  <sentence id="521">
+    <text>Love this app!	?</text>
+  </sentence>
+  <sentence id="522">
+    <text>easy to use!! ??</text>
+  </sentence>
+  <sentence id="523">
+    <text>Perfect boredom killer	Plus great recipe filer/  project planner</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="34" term="recipe filer" to="46"/>
+      <aspectTerm class="E" from="49" term="project planner" to="64"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="524">
+    <text>&lt;3 &lt;3</text>
+  </sentence>
+  <sentence id="525">
+    <text>I love Pinterest!</text>
+  </sentence>
+  <sentence id="526">
+    <text>Can't login</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="6" term="login" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="527">
+    <text>It keeps telling me there's a bot running on the website and won't let me access anything or login</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="-6" term="login" to="-1"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="528">
+    <text>Certified Pinterest Addict	I have never enjoyed any app as much as i enjoyed this... Love all the ideas and the thought to keep it now and read later ..just what i need to get all my life be set up....pin...like...share....</text>
+  </sentence>
+  <sentence id="529">
+    <text>I do love the hold and drag option for repinning/liking/sending on the newer version it makes it so fast and easy.</text>
+  </sentence>
+  <sentence id="530">
+    <text>Its a shame that isn't part of the app yet, its the best for building your pin communities.</text>
+  </sentence>
+  <sentence id="531">
+    <text>This app is great</text>
+  </sentence>
+  <sentence id="532">
+    <text>The only difference is you don't get to see other boards the pin you just pinned are pinned to.</text>
+  </sentence>
+  <sentence id="533">
+    <text>The app is almost as good add the desktop version in everyway.</text>
+  </sentence>
+  <sentence id="534">
+    <text>Love it!</text>
+  </sentence>
+  <sentence id="535">
+    <text>I can't get enough.</text>
+  </sentence>
+  <sentence id="536">
+    <text>I love the app because it's easier to navigate than the website and still has the same features!</text>
+  </sentence>
+  <sentence id="537">
+    <text>I love this app and could not live without it</text>
+  </sentence>
+  <sentence id="538">
+    <text>Love it	Im supper hooked now looking for wedding dress and decorations for my moms wedding yaay excited .</text>
+  </sentence>
+  <sentence id="539">
+    <text>I absolutely love it.</text>
+  </sentence>
+  <sentence id="540">
+    <text>Awesome	So many great ideas !</text>
+  </sentence>
+  <sentence id="541">
+    <text>One of the best apps I have !</text>
+  </sentence>
+  <sentence id="542">
+    <text>The search facility on here is fantastic!!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="search" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="543">
+    <text>its fabulous!!</text>
+  </sentence>
+  <sentence id="544">
+    <text>Brilliant!!</text>
+  </sentence>
+  <sentence id="545">
+    <text>Love the secret boards....</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="9" term="secret boards" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="546">
+    <text>So user friendly	User friendly.</text>
+  </sentence>
+  <sentence id="547">
+    <text>I love this app.</text>
+  </sentence>
+  <sentence id="548">
+    <text>Best creation ever!	I love this site, anything and everything you can think of in one spot.</text>
+  </sentence>
+  <sentence id="549">
+    <text>I hate the new layout and want my old one back....</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="11" term="new layout" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="550">
+    <text>Before I got forced into this new layout I would have given this app 5 stars...</text>
+  </sentence>
+  <sentence id="551">
+    <text>Like the old layout	If its not broken why fix it??</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="9" term="old layout" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="552">
+    <text>Awesome	This app is so cool</text>
+  </sentence>
+  <sentence id="553">
+    <text>Excellent App for Graphic Idea sharing	Addicted to all the great DIY and aesthetic, or whatever you want photos and comments.</text>
+  </sentence>
+  <sentence id="554">
+    <text>Must have APP</text>
+  </sentence>
+  <sentence id="555">
+    <text>Great!	Before the update it had loading issue, now it is great.</text>
+  </sentence>
+  <sentence id="556">
+    <text>Way to Go	Wat an interesting way of knowing things.</text>
+  </sentence>
+  <sentence id="557">
+    <text>Love	Love love love love love love it</text>
+  </sentence>
+  <sentence id="558">
+    <text>Extensive variety of topics.</text>
+  </sentence>
+  <sentence id="559">
+    <text>Love pinterest</text>
+  </sentence>
+  <sentence id="560">
+    <text>I love this! Must have!	Pinterest is always there for me when ever I get a brain fart!  Lol great for craft projects n bored kids!</text>
+  </sentence>
+  <sentence id="561">
+    <text>Great!!!	addicted!!!</text>
+  </sentence>
+  <sentence id="562">
+    <text>My go to website anytime I need to be creative or if I'm just bored!</text>
+  </sentence>
+  <sentence id="563">
+    <text>Awesome site!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="8" term="site" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="564">
+    <text>Fun	Love this app</text>
+  </sentence>
+  <sentence id="565">
+    <text>:) easy to use, everything is basically the same aa going on the web page</text>
+  </sentence>
+  <sentence id="566">
+    <text>love this app	I use it everyday!</text>
+  </sentence>
+  <sentence id="567">
+    <text>Love	Great app, love Pinterest!!</text>
+  </sentence>
+  <sentence id="568">
+    <text>Great for entertainment!</text>
+  </sentence>
+  <sentence id="569">
+    <text>Good App!</text>
+  </sentence>
+  <sentence id="570">
+    <text>...please fix</text>
+  </sentence>
+  <sentence id="571">
+    <text>Can't view someone elses board	Since I last updated it, it won't let me view others peoples boards when I scroll to the left</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="6" term="view someone elses board" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="572">
+    <text>The besttttt	I love this app I'm on it so much and have gotten so many good ideas about dinner home ideas nice sayings I just love love love this app</text>
+  </sentence>
+  <sentence id="573">
+    <text>It's better, faster and easier to open, I use everyday, many times, to pin, search or just spend some time when I need some me time.</text>
+  </sentence>
+  <sentence id="574">
+    <text>:-)</text>
+  </sentence>
+  <sentence id="575">
+    <text>I love the pinterest app	I started using in the computer, but now I use in my tablet, every day.</text>
+  </sentence>
+  <sentence id="576">
+    <text>Love it	:)</text>
+  </sentence>
+  <sentence id="577">
+    <text>awsome	i just hate it takes up so much space/battey</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="22" term="takes up so much space/battey" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="578">
+    <text>Awesome	I love pinterest during the times when we was stuck at home I tried a lot of new foods and  ideas to keep us from being bored thanks</text>
+  </sentence>
+  <sentence id="579">
+    <text>Love it!!</text>
+  </sentence>
+  <sentence id="580">
+    <text>This app is awesome!!</text>
+  </sentence>
+  <sentence id="581">
+    <text>!</text>
+  </sentence>
+  <sentence id="582">
+    <text>Love it!	My everyday organizer and search engine!</text>
+  </sentence>
+  <sentence id="583">
+    <text>Nice!	I guess they fixed the problem with the reseting issue. Well done</text>
+  </sentence>
+  <sentence id="584">
+    <text>Organized and Creative	I love that Pinterest helps me to not only be creative, but I can also have the ideas organized.</text>
+  </sentence>
+  <sentence id="585">
+    <text>Great app for sorting information. Like an electronic scrapbook.</text>
+  </sentence>
+  <sentence id="586">
+    <text>Helpfull	Media for inspiratiom</text>
+  </sentence>
+  <sentence id="587">
+    <text>Very addicting!	On it looking for recipes,  crafts and all of inspiration!</text>
+  </sentence>
+  <sentence id="588">
+    <text>Above  Average	Good Appl</text>
+  </sentence>
+  <sentence id="589">
+    <text>Nothing pops up when I search	It always pop up error when I search . Such bs . Dont download</text>
+  </sentence>
+  <sentence id="590">
+    <text>Love it	It give great ideas; from recipes to everyday items. People on this app also have a great sense of humour. If you are looking for ideas or have time to kill, this is the app for you.</text>
+  </sentence>
+  <sentence id="591">
+    <text>Everyones boards are so needed for my diy projects,  home,  and bucket list.</text>
+  </sentence>
+  <sentence id="592">
+    <text>Shoestringgirl	Great app,  pinning is addictive,  I love to virtual shop,  I love all the interesting ideas.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="27" term="pinning" to="34"/>
+      <aspectTerm class="E" from="102" term="ideas" to="107"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="593">
+    <text>great	awesome</text>
+  </sentence>
+  <sentence id="594">
+    <text>Love it. No complaints</text>
+  </sentence>
+  <sentence id="595">
+    <text>The greatest ?	Im so rapped its easy to use..gr8t for my notes..photos and  Sharing stuff with evy1. Just recent I was able to show Nursery a plant pic that I was looking for, I got off this site,  Pinterest. The other is I made juice with recipe right in front of me on my phone. Gr8t gr8t gr8t I luv it very much.  All the wo derful pics fom people all over world its just such good way of communication. ?</text>
+  </sentence>
+  <sentence id="596">
+    <text>Where'd it go?	Nothing shows up anymore</text>
+  </sentence>
+  <sentence id="597">
+    <text>Love it!</text>
+  </sentence>
+  <sentence id="598">
+    <text>Truly amazing!	There's so many things I've tried because of interest</text>
+  </sentence>
+  <sentence id="599">
+    <text>I hadn't had that problem before when I was using the mobile site.</text>
+  </sentence>
+  <sentence id="600">
+    <text>Pinterest	Pinterest is great, but the app  keeps crashing my phone, every other day puts my account on safe mode, so I have to keep resetting my password.</text>
+  </sentence>
+  <sentence id="601">
+    <text>Un installed.</text>
+  </sentence>
+  <sentence id="602">
+    <text>The best!	Love this app has everything you need</text>
+  </sentence>
+  <sentence id="603">
+    <text>Love it	I use this app way too much haha</text>
+  </sentence>
+  <sentence id="604">
+    <text>Pinterest is great, very addictive.</text>
+  </sentence>
+  <sentence id="605">
+    <text>Love this app.</text>
+  </sentence>
+  <sentence id="606">
+    <text>Love it!</text>
+  </sentence>
+  <sentence id="607">
+    <text>Could use a few kinks worked out like spam links and pictures that don't match the webpage</text>
+  </sentence>
+  <sentence id="608">
+    <text>Love	I'm in love with pintest</text>
+  </sentence>
+  <sentence id="609">
+    <text>Sometimes the app closes randomly but the content is amazing!</text>
+  </sentence>
+  <sentence id="610">
+    <text>Sometimes closes but amazing content!!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="29" term="content" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="611">
+    <text>I love pinterest</text>
+  </sentence>
+  <sentence id="612">
+    <text>I like	This app is very good for using Pinterest.</text>
+  </sentence>
+  <sentence id="613">
+    <text>Awesome!	Love it from the gate... If you're thinking rather you should or not - Just do it! You shall not be disappointed. Big Brian - Clearwater,  FL</text>
+  </sentence>
+  <sentence id="614">
+    <text>Helps a lot w/organization!	I find a lot of recipes on  different low carb and paleo sites.  This helps a lot to find them later when I want to cook them.</text>
+  </sentence>
+  <sentence id="615">
+    <text>Galaxy s3 use	Great app but cannot pin videos since upgrade, pls fix!!</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="35" term="pin videos" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="616">
+    <text>I love this app!</text>
+  </sentence>
+  <sentence id="617">
+    <text>Great!!</text>
+  </sentence>
+  <sentence id="618">
+    <text>!</text>
+  </sentence>
+  <sentence id="619">
+    <text>Love pinning	Now Pinning is so easy.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="5" term="pinning" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="620">
+    <text>I would love if you add sorting functionality in board section, like most pins, most followers, most likes, etc</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="24" term="sorting functionality in board section" to="62"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="621">
+    <text>Love It	If you're interested you can find it</text>
+  </sentence>
+  <sentence id="622">
+    <text>Searches and hangs all the time	Very often, the searches just show the pin working on it without any results for 10-15 min. Who has time to wait that long? Lately that's the reason I've reduced the usage of this app. If it doesn't improve, I'll probably discontinue... Samsung galaxy S4</text>
+  </sentence>
+  <sentence id="623">
+    <text>Its a good app ?</text>
+  </sentence>
+  <sentence id="624">
+    <text>Beautiful	Awesome</text>
+  </sentence>
+  <sentence id="625">
+    <text>In love &amp; addicted!</text>
+  </sentence>
+  <sentence id="626">
+    <text>The apple store version is way better.	Why don't they have the explore section that has the categories.</text>
+  </sentence>
+  <sentence id="627">
+    <text>I excellent	How did we manage before pinterest?</text>
+  </sentence>
+  <sentence id="628">
+    <text>I'm amazed	I didn't think I would like this app but I tried it out and I love it. You can create many different board that suits for taste and people follow you and you follow them. Kudos</text>
+  </sentence>
+  <sentence id="629">
+    <text>Great app!</text>
+  </sentence>
+  <sentence id="630">
+    <text>Love it!</text>
+  </sentence>
+  <sentence id="631">
+    <text>Good	Fun and fast using although it doesn't work on my laptop it work perfectly on my phone</text>
+  </sentence>
+  <sentence id="632">
+    <text>Boom.	Rated.</text>
+  </sentence>
+  <sentence id="633">
+    <text>I'm OBSESSED	It's unhealthy</text>
+  </sentence>
+  <sentence id="634">
+    <text>Super	Absolutely love it</text>
+  </sentence>
+  <sentence id="635">
+    <text>Really good app.</text>
+  </sentence>
+  <sentence id="636">
+    <text>It needs a couple tweaks to get a five star though.</text>
+  </sentence>
+  <sentence id="637">
+    <text>I find it tedious to have to back page multiple times to get back to my home page.</text>
+  </sentence>
+  <sentence id="638">
+    <text>Crafts are my favorite.</text>
+  </sentence>
+  <sentence id="639">
+    <text>But I love the gardening, I love the food n drinks.</text>
+  </sentence>
+  <sentence id="640">
+    <text>I love pinterest.</text>
+  </sentence>
+  <sentence id="641">
+    <text>Some days I could sit n play all day.</text>
+  </sentence>
+  <sentence id="642">
+    <text>....</text>
+  </sentence>
+  <sentence id="643">
+    <text>Best site and even more excited, They finally have an app!!!!!</text>
+  </sentence>
+  <sentence id="644">
+    <text>Addicted!</text>
+  </sentence>
+  <sentence id="645">
+    <text>Works fabulously on my Samsung Galaxy Tab 2! ;)</text>
+  </sentence>
+  <sentence id="646">
+    <text>Must down load	Love, love!!!!!</text>
+  </sentence>
+  <sentence id="647">
+    <text>My favorite app!</text>
+  </sentence>
+  <sentence id="648">
+    <text>I love Pinterest!</text>
+  </sentence>
+  <sentence id="649">
+    <text>I dislike the update on the news feed, I don't want to see in which boards my pins are being pinned to...</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="14" term="update on the news feed" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="650">
+    <text>I prefer the old feed.</text>
+  </sentence>
+  <sentence id="651">
+    <text>Fun!</text>
+  </sentence>
+  <sentence id="652">
+    <text>Rozzy	Luv this app</text>
+  </sentence>
+  <sentence id="653">
+    <text>I am addicted	That is all</text>
+  </sentence>
+  <sentence id="654">
+    <text>Love it awesome?</text>
+  </sentence>
+  <sentence id="655">
+    <text>Great app	I lovee pinterest! (:</text>
+  </sentence>
+  <sentence id="656">
+    <text>Love it	The only thing I wish you could do is search for things you've pinned within your own pins/boards</text>
+  </sentence>
+  <sentence id="657">
+    <text>.	Love it!!!</text>
+  </sentence>
+  <sentence id="658">
+    <text>Awesome	This is so nice to use. Convenient to use on the phone</text>
+  </sentence>
+  <sentence id="659">
+    <text>Great place to get inspired!	So many great Ideas get circulated through pinterest with links to follow when something tickles your fancy ;) I would recommend this app.</text>
+  </sentence>
+  <sentence id="660">
+    <text>Love this app	Love all the neat ideas</text>
+  </sentence>
+  <sentence id="661">
+    <text>J	I love it a lot.</text>
+  </sentence>
+  <sentence id="662">
+    <text>Highly highly	Addictive. I could spend an entire day on this app. Easy to use!</text>
+  </sentence>
+  <sentence id="663">
+    <text>This is the best app...</text>
+  </sentence>
+  <sentence id="664">
+    <text>I learn so many things from this app...</text>
+  </sentence>
+  <sentence id="665">
+    <text>Awesome app	Browse through all kinds of things according to any interest.</text>
+  </sentence>
+  <sentence id="666">
+    <text>Love it, have next to no issues.</text>
+  </sentence>
+  <sentence id="667">
+    <text>Easy to use, browse, share!</text>
+  </sentence>
+  <sentence id="668">
+    <text>Love!</text>
+  </sentence>
+  <sentence id="669">
+    <text>I love pinterest and this app works really well.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="30" term="works" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="670">
+    <text>Ok	They accessed me of running a bot and blocked me I wouldn't even know how to run a bot or even what that is fix the problem if you want me to run your programs again</text>
+  </sentence>
+  <sentence id="671">
+    <text>Love this app	Helps me grocery shop for those meals I pinned days before...love having this app on my phone</text>
+  </sentence>
+  <sentence id="672">
+    <text>Handy app	Great way to take pinterest on the go.</text>
+  </sentence>
+  <sentence id="673">
+    <text>Update	The new update search bar is soooo un accurate</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="7" term="The new update search bar" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="674">
+    <text>Awesome kolbylynnn	Love it soooo much .</text>
+  </sentence>
+  <sentence id="675">
+    <text>I've been addicted forever,	The only thing I would change is that over time, I want it more organized so I make another board.</text>
+  </sentence>
+  <sentence id="676">
+    <text>I wish there was a 'move pin' button to place it to another board.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="20" term="move pin' button" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="677">
+    <text>current technique is having to repin, then delete it from the old board.</text>
+  </sentence>
+  <sentence id="678">
+    <text>Fun!	Addicting</text>
+  </sentence>
+  <sentence id="679">
+    <text>awesome !!!!!!	get app</text>
+  </sentence>
+  <sentence id="680">
+    <text>Uhhh	Do you need a email? Please awnser.</text>
+  </sentence>
+  <sentence id="681">
+    <text>Love it	Great place for tips, ideas, inspiration, fun pics, and all my intrests</text>
+  </sentence>
+  <sentence id="682">
+    <text>It is a cool app that teaches u awesome thing and many more</text>
+  </sentence>
+  <sentence id="683">
+    <text>Love it</text>
+  </sentence>
+  <sentence id="684">
+    <text>My favorite app!</text>
+  </sentence>
+  <sentence id="685">
+    <text>I like it a lot but...	... why so many intrusive permissions?</text>
+  </sentence>
+  <sentence id="686">
+    <text>I LOVE Pinterest!</text>
+  </sentence>
+  <sentence id="687">
+    <text>Also would be helpful to have an option to change the privacy settings on boards to go from public to secret.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="43" term="change the privacy settings on boards" to="80"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="688">
+    <text>Great app!</text>
+  </sentence>
+  <sentence id="689">
+    <text>The app is so great to have for pinning on the go.</text>
+  </sentence>
+  <sentence id="690">
+    <text>Just wish there was an easier/faster/more efficient way to edit boards and pins.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="23" term="easier/faster/more efficient way to edit boards and pins" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="691">
+    <text>I love this who COO this weather is cold this is like the weather	Good games games this is this is very very very very very honest very very very good I disagree with this is very good I shop online with it I hope you can get on pictures too and I'm looking to look for free look for free princes bye bye</text>
+  </sentence>
+  <sentence id="692">
+    <text>Super addictive and easy to use	Nice app but not as functional as the full site.</text>
+  </sentence>
+  <sentence id="693">
+    <text>Love it (:	Always on it had to delete because i had no memory but now i have it again(:</text>
+  </sentence>
+  <sentence id="694">
+    <text>Settings are horrible	Kept getting updates on my phone when people would add new posts and boards. I don't care about other peoples boards. I changed the settings to receive no notifications and my phone is still blowing up with them. Uninstalled.</text>
+  </sentence>
+  <sentence id="695">
+    <text>Love it but ...	A lot of force closing, especially when viewing my own pins...  :(</text>
+  </sentence>
+  <sentence id="696">
+    <text>Enjoyable	I don't know If anyone else is having this problem but Pinterest is giving me a lot of trouble and is VERY slow ... I really enjoy this app please fix  Tnx</text>
+  </sentence>
+  <sentence id="697">
+    <text>But der is one suggestion is dat u have include chat functionality....</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="48" term="chat" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="698">
+    <text>Very Nice Application	Pintarest is very nice app..me and my frnd lyk it vry much...</text>
+  </sentence>
+  <sentence id="699">
+    <text>LEARN AND RELAXING	Pintrist is very helpful and I have learned about so many things and I enjoy it more than any app including FB its relaxing and you learn so much positive things and thats what we need in our lives so ill just keep pin, pin, and pinning!.. Thanks pintrist! :-)</text>
+  </sentence>
+  <sentence id="700">
+    <text>This is an excellent way tho keep notes on projects.	I enjoy the exchange of ideas.</text>
+  </sentence>
+  <sentence id="701">
+    <text>Good app to keep track of all the odds and ends you typically come across while surfing.</text>   
+  </sentence>
+  <sentence id="702">
+    <text>Works fine.</text>
+  </sentence>
+  <sentence id="703">
+    <text>It's like G+, but for women!</text>
+  </sentence>
+  <sentence id="704">
+    <text>I love Pinterest</text>
+  </sentence>
+  <sentence id="705">
+    <text>Love it !!	So many creative things to look at .</text>
+  </sentence>
+  <sentence id="706">
+    <text>Love it!!!!	I can find just about everything I need on this site, whether it be decorating ideas or a chuckle.   :)</text>
+  </sentence>
+  <sentence id="707">
+    <text>My favorite time waster</text>
+  </sentence>
+  <sentence id="708">
+    <text>No bugs</text>
+  </sentence>
+  <sentence id="709">
+    <text>Plus awesome pics</text>
+  </sentence>
+  <sentence id="710">
+    <text>Yep	I love this app, easy to use.</text>
+  </sentence>
+  <sentence id="711">
+    <text>Mostly good	Force closes too often.</text>
+  </sentence>
+  <sentence id="712">
+    <text>Sometimes I get lost with time because it is so addicting.</text>
+  </sentence>
+  <sentence id="713">
+    <text>Love this app!</text>
+  </sentence>
+  <sentence id="714">
+    <text>I also use a lot of the ideas I get from Pinterest in my classroom, and I have used DIY ideas for my home!</text>
+  </sentence>
+  <sentence id="715">
+    <text>It is so fun to look at everything and pin your likes or needs to your own boards.</text>
+  </sentence>
+  <sentence id="716">
+    <text>Love pinning	This app keeps getting better</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="5" term="pinning" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="717">
+    <text>Like it a lot.	I would just like maneuvering from other pages to my pins to be a little easier to do.</text>
+  </sentence>
+  <sentence id="718">
+    <text>Other than that, love it!</text>
+  </sentence>
+  <sentence id="719">
+    <text>Only downfall is that some pins refers to non existing websites so every pin needs to be checked.</text>
+  </sentence>
+  <sentence id="720">
+    <text>Addictive	Love browsing.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="15" term="browsing" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="721">
+    <text>Awesome	I love using pinterest. All day, everyday!</text>
+  </sentence>
+  <sentence id="722">
+    <text>Great!</text>
+  </sentence>
+  <sentence id="723">
+    <text>:)	Fun! Addicting!</text>
+  </sentence>
+  <sentence id="724">
+    <text>Love it</text>
+  </sentence>
+  <sentence id="725">
+    <text>Love it!!!	What else can I say... I just love it</text>
+  </sentence>
+  <sentence id="726">
+    <text>Its great!	You get to pin whatever you want, it basically organizes my life!</text>
+  </sentence>
+  <sentence id="727">
+    <text>So happy!	Finally!! Now I can conveniently use Pinterest ALL THE TIME!!</text>
+  </sentence>
+  <sentence id="728">
+    <text>Awsomeness	I've had this app for a yr and a half now and I have to say I truly enjoy it.</text>
+  </sentence>
+  <sentence id="729">
+    <text>This is a great app it is one of the best that I've used from Google Playstore!!</text>
+  </sentence>
+  <sentence id="730">
+    <text>Love it!!</text>
+  </sentence>
+  <sentence id="731">
+    <text>!</text>
+  </sentence>
+  <sentence id="732">
+    <text>Love this app!</text>
+  </sentence>
+  <sentence id="733">
+    <text>It's so simple and it's great how you can Pin something from a website as well to view later.</text>
+  </sentence>
+  <sentence id="734">
+    <text>It's like scrapbooking made easy!</text>
+  </sentence>
+  <sentence id="735">
+    <text>Addicting App	Love Pinterest</text>
+  </sentence>
+  <sentence id="736">
+    <text>Love it!	Never seems to fail me</text>
+  </sentence>
+  <sentence id="737">
+    <text>So Cool	This is a really good app I really enjoy searching for photos and making albums</text>
+  </sentence>
+  <sentence id="738">
+    <text>So easy to use, and a beautiful interface!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="32" term="interface" to="41"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="739">
+    <text>Love it!</text>
+  </sentence>
+  <sentence id="740">
+    <text>Amazing	Great for teachers</text>
+  </sentence>
+  <sentence id="741">
+    <text>Love this site	I can quickly find a recipe or an idea that others have done. Good job!</text>
+  </sentence>
+  <sentence id="742">
+    <text>Love it but...</text>
+  </sentence>
+  <sentence id="743">
+    <text>I'm not so crazy about this app.</text>
+  </sentence>
+  <sentence id="744">
+    <text>I love Pinterest!</text>
+  </sentence>
+  <sentence id="745">
+    <text>I can switch to a category and have little problem seeing those pins, so I know pins load correctly.</text>
+  </sentence>
+  <sentence id="746">
+    <text>So why don't they load on the main page?</text>
+  </sentence>
+  <sentence id="747">
+    <text>You know there are thousands of pins to be seen, so Wtf? WAKE UP PINTEREST!</text>
+  </sentence>
+  <sentence id="748">
+    <text>Often, very often!</text>
+  </sentence>
+  <sentence id="749">
+    <text>My other complaint is that sometimes when the page loads and I scroll down, I get to see maybe 15 pics and the page ends, just stops.</text>
+  </sentence>
+  <sentence id="750">
+    <text>when I refresh the main page the screen goes blank...no pins, no way to get the pins.</text>
+  </sentence>
+  <sentence id="751">
+    <text>Love it.	Over all wonderful, the only thing I'd that settles it clicks on a board when I'm still scrolling down to find it</text>
+  </sentence>
+  <sentence id="752">
+    <text>Awesome	Love!!</text>
+  </sentence>
+  <sentence id="753">
+    <text>Thank you for this app!	I love pinterest!</text>
+  </sentence>
+  <sentence id="754">
+    <text>Finally!	I love having it at my fingertips.</text>
+  </sentence>
+  <sentence id="755">
+    <text>Bot?	Evertime I log in it says that you've found a bot on my phone but I don't have one. So I uninstalled.</text>
+  </sentence>
+  <sentence id="756">
+    <text>Love it	Love. It!</text>
+  </sentence>
+  <sentence id="757">
+    <text>Love it you could get a lot of ideas and interests you like	Loved it</text>
+  </sentence>
+  <sentence id="758">
+    <text>Almost	Please add ability to change cover photo and explore feature.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="29" term="change cover photo" to="47"/>
+      <aspectTerm class="R" from="52" term="explore" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="759">
+    <text>Thanks!</text>
+  </sentence>
+  <sentence id="760">
+    <text>Pinterest	Pinterest test</text>
+  </sentence>
+  <sentence id="761">
+    <text>Someone bored?	Lots of great &amp; useful information, however... &quot;if it ain't broke.....&quot; enough with the updates people. Every time I turn around, there's another one</text>
+  </sentence>
+  <sentence id="762">
+    <text>Way more then any other social media website and app!</text>
+  </sentence>
+  <sentence id="763">
+    <text>I am so addicted	I love pinterest.</text>
+  </sentence>
+  <sentence id="764">
+    <text>Update sucks	Won't pull up anything you search for.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="0" term="Update" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="765">
+    <text>It says it couldn't find you item.</text>
+  </sentence>
+  <sentence id="766">
+    <text>Whether it is a person or an object.</text>
+  </sentence>
+  <sentence id="767">
+    <text>Ok	I like it</text>
+  </sentence>
+  <sentence id="768">
+    <text>Awesome!	Love to use this on my lunch hour to pass time. Has come in handy several times being able to look at my pins while shopping to see what I need for various projects I have pinned.</text>
+  </sentence>
+  <sentence id="769">
+    <text>Addicted!!!	I work at a craft store and ever since signing up for Pinterest and following multiple beading and jewelry pages I've become addicted! Karma was coming and it finally hit ;) next paycheck please :)</text>
+  </sentence>
+  <sentence id="770">
+    <text>Thumbs up	Amazing</text>
+  </sentence>
+  <sentence id="771">
+    <text>Only 4 stars	I would be willing to give it 5 stars but due to the difficulty with pinning from online with my tablet, I give it a lower rating. It discourages me from using it on my tabet</text>
+  </sentence>
+  <sentence id="772">
+    <text>Highly recommended</text>
+  </sentence>
+  <sentence id="773">
+    <text>Love this app, I am addicted!</text>
+  </sentence>
+  <sentence id="774">
+    <text>Too much fun. Informative and entertaining.</text>
+  </sentence>
+  <sentence id="775">
+    <text>Good	Greatest  idea ever</text>
+  </sentence>
+  <sentence id="776">
+    <text>Password	It keeps telling me to reset my password and I have several times.</text>
+  </sentence>
+  <sentence id="777">
+    <text>Love it	So helpful when planning a wedding</text>
+  </sentence>
+  <sentence id="778">
+    <text>Easy to use	Great app.</text>
+  </sentence>
+  <sentence id="779">
+    <text>Convenient to use so much so  I use this app more than the Web version.</text>
+  </sentence>
+  <sentence id="780">
+    <text>One of my top 3 favorite apps of all time... and no drama like on FB!</text>
+  </sentence>
+  <sentence id="781">
+    <text>Love it	Easy to use. Lots to find :)</text>
+  </sentence>
+  <sentence id="782">
+    <text>Awesome!!	Love all the useful information!!!!!</text>
+  </sentence>
+  <sentence id="783">
+    <text>Xoxo	Im in love perfect 4 anyoned life :)</text>
+  </sentence>
+  <sentence id="784">
+    <text>Love It</text>
+  </sentence>
+  <sentence id="785">
+    <text>Great fun</text>
+  </sentence>
+  <sentence id="786">
+    <text>Love it!!!!!!!!!	Absolutely love everything about Pinterest.... Recipes crafts...... EVERYTHING :-)</text>
+  </sentence>
+  <sentence id="787">
+    <text>Super cool	Its interesting its useful its helpful</text>
+  </sentence>
+  <sentence id="788">
+    <text>Like this	Great app gives me lots of ideas for all kinds of things.</text>
+  </sentence>
+  <sentence id="789">
+    <text>Love!</text>
+  </sentence>
+  <sentence id="790">
+    <text>Awesome	Nice app for reminders and to do's</text>
+  </sentence>
+</sentences>

@@ -1,0 +1,594 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="1" review-id="144898">
+    <text>It's awesome	However recently there is lapse to receive the message . Didn't receive notification until open up the app.</text>
+    <aspectTerms>
+      <aspectTerm label1="notification" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="receive the message" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="2" review-id="144394">
+    <text>I like it	It is that best way to chat every  one</text>
+    <aspectTerms>
+      <aspectTerm label1="chat" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3" review-id="143887">
+    <text>Become very unstable and unsupported to my device	Now a days it gives a big problem for my HTC desire V device  whenever someone or group chat text message me in marathi language or used in more smily in that  message that time whatsapp is directly closed and suddenly come back to the home screen and never open it....</text>
+    <aspectTerms>
+      <aspectTerm label1="close" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="group chat text message" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="marathi language" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="nstable and unsupported" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="someone chat text message" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="4" review-id="144411">
+    <text>Sucks to the core.	Doesn't deserve even a single star. Why do I always have to update aaps:( and I kept getting msg from server to update it. But I ignored since I dint wanna update it. Now I cannot update the new version.  This is more than 7th time m trying to update and I just cannot. It just stops in between. I even dont want the new version since people are comenting saying it aint that good. Why is it compulsory to update it?;p anyways please help to get it downloaded? Otherwise ill take back that 1 star also:p</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5" review-id="146461">
+    <text>Great	Its great for texting with mates or friends always aware of the gossip its like a bbm put for android the thing is when I text and send I always make a mistake and wish I could take it back</text>
+    <aspectTerms>
+      <aspectTerm label1="take send back" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="texting" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6" review-id="149025">
+    <text>Eazy to excess	Great way to communute.</text>
+    <aspectTerms>
+      <aspectTerm label1="excess" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7" review-id="150567">
+    <text>Amazing ;-)	Amazing app ... the best way to stay in touch with ur frnd.. sharw images ... videos .  Songs .. group chat ... great aap .. works perfectly .. CHEERS :-)</text>
+    <aspectTerms>
+      <aspectTerm label1="group chat" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="sharw images" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="sharw Songs" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="sharw videos" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8" review-id="148009">
+    <text>Great.	At times even faster than ordinary sms.</text>
+    <aspectTerms>
+      <aspectTerm label1="sms" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9" review-id="145962">
+    <text>Awesome app !!!	This is d best app ever but can anyone tell me how to turn off ur last seen ? Tnx</text>
+    <aspectTerms>
+      <aspectTerm label1="turn off ur last seen" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10" review-id="143405">
+    <text>Very good app	I wish it can work with two number in same phone or work with dual sim card for both number when it will be Work for dual sim card mobile plz.</text>
+    <aspectTerms>
+      <aspectTerm label1="dual sim card" label2="work with dual sim card for two numbers" score1="-1" score2="NA"/>
+      <aspectTerm label1="two number in same phone" label2="I wish it can work with two number in same phone" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="11" review-id="143417">
+    <text>Brilliant	It's a great  way to keep in contact with people you know :)</text>
+    <aspectTerms>
+      <aspectTerm label1="keep in contact with people you know" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="12" review-id="144956">
+    <text>Good feature	I like this apps, but we need voice call also.</text>
+    <aspectTerms>
+      <aspectTerm label1="we need voice call" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="13" review-id="143934">
+    <text>Very good	It is only showing chek stesus</text>
+    <aspectTerms>
+      <aspectTerm label1="showing chek stesus" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="14" review-id="149054">
+    <text>Its fine	Plz add a symbol of salut . As salut to flag etc.</text>
+    <aspectTerms>
+      <aspectTerm label1="symbol of salut" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="15" review-id="149056">
+    <text>GooD App	Very user friendly</text>
+    <aspectTerms>
+      <aspectTerm label1="user friendly" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="16" review-id="150082">
+    <text>I like this app, which allow us to chat, share music and video...	But in my mobile, after downloading the app, it works six months after that again it shows date failure and it will not work... Again I have to download...</text>
+    <aspectTerms>
+      <aspectTerm label1="Again I have to download" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="chat" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="it shows date failure" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="it will not work" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="share music" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="share video" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="17" review-id="150524">
+    <text>Better	Em having Samsung galaxy s 4 ad I am facing problem when I updated what's app.plz fix it</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="18" review-id="148557">
+    <text>Best.	I am always on whatsapp. My only means of talking. Its good. Better than normal texting.</text>
+    <aspectTerms>
+      <aspectTerm label1="texting" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="19" review-id="144977">
+    <text>Note 2	Very good messanger. Better than others.</text>
+    <aspectTerms>
+      <aspectTerm label1="messanger" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="20" review-id="149085">
+    <text>Best app to share thoughts, ideas and different things and feelings..	Excellent way that connects to our family, friends, relatives and strangers too... :));))</text>
+    <aspectTerms>
+      <aspectTerm label1="connect" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="share" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="21" review-id="149086">
+    <text>Useful	Awesome application and useful. Thank</text>
+    <aspectTerms>
+      <aspectTerm label1="Useful" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="22" review-id="144478">
+    <text>It's the best	It's quick and easy to use and never let's me down and I don't have to spend credit while having a conversation! I totally recommend it for anyone.</text>
+    <aspectTerms>
+      <aspectTerm label1="don't have to spend credit while having a conversa" label2="credit" score1="1" score2="NA"/>
+      <aspectTerm label1="easy" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="quick" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="conversation" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="23" review-id="149098">
+    <text>Whatsapp	It take much time to download..</text>
+    <aspectTerms>
+      <aspectTerm label1="much time to download" label2="take much time to download" score1="0" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="24" review-id="145516">
+    <text>It's a third class app canot open I am very angry about this app	Bore</text>
+    <aspectTerms>
+      <aspectTerm label1="open" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="25" review-id="147065">
+    <text>Great messenger app	Excellent, wouldnt have done it better myself :))</text>
+    <aspectTerms>
+      <aspectTerm label1="messenger" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="26" review-id="147964">
+    <text>Nice app..	Nice apps. Chat &amp; calling will be easier using this app. Only one problem when using this app, please fix the bugs..</text>
+    <aspectTerms>
+      <aspectTerm label1="calling will be easier" label2="calling" score1="1" score2="NA"/>
+      <aspectTerm label1="Chat will be easier" label2="Chat" score1="1" score2="NA"/>
+      <aspectTerm label1="bugs" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="27" review-id="148619">
+    <text>80%	It sometimes jam up</text>
+    <aspectTerms>
+      <aspectTerm label1="jam up" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="28" review-id="144524">
+    <text>Failed to upgrade	I couldn't upgrade to the new version, had to delete the app, now I can't install it again..</text>
+    <aspectTerms>
+      <aspectTerm label1="Failed to upgrade" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="29" review-id="146590">
+    <text>Good	Need facility to attach documents as well</text>
+    <aspectTerms>
+      <aspectTerm label1="attach documents" label2="attach documents" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="30" review-id="149672">
+    <text>It's not being installed in Android 2.3 after finishing download it show that download unsuccessful.</text>
+    <aspectTerms>
+      <aspectTerm label1="It's not being installed in Android 2.3 after fini" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="31" review-id="145065">
+    <text>Good app	Is a good app to text on</text>
+    <aspectTerms>
+      <aspectTerm label1="good app to text on" label2="text" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="32" review-id="149169">
+    <text>Nice app	Like dis app a lottt...  Bt v cnt share pdf files..plz think on dis</text>
+    <aspectTerms>
+      <aspectTerm label1="share pdf files" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="33" review-id="145588">
+    <text>Epic	Its really good but when using 3g costs lods</text>
+    <aspectTerms>
+      <aspectTerm label1="3g costs lods" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="34" review-id="150197">
+    <text>Great app.	Needs call service.</text>
+    <aspectTerms>
+      <aspectTerm label1="call service" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="35" review-id="146627">
+    <text>nice of chting with ppl	ilike being on this ntwrk</text>
+    <aspectTerms>
+      <aspectTerm label1="chting" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="36" review-id="146117">
+    <text>Gud	It's very good way to contact people far away</text>
+    <aspectTerms>
+      <aspectTerm label1="contact people" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="37" review-id="145608">
+    <text>Needs Update!	It still needs updates! Its a bit slow! I hope whatsapp fixes this problem! I know they are too busy but they have to take out time for us!</text>
+    <aspectTerms>
+      <aspectTerm label1="bit slow" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Needs Update" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="38" review-id="147148">
+    <text>Very good	Easy and very helpful</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="very helpful" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="39" review-id="144081">
+    <text>Payements	Good but why can't it be free like skype?</text>
+    <aspectTerms>
+      <aspectTerm label1="Payements" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="free" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="40" review-id="148696">
+    <text>HTC one	Best social app ever.!!  (Y)..</text>
+    <aspectTerms>
+      <aspectTerm label1="social" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="41" review-id="144092">
+    <text>Excellent communication app	It is quite nice and enjoyable and time passing too...   Communication is very easy through this and is best communication app ever....  Keep it up WHAT'S APP...!!!  THREE cheers for what's app</text>
+    <aspectTerms>
+      <aspectTerm label1="communication" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="42" review-id="149728">
+    <text>Error report	Not ok</text>
+    <aspectTerms>
+      <aspectTerm label1="report" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="43" review-id="145634">
+    <text>Add my flag	Please add flag of Pakistan and i'll give it a 5 star :-)</text>
+    <aspectTerms>
+      <aspectTerm label1="add flag of Pakistan" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="44" review-id="143075">
+    <text>Fine..bt cud b improved..!!	Its d most popular app in any smartphn.. But it has becum too slow since d last update..!! Pls fix..!! Odrwse it s a 5 on 5 material...!!</text>
+    <aspectTerms>
+      <aspectTerm label1="slow" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="45" review-id="144624">
+    <text>Anyone can c my profile pic	Its dangerous.</text>
+    <aspectTerms>
+      <aspectTerm label1="Anyone can c my profile pic" label2="profile pic" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="46" review-id="149744">
+    <text>Excellent messenger	The best in the market</text>
+    <aspectTerms>
+      <aspectTerm label1="messenger" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="47" review-id="150263">
+    <text>Samsung Gt-i8262	Facing problem while attaching image, audio or video files. It is taking lot of time or sometimes get failed. Even the messenges that are being send gets shuffled. Really time consuming.. Please fix it..</text>
+    <aspectTerms>
+      <aspectTerm label1="problem while attaching audio files" label2="attaching audio files" score1="-1" score2="NA"/>
+      <aspectTerm label1="problem while attaching image" label2="attaching image files" score1="-1" score2="NA"/>
+      <aspectTerm label1="problem while attaching video files" label2="attaching video files" score1="-1" score2="NA"/>
+      <aspectTerm label1="messenges that are being send gets shuffled" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="sometimes get failed" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="taking lot of time" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="time consuming" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="send messages" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="48" review-id="147708">
+    <text>None of the new flags added are working please work on that ASAP</text>
+    <aspectTerms>
+      <aspectTerm label1="None of the new flags added are working" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="49" review-id="145151">
+    <text>Great!	Its really easy to use and I love all the little icons to choose from. You can send videos and photos. You  don't need Facebook or anything like that. Definitely download :)</text>
+    <aspectTerms>
+      <aspectTerm label1=" little icons " label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="send photos" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="send videos " label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="50" review-id="145155">
+    <text>Love it.	Excellent app. Easiest way to keep in touch with my close and dear. Cheers.</text>
+    <aspectTerms>
+      <aspectTerm label1="keep in touch" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="51" review-id="146711">
+    <text>Excellent	Cool app. With many stickers... Stay connected with ur frndz</text>
+    <aspectTerms>
+      <aspectTerm label1="stickers" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="52" review-id="148252">
+    <text>Increase participants in a group	increase participants in a group  Update it...</text>
+    <aspectTerms>
+      <aspectTerm label1="increase participants in a group " label2="Increase participants in a group" score1="0" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="53" review-id="144160">
+    <text>Unconditionally 5 star.	This is a must have app. Love the smileys, available in watsapp. Wish there were some animated smileys too.</text>
+    <aspectTerms>
+      <aspectTerm label1="animated smileys" label2="smileys" score1="0" score2="NA"/>
+      <aspectTerm label1="Love the smileys" label2="Wish there were some animated smileys" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="54" review-id="148773">
+    <text>Awesome app	The best app... I really enjoy  chatting in watsapp!!</text>
+    <aspectTerms>
+      <aspectTerm label1="chatting" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="55" review-id="143670">
+    <text>An average app	It's good.. but when it comes to &quot;updating&quot;, it's pathetic!! :-P</text>
+    <aspectTerms>
+      <aspectTerm label1="updating" label2="updating" score1="-2" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="56" review-id="149816">
+    <text>No Galaxy Gear support	Please create an app for Galaxy Gear. I can only read the notifications on my Gear. I would love to have an option to reply directly from my Gear. Thanks.</text>
+    <aspectTerms>
+      <aspectTerm label1="Galaxy Gear support" label2="create an app for Galaxy Gear" score1="0" score2="NA"/>
+      <aspectTerm label1="option to reply directly from my Gear" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="57" review-id="149309">
+    <text>Awsme app	I juz love dis app its so easy nd free</text>
+    <aspectTerms>
+      <aspectTerm label1="easy" label2="easy" score1="2" score2="NA"/>
+      <aspectTerm label1="free" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="58" review-id="145220">
+    <text>Awesome	The updates Are Awesome!  Keep It Up!</text>
+    <aspectTerms>
+      <aspectTerm label1="updates" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="59" review-id="144711">
+    <text>Good	Pls add more feature allow me to send pdf file to frnds</text>
+    <aspectTerms>
+      <aspectTerm label1="feature allow me to send pdf file to frnds" label2="send pdf file" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="60" review-id="148807">
+    <text>Good but	Good concept. But wish it didn't steal all of your data.</text>
+    <aspectTerms>
+      <aspectTerm label1="concept" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="wish it didn't steal all of your data" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="61" review-id="145744">
+    <text>Maihklass01	Nice &amp; slow.</text>
+    <aspectTerms>
+      <aspectTerm label1="slow" label2="slow" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="62" review-id="143697">
+    <text>This app will connect peoples.	VeRy..............GoOd ApP.</text>
+    <aspectTerms>
+      <aspectTerm label1="connect" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="63" review-id="148305">
+    <text>The best Messenger app ever</text>
+    <aspectTerms>
+      <aspectTerm label1="Messenger" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="64" review-id="145238">
+    <text>Good	Everyone realy want the &quot;hide last seen&quot; option on android . 5 stars if added on the next update</text>
+    <aspectTerms>
+      <aspectTerm label1="hide last seen" label2="hide last seen" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="65" review-id="149339">
+    <text>awesome	bt plz increase the size videos that we send</text>
+    <aspectTerms>
+      <aspectTerm label1="increase the size videos that we send" label2="size videos" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="66" review-id="148828">
+    <text>App crash	Keeps crashing when you click on to the attach option</text>
+    <aspectTerms>
+      <aspectTerm label1="attach" label2="attach" score1="-1" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="67" review-id="146277">
+    <text>Full stars if completely downloaded	Not downloading properly although full netwrk excess</text>
+    <aspectTerms>
+      <aspectTerm label1=" download" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="68" review-id="145766">
+    <text>Excellent notification alert	I jst wish dat whatsapp had its own alert ringtone bt its nthng important bcz it fulfils its role of bein a communicational avenue</text>
+    <aspectTerms>
+      <aspectTerm label1="alert ringtone" label2="alert ringtone" score1="0" score2="NA"/>
+      <aspectTerm label1="notification alert" label2="notification alert" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="69" review-id="147308">
+    <text>Super	Very very Nice to oparate</text>
+    <aspectTerms>
+      <aspectTerm label1="oparate" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="70" review-id="146292">
+    <text>coooooll	epic msnger</text>
+    <aspectTerms>
+      <aspectTerm label1="msnger" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="71" review-id="144249">
+    <text>nice	great, since now groupchat supporting up to 30... however, when will voice-call via internet available?</text>
+    <aspectTerms>
+      <aspectTerm label1="groupchat supporting up to 30" label2="groupchat" score1="2" score2="NA"/>
+      <aspectTerm label1="voice-call via internet" label2="voice-call" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="72" review-id="144251">
+    <text>It was so useful to chat and connecting with all frnds	I really loves this wats up and i enjoy the days chatting with my frnds tks for thiz innovative idea hats off</text>
+    <aspectTerms>
+      <aspectTerm label1="chat " label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="connecting" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="73" review-id="144778">
+    <text>Too fast to good excellent..	Apps</text>
+    <aspectTerms>
+      <aspectTerm label1="fast" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="74" review-id="149393">
+    <text>Abdul	Downloading slow</text>
+    <aspectTerms>
+      <aspectTerm label1="Downloading" label2="Download" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="75" review-id="144795">
+    <text>watsapp	nice and easy</text>
+    <aspectTerms>
+      <aspectTerm label1="easy" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="76" review-id="148381">
+    <text>its problem is about not being allowed ur last online status</text>
+    <aspectTerms>
+      <aspectTerm label1="last online status" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="77" review-id="148909">
+    <text>good app	consumes more amount of phone  memory</text>
+    <aspectTerms>
+      <aspectTerm label1="consumes more amount of phone  memory" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="78" review-id="146882">
+    <text>Worst...	Atleast reply and help...   Worst... since four days trying to register.. everytime they cut balnce for verification.. them send voice verification nd then fails that also ... crap .. negative star</text>
+    <aspectTerms>
+      <aspectTerm label1="help" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="register" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="reply" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="verification" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="79" review-id="148431">
+    <text>Shubham kumar	I like this app bcoz.  Its realy easy n so fst..after all it is d no.1 messenger on android It is very quick n low data..usage.on my smsng galaxy y</text>
+    <aspectTerms>
+      <aspectTerm label1="low data usage" label2="low data usage" score1="1" score2="NA"/>
+      <aspectTerm label1="easy" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="so fst" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="very quick" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="80" review-id="144345">
+    <text>Great application....	One of the great application for chat..... Please just increase the upload limit..... That will be very useful......</text>
+    <aspectTerms>
+      <aspectTerm label1="increase the upload limit" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="81" review-id="145881">
+    <text>Purchase	If you remove the purchase i will rate 5 stars</text>
+    <aspectTerms>
+      <aspectTerm label1="purchase" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="82" review-id="150493">
+    <text>Best. Cross. Platform. App. Ever!	The idea of a seamlessly connected world brought to life. Simply brilliant!</text>
+    <aspectTerms>
+      <aspectTerm label1="Cross. Platform" label2="Cross Platform" score1="2" score2="NA"/>
+      <aspectTerm label1="connect" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="83" review-id="149988">
+    <text>Goood	No payment please</text>
+    <aspectTerms>
+      <aspectTerm label1="No payment" label2="payment" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="84" review-id="143333">
+    <text>Good	Really help full....but if u make it free for lifetime...we will use it life long</text>
+    <aspectTerms>
+      <aspectTerm label1="make it free for lifetime" label2="free for lifetime" score1="0" score2="NA"/>
+      <aspectTerm label1="help full" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="85" review-id="144868">
+    <text>Goodul	Work fast</text>
+    <aspectTerms>
+      <aspectTerm label1="fast" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="86" review-id="150511">
+    <text>Ok app	It is not updating since long .I have been trying very much. But it has gud to connect wid ur frnds.</text>
+    <aspectTerms>
+      <aspectTerm label1="connect" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="updating" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="87" review-id="143347">
+    <text>Poor:(:(	Need updates for Android! WA so lame in Androids:(:( Fix it!</text>
+    <aspectTerms>
+      <aspectTerm label1="Need updates for Android" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="88" review-id="143355">
+    <text>Keeps crashing	Not only did it crash, it also wiped my whole phone. Now it's uninstalled my Galaxy S4 is running great again.  I'd have given it 0 stars if I could.</text>
+    <aspectTerms>
+      <aspectTerm label1="crashing" label2="crashing" score1="-2" score2="NA"/>
+      <aspectTerm label1="wiped my whole phone" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="89" review-id="144380">
+    <text>I like	Really. Easy use</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy use" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="90" review-id="147455">
+    <text>Can't get enough	Brilliant app. Switched to a Samsung Galaxy Note 2 after an iPhone and noticed the option to switch off timestamps is unavailable on Samsung devices. If this could be included in the next update, 5 star rating sorted.</text>
+    <aspectTerms>
+      <aspectTerm label1="switch off timestamps" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+</sentences>

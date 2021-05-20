@@ -1,0 +1,15 @@
+#python script that convert review dataset into SemEval format
+
+python tranform_review_dataset_to_SemEval_format [dataset_path]
+
+#Write python script that generates modified datasets for simulation study
+
+python modify_dataset [categorize_wise_dataset_path]  step=0
+python modify_dataset [dataset_path]  step=1
+python modify_dataset [dataset_path]  step=2
+python modify_dataset [dataset_path]  step=3
+
+#write python scriprt to generate dataset for given training procedure
+
+python generate_data [dataset_path] training_procedure=CCV
+

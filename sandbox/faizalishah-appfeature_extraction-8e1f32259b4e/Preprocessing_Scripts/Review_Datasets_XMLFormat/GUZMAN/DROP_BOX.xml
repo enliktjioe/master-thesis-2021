@@ -1,0 +1,2404 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="1" review-id="3072">
+    <text>Definitely liking this app. Use it all the time. It would be really nice if it gives us 10gb free space. ^^</text>
+    <aspectTerms>
+      <aspectTerm label1="free space" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="2" review-id="1540">
+    <text>I have a factory refurbished older iPad and it cannot run IOS 7.  Can't you make a &quot;legacy&quot; Dropbox app available for those of us that don't have brand new equipment?</text>
+    <aspectTerms>
+      <aspectTerm label1="support older IOS" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3" review-id="1541">
+    <text>Did not work on my new iPhone 5s. Only showed sliding logo's</text>
+    <aspectTerms>
+      <aspectTerm label1="sliding logo" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="4" review-id="3079">
+    <text>Very convenient for moving files without connecting to a computer!</text>
+    <aspectTerms>
+      <aspectTerm label1="moving files without connecting to a computer" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5" review-id="3083">
+    <text>Downloaded the latest update and now my app has disappeared, and the App Store won't let me download it again.</text>
+    <aspectTerms>
+      <aspectTerm label1="Downloaded update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6" review-id="1548">
+    <text>I love having all my photos backed up automatically and not having to keep them on my phone.</text>
+    <aspectTerms>
+      <aspectTerm label1="photos backed up automatically" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="photos backed up not having to keep them on my pho" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7" review-id="2066">
+    <text>Dropbox app is bug ridden and they have no desire to fix basic things. It may work for a while, but eventually it will break and there will be no recourse from Dropbox to fix it. Support will ignore you. Dropbox is extremely arrogant about. Competition is now catching up. Finally and thankfully.</text>
+    <aspectTerms>
+      <aspectTerm label1="Support" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8" review-id="2068">
+    <text>Works well, especially for saving files for offline use.</text>
+    <aspectTerms>
+      <aspectTerm label1="saving files for offline use" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9" review-id="1557">
+    <text>Have been using Google Drive for a few months, paid account - the desktop app was totally unreliable and failed to sync just too often. So came back to Dropbox, always syncing smartly and reliably.
+
+A bit pricey though - almost twice as expensive as competitions if you want the extra space.</text>
+    <aspectTerms>
+      <aspectTerm label1="extra space" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="sync" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10" review-id="2583">
+    <text>Wish I could rename files.</text>
+    <aspectTerms>
+      <aspectTerm label1="rename files" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="11" review-id="1561">
+    <text>I have been an avid Dropbox user and supporter for a few years now. But with this new upgrade requiring iOS 7 (which I don't have), and many apps supporting other cloud storage providers, I find I may have to switch to Box, SugarSync, Mega, Mozy, or any of the other cloud storage sites who aren't forcing me to upgrade to iOS 7.</text>
+    <aspectTerms>
+      <aspectTerm label1="cloud storage " label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="upgrade to iOS 7" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="12" review-id="1562">
+    <text>Ever since iOS 7 update, Dropbox has not worked; constantly crashes, when it does run it is EXTREMELY slow, and there are problems with camera uploading. PLEASE FIX ASAP.</text>
+    <aspectTerms>
+      <aspectTerm label1="camera uploading" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="EXTREMELY slow" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="13" review-id="2587">
+    <text>I install Dropbox yesterday. When I start the App the  dialog box ' app wants your location' appears in an endless loop</text>
+    <aspectTerms>
+      <aspectTerm label1="location" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="14" review-id="3098">
+    <text>UPDATE 2/21/13 New Update:
+Same problem
+
+Installed update and froze up. I can access through the &quot;open&quot; option on dropbox App Store page but not through dropbox icon on phone page. I deleted and reinstalled - same thing. I'm operating on the latest IOS for iPhone 4. Please fix.</text>
+    <aspectTerms>
+      <aspectTerm label1="access" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="dropbox icon" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Installed update" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="open" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="15" review-id="2591">
+    <text>You guys have already put MOVE SHARE DEL, why you guys do not allow us to COPY RENAME????????????????</text>
+    <aspectTerms>
+      <aspectTerm label1="COPY RENAME to folders and files" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="MOVE SHARE DEL" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="16" review-id="2080">
+    <text>Simple to use. And the voice recognition is great!</text>
+    <aspectTerms>
+      <aspectTerm label1="Simple to use" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="voice recognition" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="17" review-id="3105">
+    <text>Works in conjunction wirh Google Drive, File Manager, Documents....</text>
+    <aspectTerms>
+      <aspectTerm label1="document organization on iphone" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Works in conjunction wirh Google Drive, File Manag" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="18" review-id="1571">
+    <text>Flat out will not open on a new iPad Air</text>
+    <aspectTerms>
+      <aspectTerm label1="open" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="19" review-id="2086">
+    <text>rocking. sleek simple design.</text>
+    <aspectTerms>
+      <aspectTerm label1="simple design" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="20" review-id="3111">
+    <text>I can't open the goddamn app</text>
+    <aspectTerms>
+      <aspectTerm label1="updating" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="21" review-id="2552">
+    <text>Only one issue, I cannot access my mp3, aiff, and WAV files. The issue started today, but I hope goes away. I use this for work and having access to my files is extremely important.</text>
+    <aspectTerms>
+      <aspectTerm label1="access my mp3, aiff, and WAV files" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="22" review-id="2089">
+    <text>This is a fantastic desktop &amp; laptop tool but with no search or text file editing/creation on the iPhone, it is almost useless on that platform.
+
+I've between 500-1000 simple text files in Dropbox. When will we be able to:
+1. Mark favorites at the folder, 
+2. Search file contents, 
+3. Edit simple text files including adding new files.</text>
+    <aspectTerms>
+      <aspectTerm label1="adding new files" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Edit simple text files" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Mark favorites at the folder" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Search file contents" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="search on iPhone" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="text file editing/creation on iPhone" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="23" review-id="1578">
+    <text>All these updates, and I still can't rename things? That's really important...</text>
+    <aspectTerms>
+      <aspectTerm label1="rename things" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="24" review-id="3115">
+    <text>Like the drop box service, but upgrading is too expensive.  Suggest graded levels of subscription</text>
+    <aspectTerms>
+      <aspectTerm label1="Suggest graded levels of subscription" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="upgrading" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="25" review-id="1582">
+    <text>Why did you drop support for earlier IOSs? Does Apple make you?</text>
+    <aspectTerms>
+      <aspectTerm label1="support for earlier IOS" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Use on old iPads" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="26" review-id="2606">
+    <text>I don't really know how to created the file like a word document or something.</text>
+    <aspectTerms>
+      <aspectTerm label1="created the file like a document " label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="27" review-id="3124">
+    <text>Those would be useful!</text>
+    <aspectTerms>
+      <aspectTerm label1="iOS 6 share sheets" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="28" review-id="2614">
+    <text>I think this app is awesome and this whole program altogether! But I mostly use Dropbox for music and it gets kind of annoying that the music doesn't go in a playlist like in the music app. Can you change that?</text>
+    <aspectTerms>
+      <aspectTerm label1="music go in a playlist" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="29" review-id="3127">
+    <text>Thanks for nothing dropbox</text>
+    <aspectTerms>
+      <aspectTerm label1="download ipod" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="30" review-id="2617">
+    <text>Finally we can share links to folders!</text>
+    <aspectTerms>
+      <aspectTerm label1="share links to folders" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="31" review-id="3129">
+    <text>I can't open since the last 2 updates. Pop-ups go crazy on the iPhone 5! I'm uninstalling</text>
+    <aspectTerms>
+      <aspectTerm label1="pop-ups" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="32" review-id="2108">
+    <text>When I open it crashes my iPad</text>
+    <aspectTerms>
+      <aspectTerm label1="work on iPad" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="33" review-id="1597">
+    <text>I liked the old color scheme. The new, all white hurts my eyes. Please revert back to original.</text>
+    <aspectTerms>
+      <aspectTerm label1="design" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="old color scheme" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="34" review-id="2112">
+    <text>I just wish you could edit your word documents other than that it's great!</text>
+    <aspectTerms>
+      <aspectTerm label1="edit your word documents" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="35" review-id="3138">
+    <text>Until the last update. Please fix.</text>
+    <aspectTerms>
+      <aspectTerm label1="reliable" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="36" review-id="3139">
+    <text>You should put the folders first... And then the files!
+I would put a folder as favorite, thus putting all the files inside this as favorite too.</text>
+    <aspectTerms>
+      <aspectTerm label1="put a folder as favorite" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="putting all the files inside this as favorite too." label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="37" review-id="2116">
+    <text>This use to be a great app on iOS 5. Having iOS 7 and the latest version of 
+
+Dropbox and it's really bad. The new UI for viewing photos and video needs improvement to return to the way it was.</text>
+    <aspectTerms>
+      <aspectTerm label1="UI" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="view video" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="viewing photos" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="38" review-id="2117">
+    <text>My wife and I share a 100GB account, and it's amazing! So many things:
+
+Automatic photo/video upload, iPhoto import, works with the Mailbox app, shared folders, photo aggregation on the website and mobile, the ability to store files only on the cloud (saves space on my Mac from old files)...
+
+...and the obvious things like having everything backed up in real-time, and accessibility of my files from anywhere.
+
+I could do without it anymore! Remember when we just had computers and hoped they didn't break and lose all our files?
+
+One suggestion: if I have automatic photo upload on and download a photo to my phone's camera roll (say, for #TBT), don't automatically re-upload it to Camera Imports! It's already in Dropbox, silly. And yes, obviously if I use Instagram or some other photo sharing software to doctor it, I know it's a different photo and will therefore upload.</text>
+    <aspectTerms>
+      <aspectTerm label1=" shared folders" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="ability to store files only on the cloud" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="accessibility of files" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="automatic download a photo to my phone's camera ro" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="automatic photo upload " label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Automatic photo/video upload" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="automatically re-upload it to Camera Imports" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="backed up in real-time" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="iPhoto import" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="photo aggregation on the website and mobile" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="39" review-id="1609">
+    <text>Since the update, it won't backup to Dropbox.</text>
+    <aspectTerms>
+      <aspectTerm label1="backup to Dropbox" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="40" review-id="2634">
+    <text>Very slow uploading, and poor background uploading :( does it really need 3h to upload several megabyte video over 10 Mbit internet ?</text>
+    <aspectTerms>
+      <aspectTerm label1="background uploading" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="pload several megabyte video" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="slow uploading" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="41" review-id="2124">
+    <text>Im on a crappy hotel wifi that goes in and out. Been trying to download a 1gb file for over 2 days now. But for some reason dropbox has not allowed favorited downloads the ability to resume  and instead restarts the download from the beginning every time it fails. It's almost 2014. We have the technology to RESUME A DOWNLOAD what's the problem here?</text>
+    <aspectTerms>
+      <aspectTerm label1="download file" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Downloads of favorites" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="RESUME A DOWNLOAD" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="42" review-id="2125">
+    <text>It does a poor job at retaining the starred items in memory. So I wait a long time for an MP3 to buffer, I &quot;star&quot; it so I won't have to wait next time. But then next time it often has to buffer all over again!</text>
+    <aspectTerms>
+      <aspectTerm label1="star" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="starred items feature" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="starred items in memory" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="43" review-id="2637">
+    <text>What happened?  I used  to rely on Dropbox to transfer files from my iPad to my computer. The camera upload still works but that's about it. They need to fix this App!!!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="camera upload" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Send to Dropbox option" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="transfer files " label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="44" review-id="1615">
+    <text>Dropbox is extremely  useful. Easy to access on any device or on their website. I've never had any issues with it and have been a user for years.</text>
+    <aspectTerms>
+      <aspectTerm label1="access on any device or website" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="45" review-id="2642">
+    <text>Great companion to the desktop version. Nice for viewing, but not so great for making updates.</text>
+    <aspectTerms>
+      <aspectTerm label1="making updates" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="viewing" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="46" review-id="2131">
+    <text>Thank's for app,but can you add offline mod?for exmple i want save one video in my iphone,and after that play it with VLC</text>
+    <aspectTerms>
+      <aspectTerm label1="add offline mod" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="save one video in my iphone,and after that play it" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="47" review-id="3155">
+    <text>As soon as i updated to version 2.1. I can't open Dropbox. I can't delete it--but it is not on my phone. And I can't redownload it....help!
+
+Updated: I see the suggestion is to delete and reinstall--HOW ARE YOU SUPPOSED TO DELETE WHAT ISN'T ON THE PHONE, despite the fact that the App Store says to open the app, but will NOT open when you press the button?
+
+FURTHER UPDATE--version 2.1.1 brought back dropbox to my phone. Upgraded to 3 stars. Once I play with it, I will assess whether it deserves more stars...</text>
+    <aspectTerms>
+      <aspectTerm label1="delete and reinstall" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="dropbox to my phone." label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="open Dropbox" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="updated to version 2.1." label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="48" review-id="1621">
+    <text>I now see that you must have IO7 or better for the app.
+I didn't wish to upgrade to IO7 on my ipad2 and can't on my orginal ipad.
+I feel you guys tossed us out in the cold.</text>
+    <aspectTerms>
+      <aspectTerm label1="upgrade to IO7" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="49" review-id="3160">
+    <text>Since new update 2.1 on Feb 15th, I get a splash screen followed by a crash.
+Otherwise, 5*</text>
+    <aspectTerms>
+      <aspectTerm label1="splash screen" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="50" review-id="1625">
+    <text>An excellent App.</text>
+    <aspectTerms>
+      <aspectTerm label1="Ease of Use" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="51" review-id="1626">
+    <text>I never know when it's gonna even work. I click on the icon, my enter password shows up and either it's stuck on that and I can't even enter a password, or I enter it and nothing happens. This was a great app. Now it stinks! Big time!</text>
+    <aspectTerms>
+      <aspectTerm label1="enter a password" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="icon" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="52" review-id="2137">
+    <text>keeps crashing every time I try to make an account</text>
+    <aspectTerms>
+      <aspectTerm label1="make an account" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="53" review-id="2139">
+    <text>Seriously...why did select all functionality no longer available on everything?! (For most apple app) If i need to upload 500 images...i have to check those 500 images one-by-one!?!</text>
+    <aspectTerms>
+      <aspectTerm label1="Select all" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="upload images" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="54" review-id="2651">
+    <text>When I launch the app, all I have is a black screen with a gray bar underneath. This update rendered the app useless. I am using an iPhone 5 with iOS 6.1.4.</text>
+    <aspectTerms>
+      <aspectTerm label1="black screen" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="gray bar" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="55" review-id="3161">
+    <text>I rely on Dropbox for syncing daily annotated PDFs from my iPad to my home computer.
+After today's update sync stopped working.</text>
+    <aspectTerms>
+      <aspectTerm label1="syncing PDF" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="56" review-id="2145">
+    <text>Not working with iOS7.0.3</text>
+    <aspectTerms>
+      <aspectTerm label1="working with iOS7.0.3" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="57" review-id="3169">
+    <text>This app used to work flawlessly. After the most r event update however I can't even open it. I get the logo screen and then the app crashes completely. The update has rendered it useless!!</text>
+    <aspectTerms>
+      <aspectTerm label1="logo screen" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="58" review-id="3170">
+    <text>I can't open it on my ipad 3. Help! Crash! Crash! Crash!</text>
+    <aspectTerms>
+      <aspectTerm label1="open ipad" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="59" review-id="3172">
+    <text>Dropbox, you messed up my presentation this weekend when you wouldn't open when I needed you the most.  But I forgive you, because 1.You are Free. 2.You are so convenient. 3.You've changed the way I work. 4.My pictures just come to you like magic. 5.You open my PDFs, Docs etc. with ease.  
+
+Baby, you're not perfect, but you get better and better as time goes on.  
+
+Love, XOXOXO</text>
+    <aspectTerms>
+      <aspectTerm label1="open" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="open my PDFs, Docs" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="pictures just come to you " label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="60" review-id="2661">
+    <text>&quot;Awesome&quot; update with new can't-view-PDFs feature!</text>
+    <aspectTerms>
+      <aspectTerm label1="view PDFs" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="61" review-id="3173">
+    <text>I updated the dropbox app on my iPad and can't view any of my PDF files. Viewing wasn't a problem before the update. Help?</text>
+    <aspectTerms>
+      <aspectTerm label1="Viewing PDF on iPad" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="62" review-id="1639">
+    <text>Can't open files, files won't update.  They show they haven't been modified in months when I modified it five minutes ago and all my other devices and computers not on iOS7 show the update.  If these problems get fixed I'll change my rating until then it will remain a 1 star.</text>
+    <aspectTerms>
+      <aspectTerm label1="files update" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="modify file" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="open files" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="63" review-id="2151">
+    <text>Cant think of any specific complaints, but there is always room for a more robust interface</text>
+    <aspectTerms>
+      <aspectTerm label1="a more robust interface" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="64" review-id="2663">
+    <text>Dropbox could be better with faster uploading and downloading speeds also you should add the options to sync multiple photos from your phone to your camera roll instead of just one at a time!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="downloading speeds" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="sync multiple photos" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="uploading" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="65" review-id="2666">
+    <text>This app has been go so far for me. On my iPod touch 4 generation I has done so much in so little of time. Little than 30 seconds it had my account created and pictures uploading on there! Although I am looking in to this, I trust this will keep mine and your apple devices' apps, music, photos/ videos and so on safe with all your personal files. :)</text>
+    <aspectTerms>
+      <aspectTerm label1="account created" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="pictures uploadin" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="66" review-id="1645">
+    <text>Please fix the syncing issues with the iPad app. Currently have to re-login to get files to update. Allow users to force a sync! Trying to automate it would be good if it worked, but it doesn't.</text>
+    <aspectTerms>
+      <aspectTerm label1="automate" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="files to update" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="force a sync" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="re-login" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="syncing" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="67" review-id="2669">
+    <text>No crashes so far, not affecting my phone or ipad functionality. But I have noticed that you can't share folders, only a single file, which is pretty ridiculous because then I could just email that single file to someone, but when you have a whole bunch of pictures that you want to send, you can't send the whole folder of pictures.  I had to upload all the pictures to a named folder, then I had to use the Internet browser to login to Dropbox and then send the link to the folder from there.
+
+That so far is my only complaint, but its a big issue for me.</text>
+    <aspectTerms>
+      <aspectTerm label1=" upload all the pictures to a named folder" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="my phone or ipad" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="share folders" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="share single file" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="68" review-id="1647">
+    <text>Dropbox is a great service. However, when I use the camera upload option in iOS 7, it only uploads the original photo and not the edited one. Otherwise, I'd rate dropbox as 5 stars.</text>
+    <aspectTerms>
+      <aspectTerm label1="camera upload option" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="edited photos upload" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="69" review-id="2159">
+    <text>Sometime in the last month Dropbox stopped syncing. The most recent files on my phone are all 1 month old yet there are many more current files that I have loaded in Dropbox desktop folder for syncing. Help!</text>
+    <aspectTerms>
+      <aspectTerm label1="loaded files" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="syncing" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="70" review-id="1649">
+    <text>I didn't have to uninstall just shut down app and reload and connect to wifi</text>
+    <aspectTerms>
+      <aspectTerm label1="reload" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Upload videos" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="71" review-id="1650">
+    <text>Needs a cloud sync feature. And subcategories.</text>
+    <aspectTerms>
+      <aspectTerm label1="cloud sync feature" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="subcategories" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="72" review-id="2670">
+    <text>app used to work wonderful except recent update.. unable to open most of our PDF files .. DROPBOX help!!! need fix ASAP!!</text>
+    <aspectTerms>
+      <aspectTerm label1="open pdf files" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="73" review-id="2164">
+    <text>When you have them upload they save as a photo not a gif so they don't work would like this fixed</text>
+    <aspectTerms>
+      <aspectTerm label1="save as a photo" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="upload gif" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="work with gifs" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="74" review-id="3184">
+    <text>Normally 5-star app but now it will not open</text>
+    <aspectTerms>
+      <aspectTerm label1="open" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="75" review-id="2679">
+    <text>This latest update did nothing to stop crashes. Completely unusable.</text>
+    <aspectTerms>
+      <aspectTerm label1="unusable" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="76" review-id="2681">
+    <text>It's super easy to copy pictures to clipboard or even save them to your phone, but why can't I download my videos?</text>
+    <aspectTerms>
+      <aspectTerm label1="copy pictures to clipboard" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="download my videos" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="77" review-id="2682">
+    <text>Only downfall of this app</text>
+    <aspectTerms>
+      <aspectTerm label1="move to folder" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="78" review-id="2171">
+    <text>We should be able to do text documents! :(</text>
+    <aspectTerms>
+      <aspectTerm label1="text documents" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="79" review-id="3193">
+    <text>Please bring back the old viewer, it was phenomenal. I like the page preview feature of the new version, but the general PDF viewing experience is worse. Specifically, it is very disorienting how the viewer returns to the topic of the page if you tap out of full screen view. I also miss the 'page xx of xx' feature when scrolling.</text>
+    <aspectTerms>
+      <aspectTerm label1="old viewer" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="page preview feature" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="page xx of xx" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="PDF update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="80" review-id="2689">
+    <text>I have used the Dropbox app for a long time with no serious issues. Sure there are glitches once in awhile, but usually runs very smoothly. I have it uploading my photos, which it does consistently well and syncing docs I need. No problems here, not sure what the bad reviews are about.</text>
+    <aspectTerms>
+      <aspectTerm label1="syncing docs" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="uploading my photos" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="81" review-id="2690">
+    <text>New update doesn't detail what's changed. Now the app doesn't work. Just a black screen with a gray bar at the bottom. Please fix soon.</text>
+    <aspectTerms>
+      <aspectTerm label1=" gray bar" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="black screen" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="82" review-id="1667">
+    <text>That moment I figured out I could transfer photos from my iPhone to laptop faster via dropbox than plugging my phone into the USB port.</text>
+    <aspectTerms>
+      <aspectTerm label1="File sharing" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="transfer photos from my iPhone to laptop" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="83" review-id="2179">
+    <text>If we could create docs inside the app that would be great</text>
+    <aspectTerms>
+      <aspectTerm label1="create docs" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="84" review-id="2696">
+    <text>Beautiful app, but NEEDS the ability share folders. For people on the go, we need to be able to email links out to people, sending tons of individual links to people is not feasible.</text>
+    <aspectTerms>
+      <aspectTerm label1="able to email links out to people" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="sending individual links to people" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="share folders" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="85" review-id="2186">
+    <text>Downloaded it to find that it doesn't even open. The AppStore says it's downloaded but nothing shows up in my app selection screen.</text>
+    <aspectTerms>
+      <aspectTerm label1="open" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="86" review-id="2700">
+    <text>What is up with updates?  Multiple attempts with no progress,  just same slow nothing.</text>
+    <aspectTerms>
+      <aspectTerm label1="slow" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="87" review-id="2701">
+    <text>You can't share folders? How many engineers have you hired? Ugh.</text>
+    <aspectTerms>
+      <aspectTerm label1="share folders" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="88" review-id="3214">
+    <text>It's a really good cloud app, but what makes it stand out is the new .pdf viewer! Now I can read huge files on the iPad. You can't do that on Google Drive's app.</text>
+    <aspectTerms>
+      <aspectTerm label1="new .pdf viewer!" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="read huge files on the iPad" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="89" review-id="1679">
+    <text>My iPad works fine when I open Dropbox... But every time I open it on my iPhone 4 is either crashes or it continuously pulls up a messiah making it hard to close. It needs to fixed... Fast. Even after the current update just a day ago it is still crashing on IPhone!! This needs to be fixed.</text>
+    <aspectTerms>
+      <aspectTerm label1="open" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="90" review-id="3219">
+    <text>I cannot open this app anymore. It crashes immediately! I loved it until the last update and used it a lot. I even purchased the Pro version. Now my work abilities are severely compromised!</text>
+    <aspectTerms>
+      <aspectTerm label1="open" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="Pro version" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="91" review-id="1685">
+    <text>The new design fits in well with iOS7, but it would be better if there was an option to rename files and folders. It's also impossible to send files as email attachments instead of sharing their links through the default Mail app.</text>
+    <aspectTerms>
+      <aspectTerm label1="new design" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="rename files and folders" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="send files as email attachments" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="92" review-id="2709">
+    <text>The app greatly enhances the capability of the iPad by making it truly portable.  You are able to access your materials on all of your devices &amp; share with others either for the purpose of collaboration or simply dispersing information.  Both are very useful in the world of education!</text>
+    <aspectTerms>
+      <aspectTerm label1=" share with others either for the purpose of colla" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="access your materials on all of your devices" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="93" review-id="1688">
+    <text>Flawless operation - ZERO problems. Easy to use - almost effortless. New auto-upload of photos and videos is a great &amp; useful addition. Customer support is second to none (when I did have a question, support answered it before two hours had passed).</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy to use" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="upload of photos and videos" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="94" review-id="1689">
+    <text>Older versions of this app used to allow me to preview word, excel and pdf documents. While the preview pane is still there the app just tells me the file name and size and does NOT display the content... Completely useless.</text>
+    <aspectTerms>
+      <aspectTerm label1="display file content" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="file name" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="file size" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="preview pane" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="preview word, excel and pdf documents" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="95" review-id="2716">
+    <text>Please include the option to view thumbnail larger while viewing in the photo folder.</text>
+    <aspectTerms>
+      <aspectTerm label1="view thumbnail larger" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="viewing in the photo folder" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="96" review-id="3230">
+    <text>Will not open since update. Some people use your free 2 GB plan, others pay for a lot of storage. Please help all of us out.</text>
+    <aspectTerms>
+      <aspectTerm label1="open" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="storage" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="97" review-id="2719">
+    <text>Cannot download latest update, it was working fine for a year and then the updates started. I felt I needed to give this two stars because its been four days and they haven't fixed it yet. I use this app for work and now I can't.</text>
+    <aspectTerms>
+      <aspectTerm label1="download latest update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="98" review-id="2721">
+    <text>This update keeps shutting my entire phone down. Have taken drop box off my apps just so that it won't freeze up my os.</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="99" review-id="1698">
+    <text>On the newest version I can find no way to see th entire file name. It shortens it with ... On the old version I could click the file and then minimize the left bar and see the file name, but on this version I don't see any way to do that. The point of this is files right? Seeing the full names of those files is sort of important.</text>
+    <aspectTerms>
+      <aspectTerm label1="left bar" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="see th entire file name" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Seeing the full names" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="100" review-id="1699">
+    <text>COME ON DROPBOX!!!! This is getting ridiculous! I've uninstalled and reinstalled and it's still stuck!
+Your customer service said this update would fix it!</text>
+    <aspectTerms>
+      <aspectTerm label1="customer service" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="UPLOAD VIDEOS" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="101" review-id="2212">
+    <text>This is a must have App as you can set it to sync all your pictures and once you take one they are saved in the cloud and also accessible by any other device you have Dropbox installed on and are signed into! One amazing MUST HAVE product and App xx</text>
+    <aspectTerms>
+      <aspectTerm label1="accessible by any other device you have Dropbox " label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="saved in the cloud " label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="sync all your pictures" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="102" review-id="2723">
+    <text>I get a pop up about push notifications and if I push ok it pops back up again making it completely inoperable. I tried changing all the push notification options and it doesn't fix it!</text>
+    <aspectTerms>
+      <aspectTerm label1="pop up" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="push notification" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="103" review-id="2214">
+    <text>I have been using Dropbox for years now and I have never been more happy when it comes to sharing files with myself (between all my devices) and with friends. Out of all the things I have tried, Dropbox has been the fastest program to upload any file and can be accessed immediately anywhere even through their website.</text>
+    <aspectTerms>
+      <aspectTerm label1="file can be accessed" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="sharing files" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="upload any file " label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="104" review-id="2725">
+    <text>I can't share folders!  That was the only reason I made a Dropbox in the first place.  Ugh.</text>
+    <aspectTerms>
+      <aspectTerm label1="share folders" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="105" review-id="3237">
+    <text>Useless. Don't waste your time</text>
+    <aspectTerms>
+      <aspectTerm label1="open" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="106" review-id="1706">
+    <text>I love the idea of Dropbox but my cloud does the same thing... My videos take a really long time to upload I think it froze :( If the app didn't take up space on my iPad then I would be impressed ;)</text>
+    <aspectTerms>
+      <aspectTerm label1="videos upload" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="107" review-id="1707">
+    <text>In a previous version, if the user was looking at pictures and suspended the app it would leave it right where they were upon restarting the app. Now the app completely refreshes at start up, which gets annoying sometimes. Also its more cumbersome to swipe through images since it's only responsive on the top half of the screen instead of the whole screen.</text>
+    <aspectTerms>
+      <aspectTerm label1="looking at pictures" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="refreshes at start up" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="responsive on top half of the screen" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="swipe through images" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="108" review-id="2220">
+    <text>best cloud service ever.</text>
+    <aspectTerms>
+      <aspectTerm label1="cloud service" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="109" review-id="1710">
+    <text>Use to be good until I cannot open any office documents.</text>
+    <aspectTerms>
+      <aspectTerm label1="open any office documents" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="110" review-id="1711">
+    <text>This is crashing every time I attempt to open something saved.  Please help!</text>
+    <aspectTerms>
+      <aspectTerm label1="open something saved" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="111" review-id="1712">
+    <text>It's very convenient to use, however not being able to switch between accounts without un-linking the phone would be great. Also an improvement in the media player would also help.</text>
+    <aspectTerms>
+      <aspectTerm label1="able to switch between accounts " label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="convenient to use" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="media player" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="112" review-id="2734">
+    <text>I did not give permission to upload pics. The settings say its off yet it continues to upload. STOP!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="loading pics" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="upload pics" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="113" review-id="3247">
+    <text>I liked very much the upgrade to pdfs (divisions and search). However, they aren't displaying anymore. Fix it and it will be perfect.
+Best wishes</text>
+    <aspectTerms>
+      <aspectTerm label1="displaying (divisions and search)" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="upgrade to pdfs (divisions and search)" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="114" review-id="3254">
+    <text>comic book reader would be nice... is store all of my cbr and cbz files on dropbox so i can read them anywhere</text>
+    <aspectTerms>
+      <aspectTerm label1="store all of my cbr and cbz files on dropbox" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="115" review-id="2232">
+    <text>Since the iOS 7 update the app is useless.  I have been using the app for sharing files while I travel but it know longer works. 
+Is there going to be a fix or do I just start deleting it off all my devices?  On the iPad it just crashes.</text>
+    <aspectTerms>
+      <aspectTerm label1="iOS 7 update" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="sharing files" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="116" review-id="2233">
+    <text>Since the new update Dropbox freezes and blanks when viewing files, never did it before with the old os.
+Really annoying to what was a good product.
+Hope the powers that are responsible read this and provide a much needed fix.</text>
+    <aspectTerms>
+      <aspectTerm label1="viewing files" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="117" review-id="1722">
+    <text>Love this app.
+
+Can you please integrate a spam filter feature so I can select and identify senders from which I no longer wish to receive emails.</text>
+    <aspectTerms>
+      <aspectTerm label1="select and identify senders to receive emails" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="spam filter feature" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="118" review-id="3256">
+    <text>fix it -_- wont let meh open it</text>
+    <aspectTerms>
+      <aspectTerm label1="open current version " label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="119" review-id="2237">
+    <text>While Word doc files open fine in Dropbox on my PC and on my iPad (I haven't upgraded my iPad Dropbox app in a while and haven't upgraded my iPad to iOS 7), these files no longer open on my iPhone after upgrading to iOS 7 and updating my iPhone dropbox app. Since the files I most often open on my phone app are doc files, this greatly handicaps the usefulness of Dropbox. Very sad!</text>
+    <aspectTerms>
+      <aspectTerm label1="Word doc files won't open iphone" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="120" review-id="2750">
+    <text>Why is Dropbox using my location, even after I have just turned the phone on and haven't even opened the app?? 
+
+Had to disable this is privacy settings to just to resolve the battery drain. 
+
+Seriously, the developers have gotten some weird bugs going on with this latest update and need to resolve them pronto. 
+
+Very disappointing. :(</text>
+    <aspectTerms>
+      <aspectTerm label1="battery drain" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Location services" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="privacy settings" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="121" review-id="1727">
+    <text>My videos aren't loading into my Dropbox. Once the load all the way up, and should go in and move on to the the next instead it jus starts over. Can you please help? Otherwise it's great. Thanks for fixing the uploading vids bak into phone problem.</text>
+    <aspectTerms>
+      <aspectTerm label1="Videos loading" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="122" review-id="2240">
+    <text>Love the service but annotations on PDFs have disappeared from Dropbox since iOS 7 update. Need these back please.</text>
+    <aspectTerms>
+      <aspectTerm label1=" iOS 7 update" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="annotations on PDFs" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="123" review-id="2752">
+    <text>I have no idea how to get drop box files to sync with the iPhone or iPad</text>
+    <aspectTerms>
+      <aspectTerm label1="drop box files to sync iphone ipad" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="124" review-id="3265">
+    <text>I just love using Dropbox. But iOS 5 is required to use it. How can I use it in iOS 4.1?</text>
+    <aspectTerms>
+      <aspectTerm label1="iOS 5 is required to use it." label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="125" review-id="1732">
+    <text>Great app I love the new design but with the new update when you try to share a link to a specific file that has a space in the file name I have to manually replace the spaces with %20 so it will hyperlink correctly. This used to not be a problem. Please fix this ??. Other than that one problem this is a great app also I like the fact that if you download a picture from the app onto the iPhone it doesn't auto upload the picture so you have 2 copies of the same photo in the auto upload folder. Thank you for that fix. Keep up the great work.??</text>
+    <aspectTerms>
+      <aspectTerm label1="auto upload folder" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="new design" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="new update" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="share a link to a specific file that has a space i" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="126" review-id="2758">
+    <text>I love Dropbox on my Mac and I use it all the time to share files with my photography clients. However I find it very annoying I cannot email the link to my clients in the iPhone app! Makes it hard for on-the-go sharing! What's the point of the app if I cannot share my folders?!
+Please change!</text>
+    <aspectTerms>
+      <aspectTerm label1="share files" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="share folders" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="127" review-id="2247">
+    <text>Why did you remove open in option for music files?
+I used to be able to do this with my sound files Why??</text>
+    <aspectTerms>
+      <aspectTerm label1="open in option for music files" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="128" review-id="3274">
+    <text>I use several apps for PDF viewing and one feature that keeps me on the prowl for the holy grail of PDF viewers, is an app that supports PDF markup. Being a musician and heavy e-reader, I rely heavily on PDF markup. 
+
+Dropbox, give us some simple PDF markup abilities, e.g., highlight, pen, erase, opacity, and you will put several PDF viewer apps to bed. Couple these features with the ability to share a folder of PDFs with other Dropbox users and you've converted me, and countless others, to PDF viewing through Dropbox.</text>
+    <aspectTerms>
+      <aspectTerm label1="ability to share a folder" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="PDF viewing" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="supports PDF markup" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="129" review-id="2251">
+    <text>I love our Dropbox functionality and speed. BUT the iPad app is broken. I am not finding a way to read the longer, truncated file names in the left column. I can only hide it, not adjust it.  This is no biggie for people with short names but our company has some longer descriptives in the names. Please fix so we can resize the column boundaries, as with many other apps.</text>
+    <aspectTerms>
+      <aspectTerm label1="adjust names" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="hide names" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Read File Names" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="read the longer, truncated file names" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="resize the column boundaries" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="speed" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="130" review-id="2763">
+    <text>Ever since the update to the new PDF viewer (March 2013?) the Dropbox app shows me out-of-date copies of PDFs in my Dropbox that have been updated.  The modification times shown in the app reflect the existence of the new versions, but only the old version is displayed.  This ruins the app as a substitute for printing hard copies of drafts for editing and proof reading, which I had gotten to really like.  Dropbox support has been unhelpful.</text>
+    <aspectTerms>
+      <aspectTerm label1="copies of PDF files" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="PDF viewer" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="support" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="131" review-id="3277">
+    <text>please fix it. it's the most often used function for me</text>
+    <aspectTerms>
+      <aspectTerm label1="read cached PDF" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="132" review-id="1742">
+    <text>The video I'm trying to upload is taking very long</text>
+    <aspectTerms>
+      <aspectTerm label1="upload" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="133" review-id="2258">
+    <text>I can no longer link my account to my atomic web browser, don't know if it's cause of the iOS 7 update, if so then please update the app to work with it</text>
+    <aspectTerms>
+      <aspectTerm label1="iOS 7 update" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="link my account to my atomic web browser" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="134" review-id="1748">
+    <text>Does everything you would hope it would do well. 
+
+I wish I could email documents from Dropbox as attachments not as links.</text>
+    <aspectTerms>
+      <aspectTerm label1="email documents from Dropbox as attachments" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="135" review-id="2775">
+    <text>Music player no longer works. Just about the only worthwhile feature for a mobile Dropbox.</text>
+    <aspectTerms>
+      <aspectTerm label1="Music player" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="play music" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="136" review-id="1753">
+    <text>Can't install on IOS 6 devices.</text>
+    <aspectTerms>
+      <aspectTerm label1="install on IOS 6 devices" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="137" review-id="2267">
+    <text>Very useful. I don't have iOS 7 so I don't really have any compatibility issues. Shame I can't view animated gif files though.</text>
+    <aspectTerms>
+      <aspectTerm label1="view animated gif files " label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="138" review-id="1758">
+    <text>This used to be my favorite app, but now that I can no longer open Excel files it's useless to me.</text>
+    <aspectTerms>
+      <aspectTerm label1="open Excel files" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="139" review-id="1759">
+    <text>I used to be able to view .xls files on my iPad AND iPhone.  I can still view them on my iPhone but they no longer open on the iPad. 
+
+Sometimes the files will open for a few seconds and then a gray screen comes up. Most of the time I just get the gray screen.  The gray screen has the file name, &quot;Office Open XML Spreadsheet&quot;' and the file size.
+
+My spreadsheets are simple (no macros) and small in size.  I've tried creating new spreadsheets and have the same issue.  Web research shows others have same issue but no fixes have worked for me. 
+
+I'm on the latest IOS 7.0.4 and the most recent version of Dropbox 3.0.1.
+
+Chat with Apple Support says it is a DropBox issue.</text>
+    <aspectTerms>
+      <aspectTerm label1="gray screen" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="view .xls files ipad" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="140" review-id="2783">
+    <text>How to add voice memo from the iPhone?!</text>
+    <aspectTerms>
+      <aspectTerm label1="voice memo" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="141" review-id="3294">
+    <text>Dropbox is a great program and tool, but with the last update which included a new PDF reader, I cannot open a PDF in full screen view, only thumbnail.  Please update, or if this is user problem, please inform.  I now have to use another program to vie my PDF files.</text>
+    <aspectTerms>
+      <aspectTerm label1="PDF in full screen view" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="PDF in only thumbnail view" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="PDF reader" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="142" review-id="3297">
+    <text>Seriously needs a way to sort so folders are on top like normal.</text>
+    <aspectTerms>
+      <aspectTerm label1="sort folders" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="143" review-id="1763">
+    <text>One feature they should add is being able to import multiple photos to camera roll, then it be better.</text>
+    <aspectTerms>
+      <aspectTerm label1="import multiple photos to camera roll" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="import photos to camera roll" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="144" review-id="1767">
+    <text>I love Dropbox and this app don't get me wrong but I have one thing in particular that will help make this app much more easier and nicer to use. For those who have a lot of photos (let's say *cough: 8,000). Have it so instead of uploading all photos, have it so you can choose which ones to upload as a option in settings. If you do so I'll give the app the 5 stars it deserves :)</text>
+    <aspectTerms>
+      <aspectTerm label1="upload as a option" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="uploading all photos" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="145" review-id="1768">
+    <text>My favorite old feature was uploading a bunch of photos and videos from the day overnight or while using another app. That feature is gone now, I don't know if an update thing or new iOS thing. It's very inconvenient to constantly have to make sure the app stays open to upload.</text>
+    <aspectTerms>
+      <aspectTerm label1="upload in background" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="uploading a bunch of photos and videos from the da" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="146" review-id="3303">
+    <text>This update would be a step up if you could actually see PDF's with it....</text>
+    <aspectTerms>
+      <aspectTerm label1="PDF viewer" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="see PDF" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="147" review-id="2794">
+    <text>The main issue I have with this app is that there isn't a &quot;keep me logged in&quot; feature. Please add and I will reward you greatly (with 5 stars) ; )</text>
+    <aspectTerms>
+      <aspectTerm label1="keep me logged in" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="148" review-id="1771">
+    <text>Awsome but cant do the powerpoint stuff i want to, not the apps fault though</text>
+    <aspectTerms>
+      <aspectTerm label1="do the powerpoint stuff " label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="149" review-id="3304">
+    <text>Yay!</text>
+    <aspectTerms>
+      <aspectTerm label1="sorting by date" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="150" review-id="3305">
+    <text>It would be nice to change the name of the files. When importing things and putting it inside a folder the order is not how I want it.</text>
+    <aspectTerms>
+      <aspectTerm label1="change the name of the files" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="importing things and putting it inside a folder" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="order things inside a folder" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="151" review-id="3309">
+    <text>Can we get push notifications for other things being shared, besides just folders. My bf is a photographer, he often sticks photos in our shared folder - would like a notification when things arrive. (I do have them turned on but never get them)</text>
+    <aspectTerms>
+      <aspectTerm label1="get push notifications for other shared things" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="152" review-id="1777">
+    <text>Convenient! No more lugging the laptop or losing a thumb drive. My files are accessible anytime, anyone, from any of my devices or another's. With three full time students in the house the affordable upgrade holds docs, data, music and more! Lots of room available. More convenient and more affordable than an external drive.</text>
+    <aspectTerms>
+      <aspectTerm label1="affordable upgrade" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="files are accessible" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="153" review-id="2803">
+    <text>Seriously? I keep trying to get to one of my files, but the app keeps crashing for some reason. Please fix this.
+
+Other than that, you're doing an average job!</text>
+    <aspectTerms>
+      <aspectTerm label1="trying to get to one of my file" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="154" review-id="3316">
+    <text>The new PDF reader is AWESOME!!</text>
+    <aspectTerms>
+      <aspectTerm label1="new PDF reader" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="155" review-id="1785">
+    <text>The app would be great with two &quot;features&quot;.  One the ability to read long filenames.  The app truncated all my files so I can't tell which is which in our companies file naming procedures.  Really is a complete PITA.  Next there needs to be a clear cache option.  I download a 700 mb file and open it in a app I really don't need to have it in two places on my iPad.  Add these missing features for more stars.</text>
+    <aspectTerms>
+      <aspectTerm label1="clear cache option" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="download a file and open it " label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="read long filenames" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="156" review-id="1786">
+    <text>This app is great but the only thing I don't like is that that it freezes a lot and doesn't load all of my pictures</text>
+    <aspectTerms>
+      <aspectTerm label1="load all of my pictures" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="157" review-id="2809">
+    <text>Need to be able to set limited as to how  much space it uses on my phone. It's using over 500MB. My phone is out of space.</text>
+    <aspectTerms>
+      <aspectTerm label1="set limited to how  much space it uses on my phone" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="158" review-id="2815">
+    <text>I have used Dropbox for a while but the 2 features which I live the most are Open in Dropbox and save on your mobile device. Great vision and work.
+
+The only piece missing in this is, when we go to the folder where we want to save the file it does not show a preview of the content if the folder. This will be a good to have.</text>
+    <aspectTerms>
+      <aspectTerm label1=" show a preview of the content if the folder." label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Open in Dropbox" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="save on your mobile" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="159" review-id="2304">
+    <text>I generally love Dropbox, but since I upgraded to iOS 7 I can no longer view html files properly (I am referring to files saved on my Dropbox as .html). I used to view them displayed nicely as web pages, but now I just see the source code instead! Can you please fix that??
+
+Also, can you please add the option to copy and move files? It would be a very useful feature!! Thanks!</text>
+    <aspectTerms>
+      <aspectTerm label1="copy and move files" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="upgraded to iOS 7 " label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="view html files as web pages" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="160" review-id="3329">
+    <text>This is not a review of the Dropbox service (which is great) but of this app, which can use a lot of improvements. The single most frustrating thing about it is that it displays only a dozen or so characters in a file name. Since I have thousands of files, some with long and descriptive names, it is impossible to find what I'm looking for unless I download the files to the iPad one by one. There is no way to resize the file list to make more of the files visible. Why not?</text>
+    <aspectTerms>
+      <aspectTerm label1="File names illegible" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="resize the file list" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="161" review-id="2306">
+    <text>Every time I upload pictures it starts to say &quot; conntect to iTunes &quot; and it keeps poppin up after I click ok .. Fix this ??</text>
+    <aspectTerms>
+      <aspectTerm label1="conntect to iTunes" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="upload pictures" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="162" review-id="1795">
+    <text>I really love how Dropbox update design.</text>
+    <aspectTerms>
+      <aspectTerm label1="Dropbox update design" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="163" review-id="2820">
+    <text>It allows me to share individual photos but not entire folders!  What good is that?? I can easily text someone a single photo ... WTH ?  I want to be able to send a link to people of an entire folder with many pics in it from my mobile.  Seems useless now. 
+
+On the other hand I do like that I can view and share excel documents. That's pretty cool. Although it does take quite a while to load it seems.</text>
+    <aspectTerms>
+      <aspectTerm label1="load" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="send a link to people of an entire folder" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="share excel documents" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="share folders" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="share individual photos" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="view excel documents" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="164" review-id="3330">
+    <text>I tried to launch it and it always crashes and exits. Even restarting the iPad could not address the issue. iOS is 5.1.1. Hope Dropbox team improves the QA process and perform more exhaustive testing before releasing a new version.</text>
+    <aspectTerms>
+      <aspectTerm label1="launch" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="QA process" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="165" review-id="3332">
+    <text>This app not only looks great, but also provides excellent functionality.  Flash Drives are a thing of the past!</text>
+    <aspectTerms>
+      <aspectTerm label1="looks great" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="166" review-id="1799">
+    <text>The new update released last week is terrible. I can not open many of my files on my Ipad. I have to open the files in other programs. Drop Box needs to fix this issue.</text>
+    <aspectTerms>
+      <aspectTerm label1="open many of my files on my Ipad" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="open the files in other programs" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="167" review-id="2824">
+    <text>Does anyone else have their Dropbox app, not the site, increasing in memory even without any favorite files???. Have to erase app once every 2 weeks!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="memory" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="168" review-id="3335">
+    <text>Cannot open any saved files.</text>
+    <aspectTerms>
+      <aspectTerm label1="open any saved files" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="169" review-id="2316">
+    <text>I love this app, BUT it is not working with iOS7!!!!!
+
+Please help Dropbox.</text>
+    <aspectTerms>
+      <aspectTerm label1=" iOS7" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="170" review-id="2318">
+    <text>While there are many ways to remotely store files, Dropbox is the best one due to it's vast number of ways to access your files. I have it on my iPhone and laptop and use three shared folders with classmates and family. Finally, if you have a large file to send someone, you can just put it into your Dropbox and easily send that person a link to view and download your file! Even if they don't have an account! Incredible!</text>
+    <aspectTerms>
+      <aspectTerm label1="access your files" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="remotely store files" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="share large files with someone" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="171" review-id="2319">
+    <text>Music takes 15 seconds to load after you have selected a song ( doesn't matter if I'm on Verizon LTE or Wifi) also, it doesn't play the next song automatically instead you have to open the app, go back and pick the next song in the folder. You can't even hit the &quot;next&quot; button to skip tracks.  Please fix these in the next update!
+
+Running iOS7. Same issues on iOS 6</text>
+    <aspectTerms>
+      <aspectTerm label1="Music load" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="next button " label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="play song automatically" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="172" review-id="2830">
+    <text>It won't close, and there is nothing to get me back to a home page. Too bad it is supposed to be used along with some apps I would like to use but since it doesn't work I can't use the others either.</text>
+    <aspectTerms>
+      <aspectTerm label1="back to a home page" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="close" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="173" review-id="3345">
+    <text>I like the fact that I can download drop box on any device and share pics. What I don't like is the time it takes to download pics and that in order to download I have to always be connected to the Internet, this keeps the pics from downloading some times when I am away from wifi. 2.6.13 i'm still trying to figure out app support. pictures are not downloading and i am going to remove this app from my IPAD its worthless</text>
+    <aspectTerms>
+      <aspectTerm label1="download drop box" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="pic download" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="picture download" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="share pics" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="time it takes to download pics" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="174" review-id="2836">
+    <text>This app never installed correctly, I don't see the icon.
+Nevertheless, it always show up in the App Store under Updates.
+It always says Installing...
+I can't update it, can't delete it, can't use it.
+Only App I've ever seen that does that.
+
+ZERO stars!
+
+What a Joke!</text>
+    <aspectTerms>
+      <aspectTerm label1="delete" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="icon" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="install" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="use" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="175" review-id="3350">
+    <text>When I put things into my dropbox folder on my desktop, I can find files by date modified, by name, etc.  The app has an incomprehensible and un-modifyable sorting function.  It's almost impossible to find files within the app.  Once you find them on your phone, I believe you can &quot;favorite&quot; them.  But the challenge is to find them.</text>
+    <aspectTerms>
+      <aspectTerm label1="dropbox folder" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="favorite" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="find files" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="sorting function" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="176" review-id="2840">
+    <text>Argh. Crashes all the time. This service, and this app, would be great if the app didn't crash when reading PDFs.
+
+Great when it works.</text>
+    <aspectTerms>
+      <aspectTerm label1="reading PDF" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="service" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="177" review-id="1817">
+    <text>Some things I'd really like to see are the albums I created on Dropbox.com. I have recently decided to move my pics to DropBox and would like to have them available at all times on my phone, in my albums.
+
+Also, an ability to highlight/edit PDF's would be rad.</text>
+    <aspectTerms>
+      <aspectTerm label1="ability to highlight/edit PDF's" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="see are the albums I created on Dropbox.com on my " label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="178" review-id="2329">
+    <text>I use Dropbox for everything. Having this available easily on my phone made checking updates on projects from work to sharing items much easier when I'm not at a computer. Also makes it easy to get photos from phone to computer since I never seem to move them. 
+
+Shameless plus here - works great combined with Ifttt to move post record things on calendar emails contacts via spreadsheet or special folders.</text>
+    <aspectTerms>
+      <aspectTerm label1="checking updates on projects" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="combined with Ifttt to move post record things on " label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="get photos from phone to computer" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="sharing items" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="sync" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="179" review-id="2332">
+    <text>Why is it that the navigation bar is suddenly two different colors now that I've downloaded iOS 7? Looks almost like some sort of glitch.</text>
+    <aspectTerms>
+      <aspectTerm label1="Navigation bar" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="180" review-id="2846">
+    <text>Dropbox, we're supposed to upload our photos and video, but where will it all go? With the amount of photos and video we take, 100 or 200GB won't last more than a few years, let alone be a permanent solution. Please offer a different storage system for photos and video for power users. 
+
+And please, add the ability to tag photos and video. There is no way to navigate Camera Uploads with any amount of speed and efficiency. We need a way to display our photos once we have stored them; right now it is a giant useless folder. An Evernote system of tags and saved searches would enable us to keep all photos/video in one place and still sort them when needed. 
+
+Great service overall, but you come up short in photo/video storage. Take a cue from Flickr: charge a fee for unlimited media storage. I'd still pay for a separate 100GB document storage, which is what I have now.</text>
+    <aspectTerms>
+      <aspectTerm label1=" tag photos" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="display our photos" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="navigate Camera Uploads" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="saved searches" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="sort pictures" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="sort video" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="storage system for photos and video" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="tag video" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="upload our photos" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="upload video" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="181" review-id="2849">
+    <text>awful app...I uploaded HUNDREDS of photos but app could not upload them all..lost hundreds of precious memories of concerts, times with friends, etc. I was SOLELY relying on this app; I had NO back up for these photos and deleted them when it said they were done. now they are gone. I can NOT access them.</text>
+    <aspectTerms>
+      <aspectTerm label1="access photos" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="uploaded HUNDREDS of photos" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="182" review-id="2338">
+    <text>Can no longer add files directly from phone. Completely loses point for me now. Won't use it until I see an update.</text>
+    <aspectTerms>
+      <aspectTerm label1="add files directly from phone" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="183" review-id="2856">
+    <text>I'm using this to exchange tracks for my bands new EP, so I can review what we have down so far. I like the app, and the program a whole lot, but my WAV files only load and play when I have a wifi connection. I personally don't have wifi and the house I live in chooses to keep it that way. Hopefully this is just a bug that they can fix up because if it wasn't for the files crashing, I'd give it a full 5 stars. Hopefully this review will make that difference. ;p</text>
+    <aspectTerms>
+      <aspectTerm label1="WAV files only load and play " label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="wifi connection" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="184" review-id="2345">
+    <text>Not sure how I lived without it. Best way I know to keep all my important files in one place so I can access them from anywhere on any device!</text>
+    <aspectTerms>
+      <aspectTerm label1="can access files from anywhere on any device" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="keep all my important files in one place" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="185" review-id="2351">
+    <text>One flaw is the fact that its almost impossible to load mp3s or WAV files over data. It will play for a second or two then say its unable to load this file. Fix please!</text>
+    <aspectTerms>
+      <aspectTerm label1="load mp3s or WAV files over data" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="186" review-id="2865">
+    <text>Dropbox no longer accepts files from my iPad since latest IOS update. Before this issue the app actually worked and was an easy five star.</text>
+    <aspectTerms>
+      <aspectTerm label1="accepts files ipad" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="187" review-id="2867">
+    <text>I love dropbox, but lately I have had trouble with the app. 
+I can log in through safari fine, but when I use the app I keep getting a pop up which won't go away that says &quot;connect to itunes to use push notifications&quot; the weird thing is, I have all notifications for Dropbox turned off!
+I can reinstall the app and then it works for a while, until I switch to a different app or go to the home screen, then I have the same problem. 
+Hopefully there will be an update soon to fix this. :(</text>
+    <aspectTerms>
+      <aspectTerm label1="getting a pop up" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="go to the home screen" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="notifications for Dropbox" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="188" review-id="2356">
+    <text>All it needs is multiple accounts!</text>
+    <aspectTerms>
+      <aspectTerm label1="multiple accounts" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="189" review-id="2357">
+    <text>At around 5pm every day all of my latest (today's) files just disappear. They are still there though. I can search for them and find them. Then tomorrow, they are magically back!
+
+On my desktop there is no issue. Just on iOS. 
+
+Is this a known bug?</text>
+    <aspectTerms>
+      <aspectTerm label1="find file " label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="IOS" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="search for file" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="190" review-id="2358">
+    <text>You can't download any videos into your phone. Like come on I don't know why yahoo would do this to me making a deal with Dropbox.</text>
+    <aspectTerms>
+      <aspectTerm label1="download any videos" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="191" review-id="2871">
+    <text>Best cloud sharing service, but app for iPhone stop working as it will not open on iPhone 5, keep asking to connect iTune for alert &amp; notification... I have to use Dropbox service through 3rd Party Software like iExplorer to use it.  Will give 5 stars if this fix. By the way, my iOs version is 6.1.3</text>
+    <aspectTerms>
+      <aspectTerm label1="cloud sharing service" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="connect iTune for alert &amp; notification" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="192" review-id="2361">
+    <text>People seem to only right reviews when made so I'm sure there are more people then this that love drop box. It's better then any other cloud option. Beats skydive, google docs and the expensive i cloud stuff. I love it and highly recommend for all devises and all file types. Back up data to another hard drive just to be 100% safe  but it works across all my devises.</text>
+    <aspectTerms>
+      <aspectTerm label1="cloud option for all devises and all file types" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="193" review-id="2364">
+    <text>I keep getting the message &quot;connect to ITunes to get push notifications.&quot; i cannot get rid of this message. Can't connect to iTunes or use Dropbox. Even have trouble getting out of Dropbox. Please fix.</text>
+    <aspectTerms>
+      <aspectTerm label1="Push notifications" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="194" review-id="2366">
+    <text>Still no gallery in Camera Upload mode !</text>
+    <aspectTerms>
+      <aspectTerm label1="Camera Upload mode" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Gallery" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="195" review-id="3391">
+    <text>It was cool, until the last update where now I can't upload from my iPhone.. It starts uploading , the progress bar shows it going, then when radionics he'd, the progress bar just starts again and again going over and over</text>
+    <aspectTerms>
+      <aspectTerm label1="progress bar" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="upload from my iPhone" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="196" review-id="3394">
+    <text>At first when I got this it was cool, but then when I changed my mined about having my camera uploads in my Dropbox it says that I don't have any photos in my library when I clearly have photos in my library....please fix!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="having my camera uploads in my Dropbox" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="photos in my library" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="197" review-id="1860">
+    <text>Hate the new iOS 7 look. Ugly, not user friendly, takes more effort to navigate.</text>
+    <aspectTerms>
+      <aspectTerm label1="navigate" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="redesign" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="user friendly" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="UX" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="198" review-id="1861">
+    <text>I'm very disappointed that I can't open most excel files anymore! Repeated tries works occasionally but it should work every time!</text>
+    <aspectTerms>
+      <aspectTerm label1="open most excel files " label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="199" review-id="2885">
+    <text>Every time I try to open one of my audio files the app just shuts down. I have upgraded to the new version. This app needs some fixes. I love using it otherwise, and love that ican access any file in dropbox on all my computers and easily share with others</text>
+    <aspectTerms>
+      <aspectTerm label1="access any file" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="open audio file" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="share" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="200" review-id="3399">
+    <text>Very useful app.  Thank you! If only I could see my filled in fields of the Word forms on it it would be awesome. It is a pain and a hustle not to be able to.  
+Also I miss the old app logo, new one is  just so-so.
+Otherwise it is great.</text>
+    <aspectTerms>
+      <aspectTerm label1="see my filled in fields of the Word forms" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="201" review-id="2376">
+    <text>Dropbox is amazing and perfect for storage and safety I love it! I just wish there was an option to change the name of pictures and documents through your phone.</text>
+    <aspectTerms>
+      <aspectTerm label1=" change the name of pictures and documents through" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="storage and safety" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="202" review-id="3400">
+    <text>It's great but should put Apple TV support to view photos better in the Apple TV.</text>
+    <aspectTerms>
+      <aspectTerm label1="view photos " label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="203" review-id="1866">
+    <text>No longer able to hide the file list, so you don't have full screen displayed like previous version. Please bring back.</text>
+    <aspectTerms>
+      <aspectTerm label1="file list" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="full screen" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="204" review-id="2378">
+    <text>I typically don't leave support as my feedback, but I can't seem to get a response. This app crashes each and every time I try to open it on my iPad 3rd gen. I use it often on my Iph5 but for some reason here it doesn't work. Please update ASAP so it works again.</text>
+    <aspectTerms>
+      <aspectTerm label1="open iPad" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="205" review-id="2890">
+    <text>I love it. So easy even a cave man can  use it. I loaded 314 documents in about five seconds. Now I can read and work on documents no matter where I am. The cloud's got nothing on this. Dropbox rocks.</text>
+    <aspectTerms>
+      <aspectTerm label1=" loaded documents" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="easy to use" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="read and work on documents" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="206" review-id="1870">
+    <text>I care more about the functionality than the looks, so this review will say nothing about the updated look.  There are some major bugs/problems with the update!!!!  I am no longer given the option to &quot;open in&quot;.  This means, I can look at my Numbers spreadsheets, but I can't &quot;open in&quot; Numbers, so I can't work with those spreadsheets or enter any info on them.  Major issue!!!  It makes dropbox completely useless for me.     Please fix this !!!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="functionality" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="looks" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="open in" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="207" review-id="1872">
+    <text>The new interface is a very big disappointment. Is there any way to get Version 2.3.2 back?
+Way too much white space which is hard on the eyes. Also, still not able to rename files -- unbelievable!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="new interface" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="rename files" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="white space" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="208" review-id="3409">
+    <text>The camera upload on this app is really glitchy and it's not letting me put any of my pictures on it.</text>
+    <aspectTerms>
+      <aspectTerm label1="Camera upload" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="put pictures" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="209" review-id="2387">
+    <text>I use it to sync files between a desktop, laptop, iPad, iPod and iPhone. 
+
+And for collaborating with others by using shared files and folders. 
+
+I once had a problem on my iPad with an endless loop asking me to connect to iTunes. But that turned out to be an Apple problem which for me could only be solved by a complete erase and restore. 
+
+Since the problem only occurred in DropBox, I initially assumed it was their problem. It was not.</text>
+    <aspectTerms>
+      <aspectTerm label1="asking me to connect to iTunes" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="sharing files" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="syncing files" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="210" review-id="2388">
+    <text>Still no ability to change file names - a very basic function. Hard to believe after this amount of time. Error messages when simply trying to move files. No response from dropbox</text>
+    <aspectTerms>
+      <aspectTerm label1="change file names" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="move files" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="211" review-id="2393">
+    <text>It works on a few platforms but I love to keep changing my phones every couple of weeks and this app is not universal on all platforms. They need to release this app on more platforms like newer Windows Phone 8 like Lumia 1020 and then it will be true 5 stars. Till then, sky drive wins.</text>
+    <aspectTerms>
+      <aspectTerm label1="more platforms" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="212" review-id="2907">
+    <text>I use ipad mini. But I cant even access to my account because the app crashes in iphone size every time i open it. Need a hotfix, URGENT</text>
+    <aspectTerms>
+      <aspectTerm label1="access to the account" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="213" review-id="2909">
+    <text>This would easily be a 5 star app. Best idea ever.  But it loses 2 stars just because I have to download one photo at a time. This is a huge inconvenience.</text>
+    <aspectTerms>
+      <aspectTerm label1="download one photo at a time" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="214" review-id="2910">
+    <text>It was working fine with no problems and now I can't even get the app to open!! Not happy about this at all!! Please fix!!! I even deleted the app and re downloaded n it still doesn't open this is very frustrating because this a great app when it actually works!!</text>
+    <aspectTerms>
+      <aspectTerm label1="open" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="215" review-id="3423">
+    <text>Its good. Turn off camera upload in settings or click cancel instead of enable during initial setup. Great app.</text>
+    <aspectTerms>
+      <aspectTerm label1="camera upload enable during initial setup" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="216" review-id="3425">
+    <text>Easily the most important app on all my devices is Dropbox. If you are a multi-platform user this is a must have. I only wish there was streaming support for media files (btw @dropbox - I'd pay extra for that). I am a Pro subscriber and can say its worth every penny for any executive on the go. I also love the dead simple camera upload for my iPad &amp; iPhones but would like to see that integrated outside of a sync.</text>
+    <aspectTerms>
+      <aspectTerm label1="camera upload integrated outside of a sync." label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="simple camera upload for my iPad &amp; iPhones" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="streaming support for media files" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="support multi-platform user" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="217" review-id="1891">
+    <text>But why does location need to be enabled?</text>
+    <aspectTerms>
+      <aspectTerm label1="location" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="218" review-id="2405">
+    <text>Should be able to mark entire folders as favorites so they will save to mobile device, not just each file individually.</text>
+    <aspectTerms>
+      <aspectTerm label1="able to mark entire folders as favorites" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="save to mobile device" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="219" review-id="3431">
+    <text>The automatic upload feature is ridiculous as there is no intuitive or easy way to stop it.  Also, the delete function is confusing and should have some sort of dialog box informing you that you are about to delete a photo on your ipad, not just in dropbox interface, and ask you to confirm that you want to do this.  My wife tried to stop the automatic upload and hit the delete prompt thinking that may stop it.  We now lost photos of our newborn which we cannot recover.  Thank you Dropbox - you just lost us photos we will never get back!</text>
+    <aspectTerms>
+      <aspectTerm label1="automatic upload feature" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="delete function" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="dropbox interface" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="220" review-id="2921">
+    <text>Need to have an option to select multiple documents (and/or folders) and forward them at the same time instead of opening each one individually!!!!!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="forward multiple documents" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="opening documents individually" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="opening folders individually" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="select multiple documents" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="select multiple folders" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="221" review-id="2412">
+    <text>It's way too slow!! Loved this app.. Then I updated and its like a flipping sloth. Ugh!! FIX PLEASE!!</text>
+    <aspectTerms>
+      <aspectTerm label1="too slow" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="222" review-id="1902">
+    <text>The inverted colors of the icon induce retinal after images, and in-app, the whiteout is hard on the eyes. The experience on an iPad Air is one of huge expanses of white or badly contrasting off-white/light blue and stencil-thin pale icons battling the brightness of it all. The spartan look works fine on an iPhone, where there is proportionately less white assaulting the eye; with the iPad, however, I keep trying to reduce the brightness of the display, but that only further impacts contrast and legibility. 
+Also why is it not possible to change names of files or folders??</text>
+    <aspectTerms>
+      <aspectTerm label1="change names folder" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="change names of files" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="inverted colors icon" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="whiteout" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="223" review-id="2926">
+    <text>The app in iPhone needs important issue &quot;share via email&quot;</text>
+    <aspectTerms>
+      <aspectTerm label1="share via email" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="224" review-id="3439">
+    <text>It takes forever to upload photos, 2-3 weeks after I started the photos finally became viewable. I had no problems installing the last update. I love the recent upgrades. Syncs perfectly. Sharing is easy. Overall, a great app but needs a few tweaks.</text>
+    <aspectTerms>
+      <aspectTerm label1="Sharing" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Syncs" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="upload photos" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="225" review-id="1906">
+    <text>Since they did a new update almost all my JPEG take too much time to open or even don't open. I need to save the file to see the photo on my iPhone. 
+
+How can I have the old version?????</text>
+    <aspectTerms>
+      <aspectTerm label1="open JPEG" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="save the file" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="226" review-id="1909">
+    <text>Keep up the good work but camera upload has stopped working for me. No matter what I change no photos or videos will load.</text>
+    <aspectTerms>
+      <aspectTerm label1="camera upload" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="photos or videos will load" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="227" review-id="2421">
+    <text>Always loved Dropbox. Reliable and handy. Newest version has menu problems. Can't upload. Please fix! Thanks!</text>
+    <aspectTerms>
+      <aspectTerm label1="Newest version menu" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="upload" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="228" review-id="2933">
+    <text>Can't use due to pop-up about push notifications. Open iTunes and connect for notifications. HATE IT!</text>
+    <aspectTerms>
+      <aspectTerm label1="pop-up about push notifications" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="229" review-id="2936">
+    <text>This app used to be flawless! But after recent updates I have issues uploading things. I'll select a bunch of my photos to back up and the app will crash out and only upload a few and not all. Major bummer!</text>
+    <aspectTerms>
+      <aspectTerm label1="photos to back up" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="upload photos" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="uploading things" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="230" review-id="1913">
+    <text>I want the old version , this don't have the option to share my files via Facebook message ,please bring back the previous version or fix that !!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="old version" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="share my files" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="231" review-id="2938">
+    <text>I love the fact that its so easy to use and now my cel is working better than ever! If you're still thinking to get this app don't think anymore download it now, Thanks Dropbox!</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to use" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="232" review-id="3448">
+    <text>With the latest update I can't open word documents. Yes they are saved in the right format. Its just not working please fix.</text>
+    <aspectTerms>
+      <aspectTerm label1="documents saved" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="latest update" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="open word documents" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="233" review-id="2428">
+    <text>I am having problems uploading stuff to survival craft a game. To upload it says i need to put it in dropbox but it wont let me share it with survival craft again what do i do</text>
+    <aspectTerms>
+      <aspectTerm label1="share it with survival craft" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="uploading to survival craft a game" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="234" review-id="2940">
+    <text>The app drains your battery cause it uses your gps all the time.</text>
+    <aspectTerms>
+      <aspectTerm label1="drains your battery" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="gps" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="235" review-id="2431">
+    <text>This is a great app, however, to move apps into a folder I have to go online. I have to overwrite in the app to update a file and then I have to use the web version to move updates files into a folder.
+I may be doing something wrong so I'm giving 4 stars for now. If you or anyone can explain that would be great. I've looked over the directions and can't find how to do it all within the app. I want to use the app for its full purpose.</text>
+    <aspectTerms>
+      <aspectTerm label1="to move updates files into a folder." label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="236" review-id="3455">
+    <text>Aside from the &quot;glowing&quot; feedback and all the media hoopla, this app really blows.  
+Since the new upgrade, copying or especially MOVING files inside the app is impossible.  It times-out the app and crashes constantly.  
+For me, it way more easier to store files in the storage area of my online email provider - GMX.  GMAIL has online file storage and a service very similar.  GO WITH THESE and KEEP YOUR HAIR.</text>
+    <aspectTerms>
+      <aspectTerm label1="copying files" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="MOVING files" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="store files" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="237" review-id="3458">
+    <text>With the latest update you can no longer download ePub files to iBooks. The option to download is grayed out. Looks like I will be moving over to google docs or something else.</text>
+    <aspectTerms>
+      <aspectTerm label1="download ePub files to iBooks" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="option to download is grayed out" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="238" review-id="1923">
+    <text>How do you move files within existing folders? The world may never know. Great, fast app... But moving files is a necessity.</text>
+    <aspectTerms>
+      <aspectTerm label1="move files within existing folders" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="239" review-id="3459">
+    <text>The latest revision (as of 10 January 2013) loops endlessly when trying to upload a 411KB file.  Had to email it to move to another device.</text>
+    <aspectTerms>
+      <aspectTerm label1="upload file" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="240" review-id="2439">
+    <text>O sugest an puch notification in iphone  whem a file is added.</text>
+    <aspectTerms>
+      <aspectTerm label1="file is added" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="puch notification in iphone " label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="241" review-id="2442">
+    <text>Well, it opened when I first installed it. Now it won't open at all. Fix it</text>
+    <aspectTerms>
+      <aspectTerm label1="open" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="242" review-id="2445">
+    <text>Its amazing. The only thing to make it better is to have the ability or export videos to your camara roll</text>
+    <aspectTerms>
+      <aspectTerm label1="have the ability or export videos to your camara r" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="243" review-id="2446">
+    <text>I love it, making a password lock before accessing the actual app would be perfect, for the fact that most of the files are very important, but still an amazing app.</text>
+    <aspectTerms>
+      <aspectTerm label1=" password lock before accessing" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="244" review-id="3471">
+    <text>This works wonderful on my iPhone 4S. I have many things on my PC and it automatically syncs to my iPhone. I am never without important documents that I need to review or look up that are password encoded. Super easy and a huge time saver. Love it!!</text>
+    <aspectTerms>
+      <aspectTerm label1="documents password encoded" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="review or look up documents" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="syncs" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="245" review-id="3473">
+    <text>The fact that you can search within folders is extremely useful, and makes accessing files on the go far more convenient. I also think the latest style refresh is a big positive in the right direction. I use dropbox on all of my devices. I would like to see sorting within the app improved (e.g. by date), but it's good otherwise.</text>
+    <aspectTerms>
+      <aspectTerm label1=" accessing files on the go" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="latest style refresh" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="search within folders" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="246" review-id="2450">
+    <text>The service is great, but the app fails. Pressing &quot;Upload Here&quot; freezes the app and crashes it on the next open.</text>
+    <aspectTerms>
+      <aspectTerm label1="service" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="Upload Here" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="247" review-id="1939">
+    <text>Since the new update, I cannot now view my XLS files on iPad.  Please fix this ASAP. Thanks.</text>
+    <aspectTerms>
+      <aspectTerm label1="new update" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="view my XLS files on iPad" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="248" review-id="2963">
+    <text>Even Google Drive can refresh folders. 
+
+Some simple suggestions to increase usability:
+
+1. Currently, you have to leave the folder and come back in if you wish to refresh that folder. Let me refresh my folder with a refresh button so that I can view changes to files in a more streamlined manner. If I am constantly compiling a document on my computer and using my iPad to check that it looks okay or if I am constantly editing a photo and want a high quality, true color representation, then...#REFRESH!
+2. Refresh Button
+3. Button that Refreshes the Current Folder's contents.
+4. The air smells a bit. Why don't we REFRESH it?
+5. It is stupidly simple to add a refresh button
+6. Mentos: The Refresh Button Maker
+7. There's space on the top left of the app header to add a refresh button.  Nothing is there at the moment. It's lonely...
+8. Give me an R, Give me an E, Give me an F, Give me an R, Give me an E, Give me an S, Give me an H! What does that spell? Easily implementable refresh button with high utility even to people who don't know they need it yet! Yaaay!</text>
+    <aspectTerms>
+      <aspectTerm label1="folder refresh" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="usability" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="view changes to files" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="249" review-id="2453">
+    <text>Hey Dropbox team! Please add the ability to rename files, as well as the ability for gifs to play. I know you can do it!!</text>
+    <aspectTerms>
+      <aspectTerm label1="ability for gifs to play" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="ability to rename files" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="250" review-id="2964">
+    <text>Dropbox does not install on the iPhone. It has not since it first came out. Each update leaves me with the hope that it will now start working, but no joy. 
+
+It seems like a nice app. Wish I could use it.</text>
+    <aspectTerms>
+      <aspectTerm label1="install" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="251" review-id="3479">
+    <text>I gotta say, overall I like this app, although the logic behind the 15 min cap on streaming alludes me. I thought they may have imposed it to reduce bandwidth, but with the limit it actually increases bandwidth. The reason is because I start downloading the whole file, then start streaming it. Once the 15 min is up, I then switch to the downloaded file. To me, this uses more data. Why can't I just stream the whole thing? Overall, though, I like everything else about this app.</text>
+    <aspectTerms>
+      <aspectTerm label1="15 min cap on streaming" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="downloading file" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="file streaming" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="252" review-id="1944">
+    <text>Very annoying to not be able to see an entire file name.  Put some flexibility in the width of the display for those of us who use files with longer names.</text>
+    <aspectTerms>
+      <aspectTerm label1="file name display" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="flexibility in the width of the display " label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="253" review-id="2456">
+    <text>I'm having issues with moving my files.</text>
+    <aspectTerms>
+      <aspectTerm label1="moving my files" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="254" review-id="1946">
+    <text>Do not update! Icon is ugly</text>
+    <aspectTerms>
+      <aspectTerm label1="Icon" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="255" review-id="2968">
+    <text>Spent many hours successfully transporting pictures. Site then froze when I needed to export. All pictures are locked and frozen. I keep trying to re- access the app site with no success</text>
+    <aspectTerms>
+      <aspectTerm label1="export picture" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Frozen Screen" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="transporting pictures" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="256" review-id="1950">
+    <text>Why is this for iOS 7 only now? Not very fair for people wanting to run this on older devices or don't wish to downgrade to cruddy iOS 7.</text>
+    <aspectTerms>
+      <aspectTerm label1="Compatibility" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="Design" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="257" review-id="1951">
+    <text>I should know better than to update to newer versions. Unusable.</text>
+    <aspectTerms>
+      <aspectTerm label1="New iOS7 style" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="258" review-id="2463">
+    <text>The current version doesn't show all files in dropbox. Please fix!</text>
+    <aspectTerms>
+      <aspectTerm label1="show all files" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="259" review-id="2974">
+    <text>In theory it's great but once a PDF is selected it can be impossible to close it.  I have resorted to tapping relentlessly on my screen so some magic will show the tools.  The PDF just sits there.  Way more effective to go through a browser.  Really?  Irritating!</text>
+    <aspectTerms>
+      <aspectTerm label1="close pdf" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="260" review-id="3491">
+    <text>Having problem getting to update upgrade!?  It is stuck and I don't know what to do now???  Need response ASAP!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="update upgrade" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="261" review-id="1956">
+    <text>Disappointed to see there's still no text editor after all this time.</text>
+    <aspectTerms>
+      <aspectTerm label1="text editor" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="262" review-id="3500">
+    <text>Latest version seems to have stopped playing my videos.  Sad.</text>
+    <aspectTerms>
+      <aspectTerm label1="Videos stopped playing" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="263" review-id="2989">
+    <text>Add features to let me edit office files, share folders instead of just files, and view more types of files (catch up to g drive) and you'll get five stars, and I can stop using google drive.</text>
+    <aspectTerms>
+      <aspectTerm label1="edit office files" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="share files" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="share folders" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="view files" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="264" review-id="2478">
+    <text>I'm trying to download minecraft pe maps but all it's says is cant view file</text>
+    <aspectTerms>
+      <aspectTerm label1="download" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="view file" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="265" review-id="1967">
+    <text>I love the new design for iOS 7</text>
+    <aspectTerms>
+      <aspectTerm label1="new design for iOS 7" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="266" review-id="2480">
+    <text>You can't play wave files at ease ..... What about cluster play.... 1 star till updated...
+
+Why not have an export feature... Export to phone
+
+You can upload but cant download files to your phone
+
+Update from today
+
+........................
+
+THE EXPORT FEATURE IS GREAT...
+All I have to do is put a video from my computer on the Dropbox then download it to my phone ..... Perfect five stars from me....... Thank you very much people of dropbox
+
+.........................
+
+The export feature only works on certain videos.... There's a video I want to download like all the ones I successfully exported.... But it says for these bigger files...&quot; No app to use this video&quot; something close to that... Fix this by upgrading the size someone can download.... 3 stars until upgrade</text>
+    <aspectTerms>
+      <aspectTerm label1="cluster play" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="download files" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="EXPORT FEATURE" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="export feature  videos" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="export feature phone" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="play wave files" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="upload files" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="267" review-id="1969">
+    <text>Would be nice to have a grid view of photos other than just the auto upload of camera roll. Also would be nice to rename files.
+
+My last review still not fixed: This app doesn't support mobi file uploads. Would be nice to save my mobi files.</text>
+    <aspectTerms>
+      <aspectTerm label1=" grid view of photos" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1=" rename files" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="auto upload of camera rol" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="save my mobi files" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="268" review-id="3505">
+    <text>It's useful and helpful. All my files and especially my photos are being synced FAST to my laptop. This is the app that I've been looking for. It's very convenient also to use.</text>
+    <aspectTerms>
+      <aspectTerm label1="convenient to use" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="photos and files synced " label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="269" review-id="1971">
+    <text>White white white!</text>
+    <aspectTerms>
+      <aspectTerm label1="White" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="270" review-id="2483">
+    <text>How do I get MCPE maps and mods? Without iexplorer or any other fake website to get your money</text>
+    <aspectTerms>
+      <aspectTerm label1="MCPE maps and mods" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="271" review-id="2484">
+    <text>This app is perfect, next to ibook it is the most used app on my iPad(s).  The only thing I can think of to make it better would be the ability to display long file names, I use it as a repository for ebooks any many times have to download 3 or 4 books to find the correct one in a series.  Thanks for this great app!!</text>
+    <aspectTerms>
+      <aspectTerm label1="ability to display long file names" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="272" review-id="2996">
+    <text>I've been using Dropbox for quite sometime now, I have earned a fair amount of space, and I love being able to access all my files from my iPhone, iPad, MacBook, and the Internet via anyone else's computer.
+
+But these last 2 updates have disabled the save to camera roll feature, which I use all the time and have come across several times since the new update. Please please please add this feature back! I know I can just do a screen shot but i prefer the clean cut copy you receive, without boarders from saving images to the camera roll!</text>
+    <aspectTerms>
+      <aspectTerm label1="access all my files" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="save to camera roll" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="space" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="273" review-id="1975">
+    <text>The update is fantastic! Everything is easier to find, looks prettier, and is easy to access. Great job guys!</text>
+    <aspectTerms>
+      <aspectTerm label1="access" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="find" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="looks prettier" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="274" review-id="2998">
+    <text>I love this app but I do wish I could highlight words in PDFs and create bookmarks. Would this be possible at some piont?</text>
+    <aspectTerms>
+      <aspectTerm label1="create bookmarks in PDFs" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="highlight words in PDFs" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="275" review-id="2490">
+    <text>This app is the best utility ! Very needed ! I would suggest you to have at least 5 GB of space .</text>
+    <aspectTerms>
+      <aspectTerm label1="have at least 5 GB of space" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="276" review-id="3516">
+    <text>I would've lost hundreds of photos if it wasn't for this app! Thank you!</text>
+    <aspectTerms>
+      <aspectTerm label1="Saved photos" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="277" review-id="2494">
+    <text>I wish you could save Notes from the home page to Dropbox, that would make organizing my devotionals and other thoughts easier, as well as increase the camera upload speed instead of just one at a time. Thank you</text>
+    <aspectTerms>
+      <aspectTerm label1=" increase camera upload speed" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="save Notes from the home page to Dropbox" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="278" review-id="3007">
+    <text>This is the single most useful app I have ever used. Bar none. 
+
+Dear designers: Would love to see the functionality of the media player upgraded to allow play of songs one after another (without individually selecting them). Our band shares a folder and we put our songs in there, but you can't listen to them consecutively. They have to be selected one at a time. 
+
+Thanks for listening.</text>
+    <aspectTerms>
+      <aspectTerm label1="media player " label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="play of songs one after another" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="279" review-id="3008">
+    <text>Love the support for password protected MS Office docs, thanks!</text>
+    <aspectTerms>
+      <aspectTerm label1="support for password protected MS Office docs" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="280" review-id="3009">
+    <text>Sometimes I listened to mp3 files I have on Dropbox. Lately the sound stops after the screen locks. This didn't use to happen. Also the play, re, fw controls you get after double clicking the home button no longer work with this app.</text>
+    <aspectTerms>
+      <aspectTerm label1="listened to mp3 files" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="sound stops after the screen locks" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="the play, re, fw controls" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="281" review-id="1986">
+    <text>I love the new clean UI. Very unintrusive and elegant</text>
+    <aspectTerms>
+      <aspectTerm label1="UI" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="282" review-id="3519">
+    <text>Was nice , won't open since update</text>
+    <aspectTerms>
+      <aspectTerm label1="open" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="283" review-id="2500">
+    <text>Been using dropbox on the desktop for the past 3 years. Loved the service there. Got an iPhone 4s recently and installed the Dropbox app on it. Now I have all of Dropbox's great features on the go! It's great to be able to search for a resume or an crucial school document saved on my laptop from my phone. Dropbox saved me a countless amount of times!</text>
+    <aspectTerms>
+      <aspectTerm label1="able to search for a document saved on my laptop f" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="284" review-id="3522">
+    <text>This app keeps crashing as its loading my document. Im a student in college using my iPad and this is not very good considering this is my book file.</text>
+    <aspectTerms>
+      <aspectTerm label1="loading my document" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="285" review-id="1992">
+    <text>HOW CAN I CAN MAXIMIZE THE SLIDE SHOW ?! IT DISAPPEARED .. BAD UPDATE</text>
+    <aspectTerms>
+      <aspectTerm label1="MAXIMIZE THE SLIDE SHOW" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="286" review-id="1994">
+    <text>Take pointers from Yahoo on how to make iOS 7 Style apps that stand out from the 90% that are beautifully designed in blinding white. Ugly app and icon.</text>
+    <aspectTerms>
+      <aspectTerm label1="icon" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="287" review-id="2506">
+    <text>So helpful</text>
+    <aspectTerms>
+      <aspectTerm label1="Access to my files " label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="288" review-id="1996">
+    <text>After the last update, it crashes every time I open the manual upload. Pls fix it.</text>
+    <aspectTerms>
+      <aspectTerm label1="manual upload" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="289" review-id="1997">
+    <text>The new UI is awesome</text>
+    <aspectTerms>
+      <aspectTerm label1="new UI" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="290" review-id="3531">
+    <text>Please add support for animated GIFs!</text>
+    <aspectTerms>
+      <aspectTerm label1="animated GIF" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="GIF support" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="291" review-id="3023">
+    <text>Can't install the update.</text>
+    <aspectTerms>
+      <aspectTerm label1="install the update" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="292" review-id="2513">
+    <text>I hoped the update would bring back the &quot;open in&quot; option but it didn't. Importing files into other apps is a major pain now. Why was this option removed? Please bring it back.</text>
+    <aspectTerms>
+      <aspectTerm label1="Importing files" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Open In" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="293" review-id="3026">
+    <text>? Why can't I sign into separate Drop Box accounts?</text>
+    <aspectTerms>
+      <aspectTerm label1="sign into separate Drop Box accounts" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="294" review-id="3027">
+    <text>I tried reloading but it still asks to connect to iTunes and will not work on my Ipad</text>
+    <aspectTerms>
+      <aspectTerm label1="asking to connect to iTunes" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="work on my Ipad" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="295" review-id="3029">
+    <text>ALL 1,300 photos were deleted. I trusted Dropbox as a back up for my photos. I have no way of ever getting those photos back. The only kind of response I've gotten from them is a generic response saying they can't get back to me because there are so many inquires. Never will I ever use them again. DO NOT TRUST THIS APP!</text>
+    <aspectTerms>
+      <aspectTerm label1="back up for my photos" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="photos were deleted" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="296" review-id="2518">
+    <text>Was I the only one to ever report this problem??
+
+Ever since I downloaded the latest update the app on my iPad continues to show a pop up alert message. I click ok and it pops right back up!  I've turned off all alerts for the app and I have been in contact with Apple Support. We reset to complete default mode, reloaded the app and still the issue. It is so annoying. Is any else experiencing this?</text>
+    <aspectTerms>
+      <aspectTerm label1="pop up alert message" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="the latest update" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="297" review-id="3541">
+    <text>I would like the ability to share a complete folder not just one file at a time. I'm not sure if I'm just not seeing this feature? It seems like a basic function at this point, since you can do basically everything else within the app platform. Other than that, I am very happy with the experience.</text>
+    <aspectTerms>
+      <aspectTerm label1="file at a time" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="share a complete folder" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="298" review-id="2008">
+    <text>Version 3.0 auto updated today and now my photos won't upload. Luckily my SkyDrive added an upload feature.</text>
+    <aspectTerms>
+      <aspectTerm label1="Photos upload" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="299" review-id="3033">
+    <text>This app is really useful for having access to documents while I'm out.  The one big thing I think it lacks is a way to share folders while you're using the app.  I'd love to be able to share a folder via the app and I've needed to so this before while I was out, but unfortunately, this app as of 3/1/13 doesn't have that feature.  It would be really useful to have!</text>
+    <aspectTerms>
+      <aspectTerm label1="access to documents" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="300" review-id="2522">
+    <text>I've tried Google Drive, Box, Skydrive, but none of them could upload a 20 minute video I took. Dropbox was the only one that accepted my file.</text>
+    <aspectTerms>
+      <aspectTerm label1="upload" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="301" review-id="3543">
+    <text>I have camera upload on and when I opened it, it started reuploading over 200 photos even though they were already there. Not good.</text>
+    <aspectTerms>
+      <aspectTerm label1="camera upload" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Reuploads" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="302" review-id="2524">
+    <text>Major sync failure! You put documents at work and go home and sync again only to find none of them are there. Other times when they are actually synced you can't open them! I'm deleting it.</text>
+    <aspectTerms>
+      <aspectTerm label1="sync" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="303" review-id="2014">
+    <text>New interface is great</text>
+    <aspectTerms>
+      <aspectTerm label1="New interface" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="304" review-id="2016">
+    <text>Love the new UI. It looks awesome !</text>
+    <aspectTerms>
+      <aspectTerm label1="new UI" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="305" review-id="2528">
+    <text>I can pretty much have access to all my photos and videos on the go without it taking space on my phone. Love ittt &lt;3</text>
+    <aspectTerms>
+      <aspectTerm label1="access to all my photos and videos" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="taking space on my phone" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="306" review-id="2018">
+    <text>Nice major update, overall the app works great. But, one thing that's still missing is bulk downloads. You can a) select multiple files and b) download files from Dropbox to your phone, but you cannot do both at once. Seems pretty basic a feature to overlook.</text>
+    <aspectTerms>
+      <aspectTerm label1="bulk downloads" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="download files from Dropbox to your phone" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="select and download files at once" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="select multiple files " label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="307" review-id="2019">
+    <text>It's annoying as all get-out.</text>
+    <aspectTerms>
+      <aspectTerm label1="logo's colors" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="308" review-id="2020">
+    <text>Still no long file name support on iPad, why?</text>
+    <aspectTerms>
+      <aspectTerm label1="long file name support on iPad" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="309" review-id="2530">
+    <text>The layout is very clean but it fails to load editing settings or feedback components. It has potential, but is still buggy.</text>
+    <aspectTerms>
+      <aspectTerm label1="design" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="layout" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="load editing settings" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="load feedback components" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="310" review-id="2532">
+    <text>I just got the app. I tried to log in on my iPad but it would not let me. I tried my email and my username. I tried different variations of my password. Nothing worked. So I reset my password, being careful to check spelling, etc. then I logged onto the desktop site (still on iPad) and it worked. I went back to the app but it would not work. I've used this app multiple times in the past, so I'm frustrated that it's just now not working.</text>
+    <aspectTerms>
+      <aspectTerm label1="log in ipad" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="311" review-id="3040">
+    <text>somethings wrong with the last update.
+i only can view pdfs once. 
+after opening for the first time, cannot view them anymore!
+
+the latest update fixed the issue of crashes and also can view the pdfs without problem. thanks a lot for your work!  however there is still a problem which is that when you try using the &quot;open in&quot; option in other iPad applications, and ask to open in Dropbox, the filed just opened shows up in the iPad Dropbox application, but the Dropbox server is not updated... meaning that file is not found in the Dropbox folders if you access the folders in a different device/computer, etc...</text>
+    <aspectTerms>
+      <aspectTerm label1="access the folders in a different device/computer," label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Dropbox server updated" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="view pdfs" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="312" review-id="3044">
+    <text>Non-starred files occupied more than 600 MB and I have no way to reduce it...it eats out all my ipad space</text>
+    <aspectTerms>
+      <aspectTerm label1="un starred files" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="313" review-id="2029">
+    <text>It's a great app especially for iphone users since they can't add storage to their phones but any time u send a email to a friend inviting them to get it they give you more memory</text>
+    <aspectTerms>
+      <aspectTerm label1="email to a friend inviting them to get it give you" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="iphone users storage" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="314" review-id="2030">
+    <text>Is Dropbox design for iOS 7, but is still the same more or less. Air Drop is the only new thing in this update (for iPhone) I think. 
+4 out of 5 because still can't rename files...</text>
+    <aspectTerms>
+      <aspectTerm label1="new design iOS 7" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="rename files" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="315" review-id="2542">
+    <text>Dropbox works great. I can access files anywhere. Highly recommend.</text>
+    <aspectTerms>
+      <aspectTerm label1=" access files" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="316" review-id="2543">
+    <text>Simple, just what I needed to make transferring certain photos from phone to computer and vice versa simple. Thanks!</text>
+    <aspectTerms>
+      <aspectTerm label1="Transferring certain photos from phone to computer" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="317" review-id="3053">
+    <text>This is the greatest app invented to man. Dropbox is already a great idea. On the phone, even better.</text>
+    <aspectTerms>
+      <aspectTerm label1="Dropbox On the phone" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="318" review-id="2547">
+    <text>I like this app i just reallyy wish it could support zip files as well if that was changed i would so give it a 5star rating :)</text>
+    <aspectTerms>
+      <aspectTerm label1="support zip files" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="319" review-id="3062">
+    <text>Updated to the latest version and...now all my Microsoft word documents won't open in the app, so I can't view anything.  Also lost the ability to export into pages for editing.  Hoping this is just a glitch that gets fixed fast, but really problematic for me since I use this almost exclusively for work.  Please fix cause I love Dropbox!</text>
+    <aspectTerms>
+      <aspectTerm label1="export into pages " label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Microsoft word document open" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="view documents" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="320" review-id="2040">
+    <text>Nice design refresh. Looks great. 
+
+I love this app. Dropbox totally saved me at work. I had to email a bunch of large files and the work email system wouldn't take it. 
+
+Dropbox worked flawlessly. Not only did they get links to download the files, but they could also view content right in their web browser. PDFs, Word docs, and videos all were viewable in the browser for them. It made presentations a breeze! 
+
+I now use Dropbox for personal use too. Love it.</text>
+    <aspectTerms>
+      <aspectTerm label1="design" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="download files" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="view PDFs, Word docs, and videos" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="321" review-id="3065">
+    <text>Caught in a loop forever after trying to load a video and also forever looping in the initial how to adobe file. Very sad.</text>
+    <aspectTerms>
+      <aspectTerm label1="load a video" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="322" review-id="3067">
+    <text>Background gps keeps active and is draining my battery</text>
+    <aspectTerms>
+      <aspectTerm label1="Background gps" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="323" review-id="2559">
+    <text>Won't let me view my excel spread sheets from my iPhone. Please fix it other than that love the app.</text>
+    <aspectTerms>
+      <aspectTerm label1="view my excel spread sheets" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+</sentences>

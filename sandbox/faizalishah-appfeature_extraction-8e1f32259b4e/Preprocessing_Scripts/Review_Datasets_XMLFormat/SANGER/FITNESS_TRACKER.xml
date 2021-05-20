@@ -1,0 +1,879 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="1000">
+    <text>Ich habe die pdf gedownloadet, die pro app und das ist anscheinend immer noch nicht genug. Jetzt wird man zum Kauf des coaches gezwungen um alle Übungen zu haben. Ihr seid ziemlich unverschämt geworden. Bin enttäuscht</text>
+    <aspectTerms>
+      <aspectTerm from="36" term="pro app" to="43"/>
+      <aspectTerm from="111" term="Kauf des coaches" to="127"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1001">
+    <text>:-);-)</text>
+  </sentence>
+  <sentence id="1002">
+    <text>Ich finde die app super ... aber ich finde Mann bräuchte evtl. Noch mehr Sportarten wie z.B. reiten ,walken, Yoga Bitte verbessern und ich kann nix mit dem 1 andere oder.2andere anfangen...</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="app" to="18"/>
+      <aspectTerm from="74" term="Sportarten" to="84"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1003">
+    <text>Ich überlege echt mir die pro version zu zu legen!!!</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="pro version" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1004">
+    <text>Ja das ist echt cool</text>
+  </sentence>
+  <sentence id="1005">
+    <text>Diese app ist sehr nützlich für mich, ich benutze sie fast täglich</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="app" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1006">
+    <text>Super app. Nütze sie bei jedem workout. Einfach spitze!</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="app" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1007">
+    <text>Nette App GPS verbesserungswürdig</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+      <aspectTerm from="10" term="GPS" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1008">
+    <text>Bin viel spazieren und für mich war es mal interessant wieviel km das immer so sind kann man nur empfehlen :)</text>
+  </sentence>
+  <sentence id="1009">
+    <text>Hab Galaxy S5 bereits nach 1 km auf meiner Laufuhr mogelt runtastic schon 200m dazu...</text>
+  </sentence>
+  <sentence id="1010">
+    <text>Super app für sportmuffel!</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1011">
+    <text>Werde die app wohl leider nicht mehr weiter empfehlen :( zur zeit kann ich nicht rein , da es ständig heißt ich hätte kein Internet Empfang</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="app" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1012">
+    <text>Läuft.</text>
+  </sentence>
+  <sentence id="1013">
+    <text>Ich bekomme zwar kein seitenstechen mehr aber ich finde es unpraktisch das es immer nur sekunden sind Und leider habe ich noch keine ergebnisse feststellen können</text>
+  </sentence>
+  <sentence id="1014">
+    <text>Die beste Sport App die es gibt! !</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Sport App" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1015">
+    <text>Nicht nur tolle Funktionen sondern auch ein toller Service.</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Funktionen" to="27"/>
+      <aspectTerm from="52" term="Service" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1016">
+    <text>Ich bin einfach nur beeindruckt. Wow und das kostenlos. Bitte ladet euch die runtastic app. Ihr werdet es nicht bereuen :)</text>
+    <aspectTerms>
+      <aspectTerm from="78" term="runtastic app" to="91"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1017">
+    <text>Super sache cool</text>
+  </sentence>
+  <sentence id="1018">
+    <text>Super app! Der Couch ist einfach klasse.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+      <aspectTerm from="15" term="Couch" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1019">
+    <text>Es macht Spaß :)</text>
+  </sentence>
+  <sentence id="1020">
+    <text>Hier kann jeder in seiner Geschwindigkeit je nach Fähigkeit trainieren!</text>
+  </sentence>
+  <sentence id="1021">
+    <text>Good job, nur nicht zu viel über pwrsönl8che daten erdahren</text>
+  </sentence>
+  <sentence id="1022">
+    <text>Tolle App und super Programm 👍</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+      <aspectTerm from="20" term="Programm" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1023">
+    <text>Leider wird Sports Tacker zu Tode gepached. Nicht nachvollziehbares Verhalten mit dem Sperrbildschirm. Abstürze mit komplettem Verlust des letzten Laufs. Schade.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Sports Tacker" to="26"/>
+      <aspectTerm from="69" term="Verhalten" to="78"/>
+      <aspectTerm from="87" term="Sperrbildschirm" to="102"/>
+      <aspectTerm from="148" term="Laufs" to="153"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1024">
+    <text>In der Werbung wurde gesagt es wärr kostenlos, aber sie scheinen nur die app zu meinen…</text>
+    <aspectTerms>
+      <aspectTerm from="74" term="app" to="77"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1025">
+    <text>Dank der Wartungsarbeiten hab ich es verpasst mich zu registrieren. Nach zig mal probieren, vergeht einem einfach die Lust -&amp;gt; gelöscht!</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Wartungsarbeiten" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1026">
+    <text>Ich finde sie cool</text>
+  </sentence>
+  <sentence id="1027">
+    <text>Ich bin ziemlich zufrieden! Auch wenn es noch keine 5 Sterne sind..</text>
+  </sentence>
+  <sentence id="1028">
+    <text>Gps Signal wird schnell gefunden auf den S3 Route wird auch genau aufgenommen.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Gps Signal" to="11"/>
+      <aspectTerm from="45" term="Route" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1029">
+    <text>Running Funktion verbessern, GPS präzisieren und Run stürzt am ende des Laufs ab..Das nervige ist dass den Run nicht gesavet wird...</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Running Funktion" to="17"/>
+      <aspectTerm from="30" term="GPS" to="33"/>
+      <aspectTerm from="50" term="Run" to="53"/>
+      <aspectTerm from="108" term="Run" to="111"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1030">
+    <text>Coolrs Programm</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="Programm" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1031">
+    <text>Tolle Lösung zum Training</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="Training" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1032">
+    <text>Von den trainingseinheiten und den Erklärungen eine super app, allerdings finde ich die aufstellung viel zu unübersichtlich. Ich würde einen kalender auch super finden in dem steht was man wann gemacht hat und in dem man sich im voraus einen plan erstellen kann</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="trainingseinheiten" to="27"/>
+      <aspectTerm from="36" term="Erklärungen" to="47"/>
+      <aspectTerm from="59" term="app" to="62"/>
+      <aspectTerm from="89" term="aufstellung" to="100"/>
+      <aspectTerm from="142" term="kalender" to="150"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1033">
+    <text>Stabil, leicht zu bedienen, einfach nur gut!</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="bedienen" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1034">
+    <text>Wo oder zeigt nike running die Maximalgeschwindigkeit an weil ich sehe immer nur die durchschnittsgeschwindigkeit</text>
+  </sentence>
+  <sentence id="1035">
+    <text>Anwendung wurde nicht gefunden!!!!</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Anwendung" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1036">
+    <text>Support kontaktiert --&amp;gt; keine Antwort. Diese Antwort stimmt leider nicht, für einen weiteren Account auf einem anderen Gerät.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Support" to="8"/>
+      <aspectTerm from="49" term="Antwort" to="56"/>
+      <aspectTerm from="97" term="Account" to="104"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1037">
+    <text>Abzocke!</text>
+  </sentence>
+  <sentence id="1038">
+    <text>Wenn man Schnell abnehmen oder Muskel aufbauen will ist das einfach das beste. Es ist sehr sehr Hart aber wenn man nach einigen Wochen das Ergebniss sieht weiss man wofür man es gemacht hat</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="abnehmen" to="26"/>
+      <aspectTerm from="32" term="Muskel aufbauen" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1039">
+    <text>Eigentlich hab ich nichts zu meckern, außer, dass die GPS-Funktion für laufen Mist is.</text>
+    <aspectTerms>
+      <aspectTerm from="54" term="GPS-Funktion" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1040">
+    <text>Top Top</text>
+  </sentence>
+  <sentence id="1041">
+    <text>Die app ist toll...einfach und übersichtlich gestaltet! Aber die km Anzeige ist felerhaft...ich bin 7 runden um eine Wiese gelaufen von der ich weiß, dass sie 800m lang ist, die app zeigte mir an ich bin 2,5km gelaufen...aber 7 x800 macht 5,6km! Das ist also noch verbesserungswürdig.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="app" to="8"/>
+      <aspectTerm from="46" term="gestaltet" to="55"/>
+      <aspectTerm from="66" term="km Anzeige" to="76"/>
+      <aspectTerm from="179" term="app" to="182"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1042">
+    <text>ich find die App klasse.</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="App" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1043">
+    <text>Einfach gut</text>
+  </sentence>
+  <sentence id="1044">
+    <text>Das ist der beste GPS Logger den ich bis jetzt gesehen habe. Weiter so</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="GPS Logger" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1045">
+    <text>Abwechslungsreich, auch ohne Anmeldung</text>
+    <aspectTerms>
+      <aspectTerm from="30" term="Anmeldung" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1046">
+    <text>Erster lauf, alles gut</text>
+  </sentence>
+  <sentence id="1047">
+    <text>Echt ein ansporn</text>
+  </sentence>
+  <sentence id="1048">
+    <text>Kostet es etwas wenn man sich ein Nike+Konto erstellt !Bitte um schnelle Antwort!!Q!!</text>
+  </sentence>
+  <sentence id="1049">
+    <text>Ab und an hängt sich das GPS auf, aber das Beste war das ich obwohl ich aus versehen das Handy kurz vor dem Ende meines 15 km Strandlaufs ausgeschaltet hatte, alle Daten bis zu diesem ' faux pas' im Hintergrund gespeichert wurden... ........... Danke runkeeper&quot;.</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="GPS" to="29"/>
+      <aspectTerm from="197" term="im Hintergrund gespeichert" to="223"/>
+      <aspectTerm from="252" term="runkeeper" to="261"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1050">
+    <text>Funktioniert einwandfrei</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Funktioniert" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1051">
+    <text>Der totale scheiß</text>
+  </sentence>
+  <sentence id="1052">
+    <text>Super app.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1053">
+    <text>Super app Benutze sie parallel zur meiner Garmin forrunner 305</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="app" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1054">
+    <text>Ein Jahr lang funktionierte die App gut. Jetzt ist sie nutzlos, der GPS Empfänger funktioniert nicht mehr. Auch ein erneutes installieren war zwecklos. Ich such was anderes.</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="funktionierte" to="28"/>
+      <aspectTerm from="33" term="App" to="36"/>
+      <aspectTerm from="69" term="GPS Empfänger" to="82"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1055">
+    <text>Ich benutze die app zum lauftraining. sie hat alles was man dafür benötigt! top!</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="app" to="20"/>
+      <aspectTerm from="25" term="lauftraining" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1056">
+    <text>Entweder wird das GPS repariert oder solltet ihr es Zeittracker ohne GPS nennen!</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="GPS" to="22"/>
+      <aspectTerm from="70" term="GPS" to="73"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1057">
+    <text>Vor lauter Werbung nicht mehr zu gebrauchen. Auch die Großansicht der Karte mit Angabe der Streckenlänge ist verschwunden. Wird Zeit eine Alternative zu suchen... Gibt ja genug...</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="Werbung" to="19"/>
+      <aspectTerm from="71" term="Karte" to="76"/>
+      <aspectTerm from="81" term="Angabe der Streckenlänge" to="105"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1058">
+    <text>ganz gut</text>
+  </sentence>
+  <sentence id="1059">
+    <text>empfehlenswert,</text>
+  </sentence>
+  <sentence id="1060">
+    <text>Eigentlich eine sehr schöne App mit einer tollen Auswertung auf dem Smartphone und auf dem PC, jedoch stürzt die App auf meinem Samsung S3 zu oft ab, wobei dann die soeben aufgezeichneten Daten verloren gehen.</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="App" to="32"/>
+      <aspectTerm from="50" term="Auswertung auf dem Smartphone und auf dem PC" to="94"/>
+      <aspectTerm from="114" term="App" to="117"/>
+      <aspectTerm from="173" term="aufgezeichneten Daten" to="194"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1061">
+    <text>die deutsche Stimme klingt ziemlich komisch, aber sonst ist die App ok 👌</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="deutsche Stimme" to="20"/>
+      <aspectTerm from="65" term="App" to="68"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1062">
+    <text>Laufe seit 1 Jahr regelmäßig mit der App zwischendurch auch mal ob der pro version.Bislang war ich auch immer sehr zufrieden.seit einigen Wochen sehr starke gps Probleme, Km stimmen nicht mit der Strecke überein...das nervt...Bitte beheben...</text>
+    <aspectTerms>
+      <aspectTerm from="37" term="App" to="40"/>
+      <aspectTerm from="71" term="pro version" to="82"/>
+      <aspectTerm from="157" term="gps" to="160"/>
+      <aspectTerm from="171" term="Km" to="173"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1063">
+    <text>Die Abweichung der gemessenen Distanz wird bei längeren Läufen immer größer. Bei einem 10 km Lauf hatte ich Abweichungen von 600 m.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Abweichung" to="15"/>
+      <aspectTerm from="109" term="Abweichungen" to="121"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1064">
+    <text>Besser als runtastic</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="runtastic" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1065">
+    <text>Super app. Macht richtig spass mit ihr zu laufen</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1066">
+    <text>Für Hobby Sportler, Wanderer und Radfahrer ein guter Begleiter.</text>
+  </sentence>
+  <sentence id="1067">
+    <text>Runtastic zeigt mir falsche Distanzen bei der Laufdistanz an. Im Schnitt 7% weniger, als Google maps, earth, open street maps oder mein Garmin GPS Gerät mit neuestem Kartenmaterial anzeigen. Außerdem schwankt die angegeben Laufdistanz bei exakt gleicher Strecke um bis zu 120 m.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Runtastic" to="10"/>
+      <aspectTerm from="29" term="Distanzen" to="38"/>
+      <aspectTerm from="90" term="Google maps" to="101"/>
+      <aspectTerm from="103" term="earth" to="108"/>
+      <aspectTerm from="110" term="open street maps" to="126"/>
+      <aspectTerm from="137" term="Garmin GPS Gerät" to="153"/>
+      <aspectTerm from="224" term="Laufdistanz" to="235"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1068">
+    <text>Umstellung von Pro Version auf gratis. Bei der gratis Version ist ein einloggen mittels Facebook Account leider nicht möglich. Bis der Fehler behoben wird, nur mehr 2 Sterne</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="Pro Version" to="26"/>
+      <aspectTerm from="47" term="gratis Version" to="61"/>
+      <aspectTerm from="70" term="einloggen mittels Facebook Account" to="104"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1069">
+    <text>Top</text>
+  </sentence>
+  <sentence id="1070">
+    <text>die app ist super jedoch fehlt die Deutsche Sprache, . Ich verstehe zwar englisch aber deutsch zu reden , lesen ist'ne angewohnheit. ;-)</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="app" to="8"/>
+      <aspectTerm from="36" term="Deutsche Sprache" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1071">
+    <text>Die App stürzt häufig ab</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="App" to="7"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1072">
+    <text>Leider noch immer kein Offline Modus... D. H nicht brauchbar in den Ferien und z. T unterwegs.... Funktionen welche es im Browser gibt (Trainings bearbeiten usw.) nicht in der App möglich</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="Offline Modus" to="37"/>
+      <aspectTerm from="137" term="Trainings bearbeiten" to="157"/>
+      <aspectTerm from="177" term="App" to="180"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1073">
+    <text>Jetzt auch noch geiler mit dem Pulsgurt! (Extra Zubehör)</text>
+    <aspectTerms>
+      <aspectTerm from="32" term="Pulsgurt" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1074">
+    <text>Great app.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1075">
+    <text>GPS Verbindung dauert lange, ansonsten spitze</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="GPS Verbindung" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1076">
+    <text>Einfach tolle app bin sehr zufrieden 5 sterne verdient.....</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="app" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1077">
+    <text>Good</text>
+  </sentence>
+  <sentence id="1078">
+    <text>Motiviert, funktioniert, macht Spaß. Danke</text>
+  </sentence>
+  <sentence id="1079">
+    <text>Kannte den schon vom N95. Ist noch viel besser geworden...</text>
+  </sentence>
+  <sentence id="1080">
+    <text>Im großen und ganzen super app !</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="app" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1081">
+    <text>schlecht schlecht und nochmal schlecht ich kann mich nicht mahl anmelden weil immer wenn ich das passwort eingebe steht da es währe falsch obwohl es eigendlich richtig ist also bitte schnell beheben wer den kleichen fail hat bitte schreiben: facebook-al@gmx.de</text>
+  </sentence>
+  <sentence id="1082">
+    <text>Ich benutze dieser App nicht nur zum laufen aber auch zum in-liner, Rad fahren oder Wanderungen. Bei in-liner fahren muss man wohl Schlittschuh fahren eingeben. Seit der letzte Aktualisierungen läuft dieser App ziemlich genau und ist nicht nur für Sportler, aber auch für Menschen die ein Wochenendspaziergang machen intressant.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="App" to="22"/>
+      <aspectTerm from="207" term="App" to="210"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1083">
+    <text>Schade das es die software für den pc noch nicht deutsch gibt.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="software für den pc" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1084">
+    <text>Seit dem Update hängt es andauernd und zeichnet nur teilweise auf. Schade. Bitte beheben.</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Update" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1085">
+    <text>Tolle App</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1086">
+    <text>Ein sehr guter Lauf,App :-)</text>
+  </sentence>
+  <sentence id="1087">
+    <text>Echt super app</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="app" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1088">
+    <text>finde nur keinen export auf pc</text>
+  </sentence>
+  <sentence id="1089">
+    <text>Geile app</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="app" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1090">
+    <text>Super</text>
+  </sentence>
+  <sentence id="1091">
+    <text>Aber leider etwas unübersichtlich.</text>
+  </sentence>
+  <sentence id="1092">
+    <text>Super App tut alles was es tun soll.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1093">
+    <text>Super</text>
+  </sentence>
+  <sentence id="1094">
+    <text>Gibt keine bessere app fürs Mountainbiken tiptop!!!</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="app" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1095">
+    <text>Gute Fitness App.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Fitness App" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1096">
+    <text>Die Ansagen sind echt gut, die Übersicht und Gestaltung auch. Alles in Allem eine sehr gelungene App!</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Ansagen" to="12"/>
+      <aspectTerm from="32" term="Übersicht" to="41"/>
+      <aspectTerm from="46" term="Gestaltung" to="56"/>
+      <aspectTerm from="98" term="App" to="101"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1097">
+    <text>Ganz gut bis auf Abstürze</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Abstürze" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1098">
+    <text>Sehr schneller muskelaufbau</text>
+  </sentence>
+  <sentence id="1099">
+    <text>Sehr gut</text>
+  </sentence>
+  <sentence id="1100">
+    <text>Von einer App für die man Geld bezahlt sollte man doch zumindest erwarten, dass sie von 15 bis 1 runterzählen kann?! Nein runastic stoppt mind. Jedes zweite Mal bei 1 und startet nicht. Ist echt ätzend wenn man nach der Hälfte der Runde merkt, dass nix aufgezeichnet wird.... So richtig genau ist das GPS auch nicht. Mein Freund und ich laufen oft zsm und ich laufe angeblich laut app jedes Mal mehr als er. Dabei laufen wir auf den Meter genau gleich weit!</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="App" to="14"/>
+      <aspectTerm from="123" term="runastic" to="131"/>
+      <aspectTerm from="254" term="aufgezeichnet" to="267"/>
+      <aspectTerm from="302" term="GPS" to="305"/>
+      <aspectTerm from="382" term="app" to="385"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1101">
+    <text>Ich habe Grade die app ausprobiert mir den Trainer gekauft und nun stürzt die app bei Erfassung der Daten immer ab. Danke</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="app" to="23"/>
+      <aspectTerm from="44" term="Trainer" to="51"/>
+      <aspectTerm from="79" term="app" to="82"/>
+      <aspectTerm from="87" term="Erfassung der Daten" to="106"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1102">
+    <text>Super</text>
+  </sentence>
+  <sentence id="1103">
+    <text>Super app hab erst normal angefangen, jetzt hab ich mir den Coach gegönnt. ...ist was ganz anderes. ..ich kann sie nur empfehlen.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="app" to="10"/>
+      <aspectTerm from="61" term="Coach" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1104">
+    <text>Schöne Idee ist das</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="Idee" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1105">
+    <text>Ich habe 20 kg abgenommen</text>
+  </sentence>
+  <sentence id="1106">
+    <text>Ist echt super. Funktioniert ohne Probleme:)</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Funktioniert" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1107">
+    <text>Die app ist super :)) das einzigste was noch fehlt ist die option steppen. bitte fügt diese noch hinzu das wäre echt klasse</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="app" to="8"/>
+      <aspectTerm from="67" term="steppen" to="74"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1108">
+    <text>Einfach genial</text>
+  </sentence>
+  <sentence id="1109">
+    <text>Wäre schön wenn der Webserver auch mal erreichbar wäre, was natürlich auch dazu führt das die App total langsam ist. Bei Aufruf der Webseite das selbe in Grün.***** Nee sorry aber so macht das keinen Sinn!</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="Webserver" to="30"/>
+      <aspectTerm from="95" term="App" to="98"/>
+      <aspectTerm from="133" term="Webseite" to="141"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1110">
+    <text>Super macht voll Spaß zu laufen</text>
+  </sentence>
+  <sentence id="1111">
+    <text>Macht alles was es verspricht...</text>
+  </sentence>
+  <sentence id="1112">
+    <text>Funktioniert super,benutze es schon seit es zu erst für Nokia Handys erschienen war.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Funktioniert" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1113">
+    <text>... es zählt bei mir nicht mit. Ich mache die Übungen so wie angewiesen aber die app zählt nicht mit oder muss man die danach abgeben?</text>
+    <aspectTerms>
+      <aspectTerm from="47" term="Übungen" to="54"/>
+      <aspectTerm from="82" term="app" to="85"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1114">
+    <text>Die App startet sich laufend selbst im Hintergrund,nichtmals mit 'nem Task-killer unter Kontrolle zu bringen,Akku schnell leer.Nach nicht mal einem Tag wieder deinstalliert.Schade,denn die Oberfläche und Funktionen sind großartig.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="110" term="Akku" to="114"/>
+      <aspectTerm from="190" term="Oberfläche" to="200"/>
+      <aspectTerm from="205" term="Funktionen" to="215"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1115">
+    <text>Signal ist manchmal unterbrochen aber sonst ist sie super zum trainieren</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Signal" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1116">
+    <text>Cool</text>
+  </sentence>
+  <sentence id="1117">
+    <text>Einfach aufgebaute, gelungene App ohne viel Schnickschnack. Das Handy immer dabei und jeder Schritt wird gezählt und gewertet. Dank GPS im Handy wird erkannt, wie man sich bewegt (ausser schwimmen). Die Auswertung erfolgt sofort über die App oder über fit.google.de</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="App" to="34"/>
+      <aspectTerm from="204" term="Auswertung" to="214"/>
+      <aspectTerm from="239" term="App" to="242"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1118">
+    <text>Super app und dazu noch kostenlos</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1119">
+    <text>Kann man nur weiter empfehlen</text>
+  </sentence>
+  <sentence id="1120">
+    <text>Eine App mit vielen tollen Ideen, die zum regelmäßigen Lauftraining anregen. Jedoch läuft die App momentan eher instabil und die Laufstrecken werden extrem ungenau erfasst.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+      <aspectTerm from="28" term="Ideen" to="33"/>
+      <aspectTerm from="85" term="läuft" to="90"/>
+      <aspectTerm from="130" term="Laufstrecken" to="142"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1121">
+    <text>Passt</text>
+  </sentence>
+  <sentence id="1122">
+    <text>Sehr gut ! Schade das man einige Futures der Pro-Version nicht schon im Standard hat, z.B. Routen erstellen. Aber alles andere ist super !</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="Futures der Pro-Version nicht schon im Standard" to="80"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1123">
+    <text>Gutes App. Mir gefällt es.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1124">
+    <text>Super app</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1125">
+    <text>Top</text>
+  </sentence>
+  <sentence id="1126">
+    <text>Wer falsche bzw. Ungenaue Ergebnisse hat sollte nicht den Fehler bei der app suchen sondern beim Handy... Jeder hat einen anderen GPS Empfänger usw. Also auf mein XPERIA X10 läuft die App super...</text>
+    <aspectTerms>
+      <aspectTerm from="74" term="app" to="77"/>
+      <aspectTerm from="131" term="GPS Empfänger" to="144"/>
+      <aspectTerm from="175" term="läuft" to="180"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1127">
+    <text>Tolle App!</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1128">
+    <text>Runtastic</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Runtastic" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1129">
+    <text>Umstieg von S2 auf S4 und alle Daten noch vorhanden. Super. GPS kam auch immerhalb der Distanzwerte vom alten Mobil rein. Grundeinstellungen muss ich noch nachbessern. Aber alles Top wie es aussieht.</text>
+  </sentence>
+  <sentence id="1130">
+    <text>Please stay open as android is and Support 3rd Party wear like pebble.</text>
+  </sentence>
+  <sentence id="1131">
+    <text>Eignet sich für viele Sportarten und überzeugt durch großen Funktionsumfang</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="Sportarten" to="33"/>
+      <aspectTerm from="61" term="Funktionsumfang" to="76"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1132">
+    <text>Einfach Große Klassse</text>
+  </sentence>
+  <sentence id="1133">
+    <text>Tolle app tut was sie soll !!</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="app" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1134">
+    <text>Super App,bin totall begeistert!</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1135">
+    <text>Alles super und das ganze umsonst.</text>
+  </sentence>
+  <sentence id="1136">
+    <text>Einfach gut</text>
+  </sentence>
+  <sentence id="1137">
+    <text>Klasse App</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1138">
+    <text>Schnell einfach und sicher sehr lohnenswert mit Bluetooth brustgurt</text>
+    <aspectTerms>
+      <aspectTerm from="49" term="Bluetooth brustgurt" to="68"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1139">
+    <text>Warum kann man sich nicht einfach nur die workouts ohne Coach freischalten? Würde dafür auch einmalig bezahlen, oder sogar einmal den Coach nehmen, wenn die alle danach bleiben...</text>
+    <aspectTerms>
+      <aspectTerm from="43" term="workouts ohne Coach freischalten" to="75"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1140">
+    <text>Mochte gerne wissen wie man die fitness report mail abstellen kann . finde in den app Einstellungen nichts. .</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="fitness report" to="47"/>
+      <aspectTerm from="87" term="Einstellungen" to="100"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1141">
+    <text>Leute das ist die Version 1 alle die meckern denen ist nicht klar das diese Software noch über arbeitet wird</text>
+  </sentence>
+  <sentence id="1142">
+    <text>Ich finde die app super ! Tolle Übungen die anstrengend sind aber mir effektiv vorkommen :) Alles funktioniert einwandfrei und die trainer sprechen auch verständlich außerdem sagen sie immer schon vorherwas als nächstes kommt ... fünf sterne würde ich geben wenn die app auf deutsch wäre ;)</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="app" to="17"/>
+      <aspectTerm from="32" term="Übungen" to="39"/>
+      <aspectTerm from="98" term="funktioniert" to="110"/>
+      <aspectTerm from="131" term="trainer sprechen" to="147"/>
+      <aspectTerm from="267" term="app" to="270"/>
+      <aspectTerm from="275" term="deutsch" to="282"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1143">
+    <text>Bin zufrieden</text>
+  </sentence>
+  <sentence id="1144">
+    <text>Hallo :D</text>
+  </sentence>
+  <sentence id="1145">
+    <text>Super App!</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1146">
+    <text>Zu empfehlen</text>
+  </sentence>
+  <sentence id="1147">
+    <text>Ich habe noch keine bessere gefunden. Klar kostet es etwas, aber das sollte einem die Gesundheit schon wert sein.</text>
+  </sentence>
+  <sentence id="1148">
+    <text>super</text>
+  </sentence>
+  <sentence id="1149">
+    <text>Top app</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="app" to="7"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1150">
+    <text>Top app für alle die etwas sportliches tun möchten</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="app" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1151">
+    <text>Bisher die meiner Meinung beste app zum laufen und Mountainbiken (andere Aktivitäten noch nicht probiert). Nur die deutsche Übersetzung hapert mal ein bisschen. Daher die 4★ . Rein technisch und bedienerisch sinds ansonsten 5!</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="app zum laufen" to="47"/>
+      <aspectTerm from="116" term="deutsche Übersetzung" to="136"/>
+      <aspectTerm from="182" term="technisch" to="191"/>
+      <aspectTerm from="196" term="bedienerisch" to="208"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1152">
+    <text>Die app macht ohne sie zu kaufen nichts weltbewegend neues aber das was sie macht ist super umgesetzt und man sieht tatsächlich erfolge!!! Also nich das gute geld fürs fitnesstudio ausgeben sondern lieber das hir probieren! :)</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="app" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1153">
+    <text>Toll!</text>
+  </sentence>
+  <sentence id="1154">
+    <text>Die App ist der Hammer . Alles drin was man brauch. Sogar dynamic warmup und streching . Die meisten apps vergessen so was. Weiter so Leute.😃😃😃💥💪💪💪💪👏👏👏👏</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="59" term="dynamic warmup" to="73"/>
+      <aspectTerm from="78" term="streching" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1155">
+    <text>Bin nun sportlich und süchtig</text>
+  </sentence>
+  <sentence id="1156">
+    <text>Die letzte APP Version (pro 5€) ist einfach weg und jetzt hat man nur noch auf 1/10 der Übungen Zugriff! Dabei sind das stink normale Übungen die es seit 50 Jahren und länger schon gibt!!!</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="APP Version" to="23"/>
+      <aspectTerm from="89" term="Übungen" to="96"/>
+      <aspectTerm from="135" term="Übungen" to="142"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1157">
+    <text>Freeletics ist momentan einfach das beste für jeden der einen athletischen Körper haben will. Der Coach ist bestens dafür geeignet um schnelle Ergebnisse zu bekommen . klar der Anfang ist schwer, aber es steht ja schon in der Beschreibung das die APP workouts mit hoher Intensität enthält. Die wiederholungszahlen sind in Ordnung und für alle für die das zu viel ist: man muss für einen guten Körper was tun ich hab in den ersten 7 Wochen im durchschnitt 30 Minuten an den trainingstagen trainiert mehr auch nich</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Freeletics" to="11"/>
+      <aspectTerm from="144" term="Ergebnisse" to="154"/>
+      <aspectTerm from="252" term="workouts" to="260"/>
+      <aspectTerm from="295" term="wiederholungszahlen" to="314"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1158">
+    <text>Super</text>
+  </sentence>
+  <sentence id="1159">
+    <text>Alles supi</text>
+  </sentence>
+</sentences>

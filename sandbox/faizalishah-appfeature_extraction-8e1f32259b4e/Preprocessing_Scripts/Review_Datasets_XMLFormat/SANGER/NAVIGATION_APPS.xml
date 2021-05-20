@@ -1,0 +1,862 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="9000">
+    <text>S C H E I ß E</text>
+  </sentence>
+  <sentence id="9001">
+    <text>Gibt es immer noch keine Hinweis Töne auf z.B. schnelles fahren oder gefahren stellen...bevor ich was kaufe</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="Hinweis Töne" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9002">
+    <text>Extrem schlechter Support! Trotz Hinweisen auf Absturz und sonstige Fehler nur nichtssagende Standardantworten!</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="Support" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9003">
+    <text>Hab die app getestet, jedoch ständiger gps verlust während der navigation. Folglich stimmt weder der aktuelle standort noch die geschwindigkeitsangabe. Routenplanung ebenfalls nicht das wahre.</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="app" to="12"/>
+      <aspectTerm from="129" term="geschwindigkeitsangabe" to="151"/>
+      <aspectTerm from="153" term="Routenplanung" to="166"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9004">
+    <text>Bei der Adresseingabe startet die App immer neu, also unbenutzbar. Vorher war die App gut.</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="Adresseingabe" to="22"/>
+      <aspectTerm from="83" term="App" to="86"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9005">
+    <text>Super</text>
+  </sentence>
+  <sentence id="9006">
+    <text>Ich muss einfach nur sagen exzellent</text>
+  </sentence>
+  <sentence id="9007">
+    <text>Kann keine routen importieren</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="routen importieren" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9008">
+    <text>Leider schließt sich die App unter'm Fahren einfach und ist dadurch wenig nützlich. Und die drölfzig Nissan-Schilder gehen mir so richtig auf den ....!</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="App" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9009">
+    <text>Offline maps sind wirklich super!</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Offline maps" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9010">
+    <text>Stürzt andauernd ab bleibt andauernd hängen</text>
+  </sentence>
+  <sentence id="9011">
+    <text>Voll ok</text>
+  </sentence>
+  <sentence id="9012">
+    <text>Eine sehr gute App für alle, die auch offline die Karten nutzen möchten, vor allem im Ausland. Das OSM-Projekt muss unterstützt werden.</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="App" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9013">
+    <text>Super Navi</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Navi" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9014">
+    <text>Die App ist super für die Navigation. Der Communitygedanke ist das, was mich über kleinere Problemchen hinwegsehen lässt.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="43" term="Communitygedanke" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9015">
+    <text>moin ich möchte sehr gerne mal für eine Woche die bezahlversion testen, bei dieser Version sind mir zu wenig Infos permanent sichtbar . MFG. H.König Taxifahrer in Lübeck ( Bitte Ihre Antwort in Deutscher Sprache !!! ).</text>
+  </sentence>
+  <sentence id="9016">
+    <text>Top</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Top" to="3"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9017">
+    <text>Sehr gute App bin einfach voll zufrieden.</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="App" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9018">
+    <text>Bei guter Internetverbindung und viel &quot;Zustimmung&quot; ;-)</text>
+  </sentence>
+  <sentence id="9019">
+    <text>Angenehm ist, dass man viele Einstellmöglichkeiten hat, die man sonst nur bei teuren Naviprogrammen findet. Die Ansagen sind genau und helfen bei der Orientierung.</text>
+    <aspectTerms>
+      <aspectTerm from="30" term="Einstellmöglichkeiten" to="51"/>
+      <aspectTerm from="113" term="Ansagen" to="120"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9020">
+    <text>Bin vollkommen zufrieden mit Navigon.. Bis auf eine Sache.. Habe von Windows Phone auf Android gewechselt und per Email sagt man mir ich könnte die gebuchten Zusatzpakete wie z.B. Traffic Live nicht auf das Android übertragen.. Werde es telefonisch nochmals versuchen. Ärgert mich sehr weil es knapp 40 Euro an Zusatzpaketen war -.-</text>
+    <aspectTerms>
+      <aspectTerm from="30" term="Navigon" to="37"/>
+      <aspectTerm from="159" term="Zusatzpakete" to="171"/>
+      <aspectTerm from="312" term="Zusatzpaketen" to="325"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9021">
+    <text>Navigation könnte noch mit eingebaut sein. Dann wäre sie perfekt!</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Navigation" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9022">
+    <text>Bin viel in den Niederlanden unterwegs. Bestes kostenloses</text>
+  </sentence>
+  <sentence id="9023">
+    <text>Gefällt mit am besten. Läuft erstklassig. So soll's sein. Update 01.02.2015. Bin noch mehr begeistert. Erstklassig</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="Läuft" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9024">
+    <text>Ich soll 3Gb freimachen, und es gibt nur eine Riesige Karte für ganz Deutschland. Warum das Handy so voll knallen, 3 Bundesländer reichen mir.</text>
+    <aspectTerms>
+      <aspectTerm from="55" term="Karte" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9025">
+    <text>Mit Samsung Galaxy S5 mit Telekom Business XXL Vertrag keine Verbindung zum Server möglich, weder über LE, PC, WLAN oder SD-KARTE direkt im PC. Kommt da noch ein update??????</text>
+    <aspectTerms>
+      <aspectTerm from="62" term="Verbindung zum Server" to="83"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9026">
+    <text>Top</text>
+  </sentence>
+  <sentence id="9027">
+    <text>Ganz tolle Hilfe</text>
+  </sentence>
+  <sentence id="9028">
+    <text>Ich benutze die app schon lange und bin hochzufrieden, jedoch kommt die Aussage, dass die freenet AG den Dienst nicht mehr unterstützt und ich kann nicht in den Shop, Abwahl ich die Lizenz gerne verlängern möchte und es nicht kann, na großartig :(</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="app" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9029">
+    <text>läuft auf meinem Galaxy S4 einwandfrei... wo bekommt man sonst für insgesamt 9 euro ein offline navi für die ganze welt? wer sich über den &quot;folge preis&quot; beschwert hat mal echt GAR KEINE ahnung... 1 euro für die app mit einem land nach wahl + 7,77 euro für die ganze welt... wo gibts heutzutage noch was gescheites umsonst??? meiner meinung nach nur zu empfehlen... weiter so...</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="läuft" to="6"/>
+      <aspectTerm from="97" term="navi" to="101"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9030">
+    <text>die Navigation ist super, doch der Preis ist deutlich zu hoch!</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Navigation" to="15"/>
+      <aspectTerm from="36" term="Preis" to="41"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9031">
+    <text>Jetzt sogar in 3d .... Bin überraschst</text>
+  </sentence>
+  <sentence id="9032">
+    <text>allerdings zu unübersichtlich und vor allem viel zu spielerrisch aufgebaut. Du bist nun ein Baby Sauer, sry aber wo bin ich hier bitte gelandet? Wieder deinstalliert.</text>
+  </sentence>
+  <sentence id="9033">
+    <text>super</text>
+  </sentence>
+  <sentence id="9034">
+    <text>Immer wieder Aktualisierung</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="Aktualisierung" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9035">
+    <text>Habe kostenlos nichts besseres gefunden ,ist Super!</text>
+  </sentence>
+  <sentence id="9036">
+    <text>Hallo, ich finde diese App total super! Deshalb bekommt sie auch 5 Sterne von mir! Seit gestern habe ich nur ein Problem, Seit dem ich die neuen Karten runter geladen habe habe , bleibt der Bildschirm , wenn ich die App öffne weiß, hat jemand eine Idee wieso?</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="App" to="26"/>
+      <aspectTerm from="145" term="Karten" to="151"/>
+      <aspectTerm from="216" term="App" to="219"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9037">
+    <text>Schöne übersichtliche Kartendarstellung.</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="Kartendarstellung" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9038">
+    <text>Top klappt super.</text>
+  </sentence>
+  <sentence id="9039">
+    <text>Top</text>
+  </sentence>
+  <sentence id="9040">
+    <text>Schließt sich immer bei mir.</text>
+  </sentence>
+  <sentence id="9041">
+    <text>Sehr gute App. Schnell, übersichtlich und nicht zu überladen. Wäre schön wenn in der Suchliste mehrere Punkte markiert und auf der map angezeigt werden könnten. Dank an die Entwickler. Weiter so.</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="App" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9042">
+    <text>Gute Einführung in Bedienung</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Einführung in Bedienung" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9043">
+    <text>Die App an sich ist gut, allerdings treten ab und zu seltsame Effekte auf, so dass beispielsweise die Favoriten weg sind oder auch die Karten nicht mehr erkannt werden.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="103" term="Favoriten" to="112"/>
+      <aspectTerm from="136" term="Karten" to="142"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9044">
+    <text>Beste Navisoftware für umme</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Navisoftware" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9045">
+    <text>Bei der suche hängt das app nach paar buchstaben , und dass schon seit einem jahr. App ist nur noch platz verschwendung im speicher. Und &quot;ein stern&quot; weil &quot;kein stern&quot; nicht möglicht ist.</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="app" to="28"/>
+      <aspectTerm from="84" term="App" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9046">
+    <text>Sehr gutes NAVI</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="NAVI" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9047">
+    <text>Es scheint wieder zu funktionieren. Werde es jetzt eine weile testen und wenn es nicht mehr abstürzt, geb ich sofort wieder 5 Sterne. Danke für eure Bemühungen.</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="funktionieren" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9048">
+    <text>Prima!</text>
+  </sentence>
+  <sentence id="9049">
+    <text>Ohne Abgabe meiner Telefonnummer darf man keine Route teilen. Warum muss mein Telefonbuch abgeglichen werden? Ist das ein Bug oder ist beim App-Hersteller der Wahnsinn ausgebrochen. Dann kaufe ich mir eben eine Navi-App.</text>
+    <aspectTerms>
+      <aspectTerm from="49" term="Route teilen" to="61"/>
+      <aspectTerm from="212" term="Navi-App" to="220"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9050">
+    <text>Das war einmal: Nach jedem zweiten Update von Google Map ist das Smartphone unbrauchbar... Stürzt ab... Super! Jetzt läuft es klaglos und schnell!!!!! Und das auf demselben Smartphone...</text>
+    <aspectTerms>
+      <aspectTerm from="36" term="Update" to="42"/>
+      <aspectTerm from="118" term="läuft" to="123"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9051">
+    <text>Seitdem es die neue Statuszeile gibt ist diese auf meinem S3 halb abgeschnitten unten. Außerdem stört das Glympse Symbol. Optional entfernbar machen und dafür dann 4 Info Symbole. Der neue Blitzerwarnton ist eine Gefahr. Bitte ausschaltbar machen oder besser verschiedene Töne zum aussuchen anbieten in den Optionen.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="Statuszeile" to="32"/>
+      <aspectTerm from="107" term="Glympse Symbol" to="121"/>
+      <aspectTerm from="190" term="Blitzerwarnton" to="204"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9052">
+    <text>Kostenlose Karten funktionieren nicht. Habe mir anfangs die Karten für süd und West Deutschland runtergelade, Stuttgart wurde nicht gefunden, habe extra noch die restlichen Karten runtergeladen bringt nix er findet nichts. Deinstalliert</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Kostenlose Karten" to="18"/>
+      <aspectTerm from="61" term="Karten" to="67"/>
+      <aspectTerm from="174" term="Karten" to="180"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9053">
+    <text>Karten-App :)</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Karten-App" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9054">
+    <text>Tolle App, läuft ohne Probleme.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+      <aspectTerm from="11" term="läuft" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9055">
+    <text>nicht auf längeren fahrten. man fährt mehrere kilometer geradeaus und bekommt dann die nachricht das man weiter geradeaus fahren soll. das kanst doch nicht wirklich sein oder</text>
+  </sentence>
+  <sentence id="9056">
+    <text>In Prag einfach nicht zu gebrauchen</text>
+  </sentence>
+  <sentence id="9057">
+    <text>Sehr gut</text>
+  </sentence>
+  <sentence id="9058">
+    <text>Super App</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9059">
+    <text>Toll</text>
+  </sentence>
+  <sentence id="9060">
+    <text>Bin mit der App absolut zufrieden. Einzigstes Manko: nach diversen Garantiereperaturen und damit verbundenen Austauschhandys sind immer alle in App Käufer weg. Habe mich immer mit dem selben Konto angemeldet. Wäre toll wenn das mal untersucht werden würde. Dann volle Punkte. -Ergänzung: obwohl ich immer noch meine E-Mail mit der ich mich registriert habe, und immer noch Telekom Kunde bin, hab ich bisher noch keine Mail von Navigon erhalten. Sehr schade. Hoffe ich erhalte noch eine Mail...</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="App" to="16"/>
+      <aspectTerm from="142" term="in App Käufer" to="155"/>
+      <aspectTerm from="428" term="Navigon" to="435"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9061">
+    <text>Einfach und verständlich, einfach gut</text>
+  </sentence>
+  <sentence id="9062">
+    <text>Navi startet nach dem letzten Update nicht mehr! Bitte beheben.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Navi" to="5"/>
+      <aspectTerm from="6" term="startet" to="13"/>
+      <aspectTerm from="31" term="Update" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9063">
+    <text>Sehr genaue Führung nach Karte. Entfernung in km sehr gut. Kann ich nur empfehlen. Weiter so!!!</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Führung" to="20"/>
+      <aspectTerm from="33" term="Entfernung in km" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9064">
+    <text>Seit letztem update werden falsche Fahrzeiten angezeigt (heute z.b. für 7,5 km fast gerade Bundesstraße 1Std 37min). Sonst super zufrieden mit fünf Sterne</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="update" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9065">
+    <text>Nicht schleckt :-)</text>
+  </sentence>
+  <sentence id="9066">
+    <text>Ok</text>
+  </sentence>
+  <sentence id="9067">
+    <text>Ansich eine gute app dafür das sie &quot;umsonst&quot; (karten gegen Aufpreis) ist! Die Ansagen könnten etwas detaillierter sein, und es wäre nicht schlecht wenn man zwischenpunkte in seine Route einplanen könnte.</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="app" to="21"/>
+      <aspectTerm from="79" term="Ansagen" to="86"/>
+      <aspectTerm from="157" term="zwischenpunkte in seine Route einplanen" to="196"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9068">
+    <text>Beste Offline meiner Meinung nach.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="Offline" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9069">
+    <text>Gut</text>
+  </sentence>
+  <sentence id="9070">
+    <text>Für Freeware eine super Navi app.</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="Navi app" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9071">
+    <text>Super ohne probleme</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="probleme" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9072">
+    <text>Sehr gute und hilfreich Offline-Karten App. Würde mir die Funktion zum Anzeigen von GPX-Tracks wünschen!</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="Offline-Karten App" to="43"/>
+      <aspectTerm from="72" term="Anzeigen von GPX-Tracks" to="95"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9073">
+    <text>Super</text>
+  </sentence>
+  <sentence id="9074">
+    <text>Echt ein Super Konzept! Ich liebe die Mischung aus soz. Netzwerken und Navi. Aber momentan dominieren Abstürze und Systemfehler auf dem Galaxy S3 und das macht keinen Spaß! Wenn es sich nicht bald ändert, folgt Deinstallation - schade</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="Konzept" to="23"/>
+      <aspectTerm from="103" term="Abstürze" to="111"/>
+      <aspectTerm from="116" term="Systemfehler" to="128"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9075">
+    <text>Danke google</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="google" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9076">
+    <text>Prima App!</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9077">
+    <text>Geht so .</text>
+  </sentence>
+  <sentence id="9078">
+    <text>... wenn man auch Hausnummern eingeben könnte. System lässt bei der Hausnummernabfrage nur Buchstaben zu. Ansonsten funktioniert die App super. Bitte updaten, dann gibt es 5 Sterne</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="Hausnummern" to="30"/>
+      <aspectTerm from="69" term="Hausnummernabfrage" to="87"/>
+      <aspectTerm from="117" term="funktioniert" to="129"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9079">
+    <text>Ein unmögliches Update! Habe die Vollversion erworben weil es gut funktioniert hat. Habe dann leider ein Update durchgeführt. Seither völlig unlogische und unübersichtliche Bedienung. Es dauert sehr lang bis alle Kontakte verfügbar sind, Schriften sind schwer lesbar. Zur Zeit leider ziemlicher Mist. PS.: Gewöhne mich langsam an die Bedienungdaran.</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Update" to="23"/>
+      <aspectTerm from="34" term="Vollversion" to="45"/>
+      <aspectTerm from="106" term="Update" to="112"/>
+      <aspectTerm from="174" term="Bedienung" to="183"/>
+      <aspectTerm from="214" term="Kontakte" to="222"/>
+      <aspectTerm from="239" term="Schriften" to="248"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9080">
+    <text>Ein rundes Paket</text>
+  </sentence>
+  <sentence id="9081">
+    <text>Sehr gut</text>
+  </sentence>
+  <sentence id="9082">
+    <text>Super</text>
+  </sentence>
+  <sentence id="9083">
+    <text>Kann Text nicht mehr auf deutsch umstellen</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Text" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9084">
+    <text>Komme immer ans Ziel</text>
+  </sentence>
+  <sentence id="9085">
+    <text>Supper sache funktioniert gut</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="funktioniert" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9086">
+    <text>Gefällt mir</text>
+  </sentence>
+  <sentence id="9087">
+    <text>Läuft hervorragend! Preis/Leistungsverhältnis top!</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Läuft" to="5"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9088">
+    <text>Für den Preis ist die app unschlagbar!</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="Preis" to="14"/>
+      <aspectTerm from="23" term="app" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9089">
+    <text>GPS findet er manchmal erst nach Neustart. Wenn man es eilig hat, ist es zwar nicht so dolle, aber nagut. Fügt bitte noch eine HUD-Navigation hinzu. Dennoch oft hilfreich. Nicht viele Straßen mit Hausnummern versehen (wäre praktisch, wenn die User diese selbst hinzufügen könnten) dennoch jetzt 4☆</text>
+    <aspectTerms>
+      <aspectTerm from="127" term="HUD-Navigation" to="141"/>
+      <aspectTerm from="184" term="Straßen mit Hausnummern" to="207"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9090">
+    <text>super!</text>
+  </sentence>
+  <sentence id="9091">
+    <text>Alles gut.</text>
+  </sentence>
+  <sentence id="9092">
+    <text>Die App ist spitze! Super ist es, dass man eigene Fahrzeugarten mit der entsprechenden Höchstgeschwindigkeit und gesperrten Straßen hinterlegen kann. Endlich lande ich mit meinem Roller nicht mehr ungewollt auf Kraftfahrstraßen. Schön wäre es, wenn die Audioausgabe auch über Bluetooth, wie z.B. HFP und A2DP funktionieren würde. Symbole für Zweiräder wäre auch noch was feines.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="44" term="eigene Fahrzeugarten" to="64"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9093">
+    <text>Top</text>
+  </sentence>
+  <sentence id="9094">
+    <text>Tolle App</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9095">
+    <text>Die App ist gelungen und funktioniert auch ganz gut. Man kann sich aktiv am Verkehr beteiligen und Staus, Unfälle, usw. melden. Ein paar Macken gibt es allerdings noch, die hoffentlich dann in nächster Zeit mal behoben werden.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="26" term="funktioniert" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9096">
+    <text>Eine gute Möglichkeit auch als Fußgänger mit gbs ans Ziel zu kommen.</text>
+  </sentence>
+  <sentence id="9097">
+    <text>Ist ein tolles Navi, nur fehlen teilweise Nebenstrassen</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="Navi" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9098">
+    <text>Funktioniert super viele Möglichkeiten Perfekt</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Funktioniert" to="13"/>
+      <aspectTerm from="26" term="Möglichkeiten" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9099">
+    <text>Super! Nutze ich jeden Tag.</text>
+  </sentence>
+  <sentence id="9100">
+    <text>Die Navigation ist sehr gut. Um ein Ziel einzugeben, muss man manchmal gewaltig tricksen. Die Suche ist verbesserungsfähig.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Navigation" to="15"/>
+      <aspectTerm from="37" term="Ziel" to="41"/>
+      <aspectTerm from="95" term="Suche" to="100"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9101">
+    <text>App startet nicht :-/</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="App" to="3"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9102">
+    <text>Sehr gut hilfreich</text>
+  </sentence>
+  <sentence id="9103">
+    <text>Seid dem Update Bootloop bei 115Kb Downlaod. LG3 G3 4.4.2</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Update" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9104">
+    <text>Startet erst gar nicht. Beendet sich gleich wieder. Geht immer noch nicht. UPDATE 8.5.15:Stürzt nachdem Start immer noch ab.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Startet" to="7"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9105">
+    <text>Excellent in LA</text>
+  </sentence>
+  <sentence id="9106">
+    <text>Schrott</text>
+  </sentence>
+  <sentence id="9107">
+    <text>Praktisch</text>
+  </sentence>
+  <sentence id="9108">
+    <text>Top-Navi</text>
+  </sentence>
+  <sentence id="9109">
+    <text>Super einfach</text>
+  </sentence>
+  <sentence id="9110">
+    <text>Funktioniert nach update überhaupt nicht mehr</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Funktioniert" to="12"/>
+      <aspectTerm from="18" term="update" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9111">
+    <text>Sehr gut keine Probleme HTC One</text>
+  </sentence>
+  <sentence id="9112">
+    <text>Sämtliche funktionen die ich bis jetzt immer genutzt habe sind in dieser Version nicht mehr enthalten. Es lassen sich keine Straßen mehr sperren und der rest ist auch zu umständlich für das Geld. Ich hab mich jetzt endlich entschlossen ein richtiges navi zu kaufen.</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="funktionen" to="21"/>
+      <aspectTerm from="74" term="Version" to="81"/>
+      <aspectTerm from="251" term="navi" to="255"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9113">
+    <text>Seit dem Update kann ich bei der Routeneingabe das Menü für Zwischenziele usw nicht auswählen. Optionen flackern kurz auf, sind aber nicht auswählbar...das ist leider ein großer Rückschritt. Nachtrag: Nachdem ich die App deinstalliert und wieder installiert habe läuft jetzt alles. Bis jetzt bin ich also wieder sehr zufrieden. Die neue Optik und die Bedienung find ich gut. Jetzt fehlt nur noch die für uns Motorradfahrer lebenswichtige Routenoption &quot;kurvige Route&quot;!!!</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Update" to="16"/>
+      <aspectTerm from="61" term="Zwischenziele" to="74"/>
+      <aspectTerm from="218" term="App" to="221"/>
+      <aspectTerm from="338" term="Optik" to="343"/>
+      <aspectTerm from="352" term="Bedienung" to="361"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9114">
+    <text>App wird dauerhaft angehalten.Ich habe sie bezahlt und kann sie nicht nutzen. Selbst mein Fachhändler konnte nicht helfen.Nie wieder, kann vor der App nur warnen!</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="App" to="4"/>
+      <aspectTerm from="148" term="App" to="151"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9115">
+    <text>Navi ist das (noch) nix. Map Factor ist hier duetlich besser und basiert ja auch auf OSM.</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="Map Factor" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9116">
+    <text>J</text>
+  </sentence>
+  <sentence id="9117">
+    <text>Startet wie hier schon oft beschrieben auf dem Huawei ascend p6 nicht mehr. Für eine derart zentrale Anwendung ein Desaster.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Startet" to="8"/>
+      <aspectTerm from="48" term="Huawei ascend p6" to="64"/>
+      <aspectTerm from="102" term="Anwendung" to="111"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9118">
+    <text>Ich finde die App super. Bis auf die letzten 10 Meter in der Regel sehr genau. Nur bietet sie manchmal Umwege an die nicht nötig wären.</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="App" to="17"/>
+      <aspectTerm from="103" term="Umwege" to="109"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9119">
+    <text>Keine Karten, andauernd Absturz. Cm9 4.0.4</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="Karten" to="13"/>
+      <aspectTerm from="25" term="Absturz" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9120">
+    <text>Pulsierendes Shopsymbol entfernt? Hat wohl nicht so ganz geklappt, hm? :-D Ansonsten gute Navisoftware.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Shopsymbol" to="23"/>
+      <aspectTerm from="90" term="Navisoftware" to="102"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9121">
+    <text>Das ist so gut</text>
+  </sentence>
+  <sentence id="9122">
+    <text>Kompakte, aber sehr hilfreiche Kartenapp! Die Streckenführung könnte noch verbessert werden, indem die Route aktualisiert wird, wenn man andere Stecken wählt!</text>
+    <aspectTerms>
+      <aspectTerm from="32" term="Kartenapp" to="41"/>
+      <aspectTerm from="47" term="Streckenführung" to="62"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9123">
+    <text>Diese app läuft nicht. Wenn man neu installiert, geht sie für 2-3 mal.. danach heißt es &quot;verbindungsfehler&quot; dieser besteht IMMER und ÜBERALL. Egal ob per WLAN oder mobilem Internet. Bin wirklich sehr enttäuscht! Werde sicher nicht wöchentlich neu installieren, um die app zum laufen zu kriegen.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="app" to="10"/>
+      <aspectTerm from="11" term="läuft" to="16"/>
+      <aspectTerm from="269" term="app" to="272"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9124">
+    <text>Super</text>
+  </sentence>
+  <sentence id="9125">
+    <text>Sehr gut .</text>
+  </sentence>
+  <sentence id="9126">
+    <text>sehr guter Lotse für lau.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="Lotse" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9127">
+    <text>The UI was significantly streamlined, it's nice, modern but seems too hollow. No way to display time or distance to the next waypoint. I miss it, Pity! Route options disappeared. Poo! Auto-turning the map can be now set by user: head forward, head north or off. EXCELLENT! Current map color schemes (only 2 to choose from: day and night) are STILL blinding the driver at night. This is CRAZY! I'm forced to turn the display completely off because of my sore eyes blinded by the light colors at night! Do they try to sell their HUD app? Maybe, but without a good solution to fix the phone below windscreen it's a no go... and the price at 9.99€ is way high too! Night-mode needs VERY dark or black textures/skins guys, take a look at ANY standalone Navi! Performance issues so far NONE, but stability is poor with lots of crashes. Let's hope they'll fix the bugs. Also after the success of Waze I expected to appear new user-report-social-network functionality, none of which came... Looks like missed chance to me. I'm willing to contribute. Keep up the good work!</text>
+  </sentence>
+  <sentence id="9128">
+    <text>Bis auf die teure Verkehrsinformationen.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="Verkehrsinformationen" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9129">
+    <text>Navi funktioniert wieder recht zuverlässig.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Navi" to="5"/>
+      <aspectTerm from="6" term="funktioniert" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9130">
+    <text>Es macht was es soll aber wo kann man Koordinaten eingeben oder geht das nicht?</text>
+    <aspectTerms>
+      <aspectTerm from="39" term="Koordinaten eingeben" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9131">
+    <text>Bei mir startete die neue Version (vom 2.11.2012) erst, nachdem ich vorher die alte Version entfernt hatte.</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="neue Version" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9132">
+    <text>Hat bis jetzt immer geklappt.</text>
+  </sentence>
+  <sentence id="9133">
+    <text>Nicht updatbar wenn man kein WLAN hat welches ueber die telekom laeuft...ueber hsdap auch nicht updatebar: deinstalliert.</text>
+  </sentence>
+  <sentence id="9134">
+    <text>Gut</text>
+  </sentence>
+  <sentence id="9135">
+    <text>Weiter so... ist ein MUSS für jeden....!</text>
+  </sentence>
+  <sentence id="9136">
+    <text>Ist eine gute Ergänzung zu den anderen kostenlosen NaviApps.Leider fehlt eine kleine übersichtliche Menueführung für die Einstellung usw. Dann auch 5 - Sterne möglich.</text>
+    <aspectTerms>
+      <aspectTerm from="52" term="NaviApps" to="60"/>
+      <aspectTerm from="101" term="Menueführung für die Einstellung" to="133"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9137">
+    <text>Solche Alternativen muss man gut finden</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="Alternativen" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9138">
+    <text>Das Programm sieht gut aus, mehr aber auch nicht. Die Route fängt an... um dich dann nach kurzer Zeit auf zu hängen. Was für ein Unsinnnnn.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Programm" to="13"/>
+      <aspectTerm from="55" term="Route" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9139">
+    <text>Gutes App Design. Bedienung funktioniert ohne Probleme. Bei der Erstellung einer Route kann man nur Start und Ziel aber leider keine Zwischenziele eingeben.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App Design" to="17"/>
+      <aspectTerm from="19" term="Bedienung" to="28"/>
+      <aspectTerm from="82" term="Route" to="87"/>
+      <aspectTerm from="134" term="Zwischenziele" to="147"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9140">
+    <text>Echt super! Nur schade, dass keine karte von der Türkei vorhanden ist. Hoffe es ist gerade in Bearbeitung. Dann gibts auch den 5. Stern! :) Ein anderes Manko ist die Bedienung im kartenmodus. Könnte ein wenig praktischer sein, wie z.B.: dass zoomen..</text>
+    <aspectTerms>
+      <aspectTerm from="36" term="karte von der Türkei" to="56"/>
+      <aspectTerm from="167" term="Bedienung im kartenmodus" to="191"/>
+      <aspectTerm from="243" term="zoomen" to="249"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9141">
+    <text>+1 für Open Street map und +1 für offline Modus</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="Open Street map" to="22"/>
+      <aspectTerm from="34" term="offline Modus" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9142">
+    <text>Super</text>
+  </sentence>
+  <sentence id="9143">
+    <text>Beste Navigation,auch nach Update.Unterwegs Updaten muss doch nicht sein,einfach auf manuelles Update stellen und zu Hause durchführen- So einfach kann es sein und nicht der Software die Schuld geben!!!</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="Navigation" to="17"/>
+      <aspectTerm from="28" term="Update" to="34"/>
+      <aspectTerm from="35" term="Unterwegs Updaten" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9144">
+    <text>Die App ist spitze. Nur vernachlässigt oder ignoriert ihr einfach die Funktionen für Lkws. Ihr solltet Breite Höhe Länge und Gewicht mit ins Programm nehmen. Dann ist die App wohl vollkommen.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="71" term="Funktionen für Lkws" to="90"/>
+      <aspectTerm from="104" term="Breite Höhe Länge" to="121"/>
+      <aspectTerm from="172" term="App" to="175"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9145">
+    <text>Meiner Meinung nach die beste Offline Navisoftware Thanks to the folks from the OSM project</text>
+    <aspectTerms>
+      <aspectTerm from="30" term="Offline Navisoftware" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9146">
+    <text>Ich weiß nicht wie man due spravhansagen ändert, z.B das man einstellt, dass Spongebob spricht. Wie ändere ich das? Icch bitte um ganz schnelle Rückmeldung. Ich hab schon beim Kunden service gefragt und da gab es nach einer Woche immer nich keine Rückmeldung, obwohl die gesagt haben, dass es nach 2 Werktagen ein Rückmeldung gibt. Schlechter Kundenservice! !!! Kann mur bitte jemand die Antwort zu meiner Frage geben</text>
+    <aspectTerms>
+      <aspectTerm from="28" term="spravhansagen" to="41"/>
+      <aspectTerm from="177" term="Kunden service" to="191"/>
+      <aspectTerm from="344" term="Kundenservice" to="357"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9147">
+    <text>Bis Android 2.3.3 war es einfacher und intuitiver zu bedienen. Und die praktische Luftlinien Messung ist immernoch nicht an Board, früher war sie es mal.</text>
+    <aspectTerms>
+      <aspectTerm from="54" term="bedienen" to="62"/>
+      <aspectTerm from="83" term="Luftlinien Messung" to="101"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9148">
+    <text>Funktioniert sehr gut, oft besser als festinstallierte Navigationsgeräte. Umständliche Software-Verbindung zum PC.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Funktioniert" to="13"/>
+      <aspectTerm from="39" term="festinstallierte Navigationsgeräte" to="73"/>
+      <aspectTerm from="88" term="Software-Verbindung zum PC" to="114"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9149">
+    <text>Super immer aktuell</text>
+  </sentence>
+  <sentence id="9150">
+    <text>Es fehlen Hausnummern...also scheint die Genauigkeit der Karten nicht absolut zu sein...weiteres nach längerer Testzeit</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="Hausnummern" to="22"/>
+      <aspectTerm from="42" term="Genauigkeit der Karten" to="64"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9151">
+    <text>Sehr gut</text>
+  </sentence>
+  <sentence id="9152">
+    <text>Macht was es soll</text>
+  </sentence>
+  <sentence id="9153">
+    <text>Sehr gut</text>
+  </sentence>
+  <sentence id="9154">
+    <text>GUT BIS AUF DIE ADRESSÜBERNAHME AUS DEN KONTAKTEN BEI STR. STATT STRAßE IM KONTAKT KOMMT NUR BLÖDSINN bei rum.</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="ADRESSÜBERNAHME" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9155">
+    <text>....aber die routenberechnung muss noch etwas besser werden</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="routenberechnung" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9156">
+    <text>Wenn diese &quot;Qualität&quot; für Navigon steht na dann sollten sie ihren Laden dicht machen.</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="Navigon" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9157">
+    <text>Referenzklasse</text>
+  </sentence>
+  <sentence id="9158">
+    <text>Navigator ist m. E. DIE Killer-App ,die für Android spricht.Natürlich sind die Karten nicht fehlerfrei, aber gern nehme ich mir etwas Zeit für ein paar Korrekturen in Open Street Maps. Wer damit fährt,darf wie bei jedem &quot;echten&quot; Navi den Kopf nicht ausschalten,es macht Spaß, zu sehen,wie OSM immer besser wird.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Navigator" to="9"/>
+      <aspectTerm from="79" term="Karten" to="85"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9159">
+    <text>Top</text>
+  </sentence>
+</sentences>

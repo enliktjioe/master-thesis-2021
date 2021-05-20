@@ -1,0 +1,877 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="1" review-id="159234">
+    <text>Grt app, not just editing d pics...bt lso u can create ur own fun wid it!	Its a must, bt sumtyms it stops working...idk y :/</text>
+    <aspectTerms>
+      <aspectTerm label1="create" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="editing" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="2" review-id="156687">
+    <text>Awesome!	All you need for decorating pictures is in this app</text>
+    <aspectTerms>
+      <aspectTerm label1="decorating pictures" label2="decorating pictures" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3" review-id="155666">
+    <text>Good	Can you please add some more frames,which takes a lot of pictures....please.</text>
+    <aspectTerms>
+      <aspectTerm label1=" more frames" label2="more frames" score1="1" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="4" review-id="157721">
+    <text>Effect	Please fix some of your effect such as fattal because its become a different quality of picture when I want to save it. Which means what I edit its not the same picture that I save. Overall good. Just on that part only.</text>
+    <aspectTerms>
+      <aspectTerm label1="edit" label2="edit" score1="0" score2="NA"/>
+      <aspectTerm label1="save" label2="save" score1="-1" score2="NA"/>
+      <aspectTerm label1="effect" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5" review-id="158745">
+    <text>Perfect	I love this app, I have it on all my devices, and use it all the time for fun effects to make the perfect picture.</text>
+    <aspectTerms>
+      <aspectTerm label1="effects" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6" review-id="158746">
+    <text>Works Excellent	I love it</text>
+    <aspectTerms>
+      <aspectTerm label1="Works Excellent" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7" review-id="156700">
+    <text>Ganesh lg p350	Great app</text>
+    <aspectTerms>
+      <aspectTerm label1="lg p350" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8" review-id="158237">
+    <text>Interesting	Not good enough but it can be improved</text>
+    <aspectTerms>
+      <aspectTerm label1=" it can be improved" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Interesting" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9" review-id="156190">
+    <text>Excellent	But need to add some more features......</text>
+    <aspectTerms>
+      <aspectTerm label1="add some more features" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10" review-id="155169">
+    <text>Love it	I love this app!! It lets me edit my pics anyway I want and share them easily!! Definitely a 5 star app!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="edit" label2="edit my pics anyway" score1="1" score2="NA"/>
+      <aspectTerm label1="share" label2="share pics easily" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="11" review-id="155681">
+    <text>It's really good. .	I love it!!! .</text>
+    <aspectTerms>
+      <aspectTerm label1="really good" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="12" review-id="155171">
+    <text>Good but..	I love the edits but lately picsart will not let me upload or share my picture ..please fix!!</text>
+    <aspectTerms>
+      <aspectTerm label1="edits" label2="edits" score1="1" score2="NA"/>
+      <aspectTerm label1="share picture" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="upload" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="13" review-id="157221">
+    <text>You won't regret it .	I tell you. This is a very good app. It has everything. Many filters, etc. Try it. Explore it first.</text>
+    <aspectTerms>
+      <aspectTerm label1="filters" label2="filters" score1="0" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="14" review-id="156202">
+    <text>It sucks	I was trying to do something so simple and I cant figure out anything. Have no idea how the other ratings are so good</text>
+    <aspectTerms>
+      <aspectTerm label1="sucks" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="15" review-id="157745">
+    <text>Love it!	Takes forever to apply effects very slow</text>
+    <aspectTerms>
+      <aspectTerm label1="Takes forever to apply effects" label2="apply effects very slow" score1="-1" score2="NA"/>
+      <aspectTerm label1="very slow" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="16" review-id="157235">
+    <text>Nice app	Does evrythng gud except tht red eye optn doesnt fnctn properly</text>
+    <aspectTerms>
+      <aspectTerm label1="red eye optn " label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="17" review-id="157749">
+    <text>Nice and Awesome	I really love this app...its easy to use and yet the result is good..thanks for the cool app !!</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to use" label2="easy to use" score1="1" score2="NA"/>
+      <aspectTerm label1="result is good" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="18" review-id="159285">
+    <text>????	I love this app so much I recommended this so to anyone that likes to edit pictures. It has so many great features. Keep up the good work guys.</text>
+    <aspectTerms>
+      <aspectTerm label1="edit picture" label2="edit pictures" score1="1" score2="NA"/>
+      <aspectTerm label1="great features" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="19" review-id="156224">
+    <text>PicsArt	This is my favorite editing app! And it's free! Runs super smooth on my Galaxy III. Keep up the great work! Now using on my Nexus 5, still awesome! ?</text>
+    <aspectTerms>
+      <aspectTerm label1="editing" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Galaxy III" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Nexus 5" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="Runs" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="20" review-id="158786">
+    <text>Loved this app from jump!	Have never had any issues with this app, its been my go to for enhancing  photos and has never let me down! Thanks guys, I love it!</text>
+    <aspectTerms>
+      <aspectTerm label1="enhancing  photos" label2="enhancing  photos" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="21" review-id="157763">
+    <text>ABSOLUTE BEST	This app is awesome I've edited some really cool pictures. And everyone loves them. Definitely download this app! I wish I could rate it better then 5 stars!!!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="edited" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="22" review-id="155717">
+    <text>Exellent	Nice t use and its very easy</text>
+    <aspectTerms>
+      <aspectTerm label1="very easy" label2="easy" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="23" review-id="157253">
+    <text>Good	Nice photo editor</text>
+    <aspectTerms>
+      <aspectTerm label1=" photo editor" label2="editor" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="24" review-id="155208">
+    <text>Bad	No password for content filter. Whats up with that?</text>
+    <aspectTerms>
+      <aspectTerm label1="password for content filter" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="25" review-id="155720">
+    <text>Love!	Best photo editer out there!</text>
+    <aspectTerms>
+      <aspectTerm label1="photo editer" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="26" review-id="158795">
+    <text>HTC one s	Good</text>
+    <aspectTerms>
+      <aspectTerm label1="HTC one" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="27" review-id="157266">
+    <text>Great app	best photo editor out there</text>
+    <aspectTerms>
+      <aspectTerm label1="photo editor" label2="editor" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="28" review-id="156247">
+    <text>Ok	Needs to have more filters but other than that works very good.</text>
+    <aspectTerms>
+      <aspectTerm label1="filters" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="29" review-id="156251">
+    <text>It's too user friendly	Using Picsart is fun!!</text>
+    <aspectTerms>
+      <aspectTerm label1="user friendly" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="30" review-id="156252">
+    <text>Obviously it's good if I gave it 5 starts.	I use this app to edit all my pictures. I love this app so much!!</text>
+    <aspectTerms>
+      <aspectTerm label1="edit" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="31" review-id="158306">
+    <text>Good	This makes beautiful pics</text>
+    <aspectTerms>
+      <aspectTerm label1=" makes beautiful pics" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="32" review-id="156773">
+    <text>Great app	Best picture editor</text>
+    <aspectTerms>
+      <aspectTerm label1="picture editor" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="33" review-id="159334">
+    <text>Edit photos	Love it!!!&lt;3</text>
+    <aspectTerms>
+      <aspectTerm label1="Edit " label2="Edit" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="34" review-id="157799">
+    <text>Great fun!	FUN making collages!</text>
+    <aspectTerms>
+      <aspectTerm label1="collages" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="35" review-id="156776">
+    <text>Locked out	I had to reinstall the app because I got a replacement phone. I never thought I would use the community sharing and whatnot, so I didn't bother to remember my sign ins. Forgot info link will not send anything to my email so I lost everything I did and no way to contact devs</text>
+    <aspectTerms>
+      <aspectTerm label1=" Forgot info link will not send anything to my ema" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="36" review-id="157294">
+    <text>Fun and creative	Easy to use,fun, makes any picture cute and creative</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy to use" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="37" review-id="157808">
+    <text>THIS THING IS A BEAST!	This app is like Photoshop CS5 or CS6 but for for your phone. Can't believe how weak the PS app is. But this thing here rocks!</text>
+    <aspectTerms>
+      <aspectTerm label1="Photoshop" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="38" review-id="159348">
+    <text>Need add	Hi plz could you try to make a smoke cuase i want to add some smoke to my picture to fake like im smoking . If it is availble can yoy tell me where to find it . Thank you</text>
+    <aspectTerms>
+      <aspectTerm label1="smoke" label2="smoke" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="39" review-id="156278">
+    <text>Best one I've tried. Have had it a long time. Easy &amp; successful use.	above ?????</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy use" label2="use" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="40" review-id="157814">
+    <text>Nice nice	Its nice that I can edit pics. Cool :) even I have a low class phone, I can still edit pictures through the help of picsart.</text>
+    <aspectTerms>
+      <aspectTerm label1="edit pictures" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="41" review-id="159359">
+    <text>5star!!!!!	I love it! ! Sumtime hate it catch myself editing ever picture just because its so awesome an so much diff stuff to try ... ! 8)-</text>
+    <aspectTerms>
+      <aspectTerm label1="editing" label2="editing" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="42" review-id="158847">
+    <text>Good	Good And easy for editing photo</text>
+    <aspectTerms>
+      <aspectTerm label1="editing photo" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="43" review-id="157825">
+    <text>Great	Great free app. Does everything I need it to do for pictures I've taken on my phone.</text>
+    <aspectTerms>
+      <aspectTerm label1="free" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="44" review-id="157829">
+    <text>Great for Instagram	I love this app! It is soooo great for making your pics look cool. The fx, editing, collage.... Everything is just so handy.</text>
+    <aspectTerms>
+      <aspectTerm label1="collage" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="editing" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="fx" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="45" review-id="156298">
+    <text>This app is misbehaving big time on me WHY??? I love this one and its just not working right for me:'( now it won't download the features is Stuck I don't know if its me or you ???Please Try Helping me,Thanks Again :'( :'(	S.O.S. PLEASE HELP GET THIS APP TO WORK FOR ME TY PAM THERESE LUKASZ PARKRIDGE,IL. 60068 :'(  :-#  :X.  :@  &gt;.&lt;THANK-YOU FOR FIXING MY PROBLEM ,SO FAR GREAT JUST LIKE NORMAL TY TY TY TY :) :) :)..!!! ((((HUGZ))))!!!!!!!  =]</text>
+    <aspectTerms>
+      <aspectTerm label1="download" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="46" review-id="159382">
+    <text>Great app to edit photos	Loads of features to edit photos that too free. Althou some are for purchase.  But sometimes the customised jpeg file customised is not recognised by the library/album. Development team  please see.</text>
+    <aspectTerms>
+      <aspectTerm label1="customised jpeg file " label2="customised jpeg file customised is not recognised" score1="-1" score2="NA"/>
+      <aspectTerm label1="edit " label2="edit" score1="2" score2="NA"/>
+      <aspectTerm label1="free. " label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="47" review-id="157849">
+    <text>Please fix	This app use to work great but now it wont open up to the effects. Please fix</text>
+    <aspectTerms>
+      <aspectTerm label1="wont open up to the effects" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="48" review-id="156829">
+    <text>Best gr8	Like it nice good job plz add more frame for free pack</text>
+    <aspectTerms>
+      <aspectTerm label1="add more frame" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="free pack" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="49" review-id="156326">
+    <text>Poor	Its bullshit it works real slow and cuts u off in the middle of u doin it</text>
+    <aspectTerms>
+      <aspectTerm label1="slow" label2="real slow" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="50" review-id="156335">
+    <text>Awesome!!!   So easy to customize a photo the whole family enjoys it</text>
+    <aspectTerms>
+      <aspectTerm label1="customize a photo" label2="customize" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="51" review-id="158901">
+    <text>Awesome! :)	Very user friendly and offers a wide variety of things! We love it! Esp. making collages!</text>
+    <aspectTerms>
+      <aspectTerm label1="Very user friendly" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="52" review-id="156346">
+    <text>Great Picture Edited.	Its great so far. I love it. Please add more clip arts.:-)</text>
+    <aspectTerms>
+      <aspectTerm label1="more clip arts" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="53" review-id="156861">
+    <text>Best pic edit app	Great app. Jus cant find how to remove text from a pic.</text>
+    <aspectTerms>
+      <aspectTerm label1="edit" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="remove text" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="54" review-id="156359">
+    <text>Best app so far	I love that u can edit and make it ur own that's cool</text>
+    <aspectTerms>
+      <aspectTerm label1="edit" label2="can edit" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="55" review-id="159433">
+    <text>Good....	Should add more graphics</text>
+    <aspectTerms>
+      <aspectTerm label1="add more graphics" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="56" review-id="156875">
+    <text>Timelapse !!!!!	Time lapse can easyliy be capture with this awesome app i actually dont use this app to edit pics but only to capture full resolution pics which can further be used to make a timelapse.....:D :D :D I am damn happy with this app !</text>
+    <aspectTerms>
+      <aspectTerm label1="capture full resolution" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="57" review-id="158422">
+    <text>Wonderful but	Could be better if all tools built-in and not depending upon the network connection</text>
+    <aspectTerms>
+      <aspectTerm label1="tools built-in" label2="all tools built-in" score1="0" score2="NA"/>
+      <aspectTerm label1="depending upon the network connection" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="58" review-id="157399">
+    <text>i love it	this app lets you create beautiful pictures</text>
+    <aspectTerms>
+      <aspectTerm label1="create pictures" label2="create beautiful pictures" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="59" review-id="156374">
+    <text>Must download	Easy good</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="60" review-id="157401">
+    <text>Good	Nice</text>
+    <aspectTerms>
+      <aspectTerm label1="Good Nice" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="61" review-id="157931">
+    <text>Marvelous	Amazing effects....</text>
+    <aspectTerms>
+      <aspectTerm label1="Amazing effects" label2="effects" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="62" review-id="155380">
+    <text>This is the best app ever	Many selections...just the best out there nd its FREE!</text>
+    <aspectTerms>
+      <aspectTerm label1="FREE" label2="FREE" score1="2" score2="NA"/>
+      <aspectTerm label1="Many selections" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="63" review-id="158969">
+    <text>Samsung galaxy note3	It's the best pic editor for...Android.....</text>
+    <aspectTerms>
+      <aspectTerm label1="editor" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="64" review-id="156927">
+    <text>Awesm	Most famous pics editor evr</text>
+    <aspectTerms>
+      <aspectTerm label1="editor" label2="editor" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="65" review-id="157441">
+    <text>It is for everyone who like pics	It is the perfect way to make some perfect pictures, it has much feathers, everything you need to edit pics, ===</text>
+    <aspectTerms>
+      <aspectTerm label1="edit pics" label2="edit " score1="1" score2="NA"/>
+      <aspectTerm label1="it has much feathers" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="make some perfect pictures" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="66" review-id="157444">
+    <text>Bad app	Its a vry bad.. If v select on t pic 10-15 tyms Thn Oly it works..</text>
+    <aspectTerms>
+      <aspectTerm label1="select" label2="select on t pic " score1="2" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="67" review-id="158983">
+    <text>Nice apps	This is very nice app for those who really likes to edit photos</text>
+    <aspectTerms>
+      <aspectTerm label1="edit" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="68" review-id="159498">
+    <text>Favourite hands down for photo editing ?	Easy to use.  Smart and up to date :)</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy to use" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="editing" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Smart" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="up to date" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="69" review-id="157452">
+    <text>Please fix this	Idk it uninstalls in my phone automatically.... And I ha e to download it again n again.</text>
+    <aspectTerms>
+      <aspectTerm label1="uninstalls automatically" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="70" review-id="155917">
+    <text>Great app	But when I update it , its force close</text>
+    <aspectTerms>
+      <aspectTerm label1="update it , its force close" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="71" review-id="157969">
+    <text>EXCELLENT APP	Simple and good app</text>
+    <aspectTerms>
+      <aspectTerm label1="Simple" label2="Simple" score1="2" score2="NA"/>
+      <aspectTerm label1=" good" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="72" review-id="157457">
+    <text>Fine app	Look good!! Much  impresive and high perfomance with generic android old version!!</text>
+    <aspectTerms>
+      <aspectTerm label1="high perfomance with android old version" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="73" review-id="156438">
+    <text>luv it	simple and fast, but pls add more clip art and so sticker</text>
+    <aspectTerms>
+      <aspectTerm label1="add more clip art" label2="add more clip art " score1="0" score2="NA"/>
+      <aspectTerm label1="add more so sticker" label2="add more so sticker" score1="0" score2="NA"/>
+      <aspectTerm label1="fast" label2=" fast" score1="2" score2="NA"/>
+      <aspectTerm label1="simple" label2="simple" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="74" review-id="155417">
+    <text>Good	Nice edithing photo</text>
+    <aspectTerms>
+      <aspectTerm label1="edithing photo" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="75" review-id="156957">
+    <text>Excellent...	Its nice.. easy to use...</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to use" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="76" review-id="157472">
+    <text>Great app can have good editing	***Great app &amp; gud editor!!!***</text>
+    <aspectTerms>
+      <aspectTerm label1="editing" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="77" review-id="159524">
+    <text>Unfortunate	I love this app but I keep having trouble updating. It says unable to write to sd storage but all the permissions are there and 15+ gb  are available. No storage issues with other apps... Galaxy S3</text>
+    <aspectTerms>
+      <aspectTerm label1="storage" label2="unable to write to sd storage" score1="-1" score2="NA"/>
+      <aspectTerm label1="trouble updating" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="78" review-id="157477">
+    <text>Perfect	Vry gud app for editing..plz add some more interesting frame..:-)</text>
+    <aspectTerms>
+      <aspectTerm label1="editing" label2="editing" score1="1" score2="NA"/>
+      <aspectTerm label1="more interesting frame" label2="interesting frame" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="79" review-id="158501">
+    <text>galaxy ace	love this app</text>
+    <aspectTerms>
+      <aspectTerm label1="galaxy ace" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="80" review-id="156457">
+    <text>AWESOME	Great editing photo apk</text>
+    <aspectTerms>
+      <aspectTerm label1="editing" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="81" review-id="157484">
+    <text>HTC user	Great app. Love it</text>
+    <aspectTerms>
+      <aspectTerm label1="HTC" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="82" review-id="159020">
+    <text>Great Photoshop	I like it alot, especially for small touch ups and facebook!!</text>
+    <aspectTerms>
+      <aspectTerm label1="  Great Photoshop" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="facebook" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="small touch ups" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="83" review-id="156462">
+    <text>Sweeeet	The best picture editor I have got</text>
+    <aspectTerms>
+      <aspectTerm label1="editor" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="84" review-id="156465">
+    <text>Long time	I've had this for a long time and I always go back to using it. It has most of ur basics.</text>
+    <aspectTerms>
+      <aspectTerm label1="has most of ur basics" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="85" review-id="158001">
+    <text>Cool app	Awsome app works fantastic just love it !!! Wow...</text>
+    <aspectTerms>
+      <aspectTerm label1="works fantastic" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="86" review-id="156980">
+    <text>Amazing!!	ive been using for almost 1yr!!!!!! Omg..You can do so much on this app.. One of the best photo editor! Love it OMG I just updated it its Heaven!!!!!!! Film. Is the best omgg!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="photo editor" label2="editor" score1="2" score2="NA"/>
+      <aspectTerm label1="updated" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="87" review-id="155957">
+    <text>galaxy pocket	excellent application allover</text>
+    <aspectTerms>
+      <aspectTerm label1="galaxy pocket" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="88" review-id="157494">
+    <text>Awsome App..	I m using this app from 1.5 years and I haven't seen any other app which compete its performance. . Keep uptading .. Love this app 5 stars from my side..</text>
+    <aspectTerms>
+      <aspectTerm label1="Keep uptading" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="89" review-id="159544">
+    <text>Excellent	A complete package in all for the artist in everyone</text>
+    <aspectTerms>
+      <aspectTerm label1="complete package" label2="package" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="90" review-id="156473">
+    <text>A good app	It's a good app but needs improvement</text>
+    <aspectTerms>
+      <aspectTerm label1="needs improvement" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="91" review-id="158522">
+    <text>good software	but low processing</text>
+    <aspectTerms>
+      <aspectTerm label1="processing" label2="processing" score1="0" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="92" review-id="156988">
+    <text>Easy to use and fun!	Love this app</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy to use" label2="Easy to use" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="93" review-id="155455">
+    <text>Great app	Awesum app easy 2 use</text>
+    <aspectTerms>
+      <aspectTerm label1="easy" label2="easy 2 use" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="94" review-id="155984">
+    <text>Love love love it!	I got this app because of my teenage daughter.  I am not a computer inclined persone and I was looking for something easy to crop pictures with. she assured me picsart would be easy.... it did take me a while to figure it out (and even longer to find out I could see other pics too) but now I don't send or post pics without using it. So much so that now my mother is using it! Love love love picsart!</text>
+    <aspectTerms>
+      <aspectTerm label1="easy" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="take me longer to find out I could see other pics " label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="95" review-id="157523">
+    <text>Very awesome and excellent	I love the features of this app. I can edit pictures in a high quality. Keep up the good work.</text>
+    <aspectTerms>
+      <aspectTerm label1="edit pictures in a high quality" label2="edit " score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="96" review-id="159571">
+    <text>Problem with update	Hey guys i cant update the app...it says you cannot install it either on the USB or the Phone storage...wat should i do??Pls answer!!I love this app!</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="update" score1="-1" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="97" review-id="159066">
+    <text>I love this app	I can edit my photo easily.good and keep it up!!</text>
+    <aspectTerms>
+      <aspectTerm label1="edit photo" label2="edit photo easily" score1="1" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="98" review-id="155999">
+    <text>Nice photo editor	I can make everything i want on this editor, it depends on how creative you are, very useful.</text>
+    <aspectTerms>
+      <aspectTerm label1="photo editor" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="99" review-id="159076">
+    <text>Best app	Can always edit my pics and they will end up well</text>
+    <aspectTerms>
+      <aspectTerm label1="edit pics" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="100" review-id="156525">
+    <text>Fck	Fix this cause always error</text>
+    <aspectTerms>
+      <aspectTerm label1="Fix this cause always error" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="101" review-id="156014">
+    <text>great	needs more features and hope u will advance to videos</text>
+    <aspectTerms>
+      <aspectTerm label1="advance to videos" label2="advance to videos" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="102" review-id="159087">
+    <text>Awesome	pics art is my only app for editing</text>
+    <aspectTerms>
+      <aspectTerm label1="editing" label2="editing" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="103" review-id="158575">
+    <text>Its awesome. ..	Cool app to photo edit.....</text>
+    <aspectTerms>
+      <aspectTerm label1="edit" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="104" review-id="158067">
+    <text>The best application hands down.	There isn't any other drawing software as complete and professional as this one for a cell phone or tablet. I've pushed and compared to other professional apps including Adobe. This app continues to blow the others away.</text>
+    <aspectTerms>
+      <aspectTerm label1="drawing " label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="complete" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="professional" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="105" review-id="157557">
+    <text>I love this app but my opinion	is to add some more clear tracing image and coloring bottle in draw menu so that i can make comics like a photoshop.</text>
+    <aspectTerms>
+      <aspectTerm label1="add coloring bottle in draw menu" label2="coloring bottle" score1="0" score2="NA"/>
+      <aspectTerm label1="add some more clear tracing image" label2="clear tracing image" score1="0" score2="NA"/>
+      <aspectTerm label1="make comics" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="106" review-id="159096">
+    <text>Awesome!!!	Great app, Great contents!!! Excelente para edici?n!!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="contents" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="107" review-id="157562">
+    <text>Well done	Best ever photo editor, ever!!!! :):) Xx</text>
+    <aspectTerms>
+      <aspectTerm label1="editor" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="108" review-id="159098">
+    <text>Editing pics	Superb ty</text>
+    <aspectTerms>
+      <aspectTerm label1="Editing" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="109" review-id="155519">
+    <text>Good	I like this app lets u do fun stuff with ur pics</text>
+    <aspectTerms>
+      <aspectTerm label1=" fun stuff with ur pics" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="110" review-id="158595">
+    <text>Best app i use!!!	You need no other photo editing apps ever again!!</text>
+    <aspectTerms>
+      <aspectTerm label1="photo editing" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="111" review-id="156549">
+    <text>Does its job...	I am using it occasionally and it makes what I need to. No major disadvs found up to now but I would at least add other output formats (only PNG, JPG currently available). Is there a selection tool to edit and work with image parts?</text>
+    <aspectTerms>
+      <aspectTerm label1="add other output formats" label2="other output formats" score1="1" score2="NA"/>
+      <aspectTerm label1="selection tool to edit and work with image parts" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="112" review-id="155533">
+    <text>I love you pics art	If you want editor for android ...go with dis app only trust me...its best for android and fabulous for canvas HD i love itttttttttt</text>
+    <aspectTerms>
+      <aspectTerm label1="canvas HD" label2="canvas HD" score1="2" score2="NA"/>
+      <aspectTerm label1="editor" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="113" review-id="156562">
+    <text>i think best	gud</text>
+    <aspectTerms>
+      <aspectTerm label1="best gud" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="114" review-id="155544">
+    <text>Picsart	An awesome and Helpful photo editor ?</text>
+    <aspectTerms>
+      <aspectTerm label1="photo editor" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="115" review-id="156057">
+    <text>Awesome	This app is grt, to explore ur  creativity.</text>
+    <aspectTerms>
+      <aspectTerm label1="explore " label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="116" review-id="158114">
+    <text>Meh	Okay would reccomened but a little slow</text>
+    <aspectTerms>
+      <aspectTerm label1="slow" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="117" review-id="156068">
+    <text>Done	Best Photoshop I have ever used</text>
+    <aspectTerms>
+      <aspectTerm label1="Photoshop" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="118" review-id="156075">
+    <text>(:	I love it ! It's so easy to work with ((:</text>
+    <aspectTerms>
+      <aspectTerm label1="easy" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="119" review-id="155573">
+    <text>April	I really luv diz app...great effects on ur pic....</text>
+    <aspectTerms>
+      <aspectTerm label1="great effects on ur pic" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="120" review-id="158142">
+    <text>Very easy to use	Just downloaded the app, so far I like it. Very easy to navigate and easy to use. Love it!</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to use" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="navigate" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="121" review-id="158658">
+    <text>Awesome	Picsart Is The Best Editing Photo App</text>
+    <aspectTerms>
+      <aspectTerm label1="Editing" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="122" review-id="156611">
+    <text>Picsart	Awesome photo editor....</text>
+    <aspectTerms>
+      <aspectTerm label1="photo editor" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="123" review-id="158660">
+    <text>Excellent app	Performs many tasks! The more you explore, the more you get from it!</text>
+    <aspectTerms>
+      <aspectTerm label1="Performs many tasks" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="124" review-id="157637">
+    <text>Love	Best photo editing app ever</text>
+    <aspectTerms>
+      <aspectTerm label1="editing" label2="editing" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="125" review-id="156103">
+    <text>I love	where are the colors of the textfonts? they disappeared.</text>
+    <aspectTerms>
+      <aspectTerm label1="where are the colors of the textfonts" label2="colors" score1="-1" score2="NA"/>
+      <aspectTerm label1="textfonts" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="126" review-id="158152">
+    <text>Really creative	Awesome ?</text>
+    <aspectTerms>
+      <aspectTerm label1="creative" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="127" review-id="156105">
+    <text>Cool	I like it. Just a bit slow.</text>
+    <aspectTerms>
+      <aspectTerm label1="slow" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="128" review-id="156112">
+    <text>I love this because it's a fun way to express yourself! :D	((((: !!!</text>
+    <aspectTerms>
+      <aspectTerm label1="express" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="129" review-id="158176">
+    <text>Luv it	Best free picture app out!!</text>
+    <aspectTerms>
+      <aspectTerm label1="free" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="130" review-id="158694">
+    <text>Please fix the new color splash effect</text>
+    <aspectTerms>
+      <aspectTerm label1="new color splash effect" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="131" review-id="156647">
+    <text>Great	Awesome</text>
+    <aspectTerms>
+      <aspectTerm label1="  Great Awesome" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="132" review-id="159208">
+    <text>Sooooooooooooooooooooooooooooo	Nice supper photo editing wow.......</text>
+    <aspectTerms>
+      <aspectTerm label1="editing" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="133" review-id="157674">
+    <text>HTC Amaze	It could be better but its almost perfect with the filters.</text>
+    <aspectTerms>
+      <aspectTerm label1="filters" label2=" filters" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="134" review-id="156139">
+    <text>New update is terrible	This app as 5* all the way until the update ... the crop feature is terrible now</text>
+    <aspectTerms>
+      <aspectTerm label1="crop feature" label2="crop feature" score1="-2" score2="NA"/>
+      <aspectTerm label1="New update is terrible" label2="update" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="135" review-id="157164">
+    <text>Awesome	Best photo editior i ever use</text>
+    <aspectTerms>
+      <aspectTerm label1="editior" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="136" review-id="158706">
+    <text>Good	V.nice  .fast</text>
+    <aspectTerms>
+      <aspectTerm label1="fast" label2="fast" score1="0" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="137" review-id="157172">
+    <text>Ok	Good one... Enjoyed using the app. You can change a poor photography into a excellent one....</text>
+    <aspectTerms>
+      <aspectTerm label1="change a poor photograph" label2="change photography" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="138" review-id="157686">
+    <text>Good as an editor,but a little slow	Yeah! It is good but a li'l bit slow ...</text>
+    <aspectTerms>
+      <aspectTerm label1="little slow" label2="slow" score1="-1" score2="NA"/>
+      <aspectTerm label1="editor" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+</sentences>

@@ -1,0 +1,1685 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="1" review-id="517">
+    <text>I can't even get the game to play. As soon as I get to the level selection the app crashes. So glad I wasted a dollar on this game for my kids. I will be contacting Apple to receive my refund.</text>
+    <aspectTerms>
+      <aspectTerm label1="level selection" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="play game" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="2" review-id="1030">
+    <text>Stupid little piggies! Love this game! Sometimes gets really hard though.</text>
+    <aspectTerms>
+      <aspectTerm label1="little piggies" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Sometimes gets really hard" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3" review-id="519">
+    <text>Yes, this new update really did do a beating to the game, but still, all of the other original levels are there...... Lets just hope rovio opens their eyes and sees that people want - original levels.... This game is called ANGRY BIRDS, not BAD PIGGIES or STOP PIGS...... This is still worth the 99 cents - only for the original levels....</text>
+    <aspectTerms>
+      <aspectTerm label1="new update" label2="new update" score1="-1" score2="NA"/>
+      <aspectTerm label1="original levels" label2="original levels" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="4" review-id="10">
+    <text>This game has an excellent replay value. You can go back through and try to beat your high score or you can try to get 3 stars on each level. And you can even try to find the hidden items too.</text>
+    <aspectTerms>
+      <aspectTerm label1="hidden items" label2="find the hidden items" score1="0" score2="NA"/>
+      <aspectTerm label1="high score" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="replay value" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5" review-id="12">
+    <text>Used to be my favorite game until they decided to throw in Ads everywhere they can, even after I bought the game... Now I just get annoyed and frustrated and won't play it as much</text>
+    <aspectTerms>
+      <aspectTerm label1="Ads" label2="Ads everywhere" score1="-1" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6" review-id="528">
+    <text>Please consider changing the background music. Am I the only one who finds this annoying? Thanks.</text>
+    <aspectTerms>
+      <aspectTerm label1="background music" label2="music" score1="-2" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7" review-id="1040">
+    <text>I guess I'm defective or something.  I just don't get why Angry Birds is fun.  To me it seems like the Splenda of games, it gives the impression of being fun without actually being fun.
+
+There is no sense of accomplishment for completing a level.  I don't have a good sense of what actually kills the pigs, versus just wounding them, and any results I get don't seem at all repeatable from one attempt to the next.  As a result, failures are frustrating because the controls fight my attempts at precision, and successes are unsatisfying because it feels like I just caught a lucky break.
+
+This isn't to say the game isn't addictive, but addictive and fun aren't the same.  I find myself continuing because I don't want to be the guy that was beaten by a 99 cent app rather than because I'm enjoying myself.
+
+Obvious it's me, since everyone else loves the game and buys the toys and shower curtains at Target.  But I just don't get it.</text>
+    <aspectTerms>
+      <aspectTerm label1="controls" label2="controls" score1="-1" score2="NA"/>
+      <aspectTerm label1="completing a level" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="results not repeatable" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="kills the pigs" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8" review-id="16">
+    <text>Fun really like the new levels</text>
+    <aspectTerms>
+      <aspectTerm label1="new levels" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9" review-id="529">
+    <text>C'mon Rovio! You're already a big company and have won over many fans of your games but really?! Including ads in a popular and paid app like this?!</text>
+    <aspectTerms>
+      <aspectTerm label1="ads" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10" review-id="1046">
+    <text>I have loved this game since the first time I ever played it...but I am so sick of getting the instant text messages of reminding me of my &quot;daily rewards&quot;. I am ready to delete the game b/c I can't stand getting these text msgs...IT'S A BIT MUCH!!!!</text>
+    <aspectTerms>
+      <aspectTerm label1=" instant text messages of reminding me of my &quot;dail" label2="instant text messages" score1="-2" score2="NA"/>
+      <aspectTerm label1="daily rewards" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="11" review-id="25">
+    <text>The game is fine. But in game ADs are really annoying.</text>
+    <aspectTerms>
+      <aspectTerm label1="ADs" label2="game ADs" score1="-2" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="12" review-id="27">
+    <text>Love angry birds. Takes a long time to master each game. Can't just go to the next game with one star. Have to have all three. Best part of the game is it doesn't kill you for failing like pet rescue or candy crush. I hate waiting to play again.</text>
+    <aspectTerms>
+      <aspectTerm label1="Takes a long time to master each game." label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="13" review-id="1023">
+    <text>Great game for all ages with the ability to uncover new challenges.</text>
+    <aspectTerms>
+      <aspectTerm label1="new challenges" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="14" review-id="32">
+    <text>I waited until I broke through #11 to rate this app. When I did succeed, I was nearly giddy with pride. After a few easy levels, I am again practicing my aim. The puzzles are fun and I am looking forward to another success
+Yes, I am stuck again. It is way too much fun to quit, thus still a 5 rating!
+5 again, yet - I find that an explosion on TV gets me a little excited. That's new for me.
+I enjoy your creativity to find ever more and different puzzles for me. The times I out do myself give me pleasure and am excited to see what is next. Thanks!
+Still enjoy the black exploding birds - the finality they offer.
+My aim is improving with a better ratio of 3 star efforts. Thanks for the fun!
+You still preoccupy me happily! M
+I had to give one level to the eagle and have been playing lots of solitaire to help recover. Now I am ready to go back and give it another try. The ability to pick up and retry gives the game yet another 5 stars.
+Hi, my aim has improved as has my ability to figure out how to get 3 stars on most all levels. It is fun to get help from the characters with special powers when I am really stuck. However I do not get help unless I
+feel tapped out. Thanks for all the fun. Mary</text>
+    <aspectTerms>
+      <aspectTerm label1="exploding birds" label2="black exploding birds" score1="1" score2="NA"/>
+      <aspectTerm label1="special powers" label2="get help from the characters with special powers w" score1="1" score2="NA"/>
+      <aspectTerm label1="levels" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="ability to pick up and retry " label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="puzzles" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="15" review-id="1057">
+    <text>This app is really frustrating. There are so many pop up ads that you can hardly play the game. It is difficult to know how to start. If you see a large &quot;play&quot; button in the middle of a screen, you would assume it starts the game, but no, it just brings you to another screen to try to sell more games. Might be nice to play, but I'm going to delete. I'd give it zero stars if I could.</text>
+    <aspectTerms>
+      <aspectTerm label1="If you see a large &quot;play&quot; button in the middle of " label2="large &quot;play&quot; button" score1="-1" score2="NA"/>
+      <aspectTerm label1="difficult to know how to start" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="so many pop up ads that you can hardly play the ga" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="16" review-id="550">
+    <text>The new update has ruined most of this game,the levels,the new theme song is horrible and remember on worlds like danger above,poached eggs and the mighty hoax,I liked it when it shows the time of day,replace reds mighty feather with an artic/tundra/glacier world</text>
+    <aspectTerms>
+      <aspectTerm label1="new theme song" label2="theme song" score1="-2" score2="NA"/>
+      <aspectTerm label1=" new update" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="level" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="17" review-id="1062">
+    <text>Angry birds is a awesome app. Make some Batman levels</text>
+    <aspectTerms>
+      <aspectTerm label1="Batman levels" label2="Batman levels" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="18" review-id="552">
+    <text>Same shots often yield different results. There's no skill involved. I have the nagging suspicion that the game is programmed to make you lose a lot so that you feel like it's addictive and you are improving.</text>
+    <aspectTerms>
+      <aspectTerm label1="shots" label2="Same shots often yield different results" score1="-1" score2="NA"/>
+      <aspectTerm label1=" no skill involved" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="19" review-id="1067">
+    <text>I love playing angry birds. Only problem is icons on upper left of screen get in the way and hide the bird. New versions  add another icon making it difficult to see a high bird. I will avoid updating. This feature should be optional. It may be disabled but still shows gray icon. Better yet an option to hide all the icons would improve display a lot</text>
+    <aspectTerms>
+      <aspectTerm label1="hide all the icons" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="icons on upper left of screen" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="New versions" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Upgrade" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="20" review-id="46">
+    <text>Used to be a good game, now since upgrade it locks up every time I try to play. Don't waste your money!</text>
+    <aspectTerms>
+      <aspectTerm label1="upgrade" label2="Used to be a good game, now since upgrade it locks" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="21" review-id="558">
+    <text>I just downloaded the new update and every time i try to play a level it crashes.</text>
+    <aspectTerms>
+      <aspectTerm label1="new update" label2="downloaded the new update and every time i try to " score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="22" review-id="48">
+    <text>Still like the game, the pop up adds, not so much.</text>
+    <aspectTerms>
+      <aspectTerm label1="pop up adds" label2="pop up adds" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="23" review-id="559">
+    <text>what happened to the music?</text>
+    <aspectTerms>
+      <aspectTerm label1="music" label2="music" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="24" review-id="50">
+    <text>Constant pop ups trying to sell &quot;super birds&quot; that don't really do much take away the pleasure of the game.  It is quite annoying.  I think the time has come to delete my old pals A Birds.  Sad.</text>
+    <aspectTerms>
+      <aspectTerm label1="Constant pop ups trying to sell &quot;super birds&quot; that" label2="Constant pop ups" score1="-1" score2="NA"/>
+      <aspectTerm label1=" It is quite annoying" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="25" review-id="561">
+    <text>Never mind the endlessly infuriating new levels or the cacophonous new intro music that sounds like it was composed by someone trying to mock carnivals...how can Rovio calls this an update at all? It's just a horrible overhaul...</text>
+    <aspectTerms>
+      <aspectTerm label1="new levels" label2="new levels" score1="-1" score2="NA"/>
+      <aspectTerm label1="music" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="26" review-id="1076">
+    <text>The star rating thing today is plain boring I would like to see the star rating music again</text>
+    <aspectTerms>
+      <aspectTerm label1="star rating music" label2="star rating music" score1="-2" score2="NA"/>
+      <aspectTerm label1="star rating thing" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="27" review-id="51">
+    <text>Great puzzle game.</text>
+    <aspectTerms>
+      <aspectTerm label1="puzzle game" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="28" review-id="562">
+    <text>LOL DON'T DOWNLOAD IT. IT HAS 69 TROJAN VIRUSES. I DID 420 VIRUS SCANS BUT THEY ARE UNDETECTABLE.</text>
+    <aspectTerms>
+      <aspectTerm label1="TROJAN VIRUSES" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="29" review-id="567">
+    <text>It crashes when I click on a level</text>
+    <aspectTerms>
+      <aspectTerm label1="crashes when I click on a level" label2="level" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="30" review-id="1079">
+    <text>When it was just the Mighty Eagle for sale.  As I always say &quot;IAP's taste bitter,  like ashes&quot; bummer...</text>
+    <aspectTerms>
+      <aspectTerm label1="Mighty Eagle" label2="Mighty Eagle" score1="-2" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="31" review-id="569">
+    <text>First, they ruined the icon. Okay, nobody cared about the icon anyways. We can live with that. Then they add stupid power ups. Now you can no longer brag if you got 3 stars in every level because people can just say you used power ups. Okay, we'll use the honor system about how you got the stars. Then they add the stupid cartoon thing. They really should have put that in a separate app or something, but I guess it'll be a feature I'll never use. Now they completely changed the gameplay in the newest episode into the lamest thing ever. I'm sorry ROVIO, but you have betrayed gamers everywhere because of your greed and stupidity. You have lost credibility as good videogame company. That's why you don't see angry birds at the top of the charts anymore. I can only hope you will try to redeem yourself by staying true to what angry birds was originally about.</text>
+    <aspectTerms>
+      <aspectTerm label1="cartoon thing" label2="cartoon" score1="-1" score2="NA"/>
+      <aspectTerm label1="icon" label2="icon" score1="-1" score2="NA"/>
+      <aspectTerm label1="power ups" label2="power ups" score1="-1" score2="NA"/>
+      <aspectTerm label1="gameplay" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="32" review-id="579">
+    <text>I love angry birds. I have them all. But this new level is along the lines of Bad Piggies. Not a fan. Very different game and it's both too hard and just not fun.</text>
+    <aspectTerms>
+      <aspectTerm label1="new level" label2="new level" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="33" review-id="68">
+    <text>Please bring back the trajectory line or at least make it to where you can turn it on or off. That's one of the thing I loved about the game before and why it's been a while since I've played it. I have all of then except Rio. I love the fact the both Star Wars has then but not sure why you got rid of them on the original and seasons.</text>
+    <aspectTerms>
+      <aspectTerm label1="trajectory line" label2=" trajectory line" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="34" review-id="582">
+    <text>This new episode is just stupid! It's not even angry birds.</text>
+    <aspectTerms>
+      <aspectTerm label1="new episode" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="35" review-id="583">
+    <text>I'm always looking forward to Angry Birds updates but this last one is awful. Red feathers flying around telling you what to hit-it doesn't even feel like Angry Birds anymore. Please go back to levels like in the beginning. You are ruining this super fun game!</text>
+    <aspectTerms>
+      <aspectTerm label1="levels like in the beginning" label2="levels" score1="0" score2="NA"/>
+      <aspectTerm label1="Red feathers flying" label2="Red feathers" score1="-1" score2="NA"/>
+      <aspectTerm label1="updates" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="36" review-id="586">
+    <text>People are complaining about the new update of Angry Birds. It's just an ADDITION of levels to the original game with a twist, and it's NOT that bad. Sure, it's different from the previous levels, but it's unique and could get a bit challenging if you play the whole thing instead of just playing two levels and saying it's horrible. I'm sure there will be more levels of the same classic Angry Birds coming soon, so all the complainers need to take a seat and be patient. Great job on the game, Rovio! And for all who don't have the game, don't let these reviews prevent you from getting it. You don't have an iPhone/iPad/iPod Touch unless Angry Birds is on it.
+
+P.S. I don't work for Rovio or anything, F.Y.I.</text>
+    <aspectTerms>
+      <aspectTerm label1="levels" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="new update" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="37" review-id="1098">
+    <text>I love angry birds and I love that this have more levels!!! I was so happy to get this game!!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="more levels" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="38" review-id="76">
+    <text>The new update is amazing from a content perspective. But the developers keep shoving the new shock bird in your face to keep buying whenever you're stuck. This is manipulative and I didn't pay for this game to get a  feature that keeps bugging me to spend money. Come on guys. This is a desperate attempt at quick revenue generation. Offer it - yes. But stop it with the continual pop ups in game to buy. Bad form.</text>
+    <aspectTerms>
+      <aspectTerm label1="shock bird" label2="shoving the new shock bird in your face" score1="0" score2="NA"/>
+      <aspectTerm label1="keeps bugging me to spend money" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="new update" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="39" review-id="78">
+    <text>My son played with Angry a birds for about an hour and it burned through 1gb of data. What is that about?  Sure, I understand he was watching toons. But how much data do you need to make an animated toon for a 4 inch display?</text>
+    <aspectTerms>
+      <aspectTerm label1="watching toons" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="40" review-id="591">
+    <text>Not thrilled with the recent update. I really miss the old Angry Birds.  Also the Daily Rewards Power Up/Slot Machine no longer loads anymore.   Please fix!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="Daily Rewards Power Up/Slot Machine" label2="Daily Rewards" score1="-1" score2="NA"/>
+      <aspectTerm label1="recent update" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Power Up/Slot Machine" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="41" review-id="80">
+    <text>Great game and nice update</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="update" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="42" review-id="1103">
+    <text>Its still loading and it has been fir five days. I want it to go away already. Please help. This is annoying even though that i like all the games but if it keeps telling me its installing and it is not thats unacceptable.</text>
+    <aspectTerms>
+      <aspectTerm label1=" if it keeps telling me its installing and it is n" label2="installing" score1="-2" score2="NA"/>
+      <aspectTerm label1="Angry birds 3.1      Its still loading and it has " label2="loading" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="43" review-id="592">
+    <text>Fix crashing issues on iPod touch 4</text>
+    <aspectTerms>
+      <aspectTerm label1="Fix crashing issues on iPod touch 4" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="44" review-id="1105">
+    <text>yay</text>
+    <aspectTerms>
+      <aspectTerm label1="free" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="45" review-id="1107">
+    <text>I like the game but, it takes  a lot of space??</text>
+    <aspectTerms>
+      <aspectTerm label1="space" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="46" review-id="85">
+    <text>So, I wish I could play, but the game crashes when I try to open a level. I paid for this and I would like my money back until the game is fixed.</text>
+    <aspectTerms>
+      <aspectTerm label1="open a level" label2="the game crashes when I try to open a level" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="47" review-id="86">
+    <text>The ad for the electrified bomb bird randomly appears and causes me to use one. Also, the button for it is right under the pause button, which made me use it even more, I am now out of uses simply because they put it in a lousy location. Fix it please.</text>
+    <aspectTerms>
+      <aspectTerm label1="button for it is right under the pause button" label2="button lousy location" score1="-1" score2="NA"/>
+      <aspectTerm label1="electrified bomb bird randomly appears" label2="electrified bomb" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="48" review-id="610">
+    <text>The new levels are just plane stupid. No sense of accomplishment at all. This was my last AB game I have. I deleted ALL the others because of ALL the adds for your games, toys, books cartoons, and every other thing you could fit in there these games say 32 MB but they are all almost 200 MB because there is soooo many adds in them. Now this crap.  just read your reviews ALL one star with nothing but complaints. Revio you have become rediculas in your game antics you have ruined every one of your games with your adds lies and bad Decisions to screw us all with this taking our devices over with none stop texts to come play adds and now crap levels. So angry birds will no longer be in any of my devices. Even my kids won't play your games anymore. Greed has ruined this ONCE great franchise SAD. Angry birds is DEAD killed by greed. DELETE</text>
+    <aspectTerms>
+      <aspectTerm label1="new levels" label2="new levels are just plane stupid" score1="-2" score2="NA"/>
+      <aspectTerm label1="adds" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="books cartoons," label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="49" review-id="99">
+    <text>Look how much Rovio evolved.  I mean there is angry birds everything. Btw angry birds is a fun game and really addictive</text>
+    <aspectTerms>
+      <aspectTerm label1="Rovio" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="50" review-id="101">
+    <text>Ohohoh shockwave blow my mind out!! Never knew that there will be a power like that ....... My sister use that a lot of times . It is much easier but some
+Are hard ....</text>
+    <aspectTerms>
+      <aspectTerm label1="shockwave" label2="shockwave" score1="1" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="51" review-id="106">
+    <text>On this last update why did u put spanish in there?</text>
+    <aspectTerms>
+      <aspectTerm label1="Keeps crashing" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="last update" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="52" review-id="1131">
+    <text>Dam, people are arguing that the game is freezing all the time and the app logo is &quot;ugly&quot;. Chill out, you just got the game for free and you're arguing about this pointless stuff. lol</text>
+    <aspectTerms>
+      <aspectTerm label1="app logo" label2="app logo" score1="-1" score2="NA"/>
+      <aspectTerm label1="free" label2="free" score1="1" score2="NA"/>
+      <aspectTerm label1="freezing all the time" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="game is freezing" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="53" review-id="1134">
+    <text>Try bringing in different animals to shoot the pigs or something, stop brining in more power ups etc</text>
+    <aspectTerms>
+      <aspectTerm label1="different animals" label2="different animals" score1="1" score2="NA"/>
+      <aspectTerm label1="more power ups" label2="more power ups" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="54" review-id="624">
+    <text>I really love the new levels. They add excitement to the game</text>
+    <aspectTerms>
+      <aspectTerm label1="levels" label2="new levels" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="55" review-id="625">
+    <text>I've been a big fan up to this point, but reds feathers is not in the same spirit, not fun.  Starts without letting you minimize, then wont  let you position the bird until several seconds have passed.  Hurts my hands to play.  Doesn't seem to involve or build skills, except speed tapping.
+
+It could be improved with some fixes, an letting the player have a fair shake.
+
+I've gone from a daily player to zero.</text>
+    <aspectTerms>
+      <aspectTerm label1="minimize" label2="letting you minimize" score1="-1" score2="NA"/>
+      <aspectTerm label1="position the bird" label2="position the bird until several seconds have passe" score1="-1" score2="NA"/>
+      <aspectTerm label1="reds feathers" label2="eds feathers" score1="-1" score2="NA"/>
+      <aspectTerm label1="Doesn't involve or build skills" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="56" review-id="117">
+    <text>The shockwave stuff just makes the game more annoying to play. I don't want it, I don't need it, but it's in my face and I can't get rid of it. Rovio is losing their way.</text>
+    <aspectTerms>
+      <aspectTerm label1="shockwave stuff " label2="Shockwave stuff is garbage" score1="-2" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="57" review-id="629">
+    <text>Since te update, can't even play the new level.  Game crashes. And from the reviews, it sounds like it isn't worth tr aggravation. PS - bad piggies sucked.</text>
+    <aspectTerms>
+      <aspectTerm label1="new level" label2="new level" score1="-2" score2="NA"/>
+      <aspectTerm label1="update" label2="update" score1="-2" score2="NA"/>
+      <aspectTerm label1="bad piggies" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="58" review-id="122">
+    <text>The latest update is new but classic! Great effects and powers. 
+
+Rovio almost lost it with the first horrible Reds Mighty Feathers update and the buy everything commercialization , but the second one an now Short Fuse they managed to bring back great game play and spice it up with new features.
+
+Well done.</text>
+    <aspectTerms>
+      <aspectTerm label1="latest update" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Reds Mighty Feathers update" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="effects" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="powers" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="59" review-id="123">
+    <text>Crashes every time I open a level...</text>
+    <aspectTerms>
+      <aspectTerm label1="Crashes" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="60" review-id="637">
+    <text>The app keeps crashing on my iPod 4th gen ever since the new update. PLEASE fix this!!!</text>
+    <aspectTerms>
+      <aspectTerm label1=" keeps crashing on my iPod 4th gen ever since the " label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="61" review-id="638">
+    <text>I got a new phone, thought I was downloading Angry Birds. Apparently I've accidentally downloaded a cheap knockoff because this is not the Angry Birds I used to play. Tried the first couple levels of the new update and its horrible.</text>
+    <aspectTerms>
+      <aspectTerm label1="levels" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="new update" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="62" review-id="639">
+    <text>New levels are disappointing, and are really boring. Very different gameplay. Looks like a promo for Bad Piggies.</text>
+    <aspectTerms>
+      <aspectTerm label1="New levels" label2="levels" score1="-2" score2="NA"/>
+      <aspectTerm label1="gameplay" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="63" review-id="1156">
+    <text>I suggest that the next angry bird be angry birds &quot;lord of the rings.&quot;love this game,can't stop thinking about it!!!!!!!!!!!!?????????????</text>
+    <aspectTerms>
+      <aspectTerm label1="lord of the rings" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="64" review-id="645">
+    <text>Latest update so bad for the first time I don't even care to play! Candy Crush now has my time. Disappointed and hate to move on but this was bad, bad, bad.</text>
+    <aspectTerms>
+      <aspectTerm label1="Latest update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="65" review-id="646">
+    <text>The new levels are great but they're kinda hard. Can you add something to make it easier?</text>
+    <aspectTerms>
+      <aspectTerm label1="new levels" label2="levels" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="66" review-id="1157">
+    <text>^
+^   ^</text>
+    <aspectTerms>
+      <aspectTerm label1="triforce" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="67" review-id="1160">
+    <text>It's suprisingly fun to slingshot birds and destroy things. But it gets old after a while and I can't believe I paid for it.</text>
+    <aspectTerms>
+      <aspectTerm label1="destroy things" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="68" review-id="651">
+    <text>I wish I could delete them.</text>
+    <aspectTerms>
+      <aspectTerm label1="New levels" label2="New levels are horrible" score1="-2" score2="NA"/>
+      <aspectTerm label1="I wish I could delete them." label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="69" review-id="652">
+    <text>I have been an avid Angry Birds fan since the very beginning! In my opinion, no other game (or collection of games) has even remotely come close to being as amazingly genius as Angry Birds....until the most recent update, that is! I am THOROUGHLY disappointed and COMPLETELY disgusted with the newest levels! Not only are they all around STUPID, but they are also confusing as hell and have NOTHING to really do with The Angry Birds Games, either! MAJOR, MAJOR FAIL!!! I would give it ZERO STARS, if at all possible!!! Come on, Rovio and AB Team...you guys are better than this! ????????????</text>
+    <aspectTerms>
+      <aspectTerm label1="disgusted with the newest levels" label2="Not only are they all around STUPID, but they are " score1="-2" score2="NA"/>
+      <aspectTerm label1="until the most recent update" label2="until the most recent update, that is!" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="70" review-id="144">
+    <text>I'm happy the old music is back and this wasn't an update for the stupid red mighty feathers. But I have to rate it 4 stars because you made the menu worse looking.</text>
+    <aspectTerms>
+      <aspectTerm label1="menu" label2="menu" score1="-2" score2="NA"/>
+      <aspectTerm label1="music" label2="music" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="71" review-id="146">
+    <text>Great new levels at an incredible price. Thanks!</text>
+    <aspectTerms>
+      <aspectTerm label1="new levels" label2="levels" score1="2" score2="NA"/>
+      <aspectTerm label1="price" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="72" review-id="659">
+    <text>Waiting for iCloud saving...</text>
+    <aspectTerms>
+      <aspectTerm label1="iCloud saving" label2="iCloud" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="73" review-id="1173">
+    <text>Read tittle</text>
+    <aspectTerms>
+      <aspectTerm label1="free" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="74" review-id="150">
+    <text>Addictive...love it!</text>
+    <aspectTerms>
+      <aspectTerm label1="Addictive" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="75" review-id="663">
+    <text>I love the new Reds Mighty Feathers but for some reason, ever since I updated it, the classic Angry Birds isn't giving me my Daily Reward anymore. Please fix it.</text>
+    <aspectTerms>
+      <aspectTerm label1="Daily Reward" label2="Daily Reward" score1="0" score2="NA"/>
+      <aspectTerm label1="Reds Mighty Feathers" label2="Reds Mighty Feathers" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="76" review-id="665">
+    <text>I love angry birds but this new level is really unpleasant and confusing.</text>
+    <aspectTerms>
+      <aspectTerm label1="new level" label2="I love angry birds but this new level is really un" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="77" review-id="154">
+    <text>I love the new levels they are very challenging . You should make more levels . I love angry birds.And you should sign with sponge bob squarepants for an app .And you should youse Billy Joel music for your background sound.</text>
+    <aspectTerms>
+      <aspectTerm label1="levels" label2="more levels" score1="2" score2="NA"/>
+      <aspectTerm label1="background sound" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="new levels" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="78" review-id="1180">
+    <text>My last review was on the Space Eagle a very bad copy of the Awesome Mighty Eagle which is my latest review and an unlimited supply of them can be bought for 99c so it gets 5 stars but the Space Eagle should be the same?Then I might actually like it. By the way if you are complaining because of the logo for Roviow on the Angry Birds App then stop its just saying who it's made by( just a picture! ) who cares about the little pic the game is what counts!</text>
+    <aspectTerms>
+      <aspectTerm label1="Mighty Eagle" label2="Mighty Eagle" score1="1" score2="NA"/>
+      <aspectTerm label1="logo" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Space Eagle" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="79" review-id="670">
+    <text>This update is plain bad. It's one thing to make the levels challenging but to make them near impossible with no real reward, well, that misses the point entirely. I didn't finish Bad Piggies and won't be finishing this either.</text>
+    <aspectTerms>
+      <aspectTerm label1="Bad Piggies" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="levels" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="80" review-id="671">
+    <text>Whenever I click a level on my iPod touch, it crashes automatically. I don't see why it's doing it.</text>
+    <aspectTerms>
+      <aspectTerm label1="Whenever I click a level on my iPod touch, it cras" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="81" review-id="674">
+    <text>Used to be an avid Angry Birds fan but this update is not worth playing. Had a good thing going with previous updates, but this ruined it for me. Will continue playing Candy Crush until Angry Birds shows some much needed improvements!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="this update" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="82" review-id="1193">
+    <text>Can u plz make It connect to Facebook angry birds &quot;friends&quot; to compete in the tournament every week</text>
+    <aspectTerms>
+      <aspectTerm label1="connect Facebook" label2="connect Facebook" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="83" review-id="171">
+    <text>I love the game. Great that I can move between iPhone and iPad without losing all of my hard work.  Wish I could do that in space and rio. Really hate the new leaderboard. Really hard to tell where I sit. Wish it would still show in vertical mode.</text>
+    <aspectTerms>
+      <aspectTerm label1="move between iPhone and iPad without losing all of" label2="move between iPhone and iPad " score1="1" score2="NA"/>
+      <aspectTerm label1="new leaderboard" label2="Leaderboard" score1="-2" score2="NA"/>
+      <aspectTerm label1="vertical mode" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="84" review-id="684">
+    <text>New update is total FECES.</text>
+    <aspectTerms>
+      <aspectTerm label1="New update" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="85" review-id="1196">
+    <text>Wow it's now free! And looking back I realized this game is 2 years old! ??</text>
+    <aspectTerms>
+      <aspectTerm label1="free" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="86" review-id="1197">
+    <text>Im just wondering :why the f' is this so popular??? Lol cool but it gets repetitive after a while</text>
+    <aspectTerms>
+      <aspectTerm label1="repetitive" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="87" review-id="688">
+    <text>Yer game is retarted I fing hate the reds mighty feathers those pigs deserve the egg because they can come up with something better than a gay slingshot</text>
+    <aspectTerms>
+      <aspectTerm label1="reds mighty feathers" label2="reds feathers" score1="-1" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="88" review-id="689">
+    <text>Bad job on the new level</text>
+    <aspectTerms>
+      <aspectTerm label1="Bad job on the new level" label2="new level" score1="-1" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="89" review-id="691">
+    <text>.</text>
+    <aspectTerms>
+      <aspectTerm label1="crashes" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="90" review-id="182">
+    <text>Does anybody remember the old angry birds? It's fun but I has changed over the years, the characters look differant</text>
+    <aspectTerms>
+      <aspectTerm label1="characters" label2="characters" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="91" review-id="699">
+    <text>I hate it so much I don't want to give it
+Bull crap.stupid</text>
+    <aspectTerms>
+      <aspectTerm label1="stupid" label2="Stupid update" score1="-2" score2="NA"/>
+      <aspectTerm label1="I hate it so much I don't want to give it" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="92" review-id="1211">
+    <text>This is a great game. The characters are clever, I love the title music, and the storyline is original and creative. However, there are flaws. In most levels, I have noticed that many balances do not follow the equilibrium laws of mechanics. When these unbalanced blocks are interacted with, they, too, do not behave like they should. Aside from this, the game is great and I would recommend it.</text>
+    <aspectTerms>
+      <aspectTerm label1="characters" label2="characters" score1="1" score2="NA"/>
+      <aspectTerm label1="many balances do not follow the equilibrium laws o" label2="many balances do not follow the equilibrium laws o" score1="-1" score2="NA"/>
+      <aspectTerm label1="storyline" label2="storyline" score1="1" score2="NA"/>
+      <aspectTerm label1="title music" label2="title music" score1="1" score2="NA"/>
+      <aspectTerm label1="unbalanced blocks" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="93" review-id="701">
+    <text>I personally know I'm not with most of the people who wrote the review, I actually like the new level set. It's more about timing this time than anything else. My initial thought was that I didn't like it, but after playing more of it and learning the strategy behind it I don't mind it as much</text>
+    <aspectTerms>
+      <aspectTerm label1="level" label2="new level" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="94" review-id="702">
+    <text>Game was fun till the ads I was planning on buying their other games but not so sure now</text>
+    <aspectTerms>
+      <aspectTerm label1="ads" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="95" review-id="191">
+    <text>I have had this game for a long while and never had problems, once I updated my phone to iOS 7, and re-downloaded angry birds on an I-phone 4 I have not even been able to play the game but rather fight glitches, not full screen and will not respond.
+If it works then it's an amazing game but what use if you can't even play it.</text>
+    <aspectTerms>
+      <aspectTerm label1="full screen" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="glitches" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="iOS 7" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="re-downloaded angry birds on an I-phone 4" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="96" review-id="704">
+    <text>Quit whining about how much you don't like the update. It gives the game a different twist and I love it. If you keep whining, you'll get it taken off for the people who actually like it!</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="97" review-id="705">
+    <text>I've finished all AB levels on all IOS games and loved or liked them all. This update is terrible. Not only has the gameplay changed, but things that seem to work one time don't the next time. There are times when you fire bird after bird at the pigs structure and you just bounce off and you are helpless to stop them. Hopefully an update with power ups will come soon to help people clear this episode and put it behind them.</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="Horrible Update" score1="-1" score2="NA"/>
+      <aspectTerm label1="power ups" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="98" review-id="1223">
+    <text>Every time I try to open it, it crashes and I can't even play! Please fix this!</text>
+    <aspectTerms>
+      <aspectTerm label1="Every time I try to open it, it crashes and I can'" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Please fix this!" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="99" review-id="202">
+    <text>I can't even play a level with out it crashing. Every time I go to open it or play a level the audio trips and then dark screen, home screen. Please fix.</text>
+    <aspectTerms>
+      <aspectTerm label1="Every time I go to open it or play a level the aud" label2="play a level" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="100" review-id="204">
+    <text>The constant interruptions and harassment's to buy something took the fun out of the game. Recently the game would auto send me to other websites. I paid for these games, this wasn't suppose to happen....Grrr</text>
+    <aspectTerms>
+      <aspectTerm label1="the game would auto send me to other websites." label2="auto send me to other websites" score1="-1" score2="NA"/>
+      <aspectTerm label1="I paid for these games, this wasn't suppose to hap" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="The constant interruptions and harassment's to buy" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="101" review-id="1230">
+    <text>Just like everything else in life. You pays sometimes then it turns out free.  I'm fine with that. Really. 
+
+What I DON'T like is that ridiculous Game Center garbage. I don't compete with friends. I don't need to see a leader board. I can't STAND having to go through that stupid thing every couple days to disable it when I already did that. 
+
+There should be an option to turn off Game Center permanently. Not everyone wants that. 
+
+Absolutely ridiculous. I don't mind turning it off. ONCE. 
+
+Game is awesome, addicting and plays flawlessly. Worth 6 stars but only giving one until they stop that Game Center crap.</text>
+    <aspectTerms>
+      <aspectTerm label1="Game Center" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="leader board" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="102" review-id="1232">
+    <text>Full original game for free?? So cool</text>
+    <aspectTerms>
+      <aspectTerm label1="free" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="103" review-id="726">
+    <text>The new level of Angry Birds featuring Bad Piggies is simply awful, the interface is not responsive to touch &amp; it takes away the intellectual application of physics &amp; strategy that makes Angry Birds unique in phone/tablet gaming.
+
+The person that made this call should be fired!!!!
+
+Bad Piggies is a bad game. That's why it isn't anywhere near as popular as Angry Birds. What moron decided that forcing some marriage of these two would work??? What an idiot(s)!!!! Please take this crap level off of the game and give us more regular Angry Bird levels.</text>
+    <aspectTerms>
+      <aspectTerm label1="interface" label2="interface" score1="-1" score2="NA"/>
+      <aspectTerm label1="level" label2="new level" score1="-1" score2="NA"/>
+      <aspectTerm label1="strategy" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="104" review-id="730">
+    <text>I would normally rate this game four stars, but I really dislike the new music that sounds like farting. Please change it to the older music or I'll delete it! I hate to even open it because of the music now!</text>
+    <aspectTerms>
+      <aspectTerm label1="new music" label2="new music" score1="-1" score2="NA"/>
+      <aspectTerm label1="new soundtrack" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="older music" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="105" review-id="1242">
+    <text>This game has tons of levels, action, and it keeps updating. How epic</text>
+    <aspectTerms>
+      <aspectTerm label1="tons of levels" label2="levels" score1="1" score2="NA"/>
+      <aspectTerm label1="keeps updating" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="tons of action" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="106" review-id="736">
+    <text>I LOVE Angry Birds and have all the variations of the app. However, this latest update is AWFUL. I hate it and have stopped playing after 3 levels. It's not fun at all.</text>
+    <aspectTerms>
+      <aspectTerm label1="Latest update" label2="Latest update" score1="-2" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="107" review-id="739">
+    <text>What were they thinking?? The new update combines all the not-fun of Bad Piggies with illogical, frustrating gameplay and the ruination of everything that made the game fun. Thank  Zeus for A.B. Star Wars &amp; A.G. Space because this just cuts the b**ls off everything that made the game a global phenom. Fire somebody before they sink the company.</text>
+    <aspectTerms>
+      <aspectTerm label1="gameplay" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="A.B. Star Wars" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="A.G. Space" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="Bad Piggies" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="new update" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="108" review-id="743">
+    <text>I find the new levels to be more frustrating and I don't get that &quot;just one more before bed&quot; hooked feeling I get from the other Angry Birds levels and spinoffs. I will probably not bother to play through them all. The pigs in vehicles didn't thrill me in the Bad Piggies game and don't here.</text>
+    <aspectTerms>
+      <aspectTerm label1="new levels" label2="new levels" score1="-1" score2="NA"/>
+      <aspectTerm label1="Bad Piggies game" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="pigs in vehicles" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="109" review-id="237">
+    <text>Don't like new levels but still okay game.</text>
+    <aspectTerms>
+      <aspectTerm label1="new levels" label2="new levels" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="110" review-id="756">
+    <text>I've been a massive Angry Birds fan for years. After finding no enjoyment in Amazing Alex or Bad Piggies, Rovio decides to force these on me in Angry Birds?  For the first time since the first AB app I'm thoroughly let down. Lame move!  This isn't AB.  It's random garbage advertising a different game. No thank you.</text>
+    <aspectTerms>
+      <aspectTerm label1="advertising" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="111" review-id="760">
+    <text>I can't believe Rovio went to all this trouble to turn a perfectly fun and addicting game into a game that should just be thrown in the trash!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="I can't believe Rovio went to all this trouble to " label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="112" review-id="761">
+    <text>The new levels are not fun. I'm glad you are willing to try new things, but these belong in their own game. For the first time ever, I will not be finishing, much less 3-starring, a set of levels.</text>
+    <aspectTerms>
+      <aspectTerm label1="The new levels are not fun." label2="new levels" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="113" review-id="1276">
+    <text>I didn't even get to play. I choose a level and it keeps crashing! Please update it or do anything so i can be able to play.</text>
+    <aspectTerms>
+      <aspectTerm label1="choose a level" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="114" review-id="766">
+    <text>Mine doesn't even work. Whenever I try to play the new levels, the app just crashes. Judging from the other reviews, I guess I'm not missing much..</text>
+    <aspectTerms>
+      <aspectTerm label1="crashes" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="doesn't even work" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="new levels" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="115" review-id="1283">
+    <text>When I go to the 1st level, it crashes. Ironically, they just made this game &quot;free&quot;... coincidence?</text>
+    <aspectTerms>
+      <aspectTerm label1="load level" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Ironically, they just made this game &quot;free&quot;... coi" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="When I go to the 1st level, it crashes." label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="116" review-id="772">
+    <text>The new levels are really terrible. It's no fun to play and not the same game I enjoy.  What a terrible update.</text>
+    <aspectTerms>
+      <aspectTerm label1="levels" label2="new levels" score1="-2" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="117" review-id="260">
+    <text>Still good game and I also like the cartoons. My kids love them.</text>
+    <aspectTerms>
+      <aspectTerm label1="cartoons" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="118" review-id="775">
+    <text>Please help on the new update every time I try and go on birds of a feather it keeps taking me out. :(</text>
+    <aspectTerms>
+      <aspectTerm label1="new update" label2="new update" score1="-1" score2="NA"/>
+      <aspectTerm label1="go on birds of a feather it keeps taking me out" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="119" review-id="1289">
+    <text>I paid for it now its free? I want my $ back</text>
+    <aspectTerms>
+      <aspectTerm label1="I paid for it now its free?" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="120" review-id="268">
+    <text>Enjoy but to many ads</text>
+    <aspectTerms>
+      <aspectTerm label1="ads" label2="ads" score1="-1" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="121" review-id="274">
+    <text>Great new levels</text>
+    <aspectTerms>
+      <aspectTerm label1="new levels" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="122" review-id="275">
+    <text>Wft??? so many commercials is making the  game slow to load and also makes it slow when playing.
+
+Haven't you milked this enough considering it was ripped off from castle???
+
+Create something original. Your other games haven't been such a hit have they?
+
+And why do you want me to register????</text>
+    <aspectTerms>
+      <aspectTerm label1="slow to load" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="slow when playing" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="so many commercials" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="123" review-id="788">
+    <text>I have been playing Angry Birds for a while and love it. But the latest level just takes this game to a new level of low.
+
+Honestly, was this designed for a group of semi-literate morons who need to be hand held through the game? 
+
+Part of the fun is getting through a level only to find its good for one star and working to clear it to three. That's gone. There is no excitement here. 
+
+Pass. The Angry Birds may have come home to roost.</text>
+    <aspectTerms>
+      <aspectTerm label1="New level" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="124" review-id="796">
+    <text>Totally different game. Can't even aim the birds, can't see the whole screen. Please go back to the formula that worked.</text>
+    <aspectTerms>
+      <aspectTerm label1="Can't even aim the birds" label2="Can't even aim the birds" score1="-1" score2="NA"/>
+      <aspectTerm label1="go back to the formula" label2="go back to the formula that worked" score1="-1" score2="NA"/>
+      <aspectTerm label1="Totally different game" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="can't see the whole screen" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="125" review-id="799">
+    <text>I try to go for something and it always points me away from the target I want to hit terrible update</text>
+    <aspectTerms>
+      <aspectTerm label1="point target" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="new red feather update" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="126" review-id="1320">
+    <text>Hmm... I don't know what happened. Just updated to version 3.1.0 &amp; completely lost all progress. Had this app for a few years now &amp; this happens ??</text>
+    <aspectTerms>
+      <aspectTerm label1="lost all progress" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="version 3.1.0" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="127" review-id="812">
+    <text>I ???? the new update, the fifteen levels are truly amazing! I beat seven so far</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="new update" score1="2" score2="NA"/>
+      <aspectTerm label1="fifteen levels" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="128" review-id="816">
+    <text>The update isn't working</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="update" score1="0" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="129" review-id="1328">
+    <text>This game is awesome especially how it is free and all the new features they have added are very good. The new features makes the game more fun.</text>
+    <aspectTerms>
+      <aspectTerm label1="free" label2="free" score1="2" score2="NA"/>
+      <aspectTerm label1="new features" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="130" review-id="818">
+    <text>New levels are horrible...totally different game than angry birds in my opinion. Developers dropped the ball on this update.</text>
+    <aspectTerms>
+      <aspectTerm label1="New levels" label2="New levels" score1="-2" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="131" review-id="817">
+    <text>All other worlds crash except the first one</text>
+    <aspectTerms>
+      <aspectTerm label1="worlds crash except the first one" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="132" review-id="1332">
+    <text>I don't see what all the hype is about. Really kind of dumb. Throw birds at buildings to kill pigs.. Nintendo has better games for casual gamers. If you want a really great game on the App Store check out infinity blade, Tiny, Tower, Warzone: Anomaly, Eufloria, or anything by Telltale Games. Kairosoft makes pretty fun and cute games, too.</text>
+    <aspectTerms>
+      <aspectTerm label1="Throw birds at buildings to kill pigs.. Nintendo h" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="133" review-id="823">
+    <text>I usually love angry birds and can't wait for new levels however, I HATE the new level called &quot;red's mighty feathers) point made!!! If there was a half star or no star rating that's what I would give it!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="red's mighty feathers" label2="red's mighty feathers" score1="-1" score2="NA"/>
+      <aspectTerm label1="levels" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="134" review-id="313">
+    <text>Makes time fly by while waiting in lines. My kids love to challenge me for high score. Good game without the usual gun or blood violence.</text>
+    <aspectTerms>
+      <aspectTerm label1="without the usual gun or blood violence" label2="without blood violence" score1="1" score2="NA"/>
+      <aspectTerm label1="high score" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="135" review-id="827">
+    <text>Quite a new gameplay but should've been introduced as a separate game. It doesn't seem to fit with this version of angry birds.</text>
+    <aspectTerms>
+      <aspectTerm label1="new gameplay" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="separate game" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="136" review-id="1339">
+    <text>Pop</text>
+    <aspectTerms>
+      <aspectTerm label1="Free" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="137" review-id="317">
+    <text>Says to update, but won't! Updated 10 other apps in one minute, but this one won't even begin updating after 5 minutes.</text>
+    <aspectTerms>
+      <aspectTerm label1="Says to update, but won't!" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="138" review-id="1342">
+    <text>Seriously, this game has sapped all my free time. I started playing this game a couple of days ago. I heard about it on The Late Show with Jimmy Fallon, some actor was talking about PvZ (it's okay), and he mentioned Angry Birds. I recognized it as its been number one for a while now. 
+
+This game is too good. I struggle not to play this during meetings and I'm sure my wife will divorce me when age catches me playing this game while we're having sex. 
+
+Simple to complex strategy and puzzle game. The graphics are adorable. I want to stab the pigs when they grin after you fail a map. 
+
+Get this game and kiss &quot;free time&quot; good-bye!!
+
+Update 3-7-2013
+Still a fantastic game. Great levels have been added, and it's been awesome!</text>
+    <aspectTerms>
+      <aspectTerm label1="graphics" label2="graphics" score1="2" score2="NA"/>
+      <aspectTerm label1="levels" label2="levels" score1="2" score2="NA"/>
+      <aspectTerm label1="strategy" label2="Simple to complex strategy" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="139" review-id="328">
+    <text>Some complain about the difficulty of that perfect hit, but that little bit of challenge and finding it is rather rewarding. I wouldn't want to 3 star everything right off the bat. I've spent a good bit of time on this game, and it's great! Looking forward to more levels. Not a huge fan of the update before last with the different gameplay style.</text>
+    <aspectTerms>
+      <aspectTerm label1="gameplay style" label2="gameplay style" score1="0" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="more levels" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="140" review-id="1353">
+    <text>I can't get passed the first level because it crashes</text>
+    <aspectTerms>
+      <aspectTerm label1="Crashes" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="141" review-id="843">
+    <text>The new levels are pretty bad. They are very boring and require little strategy. Love the original Angry Birds...not whatever was just released with the new update!</text>
+    <aspectTerms>
+      <aspectTerm label1="levels" label2="The new levels are pretty bad" score1="-1" score2="NA"/>
+      <aspectTerm label1="not whatever was just released with the new update" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="very boring and require little strategy" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="142" review-id="1355">
+    <text>I spent 90 cents on this last year, AND NOW IT'S FREE?!?!?! And plus, get that Rovio logo out of the icon, IT'S DRIVING ME CRAZY!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="FREE" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="143" review-id="335">
+    <text>This game is number one for a reason!!! Challenging levels great game play!!! Awesome updates!!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="Challenging levels" label2="levels" score1="2" score2="NA"/>
+      <aspectTerm label1="game" label2="game play" score1="2" score2="NA"/>
+      <aspectTerm label1="updates" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="144" review-id="850">
+    <text>First of all, the game is getting extremely harder!! Hate the moving target! This is getting ridiculous! Big fan of the franchise but not all that &quot;HEPPED UP&quot; about the new update...</text>
+    <aspectTerms>
+      <aspectTerm label1="moving target" label2="moving target" score1="-2" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="145" review-id="1362">
+    <text>Got it free with appgratis!!</text>
+    <aspectTerms>
+      <aspectTerm label1="free" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="146" review-id="343">
+    <text>I just updated the app and the little blue loading bar thingy on the app itself is stuck on full. I can't open the app, or delete it. It has just been sitting on my home screen with a blue bar for about 4 days (I don't remember when the update came out) and I can't do anything....?!?!</text>
+    <aspectTerms>
+      <aspectTerm label1="loading bar" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="147" review-id="344">
+    <text>I loved this game when I first bought it. It has gradually become a cash-grab operation plagued with ads (in a paid app? Come on) and pop-ups (buy some IAPs already you walking wallets, or better yet, sign up for something you don't have any reason to. No, you can't decline. You can close the window, but it will be back next level) I foolishly bought the giant eagle add-on (advertised as unlimited use) but now it requires a cool down time. How that isn't just straight-up false advertising makes no sense to me. Well, I'm sure they need the IAP income. They must all be starving after making an obscene amount of money from this game already.</text>
+    <aspectTerms>
+      <aspectTerm label1="ads" label2="ads" score1="-2" score2="NA"/>
+      <aspectTerm label1="giant eagle" label2="giant eagle add-on" score1="-2" score2="NA"/>
+      <aspectTerm label1="pop-ups" label2="pop-ups" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="148" review-id="857">
+    <text>Do not like this new version.  What happened to the angry birds I have loved?</text>
+    <aspectTerms>
+      <aspectTerm label1="Do not like this new version." label2="new version" score1="-1" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="149" review-id="345">
+    <text>You want to go back to find more points.</text>
+    <aspectTerms>
+      <aspectTerm label1="go back to find more points" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="150" review-id="859">
+    <text>Installation of new update is frozen and cannot exit the update!</text>
+    <aspectTerms>
+      <aspectTerm label1="new update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="151" review-id="863">
+    <text>I love angry birds but the new update is awful!</text>
+    <aspectTerms>
+      <aspectTerm label1="new update" label2="new update" score1="-2" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="152" review-id="352">
+    <text>Used to be a fun game, but the latest updates are so difficult that you will either get three stars or nothing.  Not the fun, easy to waste time with game it used to be.  Update, I just deleted because it always tries to log you into Game Center.  Goodbye, angry birds is really nothing but an irritation nowadays.</text>
+    <aspectTerms>
+      <aspectTerm label1="Game Center" label2="Game Center" score1="-1" score2="NA"/>
+      <aspectTerm label1="latest updates" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="153" review-id="357">
+    <text>Those piggy's have to die</text>
+    <aspectTerms>
+      <aspectTerm label1="piggy" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="154" review-id="1381">
+    <text>After you beat level 22-2 it freezes and doesn't give you the points for the level</text>
+    <aspectTerms>
+      <aspectTerm label1=" level 22-2" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="update on 3-7-13" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="155" review-id="1383">
+    <text>It crashes as soon as  i get to load the level</text>
+    <aspectTerms>
+      <aspectTerm label1="crashes" label2="It crashes as soon as  i get to load the level" score1="-1" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="156" review-id="361">
+    <text>Many of the levels are very intense</text>
+    <aspectTerms>
+      <aspectTerm label1="levels" label2="levels are very intense" score1="1" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="157" review-id="363">
+    <text>Easy quick games to keep you busy.</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="quick" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="158" review-id="876">
+    <text>Latest release: A brilliant kinetic puzzle game lobotomized into a nearly mindless click  to fire. 
+
+Don't bother updating.</text>
+    <aspectTerms>
+      <aspectTerm label1="Latest release" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="159" review-id="877">
+    <text>Just kidding it's awesome?buuuut...the new update is crap. It glitches out on me every time with &quot;red mighty feathers&quot; patch that please??????</text>
+    <aspectTerms>
+      <aspectTerm label1="new update" label2="new update" score1="-2" score2="NA"/>
+      <aspectTerm label1="red mighty feathers" label2="red mighty feathers" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="160" review-id="878">
+    <text>When play the first level it crashes!!!! What the bliz!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="first level" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="161" review-id="368">
+    <text>The plus side: there are tons of levels.</text>
+    <aspectTerms>
+      <aspectTerm label1=" tons of levels" label2="tons of levels" score1="1" score2="NA"/>
+      <aspectTerm label1="power ups bloat ware" label2="power ups bloat ware -2" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="162" review-id="881">
+    <text>Crashes every single time I open the update episode.</text>
+    <aspectTerms>
+      <aspectTerm label1="update episode" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Horrible      Crashes every single time I open the" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="163" review-id="1393">
+    <text>I got this app free thanks to FeaturePoints!
+Sign up now, and you too could get all the top apps free now!
+All you have to do is:
+-Go to FeaturePoints(dot)com
+-Enter FIY2UE into the Referral Box (You gain extra points)
+-Download Free apps or refer friends
+-Get Free Points
+-Get your Free iTunes Card!</text>
+    <aspectTerms>
+      <aspectTerm label1="free" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="164" review-id="372">
+    <text>I used to enjoy it but now with Bad piggies and next it is more and more difficult to get 3 stars, it is not fun anylonger; stay away from it, specially the red' feather crap, not the classic episode, it is garbage</text>
+    <aspectTerms>
+      <aspectTerm label1="red' feather" label2="red feather" score1="-2" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="165" review-id="884">
+    <text>I absolutely HATE the new levels - the new format is horrible.  It completely abandons the format of Angry Birds that I knew and loved.  Bring back the old format please!</text>
+    <aspectTerms>
+      <aspectTerm label1="new levels" label2="new levels" score1="-2" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="166" review-id="890">
+    <text>Well this annoying million dollar mobile game does not provide challenging mind games but people buy this game all the time sigh.......</text>
+    <aspectTerms>
+      <aspectTerm label1="mind games" label2="not provide challenging mind games" score1="-1" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="167" review-id="382">
+    <text>The game is fun and all but the the pop ups are awful and it notes me about cartoons! Sorry but the game is just not fun anymore.And u pay for the toons by the way.</text>
+    <aspectTerms>
+      <aspectTerm label1="pop ups" label2="pop ups" score1="-1" score2="NA"/>
+      <aspectTerm label1="cartoons" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="168" review-id="1406">
+    <text>It is challenging in the right way . Not so hard that it's discouraging but still a challenge when working on making the moves suggested in the all in one angry birds tips app( basically cheats) . 
+My favorite game app  ! Im a busy grown up with better things to do but its so fun I sit down and play this with my kids lol . Im never too busy for AB lol. We have a blast together with it.</text>
+    <aspectTerms>
+      <aspectTerm label1="angry birds tips" label2="tips" score1="1" score2="NA"/>
+      <aspectTerm label1="challenge" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="169" review-id="387">
+    <text>I love Angry Birds but with this new update not so much.  It crashes and it won't keep your progress between other devices if you are not online.</text>
+    <aspectTerms>
+      <aspectTerm label1="new update" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="keep your progress other devices" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="170" review-id="900">
+    <text>Can't play because it crashes constantly!</text>
+    <aspectTerms>
+      <aspectTerm label1="crashes constantly" label2="Can't play because it crashes constantly!" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="171" review-id="389">
+    <text>I am an Angry Birds fan.  I have all the iPod ones but deleted rio cause I didn't like it.  Other than that,  angry birds is Awesome!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="rio" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="172" review-id="903">
+    <text>I LOVE AB but this latest update is horrible. The game play is nothing like what AB is about. I didn't give one star only bc the rest of the app IS REAL AB. Very upset as I always look forward to updates and it had been so long since the last one.</text>
+    <aspectTerms>
+      <aspectTerm label1="game play" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="latest update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="173" review-id="904">
+    <text>These new levels are insane, they need improvements so that we can actually aim at other stuff instead of just the pig, it's rigged</text>
+    <aspectTerms>
+      <aspectTerm label1="new levels" label2="new levels" score1="-2" score2="NA"/>
+      <aspectTerm label1="aim at other stuff instead of just the pig" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="174" review-id="393">
+    <text>So I used to have angry birds before the last two updates But when they updated it all it has is adds and crashes. I want the old angry birds back. ????</text>
+    <aspectTerms>
+      <aspectTerm label1="not downloading" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="old angry birds back" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="175" review-id="1417">
+    <text>I just realized that you had to update it! 
+My iPod didn't tell me the day the update came out!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="176" review-id="1419">
+    <text>The way it's set up is amazing. It teaches you motor skills and concentration without you knowing! It's extremely addictive and I absolutely love it! It's worth the $0.99 because there's millions of levels! I'm not talking about level that you get in a couple try's, I mean those really hard levels that take a day or more! Some are easy,  but some are EXTREMELY hard! I love Angry Birds! Team Angry!</text>
+    <aspectTerms>
+      <aspectTerm label1="levels" label2="levels" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="177" review-id="397">
+    <text>This new Rovio ID function causes the game to crash constantly. In the middle of playing, I persistently get kicked out of the game with an error message saying I've been logged out of my Rovio account. And now, it takes 15 minutes to login when I open the app. WHY????? Yet another game ruined by a horrible update. Would that I could go back to the old version.</text>
+    <aspectTerms>
+      <aspectTerm label1="login" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="Rovio ID" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="178" review-id="398">
+    <text>This update stinks every ones companies there is no sound! Any way the other one was better and you took away everyone's favorite levels!also same thing as #5</text>
+    <aspectTerms>
+      <aspectTerm label1="everyone's favorite levels" label2="levels" score1="-1" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="179" review-id="909">
+    <text>I'm an AB fan/addict from the very beginning.  This new release with eggs, &quot;bad piggies&quot; vehicles and new 3 star philosophy has Ruined the app.  Hated the bad piggies app with all the building stuff and this is just as bad.  You've lost a fan ....  Also can't see the whole screen anymore,  what's the deal???   Lost me for sure as a fan and user.</text>
+    <aspectTerms>
+      <aspectTerm label1="new release" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="building" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="whole screen" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="180" review-id="1423">
+    <text>By far an overall awesome app but it needs an update</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="181" review-id="402">
+    <text>Nice game but has anyone thought of Angry Birds Lord Of The Rings? That would be cool if they did it right</text>
+    <aspectTerms>
+      <aspectTerm label1="Angry Birds Lord Of The Rings" label2="Angry Birds Lord Of The Rings" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="182" review-id="404">
+    <text>It is a great game but all the versions I have keep crashing. I would love to play but the crashes make it irritating.</text>
+    <aspectTerms>
+      <aspectTerm label1="versions" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="183" review-id="405">
+    <text>The app will not update and is stuck about 3/4 of the way done.</text>
+    <aspectTerms>
+      <aspectTerm label1="update since it's recent patch" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="not update" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="stuck about 3/4 of the way done" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="184" review-id="919">
+    <text>The new version is not good. While I like the gist of the concept, the levels get harder with the moving target and set you up at an unfair advantage. You also don't get any additional tools to gel fight the pigs and you find yourself quickly going over your quota of shots by level 6. Not worth the update.</text>
+    <aspectTerms>
+      <aspectTerm label1="new version" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="levels" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="185" review-id="921">
+    <text>Whoever created the newest levels should be reevaluated because they are absolute garbage</text>
+    <aspectTerms>
+      <aspectTerm label1="levels" label2="newest levels" score1="-2" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="186" review-id="410">
+    <text>Every single time i try to play it, it crashes</text>
+    <aspectTerms>
+      <aspectTerm label1="play" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="187" review-id="411">
+    <text>Hate the new levels! Even after the latest update. Get rid of everything after Bad Piggies.</text>
+    <aspectTerms>
+      <aspectTerm label1="new levels" label2="Hate the new levels!" score1="-2" score2="NA"/>
+      <aspectTerm label1="Even after the latest update." label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="Get rid of everything after Bad Piggies." label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="188" review-id="412">
+    <text>The game crashed and deleted all my progress. The update is otherwise good -- not great. There are still tower defense levels on my phone. I hate tower defense games. And the new power of the red bird, directional targeting, kinda goes against the appeal of the original game -- you fire a bird and can't change it's direction.</text>
+    <aspectTerms>
+      <aspectTerm label1="red bird directional targeting" label2="directional targeting" score1="-1" score2="NA"/>
+      <aspectTerm label1="game crashed" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="tower defense levels" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="red bird" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="189" review-id="923">
+    <text>When you update this app, installing sequence is frozen.</text>
+    <aspectTerms>
+      <aspectTerm label1="When you update this app, installing sequence is f" label2="installing sequence" score1="-1" score2="NA"/>
+      <aspectTerm label1="Update Error" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="190" review-id="1439">
+    <text>After I did the update it will not open. Please fix!</text>
+    <aspectTerms>
+      <aspectTerm label1="update it will not open" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="191" review-id="1442">
+    <text>Best game out there and very addictive</text>
+    <aspectTerms>
+      <aspectTerm label1="updates" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="192" review-id="421">
+    <text>If they were going for the &quot;New Coke&quot; effect it worked. It is back to real angry birds and is better then ever.</text>
+    <aspectTerms>
+      <aspectTerm label1="&quot;New Coke&quot; effect" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="193" review-id="935">
+    <text>Sometimes whenever I play Angry Birds, I can't stand with losing cause it can be hard sometimes cause the green pigs can be hard to get.</text>
+    <aspectTerms>
+      <aspectTerm label1="green pigs can be hard to get" label2="green pigs" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="194" review-id="426">
+    <text>I thought I paid .99 to remove ads but apparently they're back. This is completely unfair Rovio.</text>
+    <aspectTerms>
+      <aspectTerm label1="ads" label2="ads" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="195" review-id="429">
+    <text>Can't deny these birds. Nice update!</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="196" review-id="430">
+    <text>Add the moving parts from reds might feathers into a new section in the bad piggies game</text>
+    <aspectTerms>
+      <aspectTerm label1="moving parts" label2="moving parts from reds" score1="0" score2="NA"/>
+      <aspectTerm label1="piggies game" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="197" review-id="1455">
+    <text>What else needs to say about this pioneer in slingshot games? Awesome and addictive. Some of the levels were tough to get three stars but that's due it challenging and fun.</text>
+    <aspectTerms>
+      <aspectTerm label1="levels were tough" label2="levels" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="198" review-id="436">
+    <text>Here's my review for Red's Mighty (Crappy) Feathers: it's just not fun. I lost interest quickly. I hope Rovio sees all these 1 star reviews and takes them to heart. Rovio, please go back to what you're good at!</text>
+    <aspectTerms>
+      <aspectTerm label1="Red's Mighty Feathers" label2="Red's Mighty (Crappy) Feathers" score1="-2" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="199" review-id="438">
+    <text>Haven't played AB for a while but kept on updating it as asked by my iPhone.  Well, one of these updates inserted adverts into the game.  I PAID for this game and now you sneak Ads into it?!  I will never purchase another app from Rovio.</text>
+    <aspectTerms>
+      <aspectTerm label1="one of these updates inserted adverts into the gam" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="200" review-id="439">
+    <text>I love the moving targets! And to all those people that plan to quit cuz they dont like these moving targets...just dont play those! Duh</text>
+    <aspectTerms>
+      <aspectTerm label1="moving targets" label2="moving targets" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="201" review-id="952">
+    <text>I love Angry Birds but where are some new levels?!  It seems like we haven't got any new levels in forever!!</text>
+    <aspectTerms>
+      <aspectTerm label1="new levels" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="202" review-id="954">
+    <text>The game was really good. But after the newest update that removed the white dotted path that shows where your bird is aimed at and the strength you are using on the sling shot, its very difficult to play and not that fun. Please add the dotted path again. Thanks.</text>
+    <aspectTerms>
+      <aspectTerm label1="white dotted path" label2="dotted path" score1="-1" score2="NA"/>
+      <aspectTerm label1="newest update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="203" review-id="1466">
+    <text>The latest version of Angry Birds forces me to use the Game Center. Since I signed out of it, every time I launch AB it redirects me to the Game Center, demanding I sign back on. 
+
+This is unacceptable. I have deleted Angry Birds from my iPod.</text>
+    <aspectTerms>
+      <aspectTerm label1="Game Center" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="Since I signed out of it, every time I launch AB i" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="The latest version of Angry Birds forces me to use" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="204" review-id="1468">
+    <text>I love angry birds,but im not happy with you.Why do you need Open GL 2.0? I can't get that because I have an Iphone3G,so now I'm going to miss out on new levels.Please fix that.</text>
+    <aspectTerms>
+      <aspectTerm label1="Open GL 2.0" label2="Open GL 2.0" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="205" review-id="956">
+    <text>This game is very fun and challenging and that's why I would continue to play it for hours on end if I had the time. It makes your brain work more than the average nonsense game, it has attainable goals and overall it's just cute and fun. HIGHLY recommend for anyone wanting something fun and simple to play.</text>
+    <aspectTerms>
+      <aspectTerm label1=" attainable goals" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="206" review-id="446">
+    <text>The &quot;mighty reds feather&quot; levels just seem pointless. I got bored even trying to figure this out. I think you're just trying to push the &quot;bad piggies&quot; concept too far. Plus it seems like you've given up on releasing new levels for the other versions of Angry Birds. PLEASE don't give me Star Wars Bad Piggies!</text>
+    <aspectTerms>
+      <aspectTerm label1="levels" label2="mighty reds feather levels" score1="-1" score2="NA"/>
+      <aspectTerm label1="bad piggies" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="releasing new levels" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Star Wars Bad Piggies!" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="207" review-id="960">
+    <text>Love those birds!  Wish more levels??</text>
+    <aspectTerms>
+      <aspectTerm label1="birds" label2="birds" score1="1" score2="NA"/>
+      <aspectTerm label1="more levels" label2="levels" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="208" review-id="963">
+    <text>Addictive! Great graphics and the physics engine is dead-on!</text>
+    <aspectTerms>
+      <aspectTerm label1="graphics" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="physics engine" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="209" review-id="454">
+    <text>I love Angry Birds and I always look forward to new updates. Unfortunately, Red's Mighty Feather is not fun at all. The gameplay is too linear and really lacks the destructive freedom that brought me to love Angry Birds in the first place. If it ain't broke, don't fix it.</text>
+    <aspectTerms>
+      <aspectTerm label1="Red's Mighty Feather" label2="Red's Mighty Feather" score1="-2" score2="NA"/>
+      <aspectTerm label1="gameplay" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="210" review-id="969">
+    <text>So creative and unique. I love the variety of levels and birds. The characters are clever and I love how simple and intuitive the gameplay is.
+
+Some of the new levels are tough though and can get a bit aggravating when you're so close to getting 3 stars but fall short for the 50th try in a row!
+
+Overall, after playing for 3+ years, I still come back to this game regularly and enjoy it every time!</text>
+    <aspectTerms>
+      <aspectTerm label1="characters" label2="characters" score1="1" score2="NA"/>
+      <aspectTerm label1="gameplay" label2="gameplay" score1="1" score2="NA"/>
+      <aspectTerm label1="variety of levels and birds" label2="birds" score1="1" score2="NA"/>
+      <aspectTerm label1="levels" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="new levels" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="211" review-id="459">
+    <text>Horrible update I'm furious I spent my money to get this!!!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="Horrible update I'm furious I spent my money to ge" label2="update" score1="-2" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="212" review-id="1483">
+    <text>I purchased this app in 2011 or early 2012 n I was charged for it again on today after I put my credit card on file. This charge was not authorized. Furthermore, I don't even have the app loaded on my phone. Very upset.</text>
+    <aspectTerms>
+      <aspectTerm label1="Unauthorized Charges" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="213" review-id="1484">
+    <text>It keeps going back to the home screen when it's on the loading screen :/</text>
+    <aspectTerms>
+      <aspectTerm label1="Crashes" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="loading screen" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="214" review-id="977">
+    <text>Need to fix!  Crashes &amp; hangs. 
+WAS a fun game</text>
+    <aspectTerms>
+      <aspectTerm label1="Need to fix!  Crashes &amp; hangs" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="215" review-id="1490">
+    <text>Really good physics based game that's also kind of a puzzle game! Simple yet fun addictive and charming! My only complaint is that some stages can be exceedingly difficult but still one of the best iOS games available!</text>
+    <aspectTerms>
+      <aspectTerm label1="physics based game" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="some stages can be exceedingly difficult " label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="216" review-id="467">
+    <text>It's good and I like Red's feathers, but it keeps shutting off. I hate that.</text>
+    <aspectTerms>
+      <aspectTerm label1="Red's feathers" label2="Red's feathers" score1="-1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="217" review-id="1493">
+    <text>They should make a minecraft angry birds</text>
+    <aspectTerms>
+      <aspectTerm label1="minecraft angry birds" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="218" review-id="985">
+    <text>Another update!  Glad that the developers keep up on the apps. 
+
+The update is great and the retina display is a welcomed addition. 
+
+The game is number 1 for a reason. The fans made it #1, not Apple.</text>
+    <aspectTerms>
+      <aspectTerm label1="retina display" label2="retina display" score1="1" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="219" review-id="473">
+    <text>Ignore all the negative reviews. What they are trying to say is that it is either really hard for them or they're all old school and likes boring stuff. This update brought more excitement and is harder, but it's passable and I really like it. If you're looking for a new challenge, I highly recommend this update.</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="220" review-id="476">
+    <text>This level hugs nuts!!! It has seriously diminished the fun of this game by trying to force bad piggies down our throat. There is zero fun in this level. I really don't care about getting 3 stars on any of them. If you could remove it permanently I'd give you back your 5 star rating. Until then you get 2</text>
+    <aspectTerms>
+      <aspectTerm label1="level" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="Reds feathers" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="221" review-id="477">
+    <text>Crashes every time I try to play it!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="Crashes every time I try to play it" label2="Crashes every time I try to play it!" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="222" review-id="480">
+    <text>I like the new update rovio keep up the good work</text>
+    <aspectTerms>
+      <aspectTerm label1="new update rovio" label2="new update" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="223" review-id="992">
+    <text>Only thing that would make it better if the updates came faster.</text>
+    <aspectTerms>
+      <aspectTerm label1="updates faster" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="224" review-id="995">
+    <text>My phone crashed and when I reinstalled everything, I no longer had the Mighty Eagle which I had already purchased.  I want my eagle back!!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="mighty eagle" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="I want my eagle back!!!!" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="225" review-id="1508">
+    <text>Awesome game!  Addicting and fun. Where's the last level?  Still five stars!!!  Well worth the price.</text>
+    <aspectTerms>
+      <aspectTerm label1="last level" label2="last level" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="226" review-id="1511">
+    <text>Please make it compatible for iPod 4th generation??????????????????????????</text>
+    <aspectTerms>
+      <aspectTerm label1="compatible for iPod 4th" label2="compatible for iPod 4th generation" score1="0" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="227" review-id="491">
+    <text>Ruined my favorite game.  New one isnt fun at all.</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="228" review-id="1516">
+    <text>This challenging app took me about 2 hours to complete 3 stars for each level for the first 21 levels in Poached Eggs. As long as you have the patience, this app is just for you!</text>
+    <aspectTerms>
+      <aspectTerm label1="21 levels in Poached Eggs" label2="Poached Eggs" score1="1" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="229" review-id="493">
+    <text>This new update is pretty annoying, too many pop-us(what you wouldn't except from a paid app. Plus I really don't like this new theme music.</text>
+    <aspectTerms>
+      <aspectTerm label1="new theme music" label2="theme music" score1="-1" score2="NA"/>
+      <aspectTerm label1="pop-us" label2="pop-us" score1="-1" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="230" review-id="1005">
+    <text>This is a must have game for your iPhone, iPod, or smartphone. ??</text>
+    <aspectTerms>
+      <aspectTerm label1="iPhone, iPod, or smartphone" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="231" review-id="1519">
+    <text>It is awesome It all ways has new updates  like every month!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="new updates" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="232" review-id="498">
+    <text>Every time I try to get on the new story, the screen goes black and the I'm back on my home screen! Fix it!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="new story" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="233" review-id="499">
+    <text>come on update it and do better</text>
+    <aspectTerms>
+      <aspectTerm label1="come on update it and do better" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="234" review-id="1525">
+    <text>No new updates come on ever since angry birds Star Wars came there were no new updates wars next there going to make an angry birds ninja for them and roivio how's that for an idea or angry birds Greek gods choose so I can have fun with my iPod touch 4g just choose the ideas that I told u ok and stay cool plz I love u guys!!!!!!!!!!!!!! ;(</text>
+    <aspectTerms>
+      <aspectTerm label1=" new updates" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="235" review-id="1014">
+    <text>REALLY fun but some levels are near to impossible</text>
+    <aspectTerms>
+      <aspectTerm label1="levels" label2="levels" score1="-1" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="236" review-id="509">
+    <text>Even though I'm only on the 5th episode I can tell Red's Mighty Feather's is gonna be AWESOME!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="Red's Mighty Feather" label2="Red's Mighty Feather's" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="237" review-id="510">
+    <text>Was one of the greatest games ever, then they incorporated the worst game play in it. It's no longer the good ol' game with the good ol' birds it use to be. I was disappointed with the bubble bird, but I trekked on. Then the uncontrollable birds came.. I thought thats what they created all the various spin offs you had to buy for. Or at least if they destroy the game they could of made it a game extra with no star ratings so the players who actually play the game wouldn't get offended. If I could of foreseen this, I wouldn't of wasted my money. I don't even believe it deserves the one star I had to give it to post this review. Heed. This. Warning!</text>
+    <aspectTerms>
+      <aspectTerm label1="bubble bird" label2="I was disappointed with the bubble bird" score1="-1" score2="NA"/>
+      <aspectTerm label1="uncontrollable birds" label2="Then the uncontrollable birds came" score1="-1" score2="NA"/>
+      <aspectTerm label1="star ratings" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="238" review-id="511">
+    <text>Make an angry birds G.I joe version</text>
+    <aspectTerms>
+      <aspectTerm label1="angry birds G.I joe version" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+</sentences>

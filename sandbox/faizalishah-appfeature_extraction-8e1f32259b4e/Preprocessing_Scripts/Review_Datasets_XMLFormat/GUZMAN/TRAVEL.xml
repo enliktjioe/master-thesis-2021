@@ -1,0 +1,1980 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="1" review-id="140288">
+    <text>You should be able to find cruises or turistic boats</text>
+    <aspectTerms>
+      <aspectTerm label1="find cruises" label2="cruises" score1="0" score2="NA"/>
+      <aspectTerm label1="find turistic boats" label2="turistic boats" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="2" review-id="142851">
+    <text>Very helpful great to have it but why some review they are not publish in here, I wrote negative regarding, Best Westen hotel in Myrtle Beach, they dont want to publish. I hope this is not like BBB agency, paying money for get good review things.</text>
+    <aspectTerms>
+      <aspectTerm label1="publish" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3" review-id="142852">
+    <text>I like the app so far.
+I'm constantly using the other &quot;Y&quot; for foodie trips, but I can see that for International and tourist locations this app has more content.
+And they even have an app that loads to your phone and no data is required (as long as you load the city before you use it)</text>
+    <aspectTerms>
+      <aspectTerm label1="&quot;Y&quot; for foodie trips" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="loads to phone" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="no data is required" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="International and tourist locations" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="4" review-id="140294">
+    <text>I absolutely love this app. It is so helpful when traveling, and also helpful at home to see what other people are saying about my favorite restaurants.</text>
+    <aspectTerms>
+      <aspectTerm label1="restaurants" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5" review-id="140298">
+    <text>My only complaint is not being able to see your inbox  and reply to messages in the app.</text>
+    <aspectTerms>
+      <aspectTerm label1="inbox" label2="inbox" score1="-1" score2="NA"/>
+      <aspectTerm label1="reply to messages" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6" review-id="140812">
+    <text>The map view does not work and the &quot;near me&quot; function dissapered. There is not an effective way to use this app.</text>
+    <aspectTerms>
+      <aspectTerm label1="map view" label2="map view" score1="0" score2="NA"/>
+      <aspectTerm label1="near me" label2="near me" score1="0" score2="NA"/>
+      <aspectTerm label1="old version" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7" review-id="141837">
+    <text>Love the regular website and the app makes it twice as easy to find all your travel info!
+It's a great reference  for trip planning, day tripping or local exploring!</text>
+    <aspectTerms>
+      <aspectTerm label1="website" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="travel info" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8" review-id="142348">
+    <text>I love that tripadvisor can guide you no matter where you are. We had about an hour to kill for lunch in Fresno, CA, before a return flight home to Texas. We found the best Mediterranean restaurant through tripadvisor. Thank you, Trip Advisor!</text>
+    <aspectTerms>
+      <aspectTerm label1="Ubiquitous" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9" review-id="142352">
+    <text>While visiting in Philippines discovered T.A. while evaluating lodging choices. Then discovered all the related features which included rich info on local eateries and things to see and do. Yelp included nothing in the Philippines. It's the strong international contribution by the users (like me) that make this App really good. It won a place on my home page.</text>
+    <aspectTerms>
+      <aspectTerm label1="info on local eateries" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10" review-id="140817">
+    <text>The content is useful and the new design is nice but still feels slow and unresponsive compared to other travel iOS apps. I had higher expectations for this new version. Please make it a native app!</text>
+    <aspectTerms>
+      <aspectTerm label1="content" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="new design " label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="new version" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="responsiveness" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="User experience" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="11" review-id="141841">
+    <text>I can't leave home without it. I finally downloaded the app to my phone. I had been using just the computer before now. I am planning my entire vacation to Key West using trip advisor. Thank you.</text>
+    <aspectTerms>
+      <aspectTerm label1="planning vacation" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="12" review-id="140819">
+    <text>My Forums page is now blank. Please, please, please fix!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="Forums" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="13" review-id="140820">
+    <text>The new (complete rewrite) version is a disappointment.  Very slow to no response to photo paging requests, lack of hotel search facility for a given city and incomplete searches for hotels.  These are just a few problems I noted on first use of rewritten app.  Needs some work.  Hopefully there will be an update released soon.  This used to be a great app.</text>
+    <aspectTerms>
+      <aspectTerm label1="hotel search" label2="hotel search facility for a given city" score1="0" score2="NA"/>
+      <aspectTerm label1="photo paging" label2="photo paging requests" score1="0" score2="NA"/>
+      <aspectTerm label1="version" label2="new version" score1="-1" score2="NA"/>
+      <aspectTerm label1="incomplete searches for hotels" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="speed" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="14" review-id="142357">
+    <text>Great app (&amp; website). Extremely useful. Real life reviews are always better than sales pitch brochures and recommendations. I use this a lot, even if I'm not traveling. The fun of exploring thru this app creates travel dreams and a great education.</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="Real life reviews" score1="1" score2="NA"/>
+      <aspectTerm label1="recommendations" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="15" review-id="142866">
+    <text>Easy to find venues. Great to have to get steered to good places.</text>
+    <aspectTerms>
+      <aspectTerm label1="find venues" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="usefulness" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="16" review-id="142872">
+    <text>TripAdvisor let's us know how we are doing through our clients candid comments. A great way to improve all the time!</text>
+    <aspectTerms>
+      <aspectTerm label1="comments" label2="comments" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="17" review-id="142360">
+    <text>It's great to sync my travel plans, thoughts, whims across my devices. The user content is generally well done, but often the extremes can pull it one way or another.</text>
+    <aspectTerms>
+      <aspectTerm label1="sync" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="user content" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="18" review-id="142874">
+    <text>Got this app for the reviews section. I like it.
+
+Spider-Man</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews section" label2="reviews" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="19" review-id="140828">
+    <text>Hello!
+
+I love the redesign. However the first two things I wanted to do are impossible with the app.  Those things are:
+
+1. Change my screen name. 
+2. View reviews I've written. 
+
+Neither of those options are available. In fact, the only option under &quot;account info&quot;, is to sign out.</text>
+    <aspectTerms>
+      <aspectTerm label1="Change my screen name" label2="Change my screen name" score1="0" score2="NA"/>
+      <aspectTerm label1="View reviews I've written" label2="View reviews I've written" score1="0" score2="NA"/>
+      <aspectTerm label1="redesign" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="settings management" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="20" review-id="141854">
+    <text>I love having trip advisor on my iPhone and iPad. Just discovered the nifty point me there feature. Awesome for us directionally challenged folks.</text>
+    <aspectTerms>
+      <aspectTerm label1="point me there" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="iPad" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="iPhone" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="21" review-id="141344">
+    <text>Has been helpful in locating great places to stay and eat from south Alabama to Arkansas to Texas.</text>
+    <aspectTerms>
+      <aspectTerm label1="locating places" label2="locating great places to eat" score1="1" score2="NA"/>
+      <aspectTerm label1="locating great places to stay " label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="22" review-id="142880">
+    <text>Perfect objective measurement of travel options!</text>
+    <aspectTerms>
+      <aspectTerm label1="travel options" label2="objective measurement of travel options" score1="0" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="23" review-id="140834">
+    <text>It's not very common for an ap to go backwards with an update but Trip-advisor did. The old ap was much better. And now I'm using kayak and hipmunk. Much better.</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="update" score1="-1" score2="NA"/>
+      <aspectTerm label1="New version" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="24" review-id="141856">
+    <text>We use Tripadvisor to help plan all of our trips!</text>
+    <aspectTerms>
+      <aspectTerm label1="plan trips" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="25" review-id="142372">
+    <text>Love the search engine and the reviews (though I should read them before I go out more often). I like submitting my honest reviews as I see them and am glad people can take what I have to say and make their own opinion.
+I use the site a lot when traveling to search out places to eat and stay and some are spot on and some not. That is why you have to make a personal decision on things.</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="reviews" score1="2" score2="NA"/>
+      <aspectTerm label1="search engine" label2="search engine" score1="2" score2="NA"/>
+      <aspectTerm label1="Site" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="submitting reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="26" review-id="140325">
+    <text>Wonderful for exploring new places and your own backyard</text>
+    <aspectTerms>
+      <aspectTerm label1="exploring places" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="27" review-id="142374">
+    <text>I love this app. Its very helpful and useful. I also like that i can add any places and review them.</text>
+    <aspectTerms>
+      <aspectTerm label1="add any places" label2="add places " score1="2" score2="NA"/>
+      <aspectTerm label1="review places" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="add review" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="28" review-id="140327">
+    <text>Used to be a good application with ability to search cities you haven't yet reached and filter by rating as well as proximity; however those features have been replaced with functionality focused on marketing hotels.
+
+Don't use this application; purchase a good guidebook instead.</text>
+    <aspectTerms>
+      <aspectTerm label1="filter by rating" label2="filter by rating" score1="1" score2="NA"/>
+      <aspectTerm label1="search cities you haven't yet reached" label2="search cities" score1="1" score2="NA"/>
+      <aspectTerm label1="filter by proximity" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="filter by proxmity" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="29" review-id="141352">
+    <text>This app has been very helpful on my honeymoon search. It would be nice to be able to enlarge the photos though. Other than that, it's perfect.</text>
+    <aspectTerms>
+      <aspectTerm label1="enlarge photos" label2="enlarge the photos" score1="1" score2="NA"/>
+      <aspectTerm label1="search" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="30" review-id="141862">
+    <text>The reason I really like this app is that real people like me actually use the app and write the review. Hard to blow smoke with so many of us using it now.</text>
+    <aspectTerms>
+      <aspectTerm label1="Reviews" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="real people write review" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="31" review-id="142886">
+    <text>Wherever you go, whatever you do it's good to have it with you!</text>
+    <aspectTerms>
+      <aspectTerm label1="good to have" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="32" review-id="139820">
+    <text>Easy to use and very useful. Plan all my trips with trip advisor!</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy to use" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="33" review-id="141356">
+    <text>I have now travelled through the US and several European countries and don't know how I travelled without this. It has taken the risk out of sight unseen hotels and restaurants and led to many memorable stories. Yes, the reviews aren't always spot on, but 90% is a huge improvement. Don't leave home without this.</text>
+    <aspectTerms>
+      <aspectTerm label1="hotels" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="restaurants" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="34" review-id="141358">
+    <text>Great app with valuable information</text>
+    <aspectTerms>
+      <aspectTerm label1="information" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="35" review-id="141359">
+    <text>So glad there is an app for Tripadvisor!    I love the PC version and an app just puts icing on the cake!</text>
+    <aspectTerms>
+      <aspectTerm label1="PC version" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="36" review-id="141872">
+    <text>I have tried its info a couple of times and it always turns out very reliable. Great service with this app. Just give it a try.</text>
+    <aspectTerms>
+      <aspectTerm label1="Great service" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="info" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="37" review-id="141874">
+    <text>Great for on the road reviews and info while traveling, love to use while out of town or at the house to get info on places to eat, go check out, or if you're planning a trip.</text>
+    <aspectTerms>
+      <aspectTerm label1="planning a trip" label2="planning a trip" score1="1" score2="NA"/>
+      <aspectTerm label1="road reviews" label2="on the road reviews " score1="1" score2="NA"/>
+      <aspectTerm label1="get info on places" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1=" info while traveling" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="38" review-id="141362">
+    <text>Love the ability to post stuff as I do it.</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy to post updates" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="love the ability to post stuff" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="39" review-id="141363">
+    <text>This is a great site for the weary traveler. Always bear in mind that opinions vary, so read lots of reviews for a balanced assessment. User-friendly and chock full of good info.</text>
+    <aspectTerms>
+      <aspectTerm label1="full of good info" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="User-friendly" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="40" review-id="142387">
+    <text>Just as good as web version, just on thing missing... There are no links to see websites of hotels, restaurants, activities, etc...</text>
+    <aspectTerms>
+      <aspectTerm label1="links to see websites activities" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="links to see websites of hotels" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="links to see websites of restaurants," label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="41" review-id="139830">
+    <text>I was looking for the longest time the save (Favorites feature) button until I noticed that it only appears when iPad is hold in vertical position (upright). This was so weird. I usually hold my iPad for trip advisor in horizontal position (sideways), so the button was nowhere to be found? I hope that the tripadvisor fixes this UX usability issue soon.</text>
+    <aspectTerms>
+      <aspectTerm label1="Favorites" label2="save (Favorites feature) button" score1="-1" score2="NA"/>
+      <aspectTerm label1="iPad" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="42" review-id="139832">
+    <text>The recent update/upgrade has resulted in an app that's very slow, often freezing up and generally a pain to use.</text>
+    <aspectTerms>
+      <aspectTerm label1="very slow" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="43" review-id="140856">
+    <text>I find it an useful tool.  It is helpful to read multiple opinions, one can generally wade through the static and determine what fits.  It has a vast amount of data, but be careful and glean from other sources to get information. Remember it is a tool to help plan and execute your own trip, use many data points and don't look for perfect wisdom.  Some people's jewels are NOT others treasures .  Of I had to put a &lt;  &gt; value, I would say about 70% accurate, including my own ratings, I am very picky, some people just want to be out of the rain.</text>
+    <aspectTerms>
+      <aspectTerm label1="read multiple opinions" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="vast amount of data" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="44" review-id="142906">
+    <text>Love how easy it is to find reviews on restaurants and hotels</text>
+    <aspectTerms>
+      <aspectTerm label1="find reviews on hotels" label2="find reviews" score1="1" score2="NA"/>
+      <aspectTerm label1="find reviews on restaurants" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="45" review-id="140347">
+    <text>Example: went to Seoul, told a friend (native of Seoul) that I planned to dine at the #1 ranked restaurant...he had not heard of it and was very skeptical.  Later, we stopped by the restaurant to find the longest line to get in restaurant we had ever seen.  The line went down the street and around the block....amazing! I have the video on my phone to show people who are just learning about Trip Advisor.  I appreciate the reviews from people and try to contribute whenever I can.</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="reviews" score1="1" score2="NA"/>
+      <aspectTerm label1="contribute" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="46" review-id="141371">
+    <text>Love the app! All info available is just what is needed!</text>
+    <aspectTerms>
+      <aspectTerm label1="info" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="47" review-id="141377">
+    <text>Our best friend abroad.</text>
+    <aspectTerms>
+      <aspectTerm label1="best friend abroad" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="48" review-id="140355">
+    <text>This is an overall great update and had made more quickness and also just a smoother running app , tripadvisor itself is the best app to find a restaurant or hotel that suits your needs , love the consistent users and current up to date reviews only draw is the distance filter is no longer there so it sets 50 mi radius bit far when u want to go 20 or less but besides that amazing!!</text>
+    <aspectTerms>
+      <aspectTerm label1=" distance filter" label2="the distance filter is no longer there " score1="-1" score2="NA"/>
+      <aspectTerm label1="consistent users" label2="consistent users" score1="2" score2="NA"/>
+      <aspectTerm label1="current up to date reviews" label2=" up to date reviews" score1="2" score2="NA"/>
+      <aspectTerm label1="find a hotel" label2="find a hotel that suits your need" score1="2" score2="NA"/>
+      <aspectTerm label1="find a restaurant " label2="find a restaurant that suits your need" score1="2" score2="NA"/>
+      <aspectTerm label1="more quickness" label2="more quickness" score1="1" score2="NA"/>
+      <aspectTerm label1="smoother running app" label2="smoother running app" score1="1" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="49" review-id="140357">
+    <text>The app makes me manage my trip right on my phone. Totally handy. But the performance is no smooth at all. The app needs to be fixed random crashes and glitchy performance.</text>
+    <aspectTerms>
+      <aspectTerm label1="performance" label2="performance" score1="-1" score2="NA"/>
+      <aspectTerm label1="random crashes" label2="crashes" score1="-1" score2="NA"/>
+      <aspectTerm label1="usefulness" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="50" review-id="140871">
+    <text>I love this app. It helps me a lot when I'm on the trip but one thing that makes me mad that when I click to see the photos. It's only show 1 pic and I got stuck. I have to delete the app and redownload it again ??????</text>
+    <aspectTerms>
+      <aspectTerm label1="click to see the photos" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="51" review-id="140873">
+    <text>I get a big black screen every time I try to click on the hotels pictures.  Would love to be able to see pictures on my phone! Please fix</text>
+    <aspectTerms>
+      <aspectTerm label1="click on the hotels pictures" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="52" review-id="141386">
+    <text>No complaints...great Tripadvisor reviews all in an easy to use platform. New hotel price search is awesome too.
+
+If you're a traveler and have an iPhone you should have this app</text>
+    <aspectTerms>
+      <aspectTerm label1="hotel price search" label2="hotel price search" score1="1" score2="NA"/>
+      <aspectTerm label1="platform" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="reviews" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="easy to use " label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="53" review-id="141902">
+    <text>Need to improve functionality on this app. 
+Can't vote reviews helpful.
+Can't read your own contributions or see badges.
+Have to scroll thru all the pictures to get to the end. Would be nice if you could skip to the oldest/ newest Pics without scrolling thru each one. 
+Back button needs work as well.
+
+Otherwise, good for the basics!</text>
+    <aspectTerms>
+      <aspectTerm label1="Back button" label2="Back button" score1="0" score2="NA"/>
+      <aspectTerm label1="oldest/ newest Pics without scrolling" label2="skip to the oldest/ newest Pics without scrolling " score1="0" score2="NA"/>
+      <aspectTerm label1="read your own contributions" label2="read your own contributions" score1="0" score2="NA"/>
+      <aspectTerm label1="scroll thru all the pictures" label2="scroll thru all the pictures to get to the end" score1="0" score2="NA"/>
+      <aspectTerm label1="vote reviews" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="basics" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="functionality" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="see badges" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="54" review-id="142928">
+    <text>We use this app whenever we travel or when planning a trip. Would be lost without the helpful reviews when deciding on hotels, restaurants and motor coach resorts.</text>
+    <aspectTerms>
+      <aspectTerm label1="helpful reviews" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="reviews on hotels" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="reviews on motor coach resorts" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="reviews on restaurants" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="55" review-id="140881">
+    <text>I tend to provide reviews on the fly and my only wish is that I could edit them through the app. 
+
+I also wished that there was a way to respond to replies.  One hotel accurately described itself on TripAdvisor but was misleading on its website but I can't point this out.</text>
+    <aspectTerms>
+      <aspectTerm label1="respond to replies" label2="respond to replies" score1="0" score2="NA"/>
+      <aspectTerm label1="reviews on the fly" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="provide reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="56" review-id="141393">
+    <text>I started writing review a couple of years ago and I must say this is the best app out of all my apps. I use it more than any others. Thanks TripAdvisor. Keep up the great work. Add more things to rate such as cities, bus companies etc....</text>
+    <aspectTerms>
+      <aspectTerm label1="review" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="57" review-id="140884">
+    <text>Love trip advisor. I use it every time I'm out of time for restaurants and have never gone wrong. I have tried other food apps and they are not even close to being as accurate. A plus is the fact they don't mess with rating fast food restaurants. Who needs a star rating for a McDonalds, Burger King, etc.?  Also very good for finding a good hotel.</text>
+    <aspectTerms>
+      <aspectTerm label1="finding a hotel" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="rating" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="58" review-id="142933">
+    <text>Found tripadvisor when planning a trip with my boo and it helped us a great deal. Good job guys. Thumbs up.</text>
+    <aspectTerms>
+      <aspectTerm label1="planning a trip" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="59" review-id="139862">
+    <text>Great app for searching, I just wish reviewing my reviews was as seamless as the website.
+
+All in all, I use TripAdvisor and Yelp concurrently, but trust TripAdvisor over Yelp because of the more dedicated users.</text>
+    <aspectTerms>
+      <aspectTerm label1="reviewing my reviews" label2="seamless reviewing of reviews" score1="1" score2="NA"/>
+      <aspectTerm label1="searching" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="60" review-id="142936">
+    <text>I love using Trip Advisor to plan my travels...the reviews are extremely helpful!</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="reviews" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="61" review-id="142425">
+    <text>Love this handy app</text>
+    <aspectTerms>
+      <aspectTerm label1="reading reviews" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="writing reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="62" review-id="142937">
+    <text>Can't do w/o it.</text>
+    <aspectTerms>
+      <aspectTerm label1="Can't do w/o it" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="63" review-id="141916">
+    <text>Used to find lodge in Amazonia, judge restaurant options in London ...</text>
+    <aspectTerms>
+      <aspectTerm label1="judge restaurant options" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="find lodge" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="64" review-id="141405">
+    <text>I like Trip Advisor, but their app is slow and feels buggy.
+If you have the patience to navigate through its, um, &quot;quirks,&quot; then you can get to their good info.</text>
+    <aspectTerms>
+      <aspectTerm label1="bugs" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="performance" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="info" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="slow" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="65" review-id="140894">
+    <text>Amazing app it is very healfull and very freindly to use</text>
+    <aspectTerms>
+      <aspectTerm label1="freindly to use" label2="very freindly to use" score1="1" score2="NA"/>
+      <aspectTerm label1="helpful" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="66" review-id="140382">
+    <text>Help! Been re-installing/deleting it.. Still wont let me open the app! Please let us (old iphone users and old iOS users) use this app! Fix it for us!</text>
+    <aspectTerms>
+      <aspectTerm label1="do not open on iphone 4 iOS5" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="67" review-id="141917">
+    <text>I use this app quite a bit to find restaurants and hotels, both near and far. And I contribute quite a bit. Definitely worth using!</text>
+    <aspectTerms>
+      <aspectTerm label1="find hotels" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="find restaurants" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="68" review-id="140899">
+    <text>Us this in every city for finding new resturants
+Most picks are great!
+Locally run and owned!
+A must app for foodies!</text>
+    <aspectTerms>
+      <aspectTerm label1="finding" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="69" review-id="139876">
+    <text>Does everything the website but smoother, quicker and with more clarity.  Love it</text>
+    <aspectTerms>
+      <aspectTerm label1="quicker" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="website clarity" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="website performance" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="70" review-id="141414">
+    <text>Love the user reviews and pics</text>
+    <aspectTerms>
+      <aspectTerm label1="user pics" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="user reviews" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="71" review-id="140396">
+    <text>What a great app. Easy to use, info is accurate and everything you need to know as a traveler or tourist!</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy to use" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="info is accurate" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="72" review-id="142445">
+    <text>Wow, what a disappointment! Where is all my stuff? Where are my reviews? What's up with having to retype search criteria after I hit back? Trip Advisor, where did your awesomeness go? Please start from scratch and redo the app!</text>
+    <aspectTerms>
+      <aspectTerm label1="having to retype search criteria after I hit back" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="reviews lost" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="stuff lost" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="73" review-id="141423">
+    <text>Help me find many hotels when I need help.</text>
+    <aspectTerms>
+      <aspectTerm label1="find many hotels" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="74" review-id="140914">
+    <text>I find this app one that I use whether I am at home looking for a restaurant that I have not tried or to make recommendations for friends planning on visiting the area.  It is quick and easy and having it on both the iPad and iPhone makes it a snap to use.  If you are a traveler or just a homebody this app is very helpful.</text>
+    <aspectTerms>
+      <aspectTerm label1="recommendations" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="iPad" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="iPhone" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="quick and easy" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="75" review-id="141427">
+    <text>Unable to save forum posts that are the most useful suggestions when out on a trip. No Saved Trips that you personally put together to assist you when out &amp; about with your mobile. What good is that? Not many will find a wifi and open their laptop.</text>
+    <aspectTerms>
+      <aspectTerm label1="save forum posts" label2="save forum posts" score1="0" score2="NA"/>
+      <aspectTerm label1="No Saved Trips" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="wifi" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="76" review-id="141939">
+    <text>It's a good version of the website. It's not great for stuff in the U.S. but it's great for international advice, and it's an easier platform to post reviews than yelp.</text>
+    <aspectTerms>
+      <aspectTerm label1="platform to post reviews" label2="post reviews" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="77" review-id="139893">
+    <text>Handy but a little slow</text>
+    <aspectTerms>
+      <aspectTerm label1="performance" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="usability" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="78" review-id="141430">
+    <text>Let's you review on the go and keeps me busy at the airport! Thanks TripAdvisor!</text>
+    <aspectTerms>
+      <aspectTerm label1="review on the go" label2="review on the go" score1="0" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="79" review-id="140404">
+    <text>The new update loads slower, closes out on me when i press BACK from viewing photos, this update has glitches I don't like the search method and I wish you guys would make it easier to find RESORTS/ hotels similar to the ones you previously looked at like if I viewed a few months  ago a 5 star resort with a lazy river it show me similar resorts, I would like to stay at in another place (state,country...)</text>
+    <aspectTerms>
+      <aspectTerm label1="loads slower" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="search" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="viewing photos" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1=" new update" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="80" review-id="142966">
+    <text>All the tools you need to plan your vacation are right at your finger tips with this great app! Thank you TA</text>
+    <aspectTerms>
+      <aspectTerm label1="tools" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="81" review-id="142970">
+    <text>Easy to use and very accurate. I always go to trip advisor to see opinions whether the are good reviews or not. Thanks for the great app</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy to use" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="see opinions" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="82" review-id="142972">
+    <text>It's great how you can review an area and save the things you would like to do in that area for when you visit next.</text>
+    <aspectTerms>
+      <aspectTerm label1="review an area" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="save" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="83" review-id="141949">
+    <text>There was nothing wrong with the old version, and this new one eliminates one of the apps most useful features: previously your saved restaurants, hotels, etc, were automatically sorted by location, now all of them are shown at once which is really confusing.
+
+True you can ask to see your saved hotels in say only Chicago, but if you then want to look for your saved restaurants in Chicago, you have to do a second sort.  This is a pain especially when you are in a location with a poor signal.
+
+If you don't have this app, it's certainly worthwhile, but if you do take a careful look at the latest version before you upgrade.</text>
+    <aspectTerms>
+      <aspectTerm label1="saved hotels" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="saved restaurants" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="new version" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="showing saved places" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="upgrade" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="84" review-id="141440">
+    <text>Real reviews. 
+Small family owned Motels and restaurants are included.</text>
+    <aspectTerms>
+      <aspectTerm label1="Real reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="85" review-id="141955">
+    <text>We use the recommendations regularly to find restaurants during our travels. We are rarely disappointed. Need I say more?</text>
+    <aspectTerms>
+      <aspectTerm label1="recommendations" label2="recommendations" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="86" review-id="141958">
+    <text>Still landscape only.  So weird.  Every other app has the ability to go either direction.  Too bad.</text>
+    <aspectTerms>
+      <aspectTerm label1="landscape" label2="landscape only" score1="-1" score2="NA"/>
+      <aspectTerm label1="direction" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="87" review-id="142470">
+    <text>I found this app pretty helpful overall for finding hotels and reading reviews, however the search feature was a bit limited and didn't allow me to filter by brand name easily. This would be a nice feature to add.</text>
+    <aspectTerms>
+      <aspectTerm label1="filter by brand name" label2="filter by brand name easily" score1="-1" score2="NA"/>
+      <aspectTerm label1="search" label2="search features" score1="-1" score2="NA"/>
+      <aspectTerm label1="finding hotels" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="reading reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="88" review-id="140424">
+    <text>I used to LOVE this app until they ruined it by taking away the &quot;what's nearby&quot; when you're already scrolling down a hotel or a restaurant page.  (Not the one from main menu). That feature is extremely helpful to me especially if I was driving to a hotel I didn't know and I wanted to see for example what restaurants are near that property BEFORE I'm there at the hotel location. Now I can only use the  near by feaure ONLY when I'm actually there at the location. Also, navigating thru app is now cumbersome and not as simple and elegant as before.  Very annoying. May just delete this app and find something else !</text>
+    <aspectTerms>
+      <aspectTerm label1="&quot;what's nearby&quot; when you're already scrolling down" label2="what's nearby" score1="1" score2="NA"/>
+      <aspectTerm label1="navigating" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="near by" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="89" review-id="141449">
+    <text>I am on the road 5 days out of the week and I needed a dependable application for locating hotels, restaurants, Starbucks, etc. Trip Advisor filled the bill 100%. Trip Advisor is the bible for the business person who lives on the road.</text>
+    <aspectTerms>
+      <aspectTerm label1="locating hotels" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="locating restaurants" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="locating starbucks" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="90" review-id="142474">
+    <text>The title says it all.  I used it as guide for the last trip we took and it was right on time.   Very reliable and provided us with much needed information.  Need more information on golf courses....will use it on every trip we take</text>
+    <aspectTerms>
+      <aspectTerm label1="information" label2="provided us with much needed information" score1="1" score2="NA"/>
+      <aspectTerm label1="information on golf courses" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Very reliable" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="91" review-id="141961">
+    <text>Every time I log on to my TripAdvisor account through Facebook on my iPod Touch, it crashes. I am only able to sign in through my Facebook, but it won't let me in. This glitch needs to be fixed.</text>
+    <aspectTerms>
+      <aspectTerm label1="log on to my TripAdvisor account through Facebook" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="92" review-id="141964">
+    <text>I've been using this app to plan and manage an overseas trip. It has Ben great so far withstand couple of minor issues. When left running in the background on some modes, I think it keeps location services on which seems to be draining my battery faster than usual. I'm not sure if it is that, or in just using it more than normal. It'd be great if there was a way to see my &quot;saves&quot; sorted by distance as well as a way to mark them as seen. Finally, when I'm using this while traveling, I really don't want to use international roaming to upload a review, but remind me later waits about 5 minutes and them pesters me again, so a star off for that.</text>
+    <aspectTerms>
+      <aspectTerm label1="draining battery" label2="battery drain" score1="-1" score2="NA"/>
+      <aspectTerm label1="mark saves as seen" label2="mark as seen" score1="0" score2="NA"/>
+      <aspectTerm label1="see my saves sorted by distance" label2="see &quot;saves&quot; sorted by distance" score1="0" score2="NA"/>
+      <aspectTerm label1="use international roaming to upload a review" label2="upload a review" score1="-1" score2="NA"/>
+      <aspectTerm label1="remind me later waits about 5 minutes" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="location services" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="93" review-id="140436">
+    <text>The best travel site for planning your stay.  Good reviews by serious travelers.</text>
+    <aspectTerms>
+      <aspectTerm label1=" Good reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="94" review-id="139925">
+    <text>I love this App it helps me a lotwhen travelling, specially if you take your time to read the reviews!  These are from real people, not critics! I love it!</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="95" review-id="140438">
+    <text>No issues on the performance side with this app .. Like the UI and find it overall easy to navigate and handle .</text>
+    <aspectTerms>
+      <aspectTerm label1="performance" label2="performance" score1="0" score2="NA"/>
+      <aspectTerm label1="UI" label2="UI" score1="1" score2="NA"/>
+      <aspectTerm label1="handle" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="navigate" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="navigation" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="reliability" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="robustness" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="96" review-id="141975">
+    <text>I've been contributing to TripAdvisor for many years now.  It is the first place I check when heading to a new area for information on hotels, restaurants and activities.  The app on my iPad makes it easy for on-the-go reviews.  It is easy to use and quite intuitive in how it works.  No complaints.</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to use" label2="easy to use" score1="1" score2="NA"/>
+      <aspectTerm label1="quite intuitive in how it works" label2="intuitive" score1="1" score2="NA"/>
+      <aspectTerm label1="on-the-go reviews" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="information on activities" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="information on hotels" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="information on restaurants" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="iPad" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="97" review-id="139928">
+    <text>I use it to look for places near me- in the US and in Europe. It's never failed me! It's the ultimate in honest - the good, the bad, and the ugly.</text>
+    <aspectTerms>
+      <aspectTerm label1="look for places near" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="98" review-id="139929">
+    <text>Always there for me when I'm deciding where to eat or if I need a hotel wherever I may be roaming. My favorite place to add and read reviews.</text>
+    <aspectTerms>
+      <aspectTerm label1="add reviews" label2="add reviews" score1="1" score2="NA"/>
+      <aspectTerm label1="read reviews" label2="read reviews" score1="1" score2="NA"/>
+      <aspectTerm label1="usefulness" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="99" review-id="140441">
+    <text>I started using trip advisor when my husband got a traveling job and I occasionally would go with him.  Since then we have been addicted and I've hooked my parents on it too.  Great for finding local gems in restaurants and decent hotels. I love seeing the trip advisor signs when I go into restaurants now.  Everyone can be a critic.</text>
+    <aspectTerms>
+      <aspectTerm label1="decent hotels" label2="finding decent hotels" score1="1" score2="NA"/>
+      <aspectTerm label1="finding local gems in restaurants" label2="finding local gems in restaurants" score1="1" score2="NA"/>
+      <aspectTerm label1="advisor signs" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="100" review-id="141466">
+    <text>Love being able to look up the specific areas I'm visiting and have LOCALS chiming in too!!</text>
+    <aspectTerms>
+      <aspectTerm label1="look up the specific areas" label2="look up specific areas" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="101" review-id="141465">
+    <text>Love that you can save your stops on a trip for easy reference. We've really benefitted from using Trip Advisor and loce the ease of access that comes with the app.</text>
+    <aspectTerms>
+      <aspectTerm label1="Saved trips" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="102" review-id="142493">
+    <text>It is impossible to refine a hotel search for specific criteria beyond location, price and quality. Those are well done and quality reviews and coverage are the reasons we use TA. Especially during peak seasonal flows, many of us travel with pets. We have a terrible time finding clean, reliable hotels. Most sites for pet travel are woefully inadequate. How hard would it be to include this as an additional search filter? That would bring in helpful reviews that would not only enhance the site experience but also improve the field.</text>
+    <aspectTerms>
+      <aspectTerm label1="additional search filter" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="refine search" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="hotel search" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="103" review-id="141983">
+    <text>Nice for travel!</text>
+    <aspectTerms>
+      <aspectTerm label1="Nice for travel" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="104" review-id="140960">
+    <text>Very helpful to find good restaurants and hotels</text>
+    <aspectTerms>
+      <aspectTerm label1="find hotels" label2="find good hotels" score1="1" score2="NA"/>
+      <aspectTerm label1="find restaurants" label2="find good restaurants" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="105" review-id="142498">
+    <text>We use this app all the time when traveling. We have discovered fabulous restaurants in out of the way locations that we would otherwise have missed and have steered clear of unpleasant choices. Best to use most recent reviews and look at overall score rather than relying on only one very bad or very good review.</text>
+    <aspectTerms>
+      <aspectTerm label1="overall score" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="use most recent reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="106" review-id="140453">
+    <text>Best info on hotels hands down!</text>
+    <aspectTerms>
+      <aspectTerm label1="info hotels" label2="info on hotels" score1="1" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="107" review-id="139948">
+    <text>The best app to avoid having a bad travel experience. The real photos are very helpfull !</text>
+    <aspectTerms>
+      <aspectTerm label1="real photos" label2="real photos" score1="1" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="108" review-id="140975">
+    <text>I always use TA for any trip planned. The info from the site and the reviewers is insightful and very helpful. I count on it to be my eyes before I make a decision. Thank you for maintaining a great app!</text>
+    <aspectTerms>
+      <aspectTerm label1="info" label2="info" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="109" review-id="139953">
+    <text>This app was AWSOME the first day all the other days after that it wouldn't open I would use this so much if it worked. I deleted it and I'm going try and re down load it hope that works</text>
+    <aspectTerms>
+      <aspectTerm label1="open" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="110" review-id="141491">
+    <text>Nice app to find things you need when in an area you don't know.</text>
+    <aspectTerms>
+      <aspectTerm label1="find things" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="111" review-id="139956">
+    <text>Very nice app for check restaurant hotel and more, very attentive !!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="check hotel" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="check more" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="check restaurant" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="112" review-id="139957">
+    <text>Its a &quot;must have&quot; app for any traveler, just full of useful info, that also provides local commentary. Well done!</text>
+    <aspectTerms>
+      <aspectTerm label1="info" label2="info" score1="1" score2="NA"/>
+      <aspectTerm label1="local commentary" label2="local commentary" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="113" review-id="142519">
+    <text>Great app with great information</text>
+    <aspectTerms>
+      <aspectTerm label1="great information" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="114" review-id="142009">
+    <text>It's really great to use trip advisor for the information of hotels all around the globe..</text>
+    <aspectTerms>
+      <aspectTerm label1="information of hotels" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="115" review-id="139962">
+    <text>Found this app to very useful for finding restaurants and lodging while traveling and at home. Also found great hidden treasures and places to avoid.</text>
+    <aspectTerms>
+      <aspectTerm label1="very useful for finding lodging" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="very useful for finding restaurants" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="116" review-id="140477">
+    <text>I user this site for all my travel needs.    Check out the forums to interact with others making your same trip!</text>
+    <aspectTerms>
+      <aspectTerm label1="forums" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="interact with others" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="117" review-id="139966">
+    <text>My uses are primarily for restaurants &amp; attractions, paying attention to reviews written n recent months. Reviews from veteran travelers and review writers are very helpful.</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="reviews" score1="1" score2="NA"/>
+      <aspectTerm label1="attractions" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Easy to use" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="restaurants" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="118" review-id="142529">
+    <text>The trip advisor app was EXTREMELY useful for our honeymoon in Puerto Rico! We were unable to plan much ahead of time so the trip advisor app helped to guide us toward a great experience! Thank you so much! :D</text>
+    <aspectTerms>
+      <aspectTerm label1="EXTREMELY useful" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="119" review-id="142535">
+    <text>...it's been very helpful with booking a room, dining, etc, the few times I've used it.</text>
+    <aspectTerms>
+      <aspectTerm label1="booking a room" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="dining" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="120" review-id="140489">
+    <text>Really need to know how far a restaurant is from my current location so that I don't hAve to take a cab from hotel or fight traffics. Would like to know what's near me.  
+
+Too bad it has the makings of a great app!!!
+
+Back to yelp</text>
+    <aspectTerms>
+      <aspectTerm label1="distance from current location" label2="how far a restaurant is from my current location" score1="-1" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="121" review-id="139980">
+    <text>This is the best app with the most reviews.   Don't rely on the outlier reviews like the really bad ones or the over-the-top ones that are short. The most informative reviews are the ones that give specific details of the stay.</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="122" review-id="142028">
+    <text>When traveling away from home don't leave lodging and dining to chance. Seek the experiences and comments of those before you first then make your own conclusions.  This is a very good and reliable resource.</text>
+    <aspectTerms>
+      <aspectTerm label1="very good and reliable resource" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="comments" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="123" review-id="140501">
+    <text>I like using trip advisor to look for restaurants in areas along with hotels. I like the fact when there is a negative report, the owner can rebuttal it online.</text>
+    <aspectTerms>
+      <aspectTerm label1="hotels" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="report" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="restaurants" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="124" review-id="140503">
+    <text>Was an excellent app.  Now crashes on iPod touch since last update.  Won't open at all. Please fix asap!!</text>
+    <aspectTerms>
+      <aspectTerm label1="last update." label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="125" review-id="139993">
+    <text>I have just started using the app for the vacation we are on in South Africa. The restaurant reviews are invaluable in navigating the options available in the area. So easy to use - has become a valuable travel tool - wouldn't leave home without it.</text>
+    <aspectTerms>
+      <aspectTerm label1="restaurant reviews" label2="reviews" score1="2" score2="NA"/>
+      <aspectTerm label1="navigating the options available in the area" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="126" review-id="141018">
+    <text>Does not show you anything about your account such as your contributions or anything related to your reviews.</text>
+    <aspectTerms>
+      <aspectTerm label1="show you anything about your account" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="127" review-id="141534">
+    <text>I love the app. I always check it before I make plans for my vacations ??</text>
+    <aspectTerms>
+      <aspectTerm label1="Very helpfull" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="128" review-id="142560">
+    <text>This app is horrible in my experience. Takes forever to load, and search and filter options either partially or entirely fail. I've gone back to using the TripAdvisor website through my browser.</text>
+    <aspectTerms>
+      <aspectTerm label1="filter options" label2="filter" score1="0" score2="NA"/>
+      <aspectTerm label1="load" label2="Takes forever to load" score1="0" score2="NA"/>
+      <aspectTerm label1="search" label2="search" score1="0" score2="NA"/>
+      <aspectTerm label1="website" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="129" review-id="140515">
+    <text>My &quot;Go-To&quot; app for restaurant reviews. For a serious foodie this app will help you to avoid the dogs in town and discover the real gems. You can vote with your dollars and this app. Gotta love the power of social media to reward the best and ignore the rest.</text>
+    <aspectTerms>
+      <aspectTerm label1="vote" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="130" review-id="141541">
+    <text>Great app - beautiful layout. But I wish saved items could be viewed offline!</text>
+    <aspectTerms>
+      <aspectTerm label1="layout" label2="layout" score1="1" score2="NA"/>
+      <aspectTerm label1="saved items could be viewed offline" label2="view saved items offline" score1="-1" score2="NA"/>
+      <aspectTerm label1="Offline Functionality" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="131" review-id="140522">
+    <text>Just a must for travel.  Reliable reviews, location-aware.  Love it!</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="reviews" score1="2" score2="NA"/>
+      <aspectTerm label1="location-aware" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="132" review-id="140527">
+    <text>You can't scroll very well when your trying to find a hotel, there's no search function that would find the hotel I was staying at and the attractions around and close by. When scrolling  the hotels you would get to the bottom but it would let go on the the next 20 until you tap on a hotel then you could scroll down to the next 20. It has some good photos of every thing when you find it it doesn't perform  well on my iPad it's slow and it hard find what information your looking for if I was to use to book a hotel it might be worth it</text>
+    <aspectTerms>
+      <aspectTerm label1="photos" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="search" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="133" review-id="142582">
+    <text>Really love this app. A great help to find attractions and hotels in the place I intend to go. Just wondering why, these 3 days there's &quot;No internet connection&quot; notification everytime I use the app, while I browse on Safari and playing games very smoothly, so I guess no problem with my internet connection. Is there anyone experiencing the same with me? I'm using ipod 4th with ios 6. Thank you:)</text>
+    <aspectTerms>
+      <aspectTerm label1="&quot;No internet connection&quot; notification" label2="&quot;No internet connection&quot; notification" score1="-1" score2="NA"/>
+      <aspectTerm label1="find attractions and hotels" label2="find attractions" score1="1" score2="NA"/>
+      <aspectTerm label1="find hotels" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="ios 6" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="ipod 4th" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="134" review-id="140280">
+    <text>As good as it gets.</text>
+    <aspectTerms>
+      <aspectTerm label1="Best travel reviews  " label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="135" review-id="141049">
+    <text>The fact that you get all the info you need for your trip is the most important thing when traveling</text>
+    <aspectTerms>
+      <aspectTerm label1="info trip" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="136" review-id="142074">
+    <text>Great trip tool. Thank you for the initiative.</text>
+    <aspectTerms>
+      <aspectTerm label1="trip tool" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="137" review-id="142584">
+    <text>Fast route to information, culture and lots of fun!</text>
+    <aspectTerms>
+      <aspectTerm label1="Fast route to culture" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Fast route to information" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="138" review-id="142588">
+    <text>This app is grate for planning va-kays and activities and restaurants awesome</text>
+    <aspectTerms>
+      <aspectTerm label1="planning activities" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="planning restaurants" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="planning va-kays" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="139" review-id="140541">
+    <text>Not showing or even suggesting located areas</text>
+    <aspectTerms>
+      <aspectTerm label1="showing located areas" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="suggesting located areas" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="140" review-id="141054">
+    <text>The Trip Advisor Community has come through over and over during a US summer road trip. Every time we tried the lower rated places we got a less than stellar experience and when we went with the better ratings we couldn't have been happier!!! So helpful, easy to use app. Occasionally need to give it a minute but that is more a reflection of connection speeds out in the boonies.</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to use" label2="easy to use" score1="1" score2="NA"/>
+      <aspectTerm label1="need to give it a minute" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="speeds" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="141" review-id="141055">
+    <text>We really enjoy this app while traveling. When you're on the road and you're ready to stop to eat, this is a great app to find a good place. We have found some really good places to eat that we would not have known about. Having a map to get you there also helps. 
+
+One small issue I have is that when you ask what's near you, or when you use a filter, not everything shows up.  An example is that I was trying to find info on a brew pub near our motel.  It didn't show up on the map and when I asked for pubs near my current location it didn't show up in the search.  But, when I searched by name, there was the pub and reviews.</text>
+    <aspectTerms>
+      <aspectTerm label1="filter" label2="filter" score1="-1" score2="NA"/>
+      <aspectTerm label1="map" label2="map" score1="1" score2="NA"/>
+      <aspectTerm label1="searched by name" label2="searched by name" score1="0" score2="NA"/>
+      <aspectTerm label1="found places eat" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="find" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="what's near" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="142" review-id="141056">
+    <text>I have used this for vacations to Paris, Miami, and Cape Cod.  Always find fun things to do and good food.</text>
+    <aspectTerms>
+      <aspectTerm label1="find fun things to do" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="find good food" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="143" review-id="142589">
+    <text>Great app that is very user friendly.</text>
+    <aspectTerms>
+      <aspectTerm label1="user friendly" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="144" review-id="141576">
+    <text>When you search for something and they don't have it in their database the only option you have is to add the place or completely close out and get back in it to go back to the search bar.</text>
+    <aspectTerms>
+      <aspectTerm label1="search bar" label2="search" score1="-1" score2="NA"/>
+      <aspectTerm label1="add the place" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="145" review-id="141065">
+    <text>I love this APP, I LOVE Trip Adviser, but since the last upgrade I've lost my option to &quot;like&quot; or save favorite places and I've sadly lost the ones that I had marked for an upcoming vacation!!</text>
+    <aspectTerms>
+      <aspectTerm label1="like" label2="lost option to like favorite places" score1="0" score2="NA"/>
+      <aspectTerm label1="save favorite places" label2="lost option to save favorite places" score1="0" score2="NA"/>
+      <aspectTerm label1="upgrade" label2="last upgrade" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="146" review-id="140043">
+    <text>This is a great app for planning a trip. If wanting to go somewhere definitely use this!! It is helped me find restaurants in cities I've never been and great deals on flights and hotels. Totally worth it to download</text>
+    <aspectTerms>
+      <aspectTerm label1="find restaurants" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="great deals on flights" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="great deals on hotels" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="147" review-id="142094">
+    <text>I have tried to get information on TA and all I see is this statement that the review has been removed. What gives? At this rate, TA is of no use to me</text>
+    <aspectTerms>
+      <aspectTerm label1="information access" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="the review has been removed" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="148" review-id="141584">
+    <text>The trip advisor app is very easy to navigate and contains a wealth of information at your fingertips.</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to navigate" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="wealth of information" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="149" review-id="141585">
+    <text>I like it.</text>
+    <aspectTerms>
+      <aspectTerm label1="I like it" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="150" review-id="140058">
+    <text>I use this app anytime we have travel plans as I rely on the reviews to help us make travel decisions as to where to stay, visit, etc.</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="151" review-id="142107">
+    <text>Get the app whether before you go or once you arrive.  You'll have great information on food reviews to leverage for your stay.  Use them to enjoy the experience of your vacation.</text>
+    <aspectTerms>
+      <aspectTerm label1="information" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="152" review-id="142620">
+    <text>Why does the facebook login require your life story. Why log in if you just want information. 10min in and just personal questions. Going back to the web and googling their forums.</text>
+    <aspectTerms>
+      <aspectTerm label1="facebook login" label2="facebook login" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="153" review-id="141597">
+    <text>Great app! Very trustworthy and reliable! Always works as promised and delivers useful info and travel tips!</text>
+    <aspectTerms>
+      <aspectTerm label1="info" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="travel tips" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="154" review-id="141598">
+    <text>I like that it gives you more info about the area. Like that I get more feedback how is everyone experience. And it give more knowledge where and what to do</text>
+    <aspectTerms>
+      <aspectTerm label1="gives you more info about the area" label2="give more knowledge" score1="1" score2="NA"/>
+      <aspectTerm label1="eedback how is everyone experience" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="info about the area" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="155" review-id="141599">
+    <text>I love trip advisor!! Be it reading reviews or writing reviews myself! I'm totally hooked!!! It's spot on!! Love it!</text>
+    <aspectTerms>
+      <aspectTerm label1="reading reviews" label2="reading reviews" score1="1" score2="NA"/>
+      <aspectTerm label1="writing reviews" label2="writing reviews" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="156" review-id="140575">
+    <text>Latest update crashes on startup on my iPhone 4s.  iOS 5.1</text>
+    <aspectTerms>
+      <aspectTerm label1="iOS 5.1" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="iPhone 4s" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="157" review-id="142622">
+    <text>So easy to use!</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to use" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="158" review-id="141602">
+    <text>I really like the trip advisor site. This iPad app just sits there and thinks a lot. Very disconcerting on a 4th gen device. Push the button on the reviews and it is taking a coffee break. 
+
+I closed other apps thinking it was my system but even when operating alone it is pathetic.</text>
+    <aspectTerms>
+      <aspectTerm label1="responsiveness on iPad" label2="iPad" score1="-1" score2="NA"/>
+      <aspectTerm label1="performance" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="4th gen device" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Push the button on the reviews" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="159" review-id="140068">
+    <text>Nice UI</text>
+    <aspectTerms>
+      <aspectTerm label1="UI" label2="UI" score1="1" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="160" review-id="140069">
+    <text>It's great I like writing reviews and reading we're am gonna go next</text>
+    <aspectTerms>
+      <aspectTerm label1="reading reviews" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="writing reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="161" review-id="140580">
+    <text>What a great aop</text>
+    <aspectTerms>
+      <aspectTerm label1="great aop" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="162" review-id="141097">
+    <text>This is a great application with accurate information and advise. It helped us during our west of the island vacation.</text>
+    <aspectTerms>
+      <aspectTerm label1="accurate advise" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="accurate information" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="163" review-id="141609">
+    <text>When you select an attraction and click around to read reviews and view pictures and then go back to the full like it defaults back to the beginning of the list and you have to hit &quot;next page&quot; a several times to find the place you left off. Very annoying.</text>
+    <aspectTerms>
+      <aspectTerm label1="click around to read reviews" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="go back to the full" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="select an attraction" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="view pictures" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="164" review-id="140078">
+    <text>This app is pretty good, but it could use the info like Overview, Weather &amp; When to go info, etc. I would like to see that info because it would be like the website.</text>
+    <aspectTerms>
+      <aspectTerm label1="Overview" label2="use the info like Overview" score1="0" score2="NA"/>
+      <aspectTerm label1="Weather" label2="use the info like weather &amp; when to go" score1="0" score2="NA"/>
+      <aspectTerm label1="When to go info" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="165" review-id="140592">
+    <text>Love this app. Have it on my iPhone, iPad and computer. They all sync. Nice. Use it on-the-go to look up restaurants and use it to research all our trips. The reviews and forums are great trip tools.</text>
+    <aspectTerms>
+      <aspectTerm label1="forums" label2="forums" score1="1" score2="NA"/>
+      <aspectTerm label1="reviews" label2="reviews" score1="1" score2="NA"/>
+      <aspectTerm label1="sync" label2="sync" score1="1" score2="NA"/>
+      <aspectTerm label1="computer" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="iPad" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="iPhone" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="look up restaurants" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="research trips" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="166" review-id="140081">
+    <text>Love this app. Always find where to go when you travel. With many people on it, it's great to find local places to eat &amp; visit while you are away.</text>
+    <aspectTerms>
+      <aspectTerm label1="find eat" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="find local places" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="find visit " label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="167" review-id="140083">
+    <text>I have the app on my phone and iPad. I turn first to them for hotel and dining recommendations at home or in some exotic destination. We do 2-4 major trips a year. I've seen hotels rated a 4 that in my opinion were really a 5. If you read the most current reviews you will get the best feel for the hotel. Dining is more subjective and the rating don't always meet my expectations. Again look for the ones written in the last few days. An extra I really like are the street maps and metro guides. Very hard to get lost if you use their guide. Very easy to find how to get to your destination. Overall, the guides are the best travel tools one could use.</text>
+    <aspectTerms>
+      <aspectTerm label1="dining recommendations" label2="dining recommendations" score1="-1" score2="NA"/>
+      <aspectTerm label1="have the app on my phone and iPad" label2="the guides are the best travel tools" score1="1" score2="NA"/>
+      <aspectTerm label1="hotel recommendations" label2="hotel recommendations" score1="1" score2="NA"/>
+      <aspectTerm label1="metro guides" label2="street maps and metro guides" score1="1" score2="NA"/>
+      <aspectTerm label1="street maps" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Very easy to find how to get to your destination" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1=" rating" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="168" review-id="140084">
+    <text>Good Ap! Great when traveling to unfamiliar areas! The Reviews help alot!</text>
+    <aspectTerms>
+      <aspectTerm label1="Reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="169" review-id="141108">
+    <text>Excelente informacion, me encantan las fotos de los turistas.</text>
+    <aspectTerms>
+      <aspectTerm label1="Excelente informacion" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="170" review-id="140598">
+    <text>Best information.</text>
+    <aspectTerms>
+      <aspectTerm label1="information" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="171" review-id="142647">
+    <text>Search engine not complete. Searched for house rentals in Healdsburg, CA. Having friends there, I know that there are more than 16 b&amp;bs. Also no results for house rentals in the valley. Love trip advisor and use it often on the computer, but this app doesn't provide you with proper search options.</text>
+    <aspectTerms>
+      <aspectTerm label1="Search engine" label2="Search engine" score1="-1" score2="NA"/>
+      <aspectTerm label1="search options" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="172" review-id="142136">
+    <text>Very convenient, useful info and easy to use.</text>
+    <aspectTerms>
+      <aspectTerm label1="info" label2="info" score1="1" score2="NA"/>
+      <aspectTerm label1="convenience" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="usability" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="easy to use" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="173" review-id="142328">
+    <text>Great and resourceful app - plus fun to plan ahead or dream a little ....</text>
+    <aspectTerms>
+      <aspectTerm label1="resourceful" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="174" review-id="141114">
+    <text>Great app for planning</text>
+    <aspectTerms>
+      <aspectTerm label1="planning" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="175" review-id="141116">
+    <text>I enjoy using trip advisor and would probably post more reviews if I could see a list and access my own reviews from the app.</text>
+    <aspectTerms>
+      <aspectTerm label1="access my own reviews" label2="list and access my own reviews" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="176" review-id="142329">
+    <text>Have used in US, Ireland and Continental Europe, easy to use good information including location, numbers and web site.  Reviews are personal preference but knowing a majority opinion makes selecting places and events easy.</text>
+    <aspectTerms>
+      <aspectTerm label1="information about location" label2="information" score1="1" score2="NA"/>
+      <aspectTerm label1="information about numbers" label2="numbers" score1="1" score2="NA"/>
+      <aspectTerm label1="information about web site" label2="web site" score1="1" score2="NA"/>
+      <aspectTerm label1="easy to use" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="location" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="177" review-id="140606">
+    <text>Used to be my most used app, but now it's a pain to find hotels when searching a geographical location.  I now have to enter numerous towns and do numerous searches to find what I'm looking for.  New version is a step in wrong direction.</text>
+    <aspectTerms>
+      <aspectTerm label1="searching a geographical location" label2="find hotels when searching a geographical location" score1="-2" score2="NA"/>
+      <aspectTerm label1="have to enter numerous towns and do numerous searc" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="New version" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="178" review-id="141118">
+    <text>Used it for our last vacation and were well-prepared after reading all the reviews!  Map could use some upgrades. But still great app.</text>
+    <aspectTerms>
+      <aspectTerm label1="upgrades" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="179" review-id="141633">
+    <text>Then you have to go back to search, and zoom in from a global view. Buggy.</text>
+    <aspectTerms>
+      <aspectTerm label1="Map does not refresh after detail view" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="search" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="zoom" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="180" review-id="140099">
+    <text>Does exactly what you'd want it to do. Great in helping me find restaurants. Definitely useful.</text>
+    <aspectTerms>
+      <aspectTerm label1="find restaurants" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="useful" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="181" review-id="140612">
+    <text>I use it a lot and I post a lot of my reviews too!</text>
+    <aspectTerms>
+      <aspectTerm label1="post reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="182" review-id="140101">
+    <text>I swear by Tripadvisor and this app makes it so accessible.  Very user friendly.</text>
+    <aspectTerms>
+      <aspectTerm label1="accessible" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="usability" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="183" review-id="142662">
+    <text>It is a great resource for searching and getting personnal feelings from visitors like us. We always use for our travel plans.</text>
+    <aspectTerms>
+      <aspectTerm label1="great resource" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="searching and getting personnal feelings" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="184" review-id="140617">
+    <text>Extremely helpful in France. We only went to restaurants rated by TA.</text>
+    <aspectTerms>
+      <aspectTerm label1="restaurants rated" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="usability" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="185" review-id="140106">
+    <text>I downloaded an update and now the flight search doesn't work. I appreciate the easy access to reviews of restaurants and other places. Really what I liked about the app is how accurate the flight search has been. I've compared Trip Advisor to other flight search engines and it always found the best deal for me. Please fix!!</text>
+    <aspectTerms>
+      <aspectTerm label1="downloaded an update" label2="update" score1="-1" score2="NA"/>
+      <aspectTerm label1="easy access to reviews" label2="easy access to reviews" score1="1" score2="NA"/>
+      <aspectTerm label1="flight search" label2="flight search" score1="1" score2="NA"/>
+      <aspectTerm label1="flight search doesn't work" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="186" review-id="142154">
+    <text>I love the website as well. The app makes finding hotels with reviews a breeze.</text>
+    <aspectTerms>
+      <aspectTerm label1="website" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="finding hotels with reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="187" review-id="140108">
+    <text>TripAdvisor is as much a part of my travel plans as my suitcase and change of clothes. I love the ability to search for bargains in travel and lodging, and get the inside baseball on what I can expect from local hotels and restaurants! The iPhone app works flawlessly on my 4S, and it is very helpful to have by my side. TripAdvisor = Five Stars!</text>
+    <aspectTerms>
+      <aspectTerm label1="ability to search for bargains in lodging" label2="search" score1="1" score2="NA"/>
+      <aspectTerm label1="ability to search for bargains in travel" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="TripAdvisor" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="188" review-id="140620">
+    <text>Trying to sign in &amp; write review. Never verifies. Must have bugs.</text>
+    <aspectTerms>
+      <aspectTerm label1="sign in" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="write review" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="189" review-id="140114">
+    <text>Consensus averages gives good sense of what to expect. Reviewers are generally truthful and steer you straight.</text>
+    <aspectTerms>
+      <aspectTerm label1="Reviewers" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="190" review-id="141652">
+    <text>Already addicted to the easy interface and concise, appropriate info.
+Good job!!</text>
+    <aspectTerms>
+      <aspectTerm label1="info" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="interface" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="191" review-id="140119">
+    <text>Very user friendly. Easy to use and easy to be directed. Wished for a better gps function</text>
+    <aspectTerms>
+      <aspectTerm label1="gps function" label2="gps" score1="0" score2="NA"/>
+      <aspectTerm label1="directed" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Easy to use" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="user friendly" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="192" review-id="140120">
+    <text>The app is great for me because I'm always on the road. Easy to use, but I wish you could sort hotels by distance from a location/address.</text>
+    <aspectTerms>
+      <aspectTerm label1="sort hotels by distance from a location/address" label2="sort hotels by distance from a location/address" score1="1" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="193" review-id="141146">
+    <text>Having been using trip advisor for quite a few years, I find the ap to be very useful.  I have never had any difficulties with it,  very user friendly.</text>
+    <aspectTerms>
+      <aspectTerm label1="info" label2="info" score1="2" score2="NA"/>
+      <aspectTerm label1="user friendly" label2="very user friendly" score1="2" score2="NA"/>
+      <aspectTerm label1="very useful" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="194" review-id="141659">
+    <text>Love the Ap for travel.  Easy a d accessible.</text>
+    <aspectTerms>
+      <aspectTerm label1="Great info fast" label2="info" score1="2" score2="NA"/>
+      <aspectTerm label1="accessible" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="195" review-id="140127">
+    <text>App should be much much better, can't go 1/2 of what you can online, can't post pictures,can't see my profile or past reviews, can't even give detailed ratings, needs to be much improved</text>
+    <aspectTerms>
+      <aspectTerm label1="give detailed ratings" label2="can't even give detailed ratings" score1="0" score2="NA"/>
+      <aspectTerm label1="post pictures" label2="can't post pictures" score1="0" score2="NA"/>
+      <aspectTerm label1="see my profile " label2="can't see my profile" score1="0" score2="NA"/>
+      <aspectTerm label1="see past reviews" label2="can't see past reviews" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="196" review-id="141151">
+    <text>The app could be easier to use but it has become an essential when traveling.</text>
+    <aspectTerms>
+      <aspectTerm label1="easier to use" label2="easier to use" score1="-1" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="197" review-id="140136">
+    <text>Enough said.</text>
+    <aspectTerms>
+      <aspectTerm label1="for business owner" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="for tourist" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="198" review-id="142185">
+    <text>At times frustrating to try to navigate to check rates. Especially when you are trying to view discounts between different categories (AARP, Senior, Government....)</text>
+    <aspectTerms>
+      <aspectTerm label1="navigate to check rates" label2="check rates" score1="-1" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="199" review-id="142696">
+    <text>I use it whenever we travel. I'd rather find places and read reviews that others have posted. I go and then post my thoughts. So far, those who use and rate places are very fair and honest. What else are you looking for?</text>
+    <aspectTerms>
+      <aspectTerm label1=" post my thoughts" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="find places" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="rate places" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="read reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="200" review-id="140140">
+    <text>Great information is available.  Wish maps (locations of newer hotels were updated more).  Also would love to have an individual resort map of all the resorts available to view.  Would be great if age of property and renovation dates were included for hotels, too.</text>
+    <aspectTerms>
+      <aspectTerm label1="age of property" label2="age of property" score1="0" score2="NA"/>
+      <aspectTerm label1="individual resort map" label2="individual resort map of all the resorts" score1="0" score2="NA"/>
+      <aspectTerm label1="locations of newer hotels were updated more" label2="locations of newer hotels were updated" score1="-1" score2="NA"/>
+      <aspectTerm label1="renovation dates" label2="renovation dates" score1="0" score2="NA"/>
+      <aspectTerm label1="information available" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="201" review-id="142189">
+    <text>Good reviews</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="reviews" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="202" review-id="140142">
+    <text>A good app that is useful when visiting locations on vacation, business or even in town. Use it frequently to find local restaurants and tourist traps.</text>
+    <aspectTerms>
+      <aspectTerm label1="find local restaurants" label2="find local restaurants" score1="1" score2="NA"/>
+      <aspectTerm label1="find tourist traps" label2="find tourist traps" score1="1" score2="NA"/>
+      <aspectTerm label1="usefulness" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="203" review-id="141678">
+    <text>Just new to app..very useful tool for locating mini weekend getaways..</text>
+    <aspectTerms>
+      <aspectTerm label1="tool" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="usefulness" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="204" review-id="142704">
+    <text>I work a hotel myself &amp; always recommend that our guests post on trip advisor. I was browsing looking at our ratings when I found myself browsing other hotels around the country &amp; now I want to travel more just to go to the hotels in my saved list! Very helpful in reviews &amp; I find it better than Yelp! Or any other review website.</text>
+    <aspectTerms>
+      <aspectTerm label1="browsing other hotels" label2="browsing" score1="0" score2="NA"/>
+      <aspectTerm label1="reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="205" review-id="141679">
+    <text>Flight tickets are the best price i've seen, so far but I do wish they would drop a bit here &amp; then . People would buy them more! Just saying (: other than that I like it.</text>
+    <aspectTerms>
+      <aspectTerm label1="Flight tickets search" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="206" review-id="142706">
+    <text>I really like this app. It's simple and easy to use. Gives you just the right amount of information you'd need when planning a trip. Thanks!</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to use" label2="easy to use" score1="1" score2="NA"/>
+      <aspectTerm label1="information" label2="right amount of information" score1="1" score2="NA"/>
+      <aspectTerm label1="simple" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="207" review-id="141173">
+    <text>I never book a room without checking the reviews on this site first! I love how I can read reviews from &quot;real&quot; people and not what someone in marketing came up with to entice me into staying! I recommend this to everyone!</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="208" review-id="141702">
+    <text>Lag! Very Laaagggg! Please fix it!</text>
+    <aspectTerms>
+      <aspectTerm label1="performance" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="209" review-id="142730">
+    <text>I've discovered that a lot of phone apps don't compare to the full website in terms of functionality. That is not the case with Trip Advisor- it works just like the website.</text>
+    <aspectTerms>
+      <aspectTerm label1="works just like the website" label2="compare to the full website in terms of functional" score1="1" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="210" review-id="142731">
+    <text>Using it to read up on the places we will be going both before we booked for the reviews, and after booking for tips and tricks. Mobile access to the forums is also great.</text>
+    <aspectTerms>
+      <aspectTerm label1="Mobile access to the forums" label2="Mobile access" score1="1" score2="NA"/>
+      <aspectTerm label1="reviews" label2="reviews" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="211" review-id="140172">
+    <text>Tripadvisor is a great app/website that provides excellent,common sense, critical information for the traveller no matter where you go. Conditions of the facility/restaurant, cost, service provided by the staff, and more, are at your fingertips. Feedback is provided by actual travelers so you are provided with honest results. A definite place to check when you aren't sure!</text>
+    <aspectTerms>
+      <aspectTerm label1=" Conditions of the cost" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1=" Conditions of the facility" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1=" Conditions of the restaurant" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1=" Conditions of the service provided by the staff, " label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="honest results" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Feedback" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="information" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="212" review-id="142225">
+    <text>I used it to plan ahead my stays for business or pleasure. My wife got me into it. Nice to used when you are looking for restaurants and or safe places to visits when I'm abroad.
+
+  I highly recommend to use it when overseas.</text>
+    <aspectTerms>
+      <aspectTerm label1="looking for restaurants" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="looking for safe places" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="213" review-id="140181">
+    <text>This is a useful app for the frequent traveler</text>
+    <aspectTerms>
+      <aspectTerm label1="usefulness" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="214" review-id="142230">
+    <text>I am really using this Tripadvisor to receive information about hotels restaurants, etc.  The reviews by others seem to be in line with my experiences at the places reviewed.</text>
+    <aspectTerms>
+      <aspectTerm label1="receive information about hotels" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="receive information about restaurants" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="215" review-id="141210">
+    <text>The TripAdvisor App is a shorter and better way to look up something instead of going onto their website and wasting more time! Sometimes, you can't always find what you are looking for so you have to go on the website but, it's the majority. I do all of my bookings with TripAdvisor through the app or through the Internet and it still works very well! Great job!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="bookings" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="look up something" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="216" review-id="141722">
+    <text>I was hoping to replace Yelp and Foursquare with Trip Advisor. Disappointed I won't be able to. The deal breaker is you can't check in on a location.</text>
+    <aspectTerms>
+      <aspectTerm label1="can't check in on a location" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="217" review-id="140705">
+    <text>Reviews are great but Tilripadvisor reads them first. They review photos too. I have a negative review and they wouldn't post the photos. Something about the photos not being clear! Bullsh$t!  They were mint and I even had my BF take photos and give them to me.  Ridiculous!  Speaking the truth is a problem for them. I had undercooked chicken and they didn't want to post that I could've been sick. If they prefer to alter reviews then why bother!!</text>
+    <aspectTerms>
+      <aspectTerm label1="photos are reviewed by tripadvisor first" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Reviews are read by tripadvisor first" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="218" review-id="142757">
+    <text>Great for US and abroad planning.</text>
+    <aspectTerms>
+      <aspectTerm label1=" US planning" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="abroad planning" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="219" review-id="140203">
+    <text>It has been a couple years and still VERY unfriendly to find your location again after initial search. So finding restaurants near you hard. Hate this enough to majorly ding it.</text>
+    <aspectTerms>
+      <aspectTerm label1="find location" label2="find your location again after initial search" score1="-2" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="220" review-id="141228">
+    <text>If nothing else, this gives me a good place to start my searches. The reviews are usually up to date so I can trust the opinions to be accurate of the information i need now.</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews are usually up to date" label2="reviews" score1="1" score2="NA"/>
+      <aspectTerm label1="searches" label2="searches" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="221" review-id="140206">
+    <text>I've been using advisor for years, and apparently I just now getting around to giving it a review. 
+
+Such a huge diversity of focus areas like restaurants, hotels, and attractions along with a huge user base which increases the value of the app exponentially.</text>
+    <aspectTerms>
+      <aspectTerm label1="huge diversity of focus areas" label2="diversity of focus areas" score1="1" score2="NA"/>
+      <aspectTerm label1="huge user base" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="222" review-id="142766">
+    <text>Please add landscape support for your fat-fingered users!</text>
+    <aspectTerms>
+      <aspectTerm label1="landscape" label2="Landscape support" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="223" review-id="142254">
+    <text>This is a great app.  I have found 2 great hotels in cities I was unfamiliar with.  Reviews are so helpful.</text>
+    <aspectTerms>
+      <aspectTerm label1="Reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="224" review-id="142258">
+    <text>I downloaded the city app while I was travelling and was very happy to find that the maps worked even without using data.</text>
+    <aspectTerms>
+      <aspectTerm label1="maps worked even without using data" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="225" review-id="141748">
+    <text>We are planning a trip to New York.  We have never been here before and we find this app very useful.  Photos, Map and reviews are what we looked at the most.  Thank you!</text>
+    <aspectTerms>
+      <aspectTerm label1="Map" label2="Map" score1="0" score2="NA"/>
+      <aspectTerm label1="Photos" label2="Photos" score1="0" score2="NA"/>
+      <aspectTerm label1="reviews" label2="reviews" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="226" review-id="142260">
+    <text>I like the candor reflected in the reviews. Some people like what I like and some propel do not. It is usually easy to fit the review to the reviewer and get a good picture of whether the place and the person might like or not care for the same things as I. 
+
+A good source of information for all &quot;trips&quot;.</text>
+    <aspectTerms>
+      <aspectTerm label1="real reviews" label2="real reviews" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="227" review-id="140212">
+    <text>Please please do not put a back &quot;home&quot; button at the top where people are used to hitting back. No one is used to hitting &quot;back&quot; at the bottom of the screen like that! Seriously frustrating having to constantly re navigate to what I was just looking at due to the poor design.</text>
+    <aspectTerms>
+      <aspectTerm label1="back &quot;home&quot; button" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="user interface" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="228" review-id="140730">
+    <text>Locations on maps are incredibly inaccurate. Sometimes it's only a few blocks wrong, or maybe a mislabeled street, but I am seeing much worse: locations outside of San Miguel de Allende are shown within the downtown area. Want to golf? Go horseback riding? Come to the historic Centro, where it is mapped but doesn't exist. The most funny in accuracy is the pyramid supposedly a few blocks from my rental house.
+
+Next problem, related to this is the &quot;Near Me&quot; function. First, the app couldn't find me. Instead, it thought I was in a town two hours away and showed me attractions for that town. When I dragged the map to the town I am in there was more of the map craziness, but even worse. The few locations that were accurately mapped now shifted to within a block or two from my house.
+
+Lastly, the new version is less functional than the previous version. And it's a lot less functional than the website.
+
+Bottom line is that I am deleting until at least the map issues get fixed. I am definitely unhappy with this version.</text>
+    <aspectTerms>
+      <aspectTerm label1="Near Me" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="maps" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="229" review-id="140734">
+    <text>My husband and I always use trip advisor before vacations! So much useful information.</text>
+    <aspectTerms>
+      <aspectTerm label1="site" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="useful information." label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="230" review-id="142272">
+    <text>I like this app but it is a bit frustrating because it is not fully synchronized with my Tripadvisor profile on the actual website. I have been using the &quot;vacation rentals&quot; feature quite a bit on the website, saving properties and keeping notes on them. But to my dismay, none of this shows up on the app.
+
+Decent app tripadvisor, but stil need to work some more to get 4 or 5 stars from me.</text>
+    <aspectTerms>
+      <aspectTerm label1="synchronized" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="synchronization with website" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="231" review-id="141762">
+    <text>Easy to use, good link with the website, easy to find recommendations quickly all over the world (thanks to all the other users out there!!)</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to find recommendations quickly " label2="find recommendations" score1="1" score2="NA"/>
+      <aspectTerm label1="good link with the website" label2="link with the website" score1="1" score2="NA"/>
+      <aspectTerm label1="Easy to use" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="232" review-id="141251">
+    <text>Trip advisor is an awesome tool to share with others experiences that you've had to allow others to see how a hotel, attraction, etc...is before they make their choice. So thank you for having this app!</text>
+    <aspectTerms>
+      <aspectTerm label1="share with others experiences" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="tool" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="233" review-id="142789">
+    <text>Absolutely a must have for planning a trip! You have access to restaurants, attractions, and hotels with reviews!</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="234" review-id="141767">
+    <text>This app is great for the novice traveler. I just started a new position within my company that requires me to travel and I always refer to Trip Advisor for ratings on hotels and good places to get a hot meal.
+
+I STRONGLY recommend this app!</text>
+    <aspectTerms>
+      <aspectTerm label1="ratings on hotels" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="ratings on places" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="235" review-id="141768">
+    <text>Bad results in the search</text>
+    <aspectTerms>
+      <aspectTerm label1="search" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="236" review-id="142283">
+    <text>This App is like asking dozens of neighbors what they thought of a certain place they visited. It's a must do on any trip planning.</text>
+    <aspectTerms>
+      <aspectTerm label1="trip planning" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="237" review-id="141260">
+    <text>I'm planning a trip to Italy for myself and several friends and the information and reviews on trip advisor have been invaluable.  How else would I know about cooking classes in Cortona? Or about which tours in Rome, Florence and Venice are the best value?</text>
+    <aspectTerms>
+      <aspectTerm label1="information" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="reviews" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="238" review-id="140749">
+    <text>Unable to login. When I click the option to sign in, I'm taken to a blank white page.</text>
+    <aspectTerms>
+      <aspectTerm label1="login" label2="login" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="239" review-id="140751">
+    <text>Most of the hotel reviews, especially from poor hotels, are fake and most likely posted by employees. Notice how after a negative review is posted, it is invariably followed by several glowing reviews. And because TripAdvisor is paid by the hotels listed on this site they will remove negative reviews if pressured by the hotel.</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="240" review-id="140752">
+    <text>Great app to write my reviews on! Very user friendly and easy to navigate.</text>
+    <aspectTerms>
+      <aspectTerm label1="write my reviews" label2="write reviews" score1="2" score2="NA"/>
+      <aspectTerm label1="easy to navigate" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="Very user friendly" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="241" review-id="141264">
+    <text>Very helpful and informative for both stateside and overseas.</text>
+    <aspectTerms>
+      <aspectTerm label1="informative" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="242" review-id="140242">
+    <text>I use the app mostly for researching hotel options and things to do in different towns around the world. Works well for this. The reviews are very valuable.</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="reviews" score1="1" score2="NA"/>
+      <aspectTerm label1="researching hotel options" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="researching things to do" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="243" review-id="141779">
+    <text>I wouldn't even CONSIDER booking a hotel room without consulting this amazing app.  No where is there so much info. And photos of where you are considering to stay.</text>
+    <aspectTerms>
+      <aspectTerm label1="photos" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Priceless" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="244" review-id="141782">
+    <text>I mostly use trip advisor on my laptop but have no issues with the app. It's a fantastic tool to get reviews on everything.</text>
+    <aspectTerms>
+      <aspectTerm label1="get reviews" label2="reviews" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="245" review-id="142807">
+    <text>Really really helpful.</text>
+    <aspectTerms>
+      <aspectTerm label1="usefulness" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="246" review-id="140250">
+    <text>Very helpful for me! Love the reviews for helping me find places when I don't have a guide book with me</text>
+    <aspectTerms>
+      <aspectTerm label1="find" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="247" review-id="140763">
+    <text>I am not a fan of the new version. I cannot look at anything beyond the town I am looking at? That is dumb. I use this app all the time when on vacation and this new version is making it very difficult to look at my saves. Plus when I am looking at an area I want to see all that's around it not just the town. Please do something about this.</text>
+    <aspectTerms>
+      <aspectTerm label1="look at saves" label2="cannot look at anything beyond the town I am looki" score1="0" score2="NA"/>
+      <aspectTerm label1="see all around area" label2="when I am looking at an area I want to see all tha" score1="0" score2="NA"/>
+      <aspectTerm label1="difficult to look at my saves" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="new version" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="248" review-id="140766">
+    <text>I always read all the reviews while we are traveling on the road. My husband and I crisscross the country every summer and I am the navigator. I find most reviewers to be honest if you read all of them or at least half, you can get a pretty good opinion. Many times I didn't pay attention to a negative review because I thought they had some sort of personal problem and was sorry afterwards. Trip advisor is a good opinion to take into account when you are traveling in a new place and have no idea where to go.</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="reviews" score1="1" score2="NA"/>
+      <aspectTerm label1="negative review" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="249" review-id="142814">
+    <text>Great for finding hotels, restaurants.  Especially helpful when traveling to new place.</text>
+    <aspectTerms>
+      <aspectTerm label1="finding hotels" label2="finding hotels" score1="2" score2="NA"/>
+      <aspectTerm label1="finding restaurants" label2="finding restaurants" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="250" review-id="141280">
+    <text>Great app but I wish it could sort and/or rate based on which meal you would like for restaurants. I would like to find a great breakfast place but can't tell which is the best breakfast place.</text>
+    <aspectTerms>
+      <aspectTerm label1="rate based on which meal you would like for restau" label2="sort and/or rate based on which meal you would lik" score1="0" score2="NA"/>
+      <aspectTerm label1="sort based on which meal you would like for restau" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="251" review-id="141794">
+    <text>Works great on my iPhone 4 it's helped me find the best eating places , things to do , &amp; stay .</text>
+    <aspectTerms>
+      <aspectTerm label1="performance on iPhone 4" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="252" review-id="142306">
+    <text>Love TripAdvisor as a website and now as an app! The interface is easy and I've never experienced a problem with the app and I review a lot!</text>
+    <aspectTerms>
+      <aspectTerm label1="interface" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="review" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="253" review-id="142307">
+    <text>I prefer it to Kayak and Travelocity</text>
+    <aspectTerms>
+      <aspectTerm label1="usability" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="easy to use" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="254" review-id="140262">
+    <text>Some places that had menus on the old version are missing them on the new one. Other than that the app is extremely helpful and easy to use.  Much improved navigation.</text>
+    <aspectTerms>
+      <aspectTerm label1="menus" label2="menus on the old version" score1="-1" score2="NA"/>
+      <aspectTerm label1="navigation" label2="navigation" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="255" review-id="142822">
+    <text>I would never use another app to find hotels, restaurants and attractions for my travels.</text>
+    <aspectTerms>
+      <aspectTerm label1="find attractions" label2="find attractions" score1="1" score2="NA"/>
+      <aspectTerm label1="find hotels" label2="find hotels" score1="1" score2="NA"/>
+      <aspectTerm label1="find restaurants" label2="find restaurants" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="256" review-id="142311">
+    <text>A must for traveling. Also, the more people who use it... The better it will get! I think there should be an option for quieter areas to go to, since most places are very touristy and crowded.</text>
+    <aspectTerms>
+      <aspectTerm label1="quieter areas to go to" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="257" review-id="140783">
+    <text>The latest update is smoother and better looking.  But for me, the heart of the app is the near me now section.  It is harder to find, in this version.  But, overall an excellent app still.  I have never gone to a highly rated restaurant, and been disappointed.  Still best in its class...</text>
+    <aspectTerms>
+      <aspectTerm label1="near me now section" label2="near me now section" score1="-1" score2="NA"/>
+      <aspectTerm label1="latest update" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="reviews" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="but easy to use " label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="258" review-id="142319">
+    <text>Love trip advisor on the big screen. This app brings the usefulness of the iPhone program to the iPad. Thanks for a good program. Very useful when on the road to find the best places. Thanks to all who take the time to provide reviews. I have offered reviews for years and glad others do as well.</text>
+    <aspectTerms>
+      <aspectTerm label1="reviews" label2="reviews" score1="0" score2="NA"/>
+      <aspectTerm label1="big screen" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="find places" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="iPad" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="iPhone" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="259" review-id="142831">
+    <text>Pretty good but glitches. Wanted to use flight filters, but it wasn't applying them. Had to start search over. Haven't used it much yet.</text>
+    <aspectTerms>
+      <aspectTerm label1="filters" label2="flight filters" score1="0" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="260" review-id="141807">
+    <text>Love the information and to read the reviews. Very helpful in deciding where I want to go and stay.</text>
+    <aspectTerms>
+      <aspectTerm label1="information " label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="read the reviews" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="261" review-id="141299">
+    <text>Missing top 10 lists but overall great app</text>
+    <aspectTerms>
+      <aspectTerm label1="top 10" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Easy access" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="262" review-id="140790">
+    <text>TripAdvisor has apparently decided it is not important for people to use the map to do searches for hotels anymore.  They had a great interface in the previous version, but they have seen fit to &quot;simplify&quot; it to the point of uselessness.  Gone is the ability to pan the map and have your search applied to a new area.  Gone are the excellent filters for refining your search.  What are you thinking TripAdvisor? The app is essentially useless for me now!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="filters" label2="excellent filters" score1="-1" score2="NA"/>
+      <aspectTerm label1="interface" label2="interface" score1="-2" score2="NA"/>
+      <aspectTerm label1="map" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="pan" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="refining your search" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="searches for hotels" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="263" review-id="141816">
+    <text>I love this App on my iPhone.  You need to get the iPad App up to the same standards to include the same views and filtering options.    I have to go to my iPhone to see B &amp;B's or filter by categories within restaurants and things to do.  Also, when reviewing I can rate different categories on the iPhone instead of just an overall rating on the iPad.  Please update the iPad App version!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="filter by categories" label2="filter by categories" score1="0" score2="NA"/>
+      <aspectTerm label1="rate different categories" label2="rate different categories" score1="0" score2="NA"/>
+      <aspectTerm label1="filtering options" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="iPad" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="views" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="264" review-id="140793">
+    <text>This update negates the usefulness of the previous app. It does not know where yo are at any more and does not provide location service. 
+
+In the previous version you could scroll the map and see your desired categories update on screen. This version no longer does that. You have to type in a cityor location. Totally useless when yo are traveling</text>
+    <aspectTerms>
+      <aspectTerm label1="scroll the map" label2="scroll the map" score1="0" score2="NA"/>
+      <aspectTerm label1="update" label2="update" score1="-1" score2="NA"/>
+      <aspectTerm label1="location service" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="version no longer" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="265" review-id="142331">
+    <text>They need to show B&amp;B , small inns .</text>
+    <aspectTerms>
+      <aspectTerm label1="show B&amp;B " label2="B&amp;B" score1="0" score2="NA"/>
+      <aspectTerm label1="show small inns" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+</sentences>

@@ -1,0 +1,4042 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="1">
+    <text>Update 03-02-2013:</text>
+  </sentence>
+  <sentence id="2">
+    <text>This App is not ready for mission critical use.</text>
+  </sentence>
+  <sentence id="3">
+    <text>After fixing App crash issues, I am unable to login to my Evernote account at all.</text>
+  </sentence>
+  <sentence id="4">
+    <text>Update: EN has evolved into a solid, useful app.</text>
+  </sentence>
+  <sentence id="5">
+    <text>Update: The new version 4.0.1 is worse than the previous.</text>
+  </sentence>
+  <sentence id="6">
+    <text>The only App I've seen cause iPhone to restart.</text>
+  </sentence>
+  <sentence id="7">
+    <text>Crashes on start now.</text>
+  </sentence>
+  <sentence id="8">
+    <text>I've used EN for years, and love the iPhone version, but 4.0 has real problem crashing.</text>
+  </sentence>
+  <sentence id="9">
+    <text>More often a go-to app.</text>
+  </sentence>
+  <sentence id="10">
+    <text>Not good.</text>
+  </sentence>
+  <sentence id="11">
+    <text>Couldn't do without it :)</text>
+  </sentence>
+  <sentence id="12">
+    <text>It's the beatest</text>
+  </sentence>
+  <sentence id="13">
+    <text>I use it from my daily to do list to planning long term goals.</text>
+  </sentence>
+  <sentence id="14">
+    <text>The ability clip things from the web and access it from anywhere is priceless.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="41" term="access it from anywhere" to="64"/>
+      <aspectTerm class="E" from="12" term="clip things from the web" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="15">
+    <text>I must say though that It keeps me super organized and on task.</text>
+  </sentence>
+  <sentence id="16">
+    <text>I would give this app five stars if I didn't have to upgrade in order to increase my monthly storage capacity.</text>
+  </sentence>
+  <sentence id="17">
+    <text>I love the new alarm setting.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="11" term="new alarm setting" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="18">
+    <text>It's indispensable.</text>
+  </sentence>
+  <sentence id="19">
+    <text>Please either add this feature or explain that it is in the Premium version.</text>
+  </sentence>
+  <sentence id="20">
+    <text>That needs to change.</text>
+  </sentence>
+  <sentence id="21">
+    <text>Lastly, it's not apparent that I can move notes between notebooks.</text>
+  </sentence>
+  <sentence id="22">
+    <text>Thanks!</text>
+  </sentence>
+  <sentence id="23">
+    <text>Please fix the spell-check word replacement, spaces that I typed keep disappearing when I choose a word to replace.</text>
+  </sentence>
+  <sentence id="24">
+    <text>I love this app, the way it keeps your notes synchronized is great, but there's a couple things I wish we're improved.</text>
+  </sentence>
+  <sentence id="25">
+    <text>This happens even when the words are the same length!</text>
+  </sentence>
+  <sentence id="26">
+    <text>:/</text>
+  </sentence>
+  <sentence id="27">
+    <text>Does everything I need it to do. Perfect!</text>
+  </sentence>
+  <sentence id="28">
+    <text>Excellent for efficiency!</text>
+  </sentence>
+  <sentence id="29">
+    <text>Absolutely LOVE Evernote--one of the best applications ever!</text>
+  </sentence>
+  <sentence id="30">
+    <text>It would be better if it had more of the look and feel of the desktop apps.</text>
+  </sentence>
+  <sentence id="31">
+    <text>This particular app leaves some to be desired.</text>
+  </sentence>
+  <sentence id="32">
+    <text>That said, accessing all your notes is pretty straightforward and great to have on the iPad!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="11" term="accessing all your notes" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="33">
+    <text>Love the synch</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="9" term="synch" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="34">
+    <text>It used to sync across my devices flawlessly and quickly, and I could access any doc anywhere. Now I don't know when docs will sync, and sometimes I can't open them offline, which I guess is supposed to make me want to upgrade to Pro? No thanks, I just want it the way it was when I started using it.</text>
+  </sentence>
+  <sentence id="35">
+    <text>Evernote has deemed itself useless to me without an ability to sync.</text>
+  </sentence>
+  <sentence id="36">
+    <text>I want access to my old notes or I will uninstall Evernote and get another app in November</text>
+  </sentence>
+  <sentence id="37">
+    <text>I'm fairly new to the Apple world and have been slowly making my way through all of the organizational and management options.  Evernote can highly recommended by several people and it has lived up to the expectations.  I don't think I am using it fully yet but I am very happy with it as is and it's potential.  This is the kind of product that made me choose Apple products.</text>
+  </sentence>
+  <sentence id="38">
+    <text>Don't know how I existed before Evernote. Thank you. Thank you. Thank you.</text>
+  </sentence>
+  <sentence id="39">
+    <text>In side of the iPad application.</text>
+  </sentence>
+  <sentence id="40">
+    <text>But I would like to have the availability to modify size and color of a word or whole sentence in a paragraph.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="45" term="modify size and color of a word or whole sentence in a paragraph" to="109"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="41">
+    <text>I use a lot this app.</text>
+  </sentence>
+  <sentence id="42">
+    <text>Love it when it works!  Has been frozen since update !  Please fix !</text>
+  </sentence>
+  <sentence id="43">
+    <text>It keeps me organized and easy to share files</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="34" term="share files" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="44">
+    <text>Evernote crashes immediately after opening on iPad Mini.</text>
+  </sentence>
+  <sentence id="45">
+    <text>Please help!</text>
+  </sentence>
+  <sentence id="46">
+    <text>I absolutely think the world of this app. It helps me stay organized on the go and is accessible anywhere. Making lists, capturing moments, and holding words are only a few of the best parts of this app. I will forever love it!</text>
+  </sentence>
+  <sentence id="47">
+    <text>LOL!</text>
+  </sentence>
+  <sentence id="48">
+    <text>To have it accessible on every device, to sync automatically, to be able to search for specific notes ...</text>
+  </sentence>
+  <sentence id="49">
+    <text>Evernote is all that I need!</text>
+  </sentence>
+  <sentence id="50">
+    <text>Can't imagine ever going back to post-its everywhere.</text>
+  </sentence>
+  <sentence id="51">
+    <text>A great app to keep track of lists, important items of information, ideas, recipes, etc.</text>
+  </sentence>
+  <sentence id="52">
+    <text>Love it.</text>
+  </sentence>
+  <sentence id="53">
+    <text>Evernote used to be one of my favorite apps, now it's muddled with crap. Simplify it and quit trying to sell me over priced business socks.</text>
+  </sentence>
+  <sentence id="54">
+    <text>This a wonderful app for people like me that have memory challenges.</text>
+  </sentence>
+  <sentence id="55">
+    <text>This syncs across all of my devices</text>
+  </sentence>
+  <sentence id="56">
+    <text>If I put something in a paper file, and then in a cabinet, it's gone!</text>
+  </sentence>
+  <sentence id="57">
+    <text>so I have everything where I needed it.</text>
+  </sentence>
+  <sentence id="58">
+    <text>great product!</text>
+  </sentence>
+  <sentence id="59">
+    <text>I am a highschool student, and I use evernote EVERY SINGLE DAY both in my personal and educational life, I love it!:)</text>
+  </sentence>
+  <sentence id="60">
+    <text>very useful.</text>
+  </sentence>
+  <sentence id="61">
+    <text>Surprised that it is taking so long to fix.</text>
+  </sentence>
+  <sentence id="62">
+    <text>Crashes, freezes, won't open-very frustrating.</text>
+  </sentence>
+  <sentence id="63">
+    <text>Since the update this app is totally worthless.</text>
+  </sentence>
+  <sentence id="64">
+    <text>I had heard Evernote cares for it's customers.</text>
+  </sentence>
+  <sentence id="65">
+    <text>Good app, functions well and does everything as described.</text>
+  </sentence>
+  <sentence id="66">
+    <text>Can no longer access my info after the new update.  FIX IT FAST!!!!!</text>
+  </sentence>
+  <sentence id="67">
+    <text>Combine Evernote with 'Getting Things Done' and you'll be supremely happy! Try The Secret Weapon website</text>
+  </sentence>
+  <sentence id="68">
+    <text>The app cannot start ever since I updated to the latest version.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="15" term="start" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="69">
+    <text>Please fix!!!</text>
+  </sentence>
+  <sentence id="70">
+    <text>Love it so much that I would actually consider going premium. It's the best when used with the corresponding  computer program.</text>
+  </sentence>
+  <sentence id="71">
+    <text>My first review for the best app I've used.</text>
+  </sentence>
+  <sentence id="72">
+    <text>Thanks Evernote !</text>
+  </sentence>
+  <sentence id="73">
+    <text>A essential for any tablet user or ANY entrepreneur. It's capability and conveniences will make you wonder how you went without it (or how you used the Notes function so long)!</text>
+  </sentence>
+  <sentence id="74">
+    <text>I use it for everything from work ideas to grocery lists.  This has become my number one note taking app for both work and home.</text>
+  </sentence>
+  <sentence id="75">
+    <text>so get it.</text>
+  </sentence>
+  <sentence id="76">
+    <text>This is a good app.</text>
+  </sentence>
+  <sentence id="77">
+    <text>I use it often.</text>
+  </sentence>
+  <sentence id="78">
+    <text>I'm a lazy dude, but when Evernote asked me to write a review, instead of choosing &quot;remind me later&quot; like I always do, I said &quot;ok Evernote, I'll do that.&quot; So Evernote is great, you can sync notebooks and share and use audio and pics and even make toast with this app.</text>
+  </sentence>
+  <sentence id="79">
+    <text>It's great</text>
+  </sentence>
+  <sentence id="80">
+    <text>REALLY need to fix camera roll issue.</text>
+  </sentence>
+  <sentence id="81">
+    <text>It's not possible to take a photo and then use it in Evernote (unless you want to wait days or weeks for it to show up when you go in to the camera roll from the app).</text>
+  </sentence>
+  <sentence id="82">
+    <text>Love some of the new features, and the new layout, but this version is very buggy.</text>
+  </sentence>
+  <sentence id="83">
+    <text>Almost like a beta version instead if a release candidate version.</text>
+  </sentence>
+  <sentence id="84">
+    <text>Been broken for a while now, and it's making it very hard to use the app.</text>
+  </sentence>
+  <sentence id="85">
+    <text>Worst note application &quot;EVER&quot;</text>
+  </sentence>
+  <sentence id="86">
+    <text>Absolutely horrible
+I have midterms and due to the &quot;password reset&quot; I am Locked out of my account and have lost ALL OF MY NOTES for this school semester 
+
+Can't recommend this to anyone.</text>
+  </sentence>
+  <sentence id="87">
+    <text>Please don't change it!</text>
+  </sentence>
+  <sentence id="88">
+    <text>I thought the previous version was terrible and crappy looking!</text>
+  </sentence>
+  <sentence id="89">
+    <text>It's clean, simple looking and so easy to use.</text>
+  </sentence>
+  <sentence id="90">
+    <text>Love this, favorite version so far!</text>
+  </sentence>
+  <sentence id="91">
+    <text>I'm so confused!</text>
+  </sentence>
+  <sentence id="92">
+    <text>If you're confused about where stuff is at, I'm not really sure you need to be using a phone to begin with...</text>
+  </sentence>
+  <sentence id="93">
+    <text>I'm reading these terrible reviews and I LOVE this version!</text>
+  </sentence>
+  <sentence id="94">
+    <text>Still love his app but latest update with snippets is crashing sorted snippets alphabetically can't resort on date created app crashes</text>
+  </sentence>
+  <sentence id="95">
+    <text>This is a 5 star up please please fix still crashing !!</text>
+  </sentence>
+  <sentence id="96">
+    <text>can't open any notebooks.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="10" term="open any notebooks" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="97">
+    <text>I love Evernote but this version of the app is completely broken on my 4s.</text>
+  </sentence>
+  <sentence id="98">
+    <text>Crashes or freezes repeatedly--</text>
+  </sentence>
+  <sentence id="99">
+    <text>The more I learn about it the more I love it!!! Use it every day.</text>
+  </sentence>
+  <sentence id="100">
+    <text>The app is also to me much more user-friendly than other similar apps, such as Dropbox.</text>
+  </sentence>
+  <sentence id="101">
+    <text>I always have what I need when I need it.</text>
+  </sentence>
+  <sentence id="102">
+    <text>I use Evernote constantly: in my classroom, taking notes trainings or at church, journaling and personal writing projects, and to organize my day-to-day activities.</text>
+  </sentence>
+  <sentence id="103">
+    <text>I love the fact that I can access my stuff from any computer, from my iPad, and phone.</text>
+  </sentence>
+  <sentence id="104">
+    <text>I no longer have to worry that I forgot my hard copies!</text>
+  </sentence>
+  <sentence id="105">
+    <text>I have nearly 100 apps. This the one I use the most and one of my favorites. It is extremely useful.</text>
+  </sentence>
+  <sentence id="106">
+    <text>Definitely a must have app.</text>
+  </sentence>
+  <sentence id="107">
+    <text>Keeps all my notes on all my devices for work and life (honey-do lists, etc).</text>
+  </sentence>
+  <sentence id="108">
+    <text>Three weeks ago I thought you app sounded good and I might benefit from it.  Boy was I wrong!  Good bye!!</text>
+  </sentence>
+  <sentence id="109">
+    <text>Love the &quot;tagging&quot; feature.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="14" term="tagging" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="110">
+    <text>Great organization tool.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="6" term="organization tool" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="111">
+    <text>I especially like that it is web based and i can start and stop a note anytime.</text>
+  </sentence>
+  <sentence id="112">
+    <text>I really enjoy this app, its very reliable and easy to use.</text>
+  </sentence>
+  <sentence id="113">
+    <text>I really wanted a note system I could trust, but Evernote just lost all my notes on the upgrade.</text>
+  </sentence>
+  <sentence id="114">
+    <text>I love the notebooks feature which allows me to organize the notes I take.  I hate keeping paper so I am able to take a picture of a document inside my notes and then discard the document.</text>
+  </sentence>
+  <sentence id="115">
+    <text>I am constantly placing notes in the wrong notebook because of the confusing layout.</text>
+  </sentence>
+  <sentence id="116">
+    <text>The UI is confusing, and it crashes a lot.</text>
+  </sentence>
+  <sentence id="117">
+    <text>I really really hope they fix this soon.</text>
+  </sentence>
+  <sentence id="118">
+    <text>I have a lot invested in this app, including going on my third year of paid subscription.</text>
+  </sentence>
+  <sentence id="119">
+    <text>I love Evernote.</text>
+  </sentence>
+  <sentence id="120">
+    <text>However, this latest version for iOS is unusable.</text>
+  </sentence>
+  <sentence id="121">
+    <text>It has become my hub for all my workflow and projects.</text>
+  </sentence>
+  <sentence id="122">
+    <text>As for the time being, I cannot recommend the iOS version at all.</text>
+  </sentence>
+  <sentence id="123">
+    <text>I like the idea to access my notes everywhere including my iPhone.</text>
+  </sentence>
+  <sentence id="124">
+    <text>UPDATE:
+Last release broke sync!</text>
+  </sentence>
+  <sentence id="125">
+    <text>But the user interface is not very user friendly.</text>
+  </sentence>
+  <sentence id="126">
+    <text>I need sync.</text>
+  </sentence>
+  <sentence id="127">
+    <text>Now I am used to see bugs in Evernote but this release makes it simply unusable.</text>
+  </sentence>
+  <sentence id="128">
+    <text>Notes look messy especially when editing both on my phone and the desktop version.</text>
+  </sentence>
+  <sentence id="129">
+    <text>Add a plus sign!</text>
+  </sentence>
+  <sentence id="130">
+    <text>Functionality and sharing is great, but needs a facelift for sure.</text>
+  </sentence>
+  <sentence id="131">
+    <text>You have to hunt to add a new notebook - should be more intuitive and user friendly especially for such an easy task.</text>
+  </sentence>
+  <sentence id="132">
+    <text>Messy and disorganized looking main screen.</text>
+  </sentence>
+  <sentence id="133">
+    <text>Please streamline and clean up the format.</text>
+  </sentence>
+  <sentence id="134">
+    <text>Keep it simple people.</text>
+  </sentence>
+  <sentence id="135">
+    <text>Boom, done.</text>
+  </sentence>
+  <sentence id="136">
+    <text>I use this for all my lists and for some reason, I like using  it more than the outlook task lists- I can use this and update it from my PC - It's simply more appealing.</text>
+  </sentence>
+  <sentence id="137">
+    <text>Now it doesn't even work.</text>
+  </sentence>
+  <sentence id="138">
+    <text>Evernote is my best friend.</text>
+  </sentence>
+  <sentence id="139">
+    <text>Please fix this.</text>
+  </sentence>
+  <sentence id="140">
+    <text>I can't even use it anymore.</text>
+  </sentence>
+  <sentence id="141">
+    <text>Everything this app promotes and provides has gone kit the window.</text>
+  </sentence>
+  <sentence id="142">
+    <text>I love this app.</text>
+  </sentence>
+  <sentence id="143">
+    <text>It won't open my notes, it freezes all the time.</text>
+  </sentence>
+  <sentence id="144">
+    <text>The new redesign is nice, I like it but the organization and function of the app has gone down a little.</text>
+  </sentence>
+  <sentence id="145">
+    <text>I usually love this app but why on earth would one release an update that makes the application crash when starting? Aren't there any tests being made before offering it to the entire world?! And this is both iPhone and iPad. Please fix!</text>
+  </sentence>
+  <sentence id="146">
+    <text>Perfect for saving links and web info in one easy to use place.</text>
+  </sentence>
+  <sentence id="147">
+    <text>Great app to keep active lists you want to share or keep for yourself.</text>
+  </sentence>
+  <sentence id="148">
+    <text>This is by far the best productivity app around.</text>
+  </sentence>
+  <sentence id="149">
+    <text>Highly recommend!!!!!!</text>
+  </sentence>
+  <sentence id="150">
+    <text>Using the methods described in thesecretweapon.org, EN has helped me get my act together.</text>
+  </sentence>
+  <sentence id="151">
+    <text>The new version of the app is slow and takes 30 seconds until I can even input a new note.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="new version" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="152">
+    <text>The latest update ruined it.</text>
+  </sentence>
+  <sentence id="153">
+    <text>This never used to happen.</text>
+  </sentence>
+  <sentence id="154">
+    <text>I see absolutely nothing in this new version that qualifies as an improvement on the app that I used to love.</text>
+  </sentence>
+  <sentence id="155">
+    <text>The new UI is no longer intuitive nor easy to use; buttons to search notes or add a new note are small and tucked away in corners of the screen.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="new UI" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="156">
+    <text>When I try to take a photo as a note, the app crashes.</text>
+  </sentence>
+  <sentence id="157">
+    <text>Instead, they ruined it.</text>
+  </sentence>
+  <sentence id="158">
+    <text>Evernote makes my life so much simpler with its ability to use for so many applications and it crosses over between different devices and everything you use is all in one place when you go pick it up or use it. And I really love that they're always trying to improve upon it that's a great thing keep it up!!!!</text>
+  </sentence>
+  <sentence id="159">
+    <text>There is feature that transcribes audio notes recorded in Evernote.</text>
+  </sentence>
+  <sentence id="160">
+    <text>My beefs: I would love to see at least one more level of Stacks.</text>
+  </sentence>
+  <sentence id="161">
+    <text>ProTip: Learn to love tags and stacks.</text>
+  </sentence>
+  <sentence id="162">
+    <text>Evernote helps me keep all three projects separated but organized.</text>
+  </sentence>
+  <sentence id="163">
+    <text>I publish a magazine, am the editor of a newsletter and the assistant editor for a third newsletter.</text>
+  </sentence>
+  <sentence id="164">
+    <text>However, imported audio notes do not seem to work.</text>
+  </sentence>
+  <sentence id="165">
+    <text>It works fine for short notes.</text>
+  </sentence>
+  <sentence id="166">
+    <text>It took me about 4 months before I started to understand the power of Evernote; the more you use it, the more powerful it becomes.</text>
+  </sentence>
+  <sentence id="167">
+    <text>Using Stacks, each issue is outlined, and using the internal links, I am able to hyperlink to articles sent by writers, photographers, etc.</text>
+  </sentence>
+  <sentence id="168">
+    <text>Beyond writing, I use Evernote to keep family photographs, Halloween costume ideas, a collection of inspirational quotes, a morgue of photography poses, and oodles of articles I find on the 'net.</text>
+  </sentence>
+  <sentence id="169">
+    <text>Very easy to learn how to do everything.</text>
+  </sentence>
+  <sentence id="170">
+    <text>It's a great app, works perfectly with my iPad and Bluetooth keyboard.</text>
+  </sentence>
+  <sentence id="171">
+    <text>Would gladly pay for Premium if it wasn't just monthly/yearly</text>
+  </sentence>
+  <sentence id="172">
+    <text>I don't like that I can't change the size of font in my notebook documents past the paragraph presets.</text>
+  </sentence>
+  <sentence id="173">
+    <text>This app is very good</text>
+  </sentence>
+  <sentence id="174">
+    <text>I don't like that that I can't change highlighter color to something better than weird orange and</text>
+  </sentence>
+  <sentence id="175">
+    <text>95% satisfied after 2 weeks.</text>
+  </sentence>
+  <sentence id="176">
+    <text>Has to be a little more user friendly, especially for the iPad.</text>
+  </sentence>
+  <sentence id="177">
+    <text>However, with all the apps Evernote has (Hello, Food, etc) I would've already gladly paid for Premium if it weren't for only two choices of &quot;plans&quot; of monthly &amp; yearly; how about one time payment???</text>
+  </sentence>
+  <sentence id="178">
+    <text>but it's not great.</text>
+  </sentence>
+  <sentence id="179">
+    <text>Draft your ideas and sync across devices!  It rocks. Mac, PC, iPhone, Chromebook, and web!  Then publish!</text>
+  </sentence>
+  <sentence id="180">
+    <text>I use it every day, very easy</text>
+  </sentence>
+  <sentence id="181">
+    <text>Fix it now!</text>
+  </sentence>
+  <sentence id="182">
+    <text>Otherwise a really great tool.</text>
+  </sentence>
+  <sentence id="183">
+    <text>I'd love a cleaner, more refined interface.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="15" term="cleaner, more refined interface" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="184">
+    <text>I love this app!</text>
+  </sentence>
+  <sentence id="185">
+    <text>I am now even using it as my daily journal.</text>
+  </sentence>
+  <sentence id="186">
+    <text>It truly is an extension of my brain!</text>
+  </sentence>
+  <sentence id="187">
+    <text>I use it multiple times a day for both personal and work items.</text>
+  </sentence>
+  <sentence id="188">
+    <text>this update looks/feels terrible.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="0" term="this update" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="189">
+    <text>Adding to the &quot;eye strain&quot; that is iOS7...</text>
+  </sentence>
+  <sentence id="190">
+    <text>My notes are always here, via wifi or 3G.</text>
+  </sentence>
+  <sentence id="191">
+    <text>No complaints!</text>
+  </sentence>
+  <sentence id="192">
+    <text>I love it!</text>
+  </sentence>
+  <sentence id="193">
+    <text>Whether its from my iPhone, desktop, or laptop (all Apple), this works seamlessly and without a hitch.</text>
+  </sentence>
+  <sentence id="194">
+    <text>when are they gonna fix this problem?</text>
+  </sentence>
+  <sentence id="195">
+    <text>when note is large, screen doesn't display characters while typing!</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="39" term="display characters while typing" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="196">
+    <text>?</text>
+  </sentence>
+  <sentence id="197">
+    <text>no way to submit bug reports??</text>
+  </sentence>
+  <sentence id="198">
+    <text>I use multiple machines.</text>
+  </sentence>
+  <sentence id="199">
+    <text>Now i put the document in Evernote.</text>
+  </sentence>
+  <sentence id="200">
+    <text>PC, iPhone, iPad, work PC on a corporate firewall.</text>
+  </sentence>
+  <sentence id="201">
+    <text>I used to have to email documents so that i can move and share them between machines.</text>
+  </sentence>
+  <sentence id="202">
+    <text>This is a very useful productivity tool.</text>
+  </sentence>
+  <sentence id="203">
+    <text>There are other use cases.</text>
+  </sentence>
+  <sentence id="204">
+    <text>And someone else reviews or interviews the person and rights their comments along with the resume.</text>
+  </sentence>
+  <sentence id="205">
+    <text>I recommend it to all my friends all my employees use it as well.</text>
+  </sentence>
+  <sentence id="206">
+    <text>For  example, i receive a resume via email, i upload to an Evernote folder right from outlook to be reviewed.</text>
+  </sentence>
+  <sentence id="207">
+    <text>For example  at the end of a meeting i take a picture of the whiteboard with my personal phone and by the time i get back to my desk the notes are available at my corporate pc.</text>
+  </sentence>
+  <sentence id="208">
+    <text>I also use it to share documents with colleagues.</text>
+  </sentence>
+  <sentence id="209">
+    <text>!</text>
+  </sentence>
+  <sentence id="210">
+    <text>I love Evernote this is my favorite app.</text>
+  </sentence>
+  <sentence id="211">
+    <text>You name it and it is there.</text>
+  </sentence>
+  <sentence id="212">
+    <text>I use it for everything from my recipes to my creative ideas, pic.</text>
+  </sentence>
+  <sentence id="213">
+    <text>Love it !!!</text>
+  </sentence>
+  <sentence id="214">
+    <text>Wish it ran faster (esp. on my iPad Gen. 1) and wish it contained more full-editing capabilities (I can't find how to input a horizontal line).</text>
+  </sentence>
+  <sentence id="215">
+    <text>But those nits aside, one of my fav apps.</text>
+  </sentence>
+  <sentence id="216">
+    <text>I love Evernote, so this app gets a lot of mileage on my iPad.</text>
+  </sentence>
+  <sentence id="217">
+    <text>How many apps can you say THAT about? Bt yeah, the perfect depository for almost any and everything I need to remember. If hey increase their 'reminder' functionality? I'll need to lobby iTunes to allow for a special 6th star for Evernote!</text>
+  </sentence>
+  <sentence id="218">
+    <text>Love having one place to go for all my thoughts, notes, clips, pics, recipes, you name it! And great search!</text>
+  </sentence>
+  <sentence id="219">
+    <text>good</text>
+  </sentence>
+  <sentence id="220">
+    <text>amazing</text>
+  </sentence>
+  <sentence id="221">
+    <text>Latest update results in a crash every time I open it.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="0" term="Latest update" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="222">
+    <text>Please fix.</text>
+  </sentence>
+  <sentence id="223">
+    <text>Freezes upon opening and can't use the app at all.</text>
+  </sentence>
+  <sentence id="224">
+    <text>A massive step in the wrong direction.</text>
+  </sentence>
+  <sentence id="225">
+    <text>Can't use on 4s with iOS 7.</text>
+  </sentence>
+  <sentence id="226">
+    <text>Plus the new app is super confusing and difficult to use when it works on iPad.</text>
+  </sentence>
+  <sentence id="227">
+    <text>....</text>
+  </sentence>
+  <sentence id="228">
+    <text>Great product, I use this for note taking and it has been critical for my success.</text>
+  </sentence>
+  <sentence id="229">
+    <text>Love this app.</text>
+  </sentence>
+  <sentence id="230">
+    <text>The best is that I can HIGHLIGHT. I am able to move and edit my notes with ease.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="23" term="HIGHLIGHT" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="231">
+    <text>Updates on my desktop computer where I can edit my notes, add information from text and print from my desktop computer.</text>
+  </sentence>
+  <sentence id="232">
+    <text>Would like to have an arrow key so I can Great app!</text>
+  </sentence>
+  <sentence id="233">
+    <text>The computer app that accompanies the app has a clean user interface.</text>
+  </sentence>
+  <sentence id="234">
+    <text>One of the most effective and fluid apps for taking notes in class.</text>
+  </sentence>
+  <sentence id="235">
+    <text>Very useful!</text>
+  </sentence>
+  <sentence id="236">
+    <text>iOS7 problems fixed.</text>
+  </sentence>
+  <sentence id="237">
+    <text>Back to being an excellent program.</text>
+  </sentence>
+  <sentence id="238">
+    <text>I can't say enough about EverNote. I use it to keep track of my life. I use it to run meetings, remember notes, save blogs, and much more. Also since it automatically syncs to all of my devices I always have all my notes and information with me.</text>
+  </sentence>
+  <sentence id="239">
+    <text>Love the journal companion app.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="9" term="journal companion app" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="240">
+    <text>Very functional, useful app.</text>
+  </sentence>
+  <sentence id="241">
+    <text>.</text>
+  </sentence>
+  <sentence id="242">
+    <text>Freezes on start, unusable.</text>
+  </sentence>
+  <sentence id="243">
+    <text>Use it daily</text>
+  </sentence>
+  <sentence id="244">
+    <text>Great tool...</text>
+  </sentence>
+  <sentence id="245">
+    <text>My new electronic &quot;moleskine&quot;.</text>
+  </sentence>
+  <sentence id="246">
+    <text>I love evernote on my mac, but the iPad version does include directory support and is clunky.  The interface needs to be like the mac version, or at least we should have the option!!</text>
+  </sentence>
+  <sentence id="247">
+    <text>Use it so much for my ministry...love the opportunity to make as many notebooks as necessary and to send articles via email.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="100" term="send articles via email" to="123"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="248">
+    <text>Finally, the most important feature added last. Why were Reminders not added earlier?</text>
+  </sentence>
+  <sentence id="249">
+    <text>I use evernote for most of my note taking, but now I have to pay 5 dollars a month just for a slightly longer note? Ridiculous!</text>
+  </sentence>
+  <sentence id="250">
+    <text>Evernote, you rock!!!!!!!!</text>
+  </sentence>
+  <sentence id="251">
+    <text>Great note application, I just love the app, makes my life easy.</text>
+  </sentence>
+  <sentence id="252">
+    <text>It's good for keeping notes who would of thought.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="18" term="keeping notes" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="253">
+    <text>When I open the app it's not smooth as it used to be. It's very buggy and performance isn't too good. Looking forward for a fix</text>
+  </sentence>
+  <sentence id="254">
+    <text>Otherwise, I'm sticking with four stars.</text>
+  </sentence>
+  <sentence id="255">
+    <text>I really like the new version of Evernote and it's very helpful when I'm trying to take notes and writing my assignment.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="18" term="new version" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="256">
+    <text>I would love it if you guys changed that!</text>
+  </sentence>
+  <sentence id="257">
+    <text>The option to bold, italicize, and underline along with adding bullets and numbers is very useful.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="56" term="adding bullets and numbers" to="82"/>
+      <aspectTerm class="E" from="35" term="underline" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="258">
+    <text>However, when I try to tab while using bullets to make a smaller category under that bullet, it doesn't convert that particular bullet to say, an open circle or a square like in the previous version.</text>
+  </sentence>
+  <sentence id="259">
+    <text>So handy love it. I use it on Mac and iPhone as they have a desktop app too. ????????????????????????????????????????????????????</text>
+  </sentence>
+  <sentence id="260">
+    <text>...almost. 
+
+Every piece of paper that enter my house is now scanned straight into evernote. Everything is automatically OCRed by evernote so I can search through them. That receipt from 3 years ago? Got it in less than a second. All contracts, all documents, everything that I used to spend time on filling is now available everywhere within seconds. Even my kids now scan their homework.</text>
+  </sentence>
+  <sentence id="261">
+    <text>My creative juices can flow anytime, anywhere and I've got the tool to capture it all!</text>
+  </sentence>
+  <sentence id="262">
+    <text>Integrates well with iPhone 5 speech to text for a useful dictation tool for my law practice.</text>
+  </sentence>
+  <sentence id="263">
+    <text>I already own Penultimate and have kept it up to date. I've tried Evernote at various times, same with Penultimate, but there isn't an intuitive start-up instructions on integrating the two; at least not that I've found.  That's the principal problem with all iOS programs. And the App Store is ZERO help. I could keep going, but Apple owns these and probably won't put this up under the program rating.  Additionally, the In-App offerings don't make sense and I have a post graduate degree from UC.</text>
+  </sentence>
+  <sentence id="264">
+    <text>Between this and omnifocus, my organization needs are met.</text>
+  </sentence>
+  <sentence id="265">
+    <text>I updated Evernote on my iPad and now it wont open!  :(</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="46" term="open" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="266">
+    <text>Evernote will change your life if you let. I use it for everything.</text>
+  </sentence>
+  <sentence id="267">
+    <text>Overall, very satisfied.</text>
+  </sentence>
+  <sentence id="268">
+    <text>I also like the new layout as well.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="16" term="new layout" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="269">
+    <text>I can easily bring my notes with me everywhere, since I have Evernote stored on my iPhone.</text>
+  </sentence>
+  <sentence id="270">
+    <text>I like to take a lot of notes, and this allows me to store them in a server as opposed to thousands of notebooks I'll never look back at.</text>
+  </sentence>
+  <sentence id="271">
+    <text>it does exactly what it says it will do, basically, so I'm very satisfied.</text>
+  </sentence>
+  <sentence id="272">
+    <text>I have the verasu targus case with a keyboard and use this app for taking notes in class. Taking pictures of my worksheets are easy. Typing and organizing my notebooks are also simple. In combine with switch its perfect! The secret to getting it to show up as a picture instead of the link is upload the picture as a new note in switch and then same to your camera roll. Then you can open it in combine with written notes on the pages.  Once I figured that out its been a breeze.</text>
+  </sentence>
+  <sentence id="273">
+    <text>I use this app everyday and every moment.</text>
+  </sentence>
+  <sentence id="274">
+    <text>I use Evernote all the time. I love it</text>
+  </sentence>
+  <sentence id="275">
+    <text>Did the update (I had to with the new phone) and subsequently lost all my notes, including a mailbox code. Not cool...</text>
+  </sentence>
+  <sentence id="276">
+    <text>I have been looking for the perfect app for note-taking and organization for years, and I am happy to say that my quest is over. I have had Evernote on my iPhone and iPad for a long time, but never really gave it a try because of its simple look and feel. Sounds strange I know. I am now using Evernote exclusively for these tasks on my iPhone, iPad, iMac, and MacBook Air, and I love it. I don't know how I lived without the syncing and power of this app. Thanks Evernote.</text>
+  </sentence>
+  <sentence id="277">
+    <text>This is a great app for organizing information for work, I have made a notebook for all of my customers.</text>
+  </sentence>
+  <sentence id="278">
+    <text>I keep notes in each about every phone call and anything else related to customer.</text>
+  </sentence>
+  <sentence id="279">
+    <text>Very useful</text>
+  </sentence>
+  <sentence id="280">
+    <text>I used to enjoy hopping into Evernote to drop / gather ideas, now its a chore.</text>
+  </sentence>
+  <sentence id="281">
+    <text>Still hesitantly choppy, aesthetically ugly, buggy with screen freezes and unforced close outs.</text>
+  </sentence>
+  <sentence id="282">
+    <text>Been a user now for 4 years and with each updated release the user experience gets worse and worse.</text>
+  </sentence>
+  <sentence id="283">
+    <text>Evernote really is an incredible product.</text>
+  </sentence>
+  <sentence id="284">
+    <text>I simply have to much invested to leave and hope future releases will improve.</text>
+  </sentence>
+  <sentence id="285">
+    <text>I started using Evernote way back in October 2004 when the very first beta version was offered for public testing. It was not a web app back then - I don't think there were many of those, if any, at that point in Internet history. I was a big fan of Evernote then. However when the official release was made and payment was required I decided to stop using Evernote. The initial price for beta testers was kind of high IMO. I remember there was an email sent out by the &quot;Evernote Powers That Be&quot; stating that Evernote's primary market would be tablet users who needed the ability to enter handwritten notes and have them recognized as text; thus the pricing was a bit high. Since I didn't fall into that demographic I sadly ended my relationship with Evernote. However it wasn't long before the price dropped - probably a promotional discount that was lower than the original offering to beta testers - and so I jumped on it. I have been an Evernote user ever since!
+
+Like many early Evernote users I was not very happy with the early releases of Evernote 3; most of the advanced features that had made Evernote  the top choice among power note-taking users were abandoned and in their place was universal access via the so-called &quot;cloud&quot; and especially mobile devices. While I fully understand the economic benefits to Evernote, it was still painful to say &quot;good-bye&quot; to the &quot;old&quot; Evernote. But the new Evernote has turned out to be a rousing success! Though I still miss a lot of the features that were in previous versions of Evernote I am fully enjoying the new incarnation of Evernote! I've been a Premium subscriber since the subscription concept was instituted and plan to keep it that way for as long as Evernote and I are around!
+
+I fully endorse and recommend Evernote as highly as possible to anyone and everyone who uses a computer, mobile device, or both!
+
+Thank you,
+
+Jim</text>
+  </sentence>
+  <sentence id="286">
+    <text>I use it for everything! Thanks!</text>
+  </sentence>
+  <sentence id="287">
+    <text>The synching ability among so many platforms was great.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="synching" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="288">
+    <text>The text formatting makes it virtually impossible to create a note with any form of rich text, bullets, numbered lists, indentation, etc.</text>
+  </sentence>
+  <sentence id="289">
+    <text>I really want / need a proper Evernote!</text>
+  </sentence>
+  <sentence id="290">
+    <text>Call it Eversomething.</text>
+  </sentence>
+  <sentence id="291">
+    <text>Okay Evernote, I hope you are listening.</text>
+  </sentence>
+  <sentence id="292">
+    <text>I don't know, but until this is fixed it is not useful.</text>
+  </sentence>
+  <sentence id="293">
+    <text>But I really wish you would understand this huge weakness in your product.</text>
+  </sentence>
+  <sentence id="294">
+    <text>But &quot;note&quot; should not be in your name.</text>
+  </sentence>
+  <sentence id="295">
+    <text>But I have to go back to OneNote now.</text>
+  </sentence>
+  <sentence id="296">
+    <text>And man I've really tried to like Evernote.</text>
+  </sentence>
+  <sentence id="297">
+    <text>You had a great idea.</text>
+  </sentence>
+  <sentence id="298">
+    <text>Maybe the underlying code base or architecture makes it difficult to create rich text with proper formatting.</text>
+  </sentence>
+  <sentence id="299">
+    <text>Please fix this.</text>
+  </sentence>
+  <sentence id="300">
+    <text>And I have done a good amount of googling around to know that I'm not the only one around wanting better text capabilities.</text>
+  </sentence>
+  <sentence id="301">
+    <text>Who knows if you will read this.</text>
+  </sentence>
+  <sentence id="302">
+    <text>BEST FOR NOTES, IDEAS, ANYTHING YOU WANT TO SAVE FOR FUTURE REFERENCE. ON SIGHT.</text>
+  </sentence>
+  <sentence id="303">
+    <text>Won't work since newest update.</text>
+  </sentence>
+  <sentence id="304">
+    <text>Please fix</text>
+  </sentence>
+  <sentence id="305">
+    <text>Bad,bad,bad......and BADDDDD !  Crash, crash and CRASHHHH!</text>
+  </sentence>
+  <sentence id="306">
+    <text>If you want to get things done, get this app.</text>
+  </sentence>
+  <sentence id="307">
+    <text>I have mistakenly deleted or copied over important notes.</text>
+  </sentence>
+  <sentence id="308">
+    <text>Wish there was undo/redo options!!!</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="15" term="undo/redo" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="309">
+    <text>This is the perfect app for organization</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="20" term="app for organization" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="310">
+    <text>I use this app on my Mac, iPad, iPhone and work Mac and it keeps me sane. I love it and how flexible and versatile it is. Some small crashes but nothing that is out of the ordinary for big apps. Love it.</text>
+  </sentence>
+  <sentence id="311">
+    <text>Wins!</text>
+  </sentence>
+  <sentence id="312">
+    <text>Very easy!</text>
+  </sentence>
+  <sentence id="313">
+    <text>Outstanding tool for organizing customer information and keeping track of site visits.</text>
+  </sentence>
+  <sentence id="314">
+    <text>Also use it during training seminars &amp; sales meetings, then share the note with my colleagues.</text>
+  </sentence>
+  <sentence id="315">
+    <text>It upgraded my database and now I see only 2 notes.</text>
+  </sentence>
+  <sentence id="316">
+    <text>Can't sync in iOS 7 iphone app.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="10" term="sync" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="317">
+    <text>iPad version works though.</text>
+  </sentence>
+  <sentence id="318">
+    <text>Manual sync does nothing too.</text>
+  </sentence>
+  <sentence id="319">
+    <text>An idea is that I would like to have some notebooks in one bigger notebook.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="42" term="notebooks in one bigger notebook" to="74"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="320">
+    <text>Absolutely perfect.</text>
+  </sentence>
+  <sentence id="321">
+    <text>Love this app!</text>
+  </sentence>
+  <sentence id="322">
+    <text>Other than that, so far, I love it.</text>
+  </sentence>
+  <sentence id="323">
+    <text>Seriously, it is saving my life with this amazingly organized elephant.</text>
+  </sentence>
+  <sentence id="324">
+    <text>Thank you!</text>
+  </sentence>
+  <sentence id="325">
+    <text>I find everything, can save everything from computer and have it always handy.</text>
+  </sentence>
+  <sentence id="326">
+    <text>Estimates, general notes to self, supply lists, receipts, etc.</text>
+  </sentence>
+  <sentence id="327">
+    <text>I'm a contractor and I use this app for just about everything imaginable.</text>
+  </sentence>
+  <sentence id="328">
+    <text>love this app!</text>
+  </sentence>
+  <sentence id="329">
+    <text>Could use a function for  re-prioritizing Folder order.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="26" term="re-prioritizing Folder order" to="54"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="330">
+    <text>Great App!</text>
+  </sentence>
+  <sentence id="331">
+    <text>I had lots of notes and just updated this app, and erased ALL of them.  I just lost so much data.  I'm upset with myself for relying on an app instead of something more trustworthy like Notes.</text>
+  </sentence>
+  <sentence id="332">
+    <text>Cut and paste is slow and adding tags is tedious.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="0" term="Cut and paste" to="13"/>
+      <aspectTerm class="E" from="26" term="adding tags" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="333">
+    <text>However, the interface is still quite awkward.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="13" term="interface" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="334">
+    <text>For me it has been a consistently indispensable  tool.</text>
+  </sentence>
+  <sentence id="335">
+    <text>I wish there were a better way to add notes while surfing on the iPad.</text>
+  </sentence>
+  <sentence id="336">
+    <text>In general I am an Evenote fan and it does what I need while syncing to multiple devices.</text>
+  </sentence>
+  <sentence id="337">
+    <text>I absolutely love this app.</text>
+  </sentence>
+  <sentence id="338">
+    <text>Looks nice and clean and is very simple to use.</text>
+  </sentence>
+  <sentence id="339">
+    <text>The developer did awesome work.</text>
+  </sentence>
+  <sentence id="340">
+    <text>Fix it urgent!</text>
+  </sentence>
+  <sentence id="341">
+    <text>I've just updated to the new 5.2 version, and I can't open the app anymore!</text>
+  </sentence>
+  <sentence id="342">
+    <text>This makes the app almost unusable.</text>
+  </sentence>
+  <sentence id="343">
+    <text>I love Evernote, I use it for college classes, meeting notes, planning my wedding and more, but lately when I type the note keeps scrolling down every time I type something.</text>
+  </sentence>
+  <sentence id="344">
+    <text>PLEASE fix this!</text>
+  </sentence>
+  <sentence id="345">
+    <text>So multi-functional. Can be used for so many different tasks, jobs, careers.</text>
+  </sentence>
+  <sentence id="346">
+    <text>Best note app I've used.</text>
+  </sentence>
+  <sentence id="347">
+    <text>Need web clipper for Chrome on iPhone, but still love it.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="5" term="web clipper" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="348">
+    <text>Good interface.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="5" term="interface" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="349">
+    <text>Easy to use.</text>
+  </sentence>
+  <sentence id="350">
+    <text>Lots of organizational options for notes including pictures, voice and notes.</text>
+  </sentence>
+  <sentence id="351">
+    <text>Deleted.</text>
+  </sentence>
+  <sentence id="352">
+    <text>New design is strange to navigate, tag lookup is slow, unintuitive is a pretty good word for some of the changes.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="0" term="New design" to="10"/>
+      <aspectTerm class="E" from="35" term="tag lookup" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="353">
+    <text>Korean keyboard error..
+please.. fix it.. 
+
+I use it very frequently..</text>
+  </sentence>
+  <sentence id="354">
+    <text>I have been using Evernote for a while and then using it more and more all the time.  I'm sure that I don't know how to fully utilize it. I was logging in just to say how great I thought its search function was but offer some ideas on improvement. But then I read all the recent one star ratings and was dismayed. Somehow I missed all this password catastrophe (so far) and I can get to my stuff just fine but I'm dismayed about what has happened and very afraid to continue using it. I do see a few recommendations for replacement of Evernote. I'll keep an eye on the reviews to see what ideas appear. Many thanks to all of you folks who have taken the time to alert the rest of us.</text>
+  </sentence>
+  <sentence id="355">
+    <text>The last time this happened, I signed up for 2 other apps &amp; saved my notes on them.</text>
+  </sentence>
+  <sentence id="356">
+    <text>I can't believe this happened AGAIN, with the app crashing the minute I open it.</text>
+  </sentence>
+  <sentence id="357">
+    <text>Please don't make me switch apps permanently...</text>
+  </sentence>
+  <sentence id="358">
+    <text>Please hurry with a fix for the update so I can go back to rating this app with 5 stars.</text>
+  </sentence>
+  <sentence id="359">
+    <text>However, once Evernote was back in action, I was lulled into thinking they had gotten their act together--now THIS disaster!</text>
+  </sentence>
+  <sentence id="360">
+    <text>Just excellent!!!! For personal, work, projects.</text>
+  </sentence>
+  <sentence id="361">
+    <text>It keeps crashing out on my ipad3.  Not even usable now.</text>
+  </sentence>
+  <sentence id="362">
+    <text>Great evernote client to accompany the web.  Well Done. Must have You can do everything on the app that you can online.  5 stars for sure</text>
+  </sentence>
+  <sentence id="363">
+    <text>AWESOME!!!!!! I use it for everything.</text>
+  </sentence>
+  <sentence id="364">
+    <text>At the beginning I had doubts about moving to a second app to edit PDFs; but no more.</text>
+  </sentence>
+  <sentence id="365">
+    <text>I have been using several other apps for my notes, but none was so easy to use across PC, Mac, iPad and, yes, even Blackberry.</text>
+  </sentence>
+  <sentence id="366">
+    <text>Its quite fluid and works very well.</text>
+  </sentence>
+  <sentence id="367">
+    <text>After the last upgrade I started using Skitch.</text>
+  </sentence>
+  <sentence id="368">
+    <text>Other than that, It's a great App</text>
+  </sentence>
+  <sentence id="369">
+    <text>I even liked the fact that I could edit the PDF and then go back to Evernote for actual notes without having to quite the PDF.</text>
+  </sentence>
+  <sentence id="370">
+    <text>The only couple of things is that I still miss the Stacking in the iOS version and no editing in shared notebooks.</text>
+  </sentence>
+  <sentence id="371">
+    <text>This has become one of my favorite apps.</text>
+  </sentence>
+  <sentence id="372">
+    <text>Well Done!</text>
+  </sentence>
+  <sentence id="373">
+    <text>It is so nice to have everything in one place and to be able to find it when you need to.</text>
+  </sentence>
+  <sentence id="374">
+    <text>This app keeps me sane! I love that I can use it on my computer, my tablet, and my phone. Respect the necessity of awesome list-making!</text>
+  </sentence>
+  <sentence id="375">
+    <text>Thank for fixing the probs with 7.2.0
+I rely on Evernote !</text>
+  </sentence>
+  <sentence id="376">
+    <text>Really useful. Love it!</text>
+  </sentence>
+  <sentence id="377">
+    <text>It also can't find Evernote servers.</text>
+  </sentence>
+  <sentence id="378">
+    <text>I can't log into my Evernote.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="12" term="log into" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="379">
+    <text>And all my school notes are on Evernote.</text>
+  </sentence>
+  <sentence id="380">
+    <text>Gotta love it.</text>
+  </sentence>
+  <sentence id="381">
+    <text>I use this for so many things. I take notes in meetings, training, phone calls...they all go in Evernote. I have multiple clients and I have a notebook on everyone of them. I share notes with my employees, friends and clients. I even have notebooks for new recipes, health tips, and for my hobbies. I used to fill up 12 notebooks a year and then when I needed to find something I would have to flip thru multiple notebooks to find that notation. Not anymore. I do a quick search and voila... I have the note at my fingertips in seconds. :)</text>
+  </sentence>
+  <sentence id="382">
+    <text>It will not allow me to create an acct. 
+nice!</text>
+  </sentence>
+  <sentence id="383">
+    <text>I would be completely lost without this app.</text>
+  </sentence>
+  <sentence id="384">
+    <text>I take a photo with my iPhone,  tag it with their name and email it right from the store.</text>
+  </sentence>
+  <sentence id="385">
+    <text>I was using an electronic cookbook software on my desktop.</text>
+  </sentence>
+  <sentence id="386">
+    <text>I can't imagine my life without it.</text>
+  </sentence>
+  <sentence id="387">
+    <text>Now I have the information with me and I don't forget who I bought for - and what.</text>
+  </sentence>
+  <sentence id="388">
+    <text>The search feature in Evernote is more powerful - all recipe changes can be modified right on my iPhone and I can easy attach a photo and email directly into Evernote (easy to add Evernote as a contact).</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="search" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="389">
+    <text>It also helps me track all the gifts I buy throughout the year for my large family.</text>
+  </sentence>
+  <sentence id="390">
+    <text>now that I've discovered how to use it.</text>
+  </sentence>
+  <sentence id="391">
+    <text>I can't log into my account, and Evernote won't send me the email to reset the password.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="12" term="log into" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="392">
+    <text>Great.</text>
+  </sentence>
+  <sentence id="393">
+    <text>The new update complicated my day.</text>
+  </sentence>
+  <sentence id="394">
+    <text>Downloaded this app after reading about it in the 4HWW and it really put my life in order. I would also suggest a good calendar app for anyone looking for ever more organization.</text>
+  </sentence>
+  <sentence id="395">
+    <text>#Places is badly implemented
+
+Places is a great thing in theory - see your notes on a map.</text>
+  </sentence>
+  <sentence id="396">
+    <text>Terrible.</text>
+  </sentence>
+  <sentence id="397">
+    <text>#</text>
+  </sentence>
+  <sentence id="398">
+    <text>Evernote was founded on the principle of &quot;here's a great app, and you can pay to make it better&quot;.</text>
+  </sentence>
+  <sentence id="399">
+    <text>I will update this review when the app changes.</text>
+  </sentence>
+  <sentence id="400">
+    <text>This is &quot;here's an annoying app, pay to make it ok&quot;.
+
+#Audio capture is hard
+
+Quick note doesn't include audio, which seems natural on a mobile device on which typing is hard.</text>
+  </sentence>
+  <sentence id="401">
+    <text>Instead, recording audio is a major hassle that requires several clicks and sub menus.</text>
+  </sentence>
+  <sentence id="402">
+    <text>I need some context, like showing only points from a certain notebook or tag.</text>
+  </sentence>
+  <sentence id="403">
+    <text>Fancy animations with a lot less substance than you'd expect from Evernote.</text>
+  </sentence>
+  <sentence id="404">
+    <text>Here's the things which I find most irritating:
+
+#Paying to arrange the home screen 
+
+I need to see ads (&quot;announcements&quot; and &quot;market&quot;) in my face  unless I pay?</text>
+  </sentence>
+  <sentence id="405">
+    <text>But that's not all
+
+The app is full of little usability issues.</text>
+  </sentence>
+  <sentence id="406">
+    <text>In practice, the screen area dedicated to the map is so small it's borderline unusable, and seeing all my notes on the same map is useless.</text>
+  </sentence>
+  <sentence id="407">
+    <text>This app is full of issues, and smells like a &quot;design for the sake of design&quot; kind of project.</text>
+  </sentence>
+  <sentence id="408">
+    <text>Possum</text>
+  </sentence>
+  <sentence id="409">
+    <text>I really enjoy using Evernote and it is one of the apps I use most often on my Mac, iPad, and iPhone.</text>
+  </sentence>
+  <sentence id="410">
+    <text>My one gripe with this version of Evernote is that when I try to use it on my iPhone, there seems to be some sort of error that makes the screen keep scrolling down until I am unable to type anymore.</text>
+  </sentence>
+  <sentence id="411">
+    <text>If that was fixed, this review would be 5 stars, no doubt</text>
+  </sentence>
+  <sentence id="412">
+    <text>I use it for taking notes in college and also for personal journal entries.</text>
+  </sentence>
+  <sentence id="413">
+    <text>Seems useful. Still figuring out how to set it up though.</text>
+  </sentence>
+  <sentence id="414">
+    <text>Wow!</text>
+  </sentence>
+  <sentence id="415">
+    <text>Love how easy it is to use.</text>
+  </sentence>
+  <sentence id="416">
+    <text>Simple and straight forward.</text>
+  </sentence>
+  <sentence id="417">
+    <text>Love it.</text>
+  </sentence>
+  <sentence id="418">
+    <text>I also like the new side-swiping for the PDF reader rather than scrolling.</text>
+  </sentence>
+  <sentence id="419">
+    <text>Thanks for snippet view -- looks great on iPhone 4 and iPad 4!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="11" term="snippet view" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="420">
+    <text>I had same problem with crashing that others describe on the iPhone -- deleting the app and reinstalling from App Store fixed the problem.</text>
+  </sentence>
+  <sentence id="421">
+    <text>Good update to a great product!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="5" term="update" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="422">
+    <text>The search is good.</text>
+  </sentence>
+  <sentence id="423">
+    <text>Being multi-device is good.</text>
+  </sentence>
+  <sentence id="424">
+    <text>The outlining could be better - ability to fold/close sub-bullet points would be great.</text>
+  </sentence>
+  <sentence id="425">
+    <text>Not great as a task manager, but good for notes.</text>
+  </sentence>
+  <sentence id="426">
+    <text>I was a big fan, became a premium member and have had nothing but problems since. Losing data consistently. They've ruined a good app.</text>
+  </sentence>
+  <sentence id="427">
+    <text>Great</text>
+  </sentence>
+  <sentence id="428">
+    <text>The addition of reminders has made an already awesome app even &quot;awesomer!&quot;</text>
+  </sentence>
+  <sentence id="429">
+    <text>I literally use for everything.</text>
+  </sentence>
+  <sentence id="430">
+    <text>Don't know what id do without Evernote - hands down favorite app.</text>
+  </sentence>
+  <sentence id="431">
+    <text>On your computer there is even a right click feature to clip the web page on screen to EverNote.</text>
+  </sentence>
+  <sentence id="432">
+    <text>Niiiiiiiice.</text>
+  </sentence>
+  <sentence id="433">
+    <text>Love this software.</text>
+  </sentence>
+  <sentence id="434">
+    <text>I even have my license plate numbers for my cars.</text>
+  </sentence>
+  <sentence id="435">
+    <text>I use it everyday.</text>
+  </sentence>
+  <sentence id="436">
+    <text>I like I can get at all this in on my phone and computer and the automatically synch.</text>
+  </sentence>
+  <sentence id="437">
+    <text>I have store hours, lumber prices, handyman chore lists, vacation plans, mortgage info, woodworking ideas from the web, lists of product details for things like my furnace filter, rollerblade wheel size, hem length, printer ink, vacuum bag size, etc.</text>
+  </sentence>
+  <sentence id="438">
+    <text>The only problem I have is that the app is no longer updating for my iOS. Oh well at least I can still use my current version, for that you lose a star.</text>
+  </sentence>
+  <sentence id="439">
+    <text>I have been using Evernote since its early implementations: it has become an indispensable tool for my personal, professional and work life. It is misleading to characterize it as a note-taking application. If there is a current technique for extended one's mind, it is by far Evernote.</text>
+  </sentence>
+  <sentence id="440">
+    <text>I love Evernote!</text>
+  </sentence>
+  <sentence id="441">
+    <text>But, I really wish it allowed hand written notes.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="30" term="hand written notes" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="442">
+    <text>It's great for organizing my life.</text>
+  </sentence>
+  <sentence id="443">
+    <text>Sometimes it's more convenient than typing, especially when taking notes on existing documents.</text>
+  </sentence>
+  <sentence id="444">
+    <text>I no longer search for random pieces of paper with notes scribbled.</text>
+  </sentence>
+  <sentence id="445">
+    <text>Devs got rid of list view for some insane reason and now app is no longer a productivity helper for many.</text>
+  </sentence>
+  <sentence id="446">
+    <text>I used Evernote to store my bookings, flight tickets and other critical traveling info. But when I crossed the border of my country, I found that my notes are no longer available because free version does not support &quot;offline&quot; files and I didn't have Wifi available at hand. How can you even release a piece of software without such critical feature? 
+Why don't they write this anywhere on the main page? This raises false premises for users.
+
+Fortunately my wife had a copy of all the records in her laptop, otherwise I would have been screwed by Evernote in a foreign country.
+
+Dont use Evernote for anything but bogus notes, or pay them monthly for nothing.
+Will never use this piece of crapware again.</text>
+  </sentence>
+  <sentence id="447">
+    <text>I hate this app</text>
+  </sentence>
+  <sentence id="448">
+    <text>Shares exact location.</text>
+  </sentence>
+  <sentence id="449">
+    <text>Got this app to open one time otherwise, it's on the loading screen forever. So far, a waste of time and space on my phone. Disappointed.</text>
+  </sentence>
+  <sentence id="450">
+    <text>Moss prtg loves this app n</text>
+  </sentence>
+  <sentence id="451">
+    <text>Makes business so much easier.</text>
+  </sentence>
+  <sentence id="452">
+    <text>I absolutely love this app &amp; software!!!!</text>
+  </sentence>
+  <sentence id="453">
+    <text>Having the Evernote program on the computer &amp; the app on my phone is so great.</text>
+  </sentence>
+  <sentence id="454">
+    <text>Hoping it's just user ignorance.</text>
+  </sentence>
+  <sentence id="455">
+    <text>:)</text>
+  </sentence>
+  <sentence id="456">
+    <text>I love Evernote; however, I just agreed to leave feedback and now it won't let me return to the app.</text>
+  </sentence>
+  <sentence id="457">
+    <text>See title.</text>
+  </sentence>
+  <sentence id="458">
+    <text>Is anybody home??</text>
+  </sentence>
+  <sentence id="459">
+    <text>Although Evernote is indispensable, it needs some simple capabilities, such as word/letter count and clean HTML5 export.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="79" term="word/letter count" to="96"/>
+      <aspectTerm class="R" from="107" term="HTML5 export" to="119"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="460">
+    <text>I don't know why they screwed up themselves. I wanna roll back 4.x version.</text>
+  </sentence>
+  <sentence id="461">
+    <text>I have used Evernote as my Getting Things Done tool for a year.</text>
+  </sentence>
+  <sentence id="462">
+    <text>That's an accomplishment.</text>
+  </sentence>
+  <sentence id="463">
+    <text>When I want to make a quick note, or take a picture of my parking space so I'll remember, I don't want to wait for 30 seconds before I can do anything.</text>
+  </sentence>
+  <sentence id="464">
+    <text>My quibble is that Evernote launches slowly on the iPhone 4.</text>
+  </sentence>
+  <sentence id="465">
+    <text>Other than that issue, this is a great app that syncs perfectly among my iPhone, iPad, my desktop Mac at home, and my Windows machine at work.</text>
+  </sentence>
+  <sentence id="466">
+    <text>It's remarkably flexible and full-featured.</text>
+  </sentence>
+  <sentence id="467">
+    <text>This is my extended memory, a seamless extension of my brain!
+Work or play - my notes are in here. Keeps all my stuff nicely in sync across my iPad, iPhone and Mac.
+I take all my notes in Evernote (duh!) as well as scans/snapshots of all my important documents.</text>
+  </sentence>
+  <sentence id="468">
+    <text>Incredible app!!</text>
+  </sentence>
+  <sentence id="469">
+    <text>Thank you!</text>
+  </sentence>
+  <sentence id="470">
+    <text>I love it evernote</text>
+  </sentence>
+  <sentence id="471">
+    <text>Just installed on my 5s, app won't open and stay open.</text>
+  </sentence>
+  <sentence id="472">
+    <text>Constantly closes after clicking the icon.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="11" term="closes" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="473">
+    <text>Cannot even use it at this point.</text>
+  </sentence>
+  <sentence id="474">
+    <text>I enjoy the word doc and pdf management abilities.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="12" term="word doc and pdf management abilities" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="475">
+    <text>Love this app for organizing notes!</text>
+  </sentence>
+  <sentence id="476">
+    <text>The audio recording is awesome!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="audio recording" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="477">
+    <text>Have be use this app a couple of years now.</text>
+  </sentence>
+  <sentence id="478">
+    <text>I can't believe how clean the interface is, and how well everything works.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="34" term="interface" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="479">
+    <text>I never knew something this good could exist!</text>
+  </sentence>
+  <sentence id="480">
+    <text>I have had zero sync issues!</text>
+  </sentence>
+  <sentence id="481">
+    <text>Syncs to everything, i don't know what i would do without it...</text>
+  </sentence>
+  <sentence id="482">
+    <text>No more, no less, but i guess is a good option for what's out there.</text>
+  </sentence>
+  <sentence id="483">
+    <text>Everything was great until the recent update password lost my notes. I can't find them anywhere. I had synced some earlier notes, but the most recent ones from the last few weeks are all gone. How do I get them back.</text>
+  </sentence>
+  <sentence id="484">
+    <text>Great app!</text>
+  </sentence>
+  <sentence id="485">
+    <text>Recommend it to all my friends.</text>
+  </sentence>
+  <sentence id="486">
+    <text>Love Evernote.</text>
+  </sentence>
+  <sentence id="487">
+    <text>Wish all my apps were this good.</text>
+  </sentence>
+  <sentence id="488">
+    <text>Use it all the time.</text>
+  </sentence>
+  <sentence id="489">
+    <text>Si sientes que tienes un prop?sito en la vida, esta es tu mejor herramienta para cumplir tus sue?os. Carlos Andr?s gallego</text>
+  </sentence>
+  <sentence id="490">
+    <text>It used to be good but then it asked for me to sign in, and when I signed I lost all notes from school. There was a lot of notes. I would give it a lower rating but 1 star is as low as it gets</text>
+  </sentence>
+  <sentence id="491">
+    <text>I use it regularly for  note taking when I am reading books etc.</text>
+  </sentence>
+  <sentence id="492">
+    <text>I heard about this app on CBT Nuggets and I am learning new things about it all the time.</text>
+  </sentence>
+  <sentence id="493">
+    <text>I love the checkboxes for my To Do lists and I am looking forward to unleashing other possibilities.</text>
+  </sentence>
+  <sentence id="494">
+    <text>After installing last update I can't open application any more.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="41" term="open application" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="495">
+    <text>Before update was working like a charm, hope the application will be soon on and running againg.</text>
+  </sentence>
+  <sentence id="496">
+    <text>Think better and live fuller</text>
+  </sentence>
+  <sentence id="497">
+    <text>Use it to help me keep tabs on things I need to take action on or follow up.</text>
+  </sentence>
+  <sentence id="498">
+    <text>other than that..this is a great and awsome app</text>
+  </sentence>
+  <sentence id="499">
+    <text>I love this app, but i do wish i could resize images i paste.</text>
+  </sentence>
+  <sentence id="500">
+    <text>I use this a lot with Anatomy and Physiology and if i post pics i would like to resize the images within the app.</text>
+  </sentence>
+  <sentence id="501">
+    <text>Great for web snagging and note taking</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="27" term="note taking" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="502">
+    <text>The ability to be paperless with standardized concept that allows personalization makes Evernote my one stop shop. If it can be scanned, emailed, moved from a application, copied from the web or photographed, I have those items in my notebooks. The ability to use Evernote across multiple devices makes it extremely valuable to me. Presently I have it on the iPhone, iPad and Mac and they work perfectly together.</text>
+  </sentence>
+  <sentence id="503">
+    <text>I am a premium evernote user. Have been using for 3 years now. Finally a home organizer that doesn't go belly up after I get my notes in it. It's the main reason I bought the iPhone. Only downside is the inability to edit multimedia or rich notes. It's also good for storing unix commands. New version works with rich notes. Note change you can now edit non text notes with iPad version.</text>
+  </sentence>
+  <sentence id="504">
+    <text>Great for keeping organized and coordinating with colleagues.</text>
+  </sentence>
+  <sentence id="505">
+    <text>I love how Evernote puts all my stuff in one place.  There are a couple of things I wish it did.  I wish it used the autocorrect functions that other apps on iPhone and iPad have.  That would make typing go so much faster.  I also wish it would allow me to put the cursor anywhere on the screen like you can do in the desktop application.</text>
+  </sentence>
+  <sentence id="506">
+    <text>I have loved this app for a long time and use it frequently. However, beginning today it immediately crashes as soon as I open it. This is very disappointing as I have information I need to access/add. Please fix this!</text>
+  </sentence>
+  <sentence id="507">
+    <text>I like this app so far, especially the radio buttons that you can create to indicate that a task is completed.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="39" term="radio buttons" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="508">
+    <text>Wish it had a task list function though.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="14" term="task list function" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="509">
+    <text>On iPad, keeps telling me synchronization failed for a note that doesn't exist.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="26" term="synchronization" to="41"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="510">
+    <text>Works well on MacBook and iPhone.</text>
+  </sentence>
+  <sentence id="511">
+    <text>Very annoying.</text>
+  </sentence>
+  <sentence id="512">
+    <text>Life alteringly awesome.</text>
+  </sentence>
+  <sentence id="513">
+    <text>I literally use this app for everything. Out of all the other note apps that I have discovered and tried Evernote is the only one that I feel I can rely on for being there on my phone and computer in sync. It keeps track of where I am and what's in my Calander and makes notes accordingly which I greatly appreciate. The simplicity and user friendliness is in matched when it comes to Evernote!</text>
+  </sentence>
+  <sentence id="514">
+    <text>I used Evernote years ago when it first came out but had to stop because I kept getting burned. I would take extensive notes on my phone and the sync would fail and delete everything I typed.  I stopped using it for a few years and gave it another shot hoping newer versions would be better. Nope.  Doesn't happen all the time, but it should never happen.</text>
+  </sentence>
+  <sentence id="515">
+    <text>Excellent app.</text>
+  </sentence>
+  <sentence id="516">
+    <text>Highly recommend.</text>
+  </sentence>
+  <sentence id="517">
+    <text>Delete and reinstall if your notes don't sync. Only 16 of hundreds pulled down on my initial install. 
+
+A little too green for me but I like the flatness.</text>
+  </sentence>
+  <sentence id="518">
+    <text>Even though I updated evernote, there still exits bugs. When I typing in Korean, it is impossible to write correctly. I think there is time?? delay..</text>
+  </sentence>
+  <sentence id="519">
+    <text>( seems sluggish on activating text editor )</text>
+  </sentence>
+  <sentence id="520">
+    <text>It would be 5 stars although it seem more difficult than it should be to change different formatting or continue notes by going into the middle of the body of the text.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="73" term="change different formatting" to="100"/>
+      <aspectTerm class="E" from="105" term="ontinue notes by going into the middle of the body of the text" to="167"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="521">
+    <text>Not sure what is happening there.</text>
+  </sentence>
+  <sentence id="522">
+    <text>I am guessing this is just an iOS7 issue.</text>
+  </sentence>
+  <sentence id="523">
+    <text>You can no longer create titles or subsections.</text>
+  </sentence>
+  <sentence id="524">
+    <text>I love evernote, however with the new version there are some features removed (or broken) on the iPad.</text>
+  </sentence>
+  <sentence id="525">
+    <text>Also once you bold or italicize text you can not undo that without removing the paragraph formatting.</text>
+  </sentence>
+  <sentence id="526">
+    <text>I am a paid evernote customer, and I love the app, but these broken features are a bit disappointing.</text>
+  </sentence>
+  <sentence id="527">
+    <text>Lastly, spellcheck doesnt seem to be working right.</text>
+  </sentence>
+  <sentence id="528">
+    <text>This is a really great way to take notes. Can't imagine going back to pad and pen.</text>
+  </sentence>
+  <sentence id="529">
+    <text>The search tool rocks.</text>
+  </sentence>
+  <sentence id="530">
+    <text>Evernote brought me out of the dark age of pen and paper.</text>
+  </sentence>
+  <sentence id="531">
+    <text>Buy the premium version and show so love to he Evernote gang for the awesome product they created.</text>
+  </sentence>
+  <sentence id="532">
+    <text>And it is with you everywhere: MacBook, iPad and iPhone.</text>
+  </sentence>
+  <sentence id="533">
+    <text>Which is so great for those unexpected runs to the tea shop to get your wife her favorite blend.</text>
+  </sentence>
+  <sentence id="534">
+    <text>Do yourself a favor though.</text>
+  </sentence>
+  <sentence id="535">
+    <text>I love the granularity you can build to organize your notes and other important information.</text>
+  </sentence>
+  <sentence id="536">
+    <text>What kinda was that again?</text>
+  </sentence>
+  <sentence id="537">
+    <text>You can share notes and access.</text>
+  </sentence>
+  <sentence id="538">
+    <text>Use it every day love it</text>
+  </sentence>
+  <sentence id="539">
+    <text>Prior to the latest update, Evernote was very clear and visually organized.</text>
+  </sentence>
+  <sentence id="540">
+    <text>What a bummer!</text>
+  </sentence>
+  <sentence id="541">
+    <text>Now, it's not syncing with my camera role and the layout is too visually stimulating.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="54" term="layout" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="542">
+    <text>I use Evernote on a daily basis, know my password from using it on my iPad, iPhone and PC. Still, for some reason I'm not able to log in to Evernote today, and when I try to reset my account, I get a prompt stating my user name doesn't exist - not good. Please help! I use this for work a lot and have several important project notes on my account :(</text>
+  </sentence>
+  <sentence id="543">
+    <text>I'm confused. The upgrade on 3/2 (I think) was also a password reset upgrade, which I did. Now I have to reset again, 4 days later? I'll hold off until further clarified. Sheesh, what a pain!</text>
+  </sentence>
+  <sentence id="544">
+    <text>Walking down the street see something I like and take a picture...</text>
+  </sentence>
+  <sentence id="545">
+    <text>Emails I don't want to lose use the email forwarding.</text>
+  </sentence>
+  <sentence id="546">
+    <text>Find a website with details I want to remember use the web clipper...</text>
+  </sentence>
+  <sentence id="547">
+    <text>Great for the water cooler wars.</text>
+  </sentence>
+  <sentence id="548">
+    <text>This is my most trusted app on the phone.</text>
+  </sentence>
+  <sentence id="549">
+    <text>My favorite though is being able to read an article on Pulse save it and have it automatically sync.</text>
+  </sentence>
+  <sentence id="550">
+    <text>Wonderful app!</text>
+  </sentence>
+  <sentence id="551">
+    <text>Great app.</text>
+  </sentence>
+  <sentence id="552">
+    <text>Indispensable.</text>
+  </sentence>
+  <sentence id="553">
+    <text>And crush sometime</text>
+  </sentence>
+  <sentence id="554">
+    <text>Awesome!</text>
+  </sentence>
+  <sentence id="555">
+    <text>Very confusing IU!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="15" term="IU" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="556">
+    <text>It is not immediately obvious how Evernote fits into one's life, but it gets clear with use. Spend the time and you won't regret it.</text>
+  </sentence>
+  <sentence id="557">
+    <text>Great app!</text>
+  </sentence>
+  <sentence id="558">
+    <text>Nice app,handful</text>
+  </sentence>
+  <sentence id="559">
+    <text>Never forget again!</text>
+  </sentence>
+  <sentence id="560">
+    <text>Crashes every time I try to open it! Useless!! Would give 0 stars if possible!</text>
+  </sentence>
+  <sentence id="561">
+    <text>I write fiction, and EN has allowed me to make notes, write stories on the fly, read and edit my work. The only issue is formatting when dumping the stories into Word and back. I blame Microsoft. More formatting options inside EN would make this app perfect. I'd pay for those features.</text>
+  </sentence>
+  <sentence id="562">
+    <text>Allows me to keep track of ideas, thoughts, projects, to-do's, notes, etc immediately. Now if I can only get it to remember names for me...</text>
+  </sentence>
+  <sentence id="563">
+    <text>I use it for business and personal use every single week.</text>
+  </sentence>
+  <sentence id="564">
+    <text>-touch-and-hold-cursor magnifying glass is unusable
+-do u guys test your software before you put it out?</text>
+  </sentence>
+  <sentence id="565">
+    <text>Why?</text>
+  </sentence>
+  <sentence id="566">
+    <text>This version:
+-made a decent UI into a MESS
+-search is now hidden?!</text>
+  </sentence>
+  <sentence id="567">
+    <text>-why did u remove styles in note editing?</text>
+  </sentence>
+  <sentence id="568">
+    <text>That was THE BEST feature of the previous version.</text>
+  </sentence>
+  <sentence id="569">
+    <text>-among top tier items on UI are now announcements and marketplace?</text>
+  </sentence>
+  <sentence id="570">
+    <text>-you're rewarding developers for developing things to work WITH Evernote when EVERNOTE doesn't work?!</text>
+  </sentence>
+  <sentence id="571">
+    <text>Evernote
+-the only thing I like in the whole app is the addition of left center and right justify.</text>
+  </sentence>
+  <sentence id="572">
+    <text>-I'm a premium user and I WILL NOT renew until y'all get this right!</text>
+  </sentence>
+  <sentence id="573">
+    <text>Cut that crap and refocus- get your #1 right:</text>
+  </sentence>
+  <sentence id="574">
+    <text>-what's with the 4-8 seconds of non-responsiveness?</text>
+  </sentence>
+  <sentence id="575">
+    <text>Too many updates lately, now on this recent one, I find my account documents are all gone. Definitely NOT RELIABLE!!!</text>
+  </sentence>
+  <sentence id="576">
+    <text>It would be 5 stars if the OCR worked better.</text>
+  </sentence>
+  <sentence id="577">
+    <text>Thanks, Evernote team.</text>
+  </sentence>
+  <sentence id="578">
+    <text>I generally don't take time up write reviews, but this is a must have app.</text>
+  </sentence>
+  <sentence id="579">
+    <text>Beautiful new interface and great functionality across my Mac, iPad, and iPhone.</text>
+  </sentence>
+  <sentence id="580">
+    <text>Huge boost to productivity.</text>
+  </sentence>
+  <sentence id="581">
+    <text>Super for families</text>
+  </sentence>
+  <sentence id="582">
+    <text>Great app</text>
+  </sentence>
+  <sentence id="583">
+    <text>I can synch my notes from iPhone to PC to iPad.</text>
+  </sentence>
+  <sentence id="584">
+    <text>Great product!!!</text>
+  </sentence>
+  <sentence id="585">
+    <text>Very stable and consistent across platforms.</text>
+  </sentence>
+  <sentence id="586">
+    <text>Outstanding app!</text>
+  </sentence>
+  <sentence id="587">
+    <text>I have Evernote in iOS 7 for the iPhone 4.</text>
+  </sentence>
+  <sentence id="588">
+    <text>It irritates me cause it freezes for a LONG time and the crashes are ANNOYING.</text>
+  </sentence>
+  <sentence id="589">
+    <text>It also doesn't show me how many days I have left in my monthly cycle of memory anymore :( Please fix that!!</text>
+  </sentence>
+  <sentence id="590">
+    <text>!</text>
+  </sentence>
+  <sentence id="591">
+    <text>BUT this app constantly crashes and freezes!!!!</text>
+  </sentence>
+  <sentence id="592">
+    <text>I constantly have to sign into Evernote in Safari just to check, and that takes a LONG time.</text>
+  </sentence>
+  <sentence id="593">
+    <text>This is very nice and easy to use!</text>
+  </sentence>
+  <sentence id="594">
+    <text>I also love the syncing to my Mac.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="16" term="syncing" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="595">
+    <text>I now have to explore all the available functions.</text>
+  </sentence>
+  <sentence id="596">
+    <text>I'm no man of big words but this app is really usefull.</text>
+  </sentence>
+  <sentence id="597">
+    <text>PLEASE modify app to highlight most recent changes if notebook is edited by more than one user.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="21" term="highlight most recent changes" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="598">
+    <text>Very difficult to recognize small changes between users.</text>
+  </sentence>
+  <sentence id="599">
+    <text>Or allow font color edits in iPhone and iPad apps.</text>
+  </sentence>
+  <sentence id="600">
+    <text>I love taking notes on paper, but the reality of it is that I need to eventually type them up, and I need them all the time, anywhere I go. With Evernote, it's so easy to have my notes every time I need them :)</text>
+  </sentence>
+  <sentence id="601">
+    <text>Love it!!</text>
+  </sentence>
+  <sentence id="602">
+    <text>Really hard to find things.</text>
+  </sentence>
+  <sentence id="603">
+    <text>The older, pull tab interface was much better.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="older, pull tab interface" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="604">
+    <text>Also, it's much slower.</text>
+  </sentence>
+  <sentence id="605">
+    <text>Takes too long to enter a quick note.</text>
+  </sentence>
+  <sentence id="606">
+    <text>This new UI is ugly and hard to use.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="5" term="new UI" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="607">
+    <text>The latest version does not work at all.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="latest version" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="608">
+    <text>Used to be one of my essential app on my iphone.</text>
+  </sentence>
+  <sentence id="609">
+    <text>My least favorite part about the new version is that it crashes when it opens. My favorite part about the new version is that it crashes when it opens. Really, that's about all it does now.</text>
+  </sentence>
+  <sentence id="610">
+    <text>Forget this app and use &quot;Notesuite&quot; by far better and no monthly fees. You won't be disappointed!!!</text>
+  </sentence>
+  <sentence id="611">
+    <text>Ever since the update, I cannot get evernote to load on my ipad.  I am with everyone else here, evernote needs to get there act together and fix the problem.</text>
+  </sentence>
+  <sentence id="612">
+    <text>I love it.</text>
+  </sentence>
+  <sentence id="613">
+    <text>Inspiration for words can come at the drop of a hat which why I absolutely love this app.</text>
+  </sentence>
+  <sentence id="614">
+    <text>Very satisfied!</text>
+  </sentence>
+  <sentence id="615">
+    <text>I love to write.</text>
+  </sentence>
+  <sentence id="616">
+    <text>It's perfect for writing, recipes, or absolutely anything really.</text>
+  </sentence>
+  <sentence id="617">
+    <text>I have the ability to record thoughts at my finger tips by having the app on my phone then can go back and work on the same pieces on my computer later at home.</text>
+  </sentence>
+  <sentence id="618">
+    <text>The instant syncing between computer and phone is fantastic!</text>
+  </sentence>
+  <sentence id="619">
+    <text>I don't use it for my actual writing, though.</text>
+  </sentence>
+  <sentence id="620">
+    <text>Evernote's simple and easy interface makes organization smooth and effortless.</text>
+  </sentence>
+  <sentence id="621">
+    <text>I'm a writer, and Evernote is a great resource and tool I use to capture and organize my ideas.</text>
+  </sentence>
+  <sentence id="622">
+    <text>I love having a notebook dedicated to each book.</text>
+  </sentence>
+  <sentence id="623">
+    <text>But for ideas it is fantastic.  :)</text>
+  </sentence>
+  <sentence id="624">
+    <text>Evernote doesn't replace Pages or Word for me.</text>
+  </sentence>
+  <sentence id="625">
+    <text>How dirty! Who are you to say that I need to change my password! Especially since I was already creating a l-o-n-g note. Interrupted my work flow and then lost my note after changing my password!!!!!!!!!!!!!
+
+...and you call this &quot;EVERnote&quot; ? Should be &quot;NEvER NOTE&quot;!
+ I'd laugh but I am too busy cursing!
+
+Waste of an entire morning... switching to another note taking app then deleting this app once I have time to transfer remaining notes to &quot;ELSEWHERE&quot; note app!!!!</text>
+  </sentence>
+  <sentence id="626">
+    <text>I've been using Evernote for years on other devices. Having it on iPad is very useful. It just keeps getting better.</text>
+  </sentence>
+  <sentence id="627">
+    <text>I used to love Evernote and used it constantly.</text>
+  </sentence>
+  <sentence id="628">
+    <text>Not anymore.</text>
+  </sentence>
+  <sentence id="629">
+    <text>So slow that it's easier and faster for me to write notes by hand!</text>
+  </sentence>
+  <sentence id="630">
+    <text>The last updates have made it a clunky design, not to mention incredibly slow.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="39" term="design" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="631">
+    <text>Ugh!</text>
+  </sentence>
+  <sentence id="632">
+    <text>Please improve!!</text>
+  </sentence>
+  <sentence id="633">
+    <text>Good</text>
+  </sentence>
+  <sentence id="634">
+    <text>iPhone,iPad and PC all sync perfectly.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="23" term="sync" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="635">
+    <text>Great app.</text>
+  </sentence>
+  <sentence id="636">
+    <text>Exploring alternatives now.</text>
+  </sentence>
+  <sentence id="637">
+    <text>Too bad, as this was quite useful until this update.</text>
+  </sentence>
+  <sentence id="638">
+    <text>Won't even open.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="15" term="open" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="639">
+    <text>All I use have premium account offline syncing for flights. Nice having notes in one area.</text>
+  </sentence>
+  <sentence id="640">
+    <text>Great</text>
+  </sentence>
+  <sentence id="641">
+    <text>Keeps getting better. Can't be used enough. Great job.</text>
+  </sentence>
+  <sentence id="642">
+    <text>Can't open Evernote since update 02-28-13</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="10" term="open Evernote" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="643">
+    <text>I like it. I put everything in Evernote and sync across my devices</text>
+  </sentence>
+  <sentence id="644">
+    <text>I am completely dependent on/committed to Evernote, and I use the iPad app very day, but as another reviewer noted, I really wish it were more like the Windows desktop app because of how I've set up my tags.</text>
+  </sentence>
+  <sentence id="645">
+    <text>Evernote has far exceeded any expectation I had!</text>
+  </sentence>
+  <sentence id="646">
+    <text>There is nothing like it. I use it everyday, for EVERYTHING. Get it, use it, love it, review it so other will too!</text>
+  </sentence>
+  <sentence id="647">
+    <text>Love it!</text>
+  </sentence>
+  <sentence id="648">
+    <text>Copy and paste is clunky: one word or the whole page on the iPad
+Font between devices is clunky: you change it on one but the other device does something different 
+I wish the look between iPad and computer were the same
+Recently the numerous choices of colored font was removed.</text>
+  </sentence>
+  <sentence id="649">
+    <text>The paid app price is too high
+I like the notebook way of organizing documents</text>
+  </sentence>
+  <sentence id="650">
+    <text>There are four colors now plus black and gray.</text>
+  </sentence>
+  <sentence id="651">
+    <text>A great app for taking notes on the go.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="8" term="app for taking notes" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="652">
+    <text>I've never written a review til now, tried to reset password - but the app has looked me out because I can't remember 5 words in my notes...I don't use this app everyday or every week for that matter, so I don't remember what words were used...should I just keep guessing!  I have some photos on there I can't retrieve now. As far as I'm concerned I'll never use or recommend evernote to anyone!
+
+Ticked-Off!</text>
+  </sentence>
+  <sentence id="653">
+    <text>Learn to use the camera and page camera for notes. Awesome.</text>
+  </sentence>
+  <sentence id="654">
+    <text>Not quite as intuitive as I hoped it would be but after getting the hang of it I like it!</text>
+  </sentence>
+  <sentence id="655">
+    <text>I record everything - Evernote is a wonderful way to archive everything you do on a daily basis through text, images and audio. PLEASE give us the option to select a higher quality recording.</text>
+  </sentence>
+  <sentence id="656">
+    <text>Just. Awesome...With Awesome sauce.</text>
+  </sentence>
+  <sentence id="657">
+    <text>Tags could use a word cloud function.</text>
+  </sentence>
+  <sentence id="658">
+    <text>It needs to work on being integrated with some of the other browsers to avoid a daisy-chain process to get items into Evernote, but once the information gets there it is easy to find, tag, search, organize.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="178" term="find" to="182"/>
+      <aspectTerm class="E" from="184" term="tag" to="187"/>
+      <aspectTerm class="E" from="189" term="search" to="195"/>
+      <aspectTerm class="E" from="197" term="organize" to="205"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="659">
+    <text>Logged out of iPad and when I logged in all my notes were gone.</text>
+  </sentence>
+  <sentence id="660">
+    <text>Couldn't sync iPhone and iPad .</text>
+  </sentence>
+  <sentence id="661">
+    <text>I gave this one star because no stars was not an option.</text>
+  </sentence>
+  <sentence id="662">
+    <text>No response from tech support.</text>
+  </sentence>
+  <sentence id="663">
+    <text>My only wish is that they make it possible to return to the last page I was on Shen I open the app after a break.</text>
+  </sentence>
+  <sentence id="664">
+    <text>This app has been perfect for note taking.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="30" term="note taking" to="41"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="665">
+    <text>Which means I can't get to my business notes. Help!!</text>
+  </sentence>
+  <sentence id="666">
+    <text>Try and open the app and it tries to resort some of my entries and crashes. Afterwards I try and open again and it asks to send a report, but then crashes. This loop is never ending....</text>
+  </sentence>
+  <sentence id="667">
+    <text>Don't love the new format - miss the list view of my notes  Overall a good app.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="19" term="new format" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="668">
+    <text>I have been using EN for a few months and really like the fact that you can record while taking notes and then have that available across different devices.</text>
+  </sentence>
+  <sentence id="669">
+    <text>I do agree with some of the other reviews that it is a bit clunky and confusing at times when you go back to edit.</text>
+  </sentence>
+  <sentence id="670">
+    <text>I use it for every occasion.</text>
+  </sentence>
+  <sentence id="671">
+    <text>Would be lost without it, thanks!!!!!</text>
+  </sentence>
+  <sentence id="672">
+    <text>I must say this is one of my most used and favorite app.</text>
+  </sentence>
+  <sentence id="673">
+    <text>I use Evernote for everything from GTD to drafting writing projects. It does everything so well!</text>
+  </sentence>
+  <sentence id="674">
+    <text>Since latest upgrade camera causes app to shut down.</text>
+  </sentence>
+  <sentence id="675">
+    <text>Way ahead of similar apps!!</text>
+  </sentence>
+  <sentence id="676">
+    <text>Pls fix asap</text>
+  </sentence>
+  <sentence id="677">
+    <text>Sort function does not work.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="0" term="Sort" to="4"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="678">
+    <text>In iOS 7 on a 3rd-gen iPad, latest Evernote displays only six of my 35 notes.</text>
+  </sentence>
+  <sentence id="679">
+    <text>Clicking the title of any of the visible notes brings up an entirely different note.</text>
+  </sentence>
+  <sentence id="680">
+    <text>Great.</text>
+  </sentence>
+  <sentence id="681">
+    <text>Love access from any platform.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="5" term="access from any platform" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="682">
+    <text>This program is the best way to keep notes across different platforms.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="32" term="keep notes across different platforms" to="69"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="683">
+    <text>Easy to search and retrieve information.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="8" term="search" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="684">
+    <text>Nothing fancy -- it just works.</text>
+  </sentence>
+  <sentence id="685">
+    <text>I have been Evernote-ing my life. 
+
+I don't think I could live without it.</text>
+  </sentence>
+  <sentence id="686">
+    <text>The single most important app on my phone and my computer.</text>
+  </sentence>
+  <sentence id="687">
+    <text>Love Love Love this app!!!!</text>
+  </sentence>
+  <sentence id="688">
+    <text>Very, very useful as a storage place for important docs and spur of the moment  brilliant ideas.</text>
+  </sentence>
+  <sentence id="689">
+    <text>This app is one you won't delete.</text>
+  </sentence>
+  <sentence id="690">
+    <text>Almost a 5 star app, I am greatly missing being able to tag my pages in the penultimate notebook in Evernote, making this a feature would make this a 5 star app.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="56" term="tag my pages in the penultimate notebook" to="96"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="691">
+    <text>Being able to write notes on my iPad vs my disorganized notebook is going to help keep me much more organized!</text>
+  </sentence>
+  <sentence id="692">
+    <text>Thank you for this great app</text>
+  </sentence>
+  <sentence id="693">
+    <text>...' Had to do the copy and paste route which is twitchy and not as simple as one would think.</text>
+  </sentence>
+  <sentence id="694">
+    <text>Without a warning like 'delete all copy is coming up dummy?'</text>
+  </sentence>
+  <sentence id="695">
+    <text>En route I ended up trashing the new note by accident-and now I can't find the trash to get it out.</text>
+  </sentence>
+  <sentence id="696">
+    <text>; 
+
+Hmmmm...just spent 45 minutes trying to get this up and running smoothly.</text>
+  </sentence>
+  <sentence id="697">
+    <text>Test drive it, as it were.</text>
+  </sentence>
+  <sentence id="698">
+    <text>Don't bother with this one.</text>
+  </sentence>
+  <sentence id="699">
+    <text>It deleted it in the new notebook as well!</text>
+  </sentence>
+  <sentence id="700">
+    <text>No simple button like 'move to</text>
+  </sentence>
+  <sentence id="701">
+    <text>No go so far.</text>
+  </sentence>
+  <sentence id="702">
+    <text>Time to say goodby to this app and sister apps.</text>
+  </sentence>
+  <sentence id="703">
+    <text>I was trying to copy the note to the new notebook, got it there.</text>
+  </sentence>
+  <sentence id="704">
+    <text>Seriously?</text>
+  </sentence>
+  <sentence id="705">
+    <text>Not worth the really horrid, over simplified 'tutorials', if that's what those are.</text>
+  </sentence>
+  <sentence id="706">
+    <text>Decided to keep it simple.</text>
+  </sentence>
+  <sentence id="707">
+    <text>Couldn't find a simple way to move text between notebooks.</text>
+  </sentence>
+  <sentence id="708">
+    <text>Went back to the old notebook and deleted the copy-didn't need it there anymore, right?</text>
+  </sentence>
+  <sentence id="709">
+    <text>It's an indispensable part of my day to day life.</text>
+  </sentence>
+  <sentence id="710">
+    <text>I use Evernote for work and home, including a shared notebook with my family.</text>
+  </sentence>
+  <sentence id="711">
+    <text>My one gripe is that starting to edit notes is difficult, it's like there's a huge delay when you tap to edit as if switching the app from viewing mode to editing mode is a huge deal.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="21" term="starting to edit notes" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="712">
+    <text>Evernote is the BEST!</text>
+  </sentence>
+  <sentence id="713">
+    <text>I am able to stay organized and manage my work tasks more efficiently.</text>
+  </sentence>
+  <sentence id="714">
+    <text>It is playing a huge part in the organization of my dissertation research.</text>
+  </sentence>
+  <sentence id="715">
+    <text>I love this app!</text>
+  </sentence>
+  <sentence id="716">
+    <text>Thank you to the wonderful Evernote Geniuses for creating and maintaining this wonderful app!</text>
+  </sentence>
+  <sentence id="717">
+    <text>I connect my desktop with all of my mobile devices using it.</text>
+  </sentence>
+  <sentence id="718">
+    <text>It helps to keep everything I do in order.</text>
+  </sentence>
+  <sentence id="719">
+    <text>After the today's update is ceasing every time</text>
+  </sentence>
+  <sentence id="720">
+    <text>I like the way the picture can be searchable.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="19" term="picture can be searchable" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="721">
+    <text>I use Evernote to keep track of thoughts and ideas by leveraging the text and pictures.</text>
+  </sentence>
+  <sentence id="722">
+    <text>The only gap is the ability to draw in a note and a way to keep ToDos.</text>
+  </sentence>
+  <sentence id="723">
+    <text>I occasionally use the audio feature and would use it more if the whole audio note was searchable.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="66" term="whole audio note was searchable" to="97"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="724">
+    <text>The best way to keep my notes organized. I love it!</text>
+  </sentence>
+  <sentence id="725">
+    <text>Love this app.</text>
+  </sentence>
+  <sentence id="726">
+    <text>I am a freelance performer and artist and I use this app everyday</text>
+  </sentence>
+  <sentence id="727">
+    <text>I love this app.</text>
+  </sentence>
+  <sentence id="728">
+    <text>I have looked around for different note taking apps for the iPad and I honestly can say that Evernote has never failed me. Love it and love the fact that I can keep my notes organized and access them anywhere!</text>
+  </sentence>
+  <sentence id="729">
+    <text>The user interface is hard to read and is now just a cluttered mess...</text>
+  </sentence>
+  <sentence id="730">
+    <text>It took me twice as long to find my notes...</text>
+  </sentence>
+  <sentence id="731">
+    <text>I catch myself just jotting notes on a sticky pad and leaving them on my desk...</text>
+  </sentence>
+  <sentence id="732">
+    <text>This is ridiculous...</text>
+  </sentence>
+  <sentence id="733">
+    <text>Shame, I've been using evernote for years and here I am looking at alternatives...</text>
+  </sentence>
+  <sentence id="734">
+    <text>I had to stop using it...</text>
+  </sentence>
+  <sentence id="735">
+    <text>I don't know who approved this, but they should be fired!</text>
+  </sentence>
+  <sentence id="736">
+    <text>Talk about a step backwards and a leadership failure...</text>
+  </sentence>
+  <sentence id="737">
+    <text>Deleting and reinstalling didn't fix.</text>
+  </sentence>
+  <sentence id="738">
+    <text>How could this app fail so completely?</text>
+  </sentence>
+  <sentence id="739">
+    <text>Suddenly freezes whenever it's opened.</text>
+  </sentence>
+  <sentence id="740">
+    <text>Now it won't even open.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="22" term="open" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="741">
+    <text>Very user friendly and so versatile.</text>
+  </sentence>
+  <sentence id="742">
+    <text>Just start using it and it will morph into the perfect place to put all of your ideas and memos.</text>
+  </sentence>
+  <sentence id="743">
+    <text>Simply THE BEST note taking app EVER!</text>
+  </sentence>
+  <sentence id="744">
+    <text>Worst of all, even as a twice-paid user, this interface forces me to see ads and product updates instead of my stuff.</text>
+  </sentence>
+  <sentence id="745">
+    <text>Evernote can't seem to get its UI priorities straight, and yet it has drastically changed them twice since I've been a user.</text>
+  </sentence>
+  <sentence id="746">
+    <text>This update was the last straw for me.</text>
+  </sentence>
+  <sentence id="747">
+    <text>The other half is fast capture, and it still takes too many taps on too many little targets to get started.</text>
+  </sentence>
+  <sentence id="748">
+    <text>Over the past two days, I moved all my notes into text files on my Mac and now use Dropbox for sync.</text>
+  </sentence>
+  <sentence id="749">
+    <text>I never had any idea where my stuff was, and that's half  the point of a mobile interface to Evernote.</text>
+  </sentence>
+  <sentence id="750">
+    <text>Evernote was actually making me less productive now, and I was paying for the privilege.</text>
+  </sentence>
+  <sentence id="751">
+    <text>I've had enough.</text>
+  </sentence>
+  <sentence id="752">
+    <text>The last, card-based interface was bad enough, but this cramped, garish, moving one is vastly worse.</text>
+  </sentence>
+  <sentence id="753">
+    <text>I'd rather make do with files and folders than hold on for another complete redesign of Evernote's interface.</text>
+  </sentence>
+  <sentence id="754">
+    <text>This totally keeps my life in order</text>
+  </sentence>
+  <sentence id="755">
+    <text>Love Evernote - organizes family of 5, two jobs, hobbies, master's degree and household paperwork!!</text>
+  </sentence>
+  <sentence id="756">
+    <text>It even stored voice recordings made on my phone.</text>
+  </sentence>
+  <sentence id="757">
+    <text>It is easy to use and to send items to.</text>
+  </sentence>
+  <sentence id="758">
+    <text>One of the best apps there is.</text>
+  </sentence>
+  <sentence id="759">
+    <text>This app is excellent.</text>
+  </sentence>
+  <sentence id="760">
+    <text>I have had it for years and was not that impressed in the past but recently revisited the app and now I can't live without it.</text>
+  </sentence>
+  <sentence id="761">
+    <text>Syncs on my ipad and galaxy III phone.</text>
+  </sentence>
+  <sentence id="762">
+    <text>Lets me keep organized. Lots of great addons.</text>
+  </sentence>
+  <sentence id="763">
+    <text>Can't use on the iPhone with new IOS 7. Sticks and will not open.  Fix it.  Please! And soon.</text>
+  </sentence>
+  <sentence id="764">
+    <text>My life is now in Evernote. Although there are occasional quirks it is now indispensable to me</text>
+  </sentence>
+  <sentence id="765">
+    <text>Password keeps telling me it's expired and emails me a reset email. When I click the reset email it says that email expired so basically I can't use Evernote. Time to delete.</text>
+  </sentence>
+  <sentence id="766">
+    <text>Nothing is better than evernote.</text>
+  </sentence>
+  <sentence id="767">
+    <text>Best note taking software I have seen.</text>
+  </sentence>
+  <sentence id="768">
+    <text>Very handy to collaborate my inspirations</text>
+  </sentence>
+  <sentence id="769">
+    <text>To do lists are simple and effective in Evernote.</text>
+  </sentence>
+  <sentence id="770">
+    <text>Sure it's in keeping with flat iOS7 design, but it's barely readable.</text>
+  </sentence>
+  <sentence id="771">
+    <text>Settings should allow the user to change the text or background color and the order of the main screen.</text>
+  </sentence>
+  <sentence id="772">
+    <text>Did anyone consider trying to read this outside in natural light?</text>
+  </sentence>
+  <sentence id="773">
+    <text>I don't want to see all Notes.</text>
+  </sentence>
+  <sentence id="774">
+    <text>Having the Shortcuts is nice on top, but Notebooks in middle of the screen would be more useful instead of the all Notes feature.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="11" term="Shortcuts" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="775">
+    <text>Whose idea was it to use light blue text on a light blueish green background and light green text on a white background?</text>
+  </sentence>
+  <sentence id="776">
+    <text>This app is the first app I got on my iPhone and is the only app I use almost daily. Truly remarkable capabilities and beyond easy to learn, use, an integrate into your life.</text>
+  </sentence>
+  <sentence id="777">
+    <text>So far everything I've tried has worked.</text>
+  </sentence>
+  <sentence id="778">
+    <text>I like the &quot;Getting Started&quot; notes and videos as well as the knowledge base articles.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="15" term=";Getting Started&quot; notes and videos" to="53"/>
+      <aspectTerm class="E" from="69" term="knowledge base articles" to="92"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="779">
+    <text>If you have ever had an idea, read or seen something inspirational or needed to jot down a quick note then you need this app. I cannot count the number of times this app has helped me recall ideas, scenes and specific details that have been instrumental in a project (personal and professional). It is plainly a must have and keeps getting better through upgrades and partnerships. Just get it.</text>
+  </sentence>
+  <sentence id="780">
+    <text>Evernote has almost replaced my paper filing system.  No need to print anything anymore - everything is digitally filed and easily accessed on my phone, tablet and computer! I love it! I've given it 4 stars because I'm haven't been able to find a web clipper for my iPad and don't know why there isn't one available?</text>
+  </sentence>
+  <sentence id="781">
+    <text>Without peer the best writing application out.</text>
+  </sentence>
+  <sentence id="782">
+    <text>Update the app so it doesn't crash please.</text>
+  </sentence>
+  <sentence id="783">
+    <text>Evernote is an incredible tool and the app was perfect.</text>
+  </sentence>
+  <sentence id="784">
+    <text>Now it just doesn't work.</text>
+  </sentence>
+  <sentence id="785">
+    <text>Evernote has quickly become a mainstay for on the spot ideas. May replace my moleskin completely!</text>
+  </sentence>
+  <sentence id="786">
+    <text>Best app ever</text>
+  </sentence>
+  <sentence id="787">
+    <text>Extremely ugly UI!</text>
+  </sentence>
+  <sentence id="788">
+    <text>Update: I have decided not to renew my Premium subscription because Evernote's new ugly UI is too difficult to read and no one from the company is responding to the myriad of complaints.</text>
+  </sentence>
+  <sentence id="789">
+    <text>It's time to move on.</text>
+  </sentence>
+  <sentence id="790">
+    <text>Difficult to read.</text>
+  </sentence>
+  <sentence id="791">
+    <text>Who makes those decisions???</text>
+  </sentence>
+  <sentence id="792">
+    <text>Change it back.</text>
+  </sentence>
+  <sentence id="793">
+    <text>For Pete's sake, even their website is unreadable with yellow font on a white background in areas and most areas have light gray on white or white font on light gray.</text>
+  </sentence>
+  <sentence id="794">
+    <text>I know the logo is green but now they went and made the entire interface green green green.</text>
+  </sentence>
+  <sentence id="795">
+    <text>Great ap.</text>
+  </sentence>
+  <sentence id="796">
+    <text>Has become my best secretary....  never forgets anything.</text>
+  </sentence>
+  <sentence id="797">
+    <text>OK, so I was an information pack rat. Scrap paper hoarder. Where a twelve-step program failed, Evernote has saved me. I literally feel a weight removed, a new agility in life. I'm not joking. See an ad for a restaurant you might want to visit some day 18 months from now? You gonna clip that ad and shove it in a shoe box? He'll no! Evernote it! If you want to remember it, if you need to remember it, Evernote it!</text>
+  </sentence>
+  <sentence id="798">
+    <text>It's all i need to remember.</text>
+  </sentence>
+  <sentence id="799">
+    <text>The PC update was also a step back.</text>
+  </sentence>
+  <sentence id="800">
+    <text>I want my old version that made notes easy.</text>
+  </sentence>
+  <sentence id="801">
+    <text>This version looks like someone hacked in and applied their dopey idiosyncratic skin just to make it hard for everyone.</text>
+  </sentence>
+  <sentence id="802">
+    <text>Fire whoever led this redesign and get back on track.</text>
+  </sentence>
+  <sentence id="803">
+    <text>This is a notes app not ecommerce or social networking.</text>
+  </sentence>
+  <sentence id="804">
+    <text>BTW the function to search all notes is broken and only seems to search titles.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="20" term="search all notes" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="805">
+    <text>It would be more great if it was compatible to a lot more websites.
+
+Other than that no real complaints.
+
+Great for knowledge hoarder like me!</text>
+  </sentence>
+  <sentence id="806">
+    <text>This is best. Thanks.</text>
+  </sentence>
+  <sentence id="807">
+    <text>It took me years of listening to stories on Evernote before really getting into it.</text>
+  </sentence>
+  <sentence id="808">
+    <text>Super easy to organize and jot notes for everyday things.</text>
+  </sentence>
+  <sentence id="809">
+    <text>But now that I have, I'm left wondering why I didn't start earlier!</text>
+  </sentence>
+  <sentence id="810">
+    <text>Best app ever !</text>
+  </sentence>
+  <sentence id="811">
+    <text>This is the app that I use the most and keeps me organized!
+
+I would be lost without it.</text>
+  </sentence>
+  <sentence id="812">
+    <text>this new update won't let me open the app anymore ???? please fix it! I use this app for everything and I really need it</text>
+  </sentence>
+  <sentence id="813">
+    <text>Only gripe is it should be easier to add a notebook from iPhone.</text>
+  </sentence>
+  <sentence id="814">
+    <text>Love the multiple notebooks, the ease of adding pics or audio...</text>
+  </sentence>
+  <sentence id="815">
+    <text>Waaaaaay better than &quot;notes&quot; app that comes standard on iPhone.</text>
+  </sentence>
+  <sentence id="816">
+    <text>It's awesome.</text>
+  </sentence>
+  <sentence id="817">
+    <text>Just for everyone to know if you install Evernote and your notes do not show up first you need to delete Evernote and reinstall and it will begin to sync again</text>
+  </sentence>
+  <sentence id="818">
+    <text>Everything is contained in one place.</text>
+  </sentence>
+  <sentence id="819">
+    <text>And what you can do with the information in a note is amazing.</text>
+  </sentence>
+  <sentence id="820">
+    <text>Love this app!!</text>
+  </sentence>
+  <sentence id="821">
+    <text>&quot;A&quot;.</text>
+  </sentence>
+  <sentence id="822">
+    <text>You can't ask for anything more in an app to get your life organized and help you to remember things.</text>
+  </sentence>
+  <sentence id="823">
+    <text>thanks so much.</text>
+  </sentence>
+  <sentence id="824">
+    <text>fix the bug!  What's the delay?</text>
+  </sentence>
+  <sentence id="825">
+    <text>!</text>
+  </sentence>
+  <sentence id="826">
+    <text>Now I can locate this page quickly and easily, whenever I need it.</text>
+  </sentence>
+  <sentence id="827">
+    <text>Still, I'm finding Evernote useful enough to be worth the space on both my PC and my iPhone.</text>
+  </sentence>
+  <sentence id="828">
+    <text>When I feel like getting things super organized, I generally just wait for the feeling to pass.</text>
+  </sentence>
+  <sentence id="829">
+    <text>Pros:
+Extends your organizational reach to a smartphone
+Synchronizes to your desktop and Mac Evernote
+GPS-tags your notes and photos
+
+Cons:
+Premium pricing is $5/month or $45/year.</text>
+  </sentence>
+  <sentence id="830">
+    <text>This is light duty in comparison to how real enthusiasts use Evernote.</text>
+  </sentence>
+  <sentence id="831">
+    <text>Still, even for those who aren't organizing enthusiasts, Evernote can come in handy for snapping, saving, and then finding random items that appear on the screen.</text>
+  </sentence>
+  <sentence id="832">
+    <text>I am not that kind of person.</text>
+  </sentence>
+  <sentence id="833">
+    <text>For the ultra organized of the world, Evernote is a welcome addition to the arsenal in the war against paper files and forgetfulness.</text>
+  </sentence>
+  <sentence id="834">
+    <text>So I brought up the instruction page for that and captured it in Evernote.</text>
+  </sentence>
+  <sentence id="835">
+    <text>For example, I keep forgetting how to do a screen capture on my iPhone.</text>
+  </sentence>
+  <sentence id="836">
+    <text>You'd think they'd fix it by now.</text>
+  </sentence>
+  <sentence id="837">
+    <text>My regular goto note taking program is now &quot;Day One&quot;.</text>
+  </sentence>
+  <sentence id="838">
+    <text>You can't make it bigger, or change the style.</text>
+  </sentence>
+  <sentence id="839">
+    <text>I haven't used the app in awhile because of the problems.</text>
+  </sentence>
+  <sentence id="840">
+    <text>It would be like the migration from MySpace to Facebook.</text>
+  </sentence>
+  <sentence id="841">
+    <text>I'd like to see a true Evernote competitor with fonts.</text>
+  </sentence>
+  <sentence id="842">
+    <text>The font is tiny.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="font" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="843">
+    <text>I have had text completely reformatted on updates.</text>
+  </sentence>
+  <sentence id="844">
+    <text>In my opinion that will be enough for people to ditch this program.</text>
+  </sentence>
+  <sentence id="845">
+    <text>I'm getting back into it, but still can't adjust the font size.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="50" term="adjust the font size" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="846">
+    <text>If Evernote at least incorporates font settings and fixes formatting issues, I will use it more, but for now it's a troubled program, and better options are out there where the developers at least know the bare basics of what users want.</text>
+  </sentence>
+  <sentence id="847">
+    <text>I'm waiting and searching.</text>
+  </sentence>
+  <sentence id="848">
+    <text>Thanks God I have the PC version installed and synced.</text>
+  </sentence>
+  <sentence id="849">
+    <text>Please fix it ASAP.</text>
+  </sentence>
+  <sentence id="850">
+    <text>There are too much information on this app.</text>
+  </sentence>
+  <sentence id="851">
+    <text>After download the updated version I can't open it anymore due to its constantly crashes.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="47" term="open" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="852">
+    <text>App keeps getting stronger every day.  Thanks Evernote!</text>
+  </sentence>
+  <sentence id="853">
+    <text>Everything a good app should be.</text>
+  </sentence>
+  <sentence id="854">
+    <text>This app helps me be more productive at work and at home. Love how every thought and note can be filed and easily found. The company does a good job with tips and ideas. The only opportunity is to improve their had written app. I use good notes and its the best, wish I could use evernote's app and store thugs easier.</text>
+  </sentence>
+  <sentence id="855">
+    <text>Keeps me organized. Make notes on my phone and they're on my computer when I get home. Keeps all your info connected, usable and easily retrievable.</text>
+  </sentence>
+  <sentence id="856">
+    <text>No way to delete a note using a smart phone. Tech support suggests using &quot;right click&quot; but that is not an option on a phone.
+
+Sent from my iPhone</text>
+  </sentence>
+  <sentence id="857">
+    <text>So easy and integrated into outlook on the computer.</text>
+  </sentence>
+  <sentence id="858">
+    <text>Organized and well developed.</text>
+  </sentence>
+  <sentence id="859">
+    <text>it's good</text>
+  </sentence>
+  <sentence id="860">
+    <text>I use Evernote for my personal and work notes.  I purchased the premium account and have found it to be one of the apps that I use everyday.  
+
+Thank you and keep up the great work.</text>
+  </sentence>
+  <sentence id="861">
+    <text>I use this app for many things. I trust it to keep my notes and documents in a safe place!</text>
+  </sentence>
+  <sentence id="862">
+    <text>This one is horrible looking and hard on your eyes.</text>
+  </sentence>
+  <sentence id="863">
+    <text>The last UI wasn't bad.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="last UI" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="864">
+    <text>Life would not be the same without my Evernote.</text>
+  </sentence>
+  <sentence id="865">
+    <text>I use Evernote for recording meetings all the time. It takes too long to start voice recording in this version</text>
+  </sentence>
+  <sentence id="866">
+    <text>A lot better than some apps I paid money for.</text>
+  </sentence>
+  <sentence id="867">
+    <text>A must have for iPad.</text>
+  </sentence>
+  <sentence id="868">
+    <text>Excellent job at creating a very functional and solid note app!</text>
+  </sentence>
+  <sentence id="869">
+    <text>Had to delete and redownload to get it working</text>
+  </sentence>
+  <sentence id="870">
+    <text>App wouldn't open after updating on my iPhone.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="17" term="open" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="871">
+    <text>Lost 8 of 10 notes with last update.  Not reliable.</text>
+  </sentence>
+  <sentence id="872">
+    <text>Was fine. After update, hangs on install. Had to delete. :-(</text>
+  </sentence>
+  <sentence id="873">
+    <text>The app I use the most.</text>
+  </sentence>
+  <sentence id="874">
+    <text>So much to remember.</text>
+  </sentence>
+  <sentence id="875">
+    <text>Just keeps getting better.</text>
+  </sentence>
+  <sentence id="876">
+    <text>I use Evernote on my laptop, iPhone, and iPad.</text>
+  </sentence>
+  <sentence id="877">
+    <text>Can't imagine how I'd get on without it.</text>
+  </sentence>
+  <sentence id="878">
+    <text>Life is complicated.</text>
+  </sentence>
+  <sentence id="879">
+    <text>Still the app I use the most.</text>
+  </sentence>
+  <sentence id="880">
+    <text>Gets better &amp; better.</text>
+  </sentence>
+  <sentence id="881">
+    <text>Update: I'm not wild about all the interface changes, but the usability keeps improving.</text>
+  </sentence>
+  <sentence id="882">
+    <text>Update: 10-7-12</text>
+  </sentence>
+  <sentence id="883">
+    <text>It's the one app that I would not give up.</text>
+  </sentence>
+  <sentence id="884">
+    <text>Update: 5-12-13  Still the best!</text>
+  </sentence>
+  <sentence id="885">
+    <text>Evernote is indispensable to keeping up with everything.</text>
+  </sentence>
+  <sentence id="886">
+    <text>Have not upgraded to iOS 7 yet.</text>
+  </sentence>
+  <sentence id="887">
+    <text>Once you start hiving every piece of info into Evernote, you can search and find anything you need very quickly.</text>
+  </sentence>
+  <sentence id="888">
+    <text>Terrific</text>
+  </sentence>
+  <sentence id="889">
+    <text>Very useful for corralling notes an thoughts. Use w/ web clipper on computer for even more versatility.</text>
+  </sentence>
+  <sentence id="890">
+    <text>Used to be a great app and I can still use it on my PC, but every time I open it it crashes. Literally every time. Useless on my iPhone and iPad.</text>
+  </sentence>
+  <sentence id="891">
+    <text>Trying to use it. Want to like it. Works on desktop, but just won't launch on my iPhone 5. Crazy.</text>
+  </sentence>
+  <sentence id="892">
+    <text>I've run my life out of Evernote for 2 years now.</text>
+  </sentence>
+  <sentence id="893">
+    <text>It's my most vital app.</text>
+  </sentence>
+  <sentence id="894">
+    <text>Great for those with many projects</text>
+  </sentence>
+  <sentence id="895">
+    <text>Awesome note taking/organizing app.</text>
+  </sentence>
+  <sentence id="896">
+    <text>So far, I'm loving it.</text>
+  </sentence>
+  <sentence id="897">
+    <text>Great potential and lots to learn.</text>
+  </sentence>
+  <sentence id="898">
+    <text>The app has literally gone from very helpful to completely useless overnight.</text>
+  </sentence>
+  <sentence id="899">
+    <text>I really like Evernote, but with this new update the app instantly crashes after it opens.</text>
+  </sentence>
+  <sentence id="900">
+    <text>I'll hold out hope for a quick patch, but for others I absolutely would not install this update unless you are ok with the possibility that the app completely stops working.</text>
+  </sentence>
+  <sentence id="901">
+    <text>Totally drop the ball by exposing its user base's login info. What's the point in using Evernote when it obviously cuts back on security for more profit.</text>
+  </sentence>
+  <sentence id="902">
+    <text>Been crashing on occasion since last update and now they update it to fix it but guess what? It crashes on startup now! Completely useless! Get it together please!</text>
+  </sentence>
+  <sentence id="903">
+    <text>Good</text>
+  </sentence>
+  <sentence id="904">
+    <text>Sometimes I feel like the app is a bit bloated and slow, but I don't have the newest phone, and seriously, how awesome does something have to be before you feel obligated to whine!?</text>
+  </sentence>
+  <sentence id="905">
+    <text>Over the few years that I've relied in Evernote, I have gone hot and cold several times with each update, but I think this is the best one yet.</text>
+  </sentence>
+  <sentence id="906">
+    <text>It replaces many of the add-on third party apps that made it work, and the shortcuts transferring from desktop to mobile have really been a game changer.</text>
+  </sentence>
+  <sentence id="907">
+    <text>It crashed a bunch the first week, but it's more stable now, and despite the fact that Evernote doesn't perfectly cater to all of my expectations in all situations, I feel good about my investment in the franchise.</text>
+  </sentence>
+  <sentence id="908">
+    <text>I just hope I can keep my info for a long time otherwise I'll be lost.</text>
+  </sentence>
+  <sentence id="909">
+    <text>I love it.</text>
+  </sentence>
+  <sentence id="910">
+    <text>Great as a notebook.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="11" term="notebook" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="911">
+    <text>Once I got familiar with the app</text>
+  </sentence>
+  <sentence id="912">
+    <text>I'm using it in many ways.</text>
+  </sentence>
+  <sentence id="913">
+    <text>I get an amazing amount of work done on my iPhone this app. By far the app I use most.</text>
+  </sentence>
+  <sentence id="914">
+    <text>The reviews for the new iOS7 are haunting so I opted out of the newest update.</text>
+  </sentence>
+  <sentence id="915">
+    <text>I copy &amp; paste a lot of quotes into Evernote but recently the paste option does not appear. 'Paste'</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="66" term="paste option" to="78"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="916">
+    <text>; works in the search bar but not in my notes.</text>
+  </sentence>
+  <sentence id="917">
+    <text>I give this app 5 personal stars because I still have access to all the things I've saved into Evernote and 3 actual stars for everything else.</text>
+  </sentence>
+  <sentence id="918">
+    <text>Syncs with EVERYTHING!!</text>
+  </sentence>
+  <sentence id="919">
+    <text>User interface a little clunky on the smartphone, in the info entry aspect
+
+Will continue to improve, I'm sure.</text>
+  </sentence>
+  <sentence id="920">
+    <text>Freezes iPad every time!</text>
+  </sentence>
+  <sentence id="921">
+    <text>Update is COMPLETELY USELESS!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="0" term="Update" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="922">
+    <text>Clean installs and reboots don't work!</text>
+  </sentence>
+  <sentence id="923">
+    <text>This app had worked nicely before, but the new version crashes every time... it might be too heavy for my old iPhone 4 :(</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="43" term="new version" to="54"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="924">
+    <text>I had trouble with notes on my notes app disappearing and was introduced to Evernote. Thank goodness! I live that I can search w/in a note.</text>
+  </sentence>
+  <sentence id="925">
+    <text>The second greatest thing since sliced bread! I use Evernote everyday , all day! For project management, and life management, can't be better!</text>
+  </sentence>
+  <sentence id="926">
+    <text>I've been a premium Evernote user for quite a while, and have loads of content and important data in their system.</text>
+  </sentence>
+  <sentence id="927">
+    <text>This latest version renders it completely useless.</text>
+  </sentence>
+  <sentence id="928">
+    <text>Problems are understandable at times; but to not address them in a timely manner when you have paying customers is not.</text>
+  </sentence>
+  <sentence id="929">
+    <text>As a paying customer I cannot continue to use tools that can't function with a high level of reliability.</text>
+  </sentence>
+  <sentence id="930">
+    <text>They released an update which was to fix bugs and yet nothing has changed.</text>
+  </sentence>
+  <sentence id="931">
+    <text>It's literally been frozen at startup since the new iOS 7 version was released.</text>
+  </sentence>
+  <sentence id="932">
+    <text>I'd like to see more and easier to adopt template pages.</text>
+  </sentence>
+  <sentence id="933">
+    <text>As a tentative adopter of cloud storage for all of the detritus of daily life, I find Evernote a convenient storage medium.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="108" term="storage medium" to="122"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="934">
+    <text>Having it on  my iPad is super.</text>
+  </sentence>
+  <sentence id="935">
+    <text>Evernote is excellent.</text>
+  </sentence>
+  <sentence id="936">
+    <text>I am able to use it with all devices.</text>
+  </sentence>
+  <sentence id="937">
+    <text>I recommend this.</text>
+  </sentence>
+  <sentence id="938">
+    <text>A few glitches but crosses platforms.</text>
+  </sentence>
+  <sentence id="939">
+    <text>It freezes every single time I open it and then shuts down.</text>
+  </sentence>
+  <sentence id="940">
+    <text>Please fix whatever is going on.</text>
+  </sentence>
+  <sentence id="941">
+    <text>I LOVE Evernote!</text>
+  </sentence>
+  <sentence id="942">
+    <text>However, after updating my iPhone 5 to iOS 7.0, Evernote does not work!</text>
+  </sentence>
+  <sentence id="943">
+    <text>I need my Evernote!</text>
+  </sentence>
+  <sentence id="944">
+    <text>Third &quot;upgrade&quot; in two days. Two of them including this one stop me getting into the app. Lousy work by the Evernote team.</text>
+  </sentence>
+  <sentence id="945">
+    <text>Is the new version of this app not compatible with &quot;iPad 1&quot;?!</text>
+  </sentence>
+  <sentence id="946">
+    <text>The semester is getting ready to start, and I need my Evernote!</text>
+  </sentence>
+  <sentence id="947">
+    <text>When I open the app, it stays open for about ten to fifteen seconds, and then immediately closes.</text>
+  </sentence>
+  <sentence id="948">
+    <text>I hope this is not the case, because it is definitely my most used/useful app.</text>
+  </sentence>
+  <sentence id="949">
+    <text>Help!!!!</text>
+  </sentence>
+  <sentence id="950">
+    <text>Could someone clarify whether it just might not work with old iOS/iPad 1?</text>
+  </sentence>
+  <sentence id="951">
+    <text>No error message, warning, etc.</text>
+  </sentence>
+  <sentence id="952">
+    <text>Easy to use and fun way to organize lists etc.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="27" term="organize lists" to="41"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="953">
+    <text>Also, a way to be able to expand the screen while scrolled down to the bottom of your note, because it can be a pain to scroll all the way up and expand.</text>
+  </sentence>
+  <sentence id="954">
+    <text>I like Evernote and I'm confused to why all of these reviews are bad.</text>
+  </sentence>
+  <sentence id="955">
+    <text>Overall, it is a great app!</text>
+  </sentence>
+  <sentence id="956">
+    <text>It works great for school purposes and I highly recommend using this app for education or any other purpose.</text>
+  </sentence>
+  <sentence id="957">
+    <text>I love how easy this app is and how it gives you multiple options for writing your note.</text>
+  </sentence>
+  <sentence id="958">
+    <text>If I were to make a suggestion, it would be to add a simpler way to delete past notes, such as a swipe.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="53" term="simpler way to delete past notes, such as a swipe" to="102"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="959">
+    <text>I used to use my digital legal pad until I learned about this app.  It is awesome.  You can tag your notes so you can find them later and easily copy and paste things into the program or add pictures. Love it.</text>
+  </sentence>
+  <sentence id="960">
+    <text>Long time Evernote user. Sure, UIs are updated here and there but oh my god this is terrible. Updates are supposed to improve usability not make it worse. Also, I just lost more than half of my notes with this update. 
+
+I'm not ready to jump ship yet but I sure hope they are able to correct a lot of these issues...</text>
+  </sentence>
+  <sentence id="961">
+    <text>Cannot access any of my notes. Quite inconvenient.</text>
+  </sentence>
+  <sentence id="962">
+    <text>That's what this update is. It's as if Evernote decided to give a group of five year olds with crayons, full discretion over redesigning their app. Counter intuitive and horribly designed, you guys have managed to make a perfect 180 and ruin the best app for the ipad.</text>
+  </sentence>
+  <sentence id="963">
+    <text>Use Evernote a lot thanks.</text>
+  </sentence>
+  <sentence id="964">
+    <text>You need Dropbox integration asap!</text>
+  </sentence>
+  <sentence id="965">
+    <text>Works great with my Livescribe pen.</text>
+  </sentence>
+  <sentence id="966">
+    <text>If this app is as irreplaceable on my phone as it is on my laptop I will be thrilled I use it for everything all he time</text>
+  </sentence>
+  <sentence id="967">
+    <text>iOS 7.0.2 on iPhone 5
+
+Currently unusable on my phone.</text>
+  </sentence>
+  <sentence id="968">
+    <text>Literally the best thing for me.. Syncs across all devices and keeps reminding me.. Totally perfect!</text>
+  </sentence>
+  <sentence id="969">
+    <text>You having security problem so all of your customers have to reset password. BRAVO.</text>
+  </sentence>
+  <sentence id="970">
+    <text>Highly recommended!</text>
+  </sentence>
+  <sentence id="971">
+    <text>The flexibility it provides to capture and access information is amazing!</text>
+  </sentence>
+  <sentence id="972">
+    <text>With only very minor exceptions Evernote works perfectly, as advertised.</text>
+  </sentence>
+  <sentence id="973">
+    <text>The few problems I've had have been immediately responded to (clear and understandable answers!) and corrected.</text>
+  </sentence>
+  <sentence id="974">
+    <text>It's pretty cool.</text>
+  </sentence>
+  <sentence id="975">
+    <text>This app is dangerous especially if what your're jotting down is for work, like I was.</text>
+  </sentence>
+  <sentence id="976">
+    <text>The entire lower half VANISHED... I've since have been using google docs and apple notes...</text>
+  </sentence>
+  <sentence id="977">
+    <text>The app erased everything that was in the list...</text>
+  </sentence>
+  <sentence id="978">
+    <text>Except one time I was writing with a combination of using regular sentences and paragraphs, and lists such as
+1.
+2.</text>
+  </sentence>
+  <sentence id="979">
+    <text>Or 
+-
+When I tried to jump back and forth, like normal...</text>
+  </sentence>
+  <sentence id="980">
+    <text>Ever since the latest update, constant crashing on my iPad. Unusable</text>
+  </sentence>
+  <sentence id="981">
+    <text>But it no longer works with the new redesign.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="32" term="new redesign" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="982">
+    <text>Please give me my Evernote back.</text>
+  </sentence>
+  <sentence id="983">
+    <text>Love this app.</text>
+  </sentence>
+  <sentence id="984">
+    <text>My dear friends, how could you?  Requiring iOS 7?  Really?  Please update your app to support iOS 6 as well. Thank you!</text>
+  </sentence>
+  <sentence id="985">
+    <text>Buy it!!!</text>
+  </sentence>
+  <sentence id="986">
+    <text>It's not perfect but, so far, it's the best note taking app I've come across.</text>
+  </sentence>
+  <sentence id="987">
+    <text>Keep up the good work!!!</text>
+  </sentence>
+  <sentence id="988">
+    <text>The app is a great way to take notes and keep multiple computers/phones updated in real time.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="26" term="take notes" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="989">
+    <text>?????????? ?? ? ??</text>
+  </sentence>
+  <sentence id="990">
+    <text>Excellent!</text>
+  </sentence>
+  <sentence id="991">
+    <text>Excellent update.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="10" term="update" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="992">
+    <text>Even more user friendly.</text>
+  </sentence>
+  <sentence id="993">
+    <text>Update: fixed.</text>
+  </sentence>
+  <sentence id="994">
+    <text>It's a fantastic system but this update is not syncing notes!</text>
+  </sentence>
+  <sentence id="995">
+    <text>Great app, great system.</text>
+  </sentence>
+  <sentence id="996">
+    <text>Please fix or revert to an old version ASAP!</text>
+  </sentence>
+  <sentence id="997">
+    <text>I recommend you download the desktop app &amp; web clipper &amp; just dive in. It seems challenging at first to preconceive all the right categories and tags, but you can honestly just get to writing &amp; organize as you go. Google the tips, read the blogs, &amp; just go! You won't be sorry.</text>
+  </sentence>
+  <sentence id="998">
+    <text>iPhone 4S    iOS 6.1.2</text>
+  </sentence>
+  <sentence id="999">
+    <text>Ever since last update the app will not open &amp; I cannot access any of my notes!</text>
+  </sentence>
+  <sentence id="1000">
+    <text>For the organized challenged like myself - finally something that is simple, easy to access, and fun to use, thank you for a great app!</text>
+  </sentence>
+  <sentence id="1001">
+    <text>Love it!!</text>
+  </sentence>
+  <sentence id="1002">
+    <text>Works efficiently and allows me to keep organized.</text>
+  </sentence>
+  <sentence id="1003">
+    <text>This app really helps me with sorting my notes.</text>
+  </sentence>
+  <sentence id="1004">
+    <text>I'm currently searching for a replacement to Evernote.</text>
+  </sentence>
+  <sentence id="1005">
+    <text>Nothing works.</text>
+  </sentence>
+  <sentence id="1006">
+    <text>The interface is awful and the app is virtually impossible to use.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="interface" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1007">
+    <text>I tried to make a simple note on a picture yesterday and it turned into a complete exercise in futility.</text>
+  </sentence>
+  <sentence id="1008">
+    <text>I agree with all the other reviews that say this update is an absolute mess.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="44" term="this update" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1009">
+    <text>Ever since the update I can't see the entire note. 1/3 of the screen is taken up by the list. Not liking it</text>
+  </sentence>
+  <sentence id="1010">
+    <text>I use this app for so many things! The ability to share notes is one of my favorite aspects.</text>
+  </sentence>
+  <sentence id="1011">
+    <text>You screwed me again.  Traveling and cannot access anything on iPad 2 with iOS 7--crashes instantly.  Where is your QA?  I am PAYING YOU for this service.</text>
+  </sentence>
+  <sentence id="1012">
+    <text>Altogether a really wonderful App!</text>
+  </sentence>
+  <sentence id="1013">
+    <text>It really helps me to keep track of things- including Documents- and I use it to Log, Journal, Plan and to Organize Thoughts.</text>
+  </sentence>
+  <sentence id="1014">
+    <text>All just small details and ideas...</text>
+  </sentence>
+  <sentence id="1015">
+    <text>I'm also having trouble logging in to Evernote using the MacBook App, so I haven't been able to use it on my computer, which I would be nice to be able to do...</text>
+  </sentence>
+  <sentence id="1016">
+    <text>However, the iPhone App works very well!</text>
+  </sentence>
+  <sentence id="1017">
+    <text>I also think small pics should be the default rather than large pictures- that kind f threw me off at first when I emailed something to a friend.</text>
+  </sentence>
+  <sentence id="1018">
+    <text>Thank you, Evernote!</text>
+  </sentence>
+  <sentence id="1019">
+    <text>I also created a notebook in which I can store old entries for future reference.</text>
+  </sentence>
+  <sentence id="1020">
+    <text>Unfortunately, I can't view, add or change any of my notebooks on the website.</text>
+  </sentence>
+  <sentence id="1021">
+    <text>Suggestions:
+I would appreciate 1or 2 font color choices (there's the highlighter but an additional highlight or font color would be nice).</text>
+  </sentence>
+  <sentence id="1022">
+    <text>Convenient, Simple, and Easy to Use.</text>
+  </sentence>
+  <sentence id="1023">
+    <text>Also would be nice if people with whom you share a notebook can write comments or make changes in different color/highlight (but you can choose to keep the original or it gets stored as drafts)...</text>
+  </sentence>
+  <sentence id="1024">
+    <text>Great App!</text>
+  </sentence>
+  <sentence id="1025">
+    <text>I use it every day. Love it.</text>
+  </sentence>
+  <sentence id="1026">
+    <text>Great for personal, work, shopping, and reference/bookmarking interesting articles on the web!</text>
+  </sentence>
+  <sentence id="1027">
+    <text>Perfect tool to organize all of life's info.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="8" term="tool to organize" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1028">
+    <text>Love that it can be as simple as you want it to be.</text>
+  </sentence>
+  <sentence id="1029">
+    <text>I use it for my job, it had made my tasks  a lot simpler, and a lot easier for me. It has been very helpful in the long run.</text>
+  </sentence>
+  <sentence id="1030">
+    <text>Easy to use and access!!</text>
+  </sentence>
+  <sentence id="1031">
+    <text>This is an awesome note taking app!!</text>
+  </sentence>
+  <sentence id="1032">
+    <text>Great for notes and centralizing documents. I put business docs,quilting patterns, meeting agendas, and my gift list. I can access these items anywhere on any device. LOVE IT!</text>
+  </sentence>
+  <sentence id="1033">
+    <text>Evernote was working fine on both my iPad and iPhone ...until the last upgrade.
+I don't even get to the login .... It crashes.
+Wasted Premium membership.</text>
+  </sentence>
+  <sentence id="1034">
+    <text>DO NOT USE THIS APP YOUR DATA IS NOT SECURE! Lost all my data and no help to get it back</text>
+  </sentence>
+  <sentence id="1035">
+    <text>The title says it all. But let me add . . . I couldn't exist without it. This App was made for the capabilities of the iPad.</text>
+  </sentence>
+  <sentence id="1036">
+    <text>Awesome app for an awesome cloud note syncing service!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="27" term="cloud note syncing service" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1037">
+    <text>I Love Evernote, but this new version is very unreliable.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="26" term="new version" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1038">
+    <text>The new Design- eh? #premium version.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="new Design" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1039">
+    <text>Sync isn't working.</text>
+  </sentence>
+  <sentence id="1040">
+    <text>It's really useful now it just needs a dragon dictate so I can quit copy and pasting lol useful app though =]</text>
+  </sentence>
+  <sentence id="1041">
+    <text>As a pc'er who uses Microsoft Office, including OneNote, after my husband bought me this iPad, I have been very impressed with how much better Evernote is in so many ways.  I'm now in the process of moving most of what I have in OneNote over to Evernote-- especially now that I have the syncing between my pc and my iPad.</text>
+  </sentence>
+  <sentence id="1042">
+    <text>Evernote keeps all of my documents at my fingertips regardless of where I am or what role I am undertaking.</text>
+  </sentence>
+  <sentence id="1043">
+    <text>Whether it's teaching, writing, or even cooking.</text>
+  </sentence>
+  <sentence id="1044">
+    <text>Great app to be used with iPad, iPod, and my PC. Thanks!</text>
+  </sentence>
+  <sentence id="1045">
+    <text>Evernote is there!</text>
+  </sentence>
+  <sentence id="1046">
+    <text>Started out good but has a severe bug.  When performing certain functions, the keyboard will disappear and not reappear, so you cant edit notes.  This happens when editing links.  Closing the app and reopening doesn't help.  This is a huge problem and ruins a would be great app.</text>
+  </sentence>
+  <sentence id="1047">
+    <text>The combination of Evernote with Siri makes writing documentation very easy.</text>
+  </sentence>
+  <sentence id="1048">
+    <text>I find myself using it, we'll, all the time.</text>
+  </sentence>
+  <sentence id="1049">
+    <text>I love this app!</text>
+  </sentence>
+  <sentence id="1050">
+    <text>I can create notes fast and the options to format the text are easy and effective.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="28" term="the options to format the text" to="58"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1051">
+    <text>It is so easy to use.</text>
+  </sentence>
+  <sentence id="1052">
+    <text>I'm so surprised at all of the bad reviews. I have not had any major problems with this app. In fact, it's my go to app for just about everything.</text>
+  </sentence>
+  <sentence id="1053">
+    <text>Worthless.  Deleted my login info.  now I have to go searching for it again.  They keep getting hacked search google for Evernote hacked.</text>
+  </sentence>
+  <sentence id="1054">
+    <text>Can't think of a better app to keep my life straight.</text>
+  </sentence>
+  <sentence id="1055">
+    <text>Just updated and cannot get past start screen. No access to information. Critical error.</text>
+  </sentence>
+  <sentence id="1056">
+    <text>Also like web integration.</text>
+  </sentence>
+  <sentence id="1057">
+    <text>use it on the go but also to store travel info to easily access.</text>
+  </sentence>
+  <sentence id="1058">
+    <text>I love this ap.</text>
+  </sentence>
+  <sentence id="1059">
+    <text>Doesn't work!</text>
+  </sentence>
+  <sentence id="1060">
+    <text>Please fix!!</text>
+  </sentence>
+  <sentence id="1061">
+    <text>I downloaded the new update and now the app crashes as soon as it opens.</text>
+  </sentence>
+  <sentence id="1062">
+    <text>Evernote.</text>
+  </sentence>
+  <sentence id="1063">
+    <text>And notes and documents for any deal are all in one place, accessible from whatever device I have with me.</text>
+  </sentence>
+  <sentence id="1064">
+    <text>Handiest tool I've found for organizing the mass of information from all kinds of sources that agents have to deal with on a daily basis.</text>
+  </sentence>
+  <sentence id="1065">
+    <text>What was the association fees in that community I showed in last year?</text>
+  </sentence>
+  <sentence id="1066">
+    <text>You are a life saver :)</text>
+  </sentence>
+  <sentence id="1067">
+    <text>No more worries about where I put the gate access or lock box codes.</text>
+  </sentence>
+  <sentence id="1068">
+    <text>Easy to use and accessible from all my devices, I couldn't live without Evernote!</text>
+  </sentence>
+  <sentence id="1069">
+    <text>Evernote is an amazing tool for saving those quick notes you used to write on scraps of paper -- and promptly lose.</text>
+  </sentence>
+  <sentence id="1070">
+    <text>I use it to take notes during meetings, for saving knitting patterns, tracking my favorite websites and related passwords and for all my brainstorming notes about my job and my writing.</text>
+  </sentence>
+  <sentence id="1071">
+    <text>Fix please</text>
+  </sentence>
+  <sentence id="1072">
+    <text>Love the link to penultimate!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="9" term="link to penultimate" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1073">
+    <text>Works as advertised.</text>
+  </sentence>
+  <sentence id="1074">
+    <text>I'll give it some time before updating my review.</text>
+  </sentence>
+  <sentence id="1075">
+    <text>This app is a top pick!</text>
+  </sentence>
+  <sentence id="1076">
+    <text>I request a way to move a note to a different notebook, but maybe Im missing obvious steps.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="10" term="a way to move a note to a different notebook" to="54"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1077">
+    <text>A work life integrator.</text>
+  </sentence>
+  <sentence id="1078">
+    <text>I use those notes to create documents for work.</text>
+  </sentence>
+  <sentence id="1079">
+    <text>Great!</text>
+  </sentence>
+  <sentence id="1080">
+    <text>Very versatile with &quot;holding&quot; pictures, links, and larger notes.</text>
+  </sentence>
+  <sentence id="1081">
+    <text>Syncing to computer was effortless.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="0" term="Syncing to computer" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1082">
+    <text>Evernote is awesome.</text>
+  </sentence>
+  <sentence id="1083">
+    <text>I think Evernote should make an agenda, that would be magnificent.</text>
+  </sentence>
+  <sentence id="1084">
+    <text>It has come in very handy.</text>
+  </sentence>
+  <sentence id="1085">
+    <text>I cannot calculate how much sanity Evernote has brought into my life, but it's a lot. Evernote has changed the way I organize, live, and learn for the better. Thank you, you stellar designers and developers!!</text>
+  </sentence>
+  <sentence id="1086">
+    <text>iPhone 5. Was working. Now not.</text>
+  </sentence>
+  <sentence id="1087">
+    <text>Evernote staff: please listen to all the reviews and fix this app.</text>
+  </sentence>
+  <sentence id="1088">
+    <text>I love Evernote.</text>
+  </sentence>
+  <sentence id="1089">
+    <text>Evernote should get some help from Apple staff on how to create a satisfying user interface.</text>
+  </sentence>
+  <sentence id="1090">
+    <text>BUT the iPad version is user un-friendly, non-intuitive, visually distracting and difficult to use.</text>
+  </sentence>
+  <sentence id="1091">
+    <text>4. Cannot insert other files such as PDF etc.</text>
+  </sentence>
+  <sentence id="1092">
+    <text>I can't find this button anymore and not sure if it's related but I found out of sync issue everywhere.</text>
+  </sentence>
+  <sentence id="1093">
+    <text>There used to be a sync button and after clicking it you are almost 100% sure your changes are synced and it is.</text>
+  </sentence>
+  <sentence id="1094">
+    <text>Sync issue.</text>
+  </sentence>
+  <sentence id="1095">
+    <text>I tried to send feedback but received no response</text>
+  </sentence>
+  <sentence id="1096">
+    <text>I would have made changes on my phone and sit there for ten minutes and changes still not reflected on the web browser, vice versa.</text>
+  </sentence>
+  <sentence id="1097">
+    <text>3. When inserting photos, one can only insert one at a time.</text>
+  </sentence>
+  <sentence id="1098">
+    <text>I hope it's just a bug but please fix it.</text>
+  </sentence>
+  <sentence id="1099">
+    <text>. 
+
+1.</text>
+  </sentence>
+  <sentence id="1100">
+    <text>But recently things are getting out of control that I feel like a review must be written to reflect this.</text>
+  </sentence>
+  <sentence id="1101">
+    <text>Evernote used to support inserting photos anywhere in the document where the cursor is and now it always append to the end.</text>
+  </sentence>
+  <sentence id="1102">
+    <text>Please look into this serious issue!
+
+2.</text>
+  </sentence>
+  <sentence id="1103">
+    <text>This is really annoying!</text>
+  </sentence>
+  <sentence id="1104">
+    <text>I really don't understand why it is so user unfriendly.</text>
+  </sentence>
+  <sentence id="1105">
+    <text>I used to like Evernote a lot.</text>
+  </sentence>
+  <sentence id="1106">
+    <text>The work account is pc only, but I really like the ability to create notes that live on my hard drive not the cloud.</text>
+  </sentence>
+  <sentence id="1107">
+    <text>For posting from iPad and iPhone, get memclipit.</text>
+  </sentence>
+  <sentence id="1108">
+    <text>Sign up for their email to get ideas: this is THE indispensable app, and you need it on your laptop/desktop too.</text>
+  </sentence>
+  <sentence id="1109">
+    <text>I have used it to plan vacations (all my tickets and confirmations are there at a touch-I even saved a coupon into Evernote and had the place accept the non-printed version).</text>
+  </sentence>
+  <sentence id="1110">
+    <text>I have two accounts: one for work and one for home.</text>
+  </sentence>
+  <sentence id="1111">
+    <text>Home:</text>
+  </sentence>
+  <sentence id="1112">
+    <text>I organize recipes, create a home inventory, brainstorm blog posts, collect interesting articles...no limits!</text>
+  </sentence>
+  <sentence id="1113">
+    <text>I've been an Evernote user since 2009 and recently upgraded to premium. I thought it improved my work/life productivity before but now my life is even more organized. The new reminders and document scanning features are awesome!</text>
+  </sentence>
+  <sentence id="1114">
+    <text>I use Evernote on an iPad, and it has made taking notes in college much easier. Now I use it for everything. My only suggestions would be improved compatibility with PDF files and more advanced formatting tools.</text>
+  </sentence>
+  <sentence id="1115">
+    <text>Side note: I personally love the new design.</text>
+  </sentence>
+  <sentence id="1116">
+    <text>I think it is beautiful and functional.</text>
+  </sentence>
+  <sentence id="1117">
+    <text>The amount of things you can do with Evernote are endless and having access to this one of a kind program on your iPhone makes my life so much more organized!</text>
+  </sentence>
+  <sentence id="1118">
+    <text>Typing is impossible.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="0" term="Typing" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1119">
+    <text>I depend on it for work and home.</text>
+  </sentence>
+  <sentence id="1120">
+    <text>Then 10 seconds later, all your characters come spilling out.</text>
+  </sentence>
+  <sentence id="1121">
+    <text>Every tap requires a several second long pause.</text>
+  </sentence>
+  <sentence id="1122">
+    <text>I wish I was exaggerating.</text>
+  </sentence>
+  <sentence id="1123">
+    <text>You type, and hear the clicks, but nothing happens.</text>
+  </sentence>
+  <sentence id="1124">
+    <text>I am a longtime Evernote user.</text>
+  </sentence>
+  <sentence id="1125">
+    <text>So it pains me to give a poor review, but the performance on my iphone 4 is so awful, it's essentially unusable.</text>
+  </sentence>
+  <sentence id="1126">
+    <text>Ugh.</text>
+  </sentence>
+  <sentence id="1127">
+    <text>It does this after every 3rd or 4th character.</text>
+  </sentence>
+  <sentence id="1128">
+    <text>Even though it is useless for adding or editing, it's still able to show old notes, so it gets 2 stars for that.</text>
+  </sentence>
+  <sentence id="1129">
+    <text>I get things done, I'm organized, I don't waste time at work, it's changed my game plan. Still learning all the aspects of Evernote, it's just opened up a place where I love to work again because I accomplish so much more in less time!</text>
+  </sentence>
+  <sentence id="1130">
+    <text>star review is well deserved!</text>
+  </sentence>
+  <sentence id="1131">
+    <text>Wish I knew about Evernote a long time ago! The best ever! I use it everyday to organize my notes including audio and pictures. I can even email them to my colleagues and supervisor!</text>
+  </sentence>
+  <sentence id="1132">
+    <text>Much to my surprise, the ipad does not have a native voice memo app...</text>
+  </sentence>
+  <sentence id="1133">
+    <text>But Evernote has made said apps obsolete.</text>
+  </sentence>
+  <sentence id="1134">
+    <text>Easy to share...</text>
+  </sentence>
+  <sentence id="1135">
+    <text>In summary, Evernote is the end all for recording all the little things you'd want to remember, and makes it easy to organize and find, in more ways than you'd expect.</text>
+  </sentence>
+  <sentence id="1136">
+    <text>Get it now.</text>
+  </sentence>
+  <sentence id="1137">
+    <text>I haven't even begun to take advantage of the potential of this app...</text>
+  </sentence>
+  <sentence id="1138">
+    <text>When I got my ipad, all I wanted for productivity was the &quot;voice memo&quot; app,  and the &quot;notes&quot; app...</text>
+  </sentence>
+  <sentence id="1139">
+    <text>Voice memos in the same note as the text, multiples of each tying to the same idea.</text>
+  </sentence>
+  <sentence id="1140">
+    <text>meta organization of all of my notes / categories / sub categories....</text>
+  </sentence>
+  <sentence id="1141">
+    <text>Easy to find...</text>
+  </sentence>
+  <sentence id="1142">
+    <text>Amazing note taking app and has everything I would if anything it's missing a small feature or two but the ONLY* problem I have right now is after updating to iOS 7 and updating the app, it said that it couldn't be downloaded yet it still opens with the new iOS 7 look.</text>
+  </sentence>
+  <sentence id="1143">
+    <text>I seriously need this for school and this crash is not helping at all!!</text>
+  </sentence>
+  <sentence id="1144">
+    <text>No issue there but the problem is that it keeps crashing!!</text>
+  </sentence>
+  <sentence id="1145">
+    <text>Everything is easy to search and it has always worked flawlessly.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="22" term="search" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1146">
+    <text>I've been using Evernote for 4 years and it just keeps getting better.</text>
+  </sentence>
+  <sentence id="1147">
+    <text>Updated to the latest version, will not open, crashes every time. please fix it!</text>
+  </sentence>
+  <sentence id="1148">
+    <text>The basics are good and easy to learn.</text>
+  </sentence>
+  <sentence id="1149">
+    <text>A very good product overall-</text>
+  </sentence>
+  <sentence id="1150">
+    <text>however I wish I understood some features better.</text>
+  </sentence>
+  <sentence id="1151">
+    <text>Great way to stay organized</text>
+  </sentence>
+  <sentence id="1152">
+    <text>I love Evernote</text>
+  </sentence>
+  <sentence id="1153">
+    <text>Great app very handy, can't stop using it !!!!!</text>
+  </sentence>
+  <sentence id="1154">
+    <text>Gets better the more u use it</text>
+  </sentence>
+  <sentence id="1155">
+    <text>Can't say that about much else I use. My only complaints are that it takes a few seconds to load on the iPhone,  and if I type too fast on iPad it lags. But regardless it's my most useful app, by far.</text>
+  </sentence>
+  <sentence id="1156">
+    <text>Haters are insane)</text>
+  </sentence>
+  <sentence id="1157">
+    <text>Amazing (i do love the new update.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="23" term="new update" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1158">
+    <text>I will be using it in the classroom to present content.</text>
+  </sentence>
+  <sentence id="1159">
+    <text>It is very easy to use.</text>
+  </sentence>
+  <sentence id="1160">
+    <text>I will also be using it as a daily organizing tool for myself.</text>
+  </sentence>
+  <sentence id="1161">
+    <text>I have been using Evernote for just a short time.</text>
+  </sentence>
+  <sentence id="1162">
+    <text>Give these guys some credit. They completely resigned the app for iOS 7. There will be bugs. I have had a few but I know that they have a good vision. 
+
+Evernote for life!</text>
+  </sentence>
+  <sentence id="1163">
+    <text>For example, when I open the app on my iPhone - Hmm, where is search?</text>
+  </sentence>
+  <sentence id="1164">
+    <text>Hint, maybe look got the one you want?</text>
+  </sentence>
+  <sentence id="1165">
+    <text>Nowhere to be seen, that's where.</text>
+  </sentence>
+  <sentence id="1166">
+    <text>Are they kidding?</text>
+  </sentence>
+  <sentence id="1167">
+    <text>I could go on, but this added &quot;Feature&quot; would be hard to top, if top is the word.</text>
+  </sentence>
+  <sentence id="1168">
+    <text>It's kinda like the elephant in the room, you know?</text>
+  </sentence>
+  <sentence id="1169">
+    <text>This best of all note organizing apps has &quot;improved&quot; itself into an increasingly annoying user experience.</text>
+  </sentence>
+  <sentence id="1170">
+    <text>What's the first thing you want/need to do when opening a data base if all the notes in your life?</text>
+  </sentence>
+  <sentence id="1171">
+    <text>No way to update the favorites list from the favorites list itself.</text>
+  </sentence>
+  <sentence id="1172">
+    <text>Have to go through process of opening a tab now.</text>
+  </sentence>
+  <sentence id="1173">
+    <text>No idea how to quickly, intuitively create a new note book.</text>
+  </sentence>
+  <sentence id="1174">
+    <text>Cannot open to a simple logical view of all notebooks as before.</text>
+  </sentence>
+  <sentence id="1175">
+    <text>What were they thinking??</text>
+  </sentence>
+  <sentence id="1176">
+    <text>New update cumbersome, difficult.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="0" term="New update" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1177">
+    <text>Best note taking app out there.</text>
+  </sentence>
+  <sentence id="1178">
+    <text>Broken in iOS 7 though. 0 notes displayed.</text>
+  </sentence>
+  <sentence id="1179">
+    <text>5 stars for synching.</text>
+  </sentence>
+  <sentence id="1180">
+    <text>This is my favorite app for managing my notes, meeting minutes, financial files, etc.</text>
+  </sentence>
+  <sentence id="1181">
+    <text>One suggestion would be to have the date and time automatically populate a field in new notes.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="36" term="date and time automatically populate a field in new notes" to="93"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1182">
+    <text>Other than that I think it is great!</text>
+  </sentence>
+  <sentence id="1183">
+    <text>I use Evernote to write my notes as a flight instructor on my iPad and it keeps everything neatly stored and organized! I recommend this app to anyone!</text>
+  </sentence>
+  <sentence id="1184">
+    <text>Very useful and easy to get used to. Has a lot of features.</text>
+  </sentence>
+  <sentence id="1185">
+    <text>Love the dictation feature!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="9" term="dictation feature" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1186">
+    <text>This is ridic</text>
+  </sentence>
+  <sentence id="1187">
+    <text>I use Evernote constantly to quickly store info that is then searchable and available on all my devices. A lifesaver!!!</text>
+  </sentence>
+  <sentence id="1188">
+    <text>These guys really don't seem to test their releases before sending them out.  This is not the first time that it took several releases to get it right.  When they DO get it right, this is a 5 start app. But now it crashes if you select &quot;Created&quot; or &quot;Title&quot; for the viewing mode.  Save yourself some headache and NEVER update Evernote until the reviews indicate that they got the bugs fixed.  And that would NOT be version 5.2.1.</text>
+  </sentence>
+  <sentence id="1189">
+    <text>Love the redesign.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="9" term="redesign" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1190">
+    <text>Thanks.</text>
+  </sentence>
+  <sentence id="1191">
+    <text>Great app.</text>
+  </sentence>
+  <sentence id="1192">
+    <text>Please do take out the marketplace and announcement ads though.</text>
+  </sentence>
+  <sentence id="1193">
+    <text>It certainly is a useful app.</text>
+  </sentence>
+  <sentence id="1194">
+    <text>I probably haven't used it to its full potential.</text>
+  </sentence>
+  <sentence id="1195">
+    <text>I've been using Evernote for a few months now.</text>
+  </sentence>
+  <sentence id="1196">
+    <text>I've used it for years and find it indispensable. I wish the formatting were easier to use in the mobile app. I bullet point a lot, which works fine on my Samsung tablet and the desktop version. I can't recommend this app more highly.</text>
+  </sentence>
+  <sentence id="1197">
+    <text>I use it all day - everyday.</text>
+  </sentence>
+  <sentence id="1198">
+    <text>This is one of my most used apps &amp; favorite apps.</text>
+  </sentence>
+  <sentence id="1199">
+    <text>There are special features on each device: iPhone - iPad - Mac, that make them all unique and indispensable.</text>
+  </sentence>
+  <sentence id="1200">
+    <text>Note: I am using 4th gen iPad 
+I thought using Evernote on my iPad would be a more efficient way to take quick notes than using my MacBook and the desktop application. This proved to be wrong because of Evernote for iPads performance issues. It's glitchy to scroll up and down a note and when typing. The screen stutters with any finger movement. It's frustrating to switch from the perfectly smooth chrome browser and paste text into Evernote and find a very poor experience.</text>
+  </sentence>
+</sentences>

@@ -1,0 +1,762 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="10000">
+    <text>BLLLLLLLLLLLLLLLÖÖÖÖÖÖÖÖÖÖÖÖÖDDDDDDDDDDDD</text>
+  </sentence>
+  <sentence id="10001">
+    <text>Cool</text>
+  </sentence>
+  <sentence id="10002">
+    <text>Es gibt keine probleme ist ne super app!☺</text>
+  </sentence>
+  <sentence id="10003">
+    <text>Wahlla gute Qualität ihr öpfer</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Qualität" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10004">
+    <text>x x x vbo eufsh rig</text>
+  </sentence>
+  <sentence id="10005">
+    <text>Eifach geil</text>
+  </sentence>
+  <sentence id="10006">
+    <text>Ichhhh möchte meinen accounttt wieder haben was soll der scheiß! !!!!!</text>
+  </sentence>
+  <sentence id="10007">
+    <text>Anmeldung nicht möglich</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Anmeldung" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10008">
+    <text>Stürzt Ganze zeit ab !!!!!! Was eine scheiß amk</text>
+  </sentence>
+  <sentence id="10009">
+    <text>Funktioniert ja mal garnix mehr nach dem Update... Richtig schlecht. Daumen runter!</text>
+  </sentence>
+  <sentence id="10010">
+    <text>Habe jetzt die neue Version. Was ist los? Wir bekommen Alle keine Facebookverbindung mehr zu allen Spielen seit 01.02.2015 nachmittag.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="Version" to="27"/>
+      <aspectTerm from="66" term="Facebookverbindung" to="84"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10011">
+    <text>Mega chillig</text>
+  </sentence>
+  <sentence id="10012">
+    <text>Wenn ich Videos mache kommt die stimme in Zeitlupe. Und wenn ich ein Bild von der Galerie rein stellen will kommt es schwarz an</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Videos" to="16"/>
+      <aspectTerm from="70" term="Bild von der Galerie" to="90"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10013">
+    <text>App2sd fehlt</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="App2sd" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10014">
+    <text>das letzte update ist fehlerhaft. neuigkeiten können nicht geladen werden. bitte dringend um behebung.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="update" to="18"/>
+      <aspectTerm from="35" term="neuigkeiten" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10015">
+    <text>Stürzt immer ab auf meinem nexus 5 seit dem 5.0 einfach nur schlecht</text>
+  </sentence>
+  <sentence id="10016">
+    <text>Manche GIFs werden nicht oder werden fehlerhaft angezeigt</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="GIFs" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10017">
+    <text>Bombe</text>
+  </sentence>
+  <sentence id="10018">
+    <text>Cool</text>
+  </sentence>
+  <sentence id="10019">
+    <text>Samsung galaxy S4</text>
+  </sentence>
+  <sentence id="10020">
+    <text>Super</text>
+  </sentence>
+  <sentence id="10021">
+    <text>Facebook verkauft unsere Daten an die NSA....! Hallo geht's noch...! Verpisst euch ihr spinner...! &amp;gt;_&amp;lt;</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Facebook" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10022">
+    <text>es lohnt sich</text>
+  </sentence>
+  <sentence id="10023">
+    <text>Ich nutze Facebook nur noch über den Browser des Handys. Diese App ist das letzte</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="Facebook" to="19"/>
+      <aspectTerm from="64" term="App" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10024">
+    <text>Stürzt immer ab nur Schrott</text>
+  </sentence>
+  <sentence id="10025">
+    <text>Es wäre viel besser wenn die memos länger sind. Also eine längere Laufzeit</text>
+    <aspectTerms>
+      <aspectTerm from="30" term="memos" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10026">
+    <text>Tip top</text>
+  </sentence>
+  <sentence id="10027">
+    <text>Klasse</text>
+  </sentence>
+  <sentence id="10028">
+    <text>Ist okax</text>
+  </sentence>
+  <sentence id="10029">
+    <text>Folgt mir -&amp;gt; m.a.d._hasan</text>
+  </sentence>
+  <sentence id="10030">
+    <text>Ich liebe instagram total 😃 allerdings ist der ton bei den videos, die man direkt mit der instagram-Kamera aufnimmt, total verzerrt 😒 bitte beheben dann gibts 5 sterne:)</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="instagram" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10031">
+    <text>Nach Jahren tut die App inzwischen einwandfrei.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="App" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10032">
+    <text>Nach Update nicht mehr zu gebrauchen. Bitte beheben!</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Update" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10033">
+    <text>ich kann mich nicht mehr einloggen</text>
+  </sentence>
+  <sentence id="10034">
+    <text>Nach 10 Sekunden schließt sich Facebook automatisch, ich kann keine Beiträge mehr angucken oder Einstellungen ändern.</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="Facebook" to="39"/>
+      <aspectTerm from="68" term="Beiträge" to="76"/>
+      <aspectTerm from="96" term="Einstellungen" to="109"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10035">
+    <text>Weil man nicht immer alle leute findet</text>
+  </sentence>
+  <sentence id="10036">
+    <text>stürzt immer ab undvdas regt auf die scheisse</text>
+  </sentence>
+  <sentence id="10037">
+    <text>Alles super ich liebe es</text>
+  </sentence>
+  <sentence id="10038">
+    <text>Sehr gute app. Folgt mir: _hardcore_fighter</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="app" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10039">
+    <text>Superb</text>
+  </sentence>
+  <sentence id="10040">
+    <text>Nix läuft mehr</text>
+  </sentence>
+  <sentence id="10041">
+    <text>Es ist Facebook also genial</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="Facebook" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10042">
+    <text>Von der Sache her ist es ok. Was stört das der pk oft nicht funktioniert. Das was man am meisten benutzen würde. Xperia X10i</text>
+    <aspectTerms>
+      <aspectTerm from="47" term="pk" to="49"/>
+      <aspectTerm from="113" term="Xperia X10i" to="124"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10043">
+    <text>Gaile App echt gut!! Wer will kann mich abbonieren ich heiße = thiisisjulia</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10044">
+    <text>Es gibt zwar schon viele Facebook ähnliche Apps, aber Facebook bleibt einfach die beste :)!</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="Facebook" to="34"/>
+      <aspectTerm from="55" term="Facebook" to="63"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10045">
+    <text>Ned der hammer aber trotzdem n muss is ja Facebook...</text>
+    <aspectTerms>
+      <aspectTerm from="43" term="Facebook" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10046">
+    <text>Läuft nicht mehr zuverlässig. Hängt sich ständig auf.</text>
+  </sentence>
+  <sentence id="10047">
+    <text>This is good</text>
+  </sentence>
+  <sentence id="10048">
+    <text>Cool</text>
+  </sentence>
+  <sentence id="10049">
+    <text>Tolle App bitte bei Instagram followen heisse dort i_love_lip_balms</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App" to="10"/>
+      <aspectTerm from="21" term="Instagram" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10050">
+    <text>Merk ihr noch was nix geht mehr.....</text>
+  </sentence>
+  <sentence id="10051">
+    <text>Die APP ist so scheisse</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="APP" to="7"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10052">
+    <text>Seit dem letzten Update: wenn ich die App öffne kann ich keine Bilder oder Videos sehen. Bitte beheben -.-</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Update" to="23"/>
+      <aspectTerm from="38" term="App" to="41"/>
+      <aspectTerm from="63" term="Bilder" to="69"/>
+      <aspectTerm from="75" term="Videos" to="81"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10053">
+    <text>Kein wechseln der G+ Konten Ingame und auch kein speichern möglich. Ganz groß das Update.. Behebt das mal ganz fix, kann ja nicht wahr sein!</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="wechseln" to="13"/>
+      <aspectTerm from="49" term="speichern" to="58"/>
+      <aspectTerm from="82" term="Update" to="88"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10054">
+    <text>MAN DAS IST JETZT IWIE MEIN ALTAG GEWORDEN</text>
+  </sentence>
+  <sentence id="10055">
+    <text>Teilweise etwas unübersichtlich. Man muss viele Unterpunkte suchen.</text>
+    <aspectTerms>
+      <aspectTerm from="49" term="Unterpunkte" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10056">
+    <text>Gut</text>
+  </sentence>
+  <sentence id="10057">
+    <text>Also ich habe twitter jetzt 3jahre und von anfang an fande ich es einfach nur geil!!! Probs an twitter 👍</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="twitter" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10058">
+    <text>Echt gut blöd find ich nur das man nicht direkt miteinander schreiben kann:/ aber sonst läufts prima</text>
+    <aspectTerms>
+      <aspectTerm from="49" term="miteinander schreiben" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10059">
+    <text>Super einwandfrei bei note 4</text>
+  </sentence>
+  <sentence id="10060">
+    <text>.</text>
+  </sentence>
+  <sentence id="10061">
+    <text>V</text>
+  </sentence>
+  <sentence id="10062">
+    <text>Bei mir läuft alles glat</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="läuft" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10063">
+    <text>Seit dem letzten update kann ich meine Nachrichten nicht mehr öffnen -_- Bitte schnell beheben</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="update" to="24"/>
+      <aspectTerm from="40" term="Nachrichten" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10064">
+    <text>Total geil</text>
+  </sentence>
+  <sentence id="10065">
+    <text>Dreck vom feinsten..</text>
+  </sentence>
+  <sentence id="10066">
+    <text>Ich habe viele Leute kennen gelernt</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="Leute kennen gelernt" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10067">
+    <text>Sonst is alles Ok. 😛👌</text>
+  </sentence>
+  <sentence id="10068">
+    <text>Richtig schlecht!!! Dauer Fehlermeldung - Verbindung nicht möglich : seit dem letzten Update</text>
+    <aspectTerms>
+      <aspectTerm from="42" term="Verbindung" to="52"/>
+      <aspectTerm from="86" term="Update" to="92"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10069">
+    <text>Z.b anstupsen wird nich mehr richtig angezeigt es is zum kotzen wird das nich alles bereinigt und überarbeitet was hi r alles aufgeführt wird werden viele fb Nutzer die app für einige Zeit löschen bearbeitet die mengel umgehend</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="anstupsen" to="14"/>
+      <aspectTerm from="170" term="app" to="173"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10070">
+    <text>Ich habe bei Instagram eine Fanpage. Über iBlali:D Wer will, kann ja mal vorbeischauen. 😊Sie heißt : 'iblali.fanpage_' Generell finde ich Instagram wohl gut. :)</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="Instagram" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10071">
+    <text>Dieser blöde Sicherheitscode kommt nicht an. Das nervt einfach nur !! Hab auch schon im Internet nach Lösungswegen geguckt aber nichts hat funktioniert....</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="Sicherheitscode" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10072">
+    <text>Nach dem update lädt es extrem langsam</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="update" to="15"/>
+      <aspectTerm from="16" term="lädt" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10073">
+    <text>Gefällt mir sehr gut....</text>
+  </sentence>
+  <sentence id="10074">
+    <text>Gut</text>
+  </sentence>
+  <sentence id="10075">
+    <text>Einfach nur leicht...habe nämlich früher gelöscht weil man alles über PC bearbeiten musste. Einfach toll die App. Aber die Ladezeit selbst, von meinem eigenem Block, dauert soo lang bitte das Problem beheben!</text>
+    <aspectTerms>
+      <aspectTerm from="110" term="App" to="113"/>
+      <aspectTerm from="124" term="Ladezeit" to="132"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10076">
+    <text>Ich hatte gestern noch 210 abo's und heute noch 120 abo's was soll das?? Die meisten Bilder und alles drum und dran werden nicht mehr geladen</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="abo's" to="32"/>
+      <aspectTerm from="52" term="abo's" to="57"/>
+      <aspectTerm from="85" term="Bilder" to="91"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10077">
+    <text>Braucht anstatt 7 MB über 8 GB bitte beheben dann 5 Sterne</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Braucht" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10078">
+    <text>Läuft einwandfrei, bei mir!</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Läuft" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10079">
+    <text>Wenn es einen Landscape Modus hätte wäre es wirklich Hammer!</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="Landscape Modus" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10080">
+    <text>Es ist eine super App.Macht spaß likes für seine Bilder zu bekommen ich empfehle sie weiter.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="App" to="22"/>
+      <aspectTerm from="34" term="likes" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10081">
+    <text>Funktioniert seit stunden gar nichts mehr!!! Was ist denn da los?? Neuigkeiten werden nicht mehr geladen.. bitte schnellstens beheben!</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Funktioniert" to="12"/>
+      <aspectTerm from="67" term="Neuigkeiten" to="78"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10082">
+    <text>Lohnt sich wirklich !</text>
+  </sentence>
+  <sentence id="10083">
+    <text>Kp weil halt</text>
+  </sentence>
+  <sentence id="10084">
+    <text>Tiptop</text>
+  </sentence>
+  <sentence id="10085">
+    <text>Tarek tarek</text>
+  </sentence>
+  <sentence id="10086">
+    <text>Ich bin gestern level 28 bei nuketown mit meinem cousin gekommen und dann haben wir verloren ich hatte strahlenkanone und lsat ...läuft bei mir</text>
+  </sentence>
+  <sentence id="10087">
+    <text>Hammmmmmeeeeerrrrrrr</text>
+  </sentence>
+  <sentence id="10088">
+    <text>Also bei mir stürtzt das nicht ab und es gibt auch neue funktionen die finde ich gut weil dann bleibt es nicht so wie früher stecken! !!!!!!!!!!!!&quot;&quot;&quot;</text>
+    <aspectTerms>
+      <aspectTerm from="52" term="neue funktionen" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10089">
+    <text>Cool</text>
+  </sentence>
+  <sentence id="10090">
+    <text>Das update hat alle kreise gelöscht !!! Stundenlang keine server verbindung liegt an google alles andere funktioniert</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="update" to="11"/>
+      <aspectTerm from="59" term="server verbindung" to="76"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10091">
+    <text>Seit dem update läd es nicht der bildschirm bleibt sehr lange weiß und dann kommt &quot;Facebook reagiert nicht&quot;. Was für ein scheiß</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="update" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10092">
+    <text>Eigentlich voll cool nur wenn du nicht 14 bist wird dein Account gelöscht :(</text>
+  </sentence>
+  <sentence id="10093">
+    <text>Damit ich auf youtube kommentieren kann brauch ich diese app wie assi</text>
+    <aspectTerms>
+      <aspectTerm from="58" term="app" to="61"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10094">
+    <text>Geil macht total bock</text>
+  </sentence>
+  <sentence id="10095">
+    <text>Die app läd seit meiner Aktualisierung auf Lollipop teilweise sehr lange Bilder und Aktualisierungen</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="app" to="8"/>
+      <aspectTerm from="9" term="läd" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10096">
+    <text>Ka</text>
+  </sentence>
+  <sentence id="10097">
+    <text>Seit neuestem komme ich nicht mehr in meine zwei Accounts rein - sobald ich zwischen diesen wechseln möchte, sind die Passwörter nicht mehr richtig, trotz korrekter Eingabe. Ich will nicht bei jedem Einloggen meine Passwörter ändern müssen, wäre schön, wenn dieser Fehler behoben wird. Warum wird eigentlich alles immer schlechter, sobald es von Zuckerberg übernommen wird!?</text>
+    <aspectTerms>
+      <aspectTerm from="119" term="Passwörter" to="129"/>
+      <aspectTerm from="200" term="Einloggen" to="209"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10098">
+    <text>Fantastisch. ☺</text>
+  </sentence>
+  <sentence id="10099">
+    <text>Seit dem update geht so gut wie nichts mehr. Neuigkeiten laden nicht mehr. Behebt das endlich</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="update" to="15"/>
+      <aspectTerm from="45" term="Neuigkeiten" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10100">
+    <text>Die Berechtigungen sind heftiger als die der NSA. Außerdem stürzt es seit dem letzten update immer wieder ab! Im Hintergrund hängt es sich immer auf.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Berechtigungen" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10101">
+    <text>Ich kann aktuell keine hastags unter bestehende Bilder setzten. Es kommt immer wieder eine Fehlermeldung.</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="hastags" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10102">
+    <text>Super, nur schade, dass man auf jedes Bild einzeln klicken muss.</text>
+    <aspectTerms>
+      <aspectTerm from="38" term="Bild" to="42"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10103">
+    <text>Ganz gut</text>
+  </sentence>
+  <sentence id="10104">
+    <text>Ich finde es einfach gut! Es ist so wie Facebook nur besser😊</text>
+    <aspectTerms>
+      <aspectTerm from="40" term="Facebook" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10105">
+    <text>Ich finde die app sehr gut aber es kommt stänig eine meldung und dort muss ich meine telefon nummer eingeben aber dann kommt immer eine fehlermeldung! und meine e-mail wurde auch geändert! ich hab auch noch ne 2. seite dort funktioniert alles normal! bitte bei @teenies.helfen.teenies die fehlermeldung korrigieren</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="app" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10106">
+    <text>Laeuft ja.!!</text>
+  </sentence>
+  <sentence id="10107">
+    <text>Die App reicht aus um von unterwegs kurz und schnell sich zu informieren</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="App" to="7"/>
+      <aspectTerm from="61" term="informieren" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10108">
+    <text>Mein Facebook möchte nicht installiert werden da steht : Fehler... usw.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Facebook" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10109">
+    <text>Es ist nur scheiße dass man ein Video reinstellen kann das kurz ist sonst alles OK</text>
+  </sentence>
+  <sentence id="10110">
+    <text>Ganz ok aber braucht man nicht unbedingt</text>
+  </sentence>
+  <sentence id="10111">
+    <text>APP verliert ständig Leseposition... Und es lassen sich keine (Twitter) Videos abspielen.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="APP" to="4"/>
+      <aspectTerm from="73" term="Videos abspielen" to="89"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10112">
+    <text>Runs perfectly on my Galaxy Note Edge :)</text>
+  </sentence>
+  <sentence id="10113">
+    <text>Super App ! Ich liebe Twitter ✌</text>
+  </sentence>
+  <sentence id="10114">
+    <text>Einfach super mit keinen Problemen. 1a :D</text>
+  </sentence>
+  <sentence id="10115">
+    <text>Geil</text>
+  </sentence>
+  <sentence id="10116">
+    <text>Echt cool</text>
+  </sentence>
+  <sentence id="10117">
+    <text>(._. ) ich mein hab ich gesagt dass die app scheiße ist na gut dass hab ich aber</text>
+    <aspectTerms>
+      <aspectTerm from="41" term="app" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10118">
+    <text>Super toll ich empfehle es natürlich weiter ♡</text>
+  </sentence>
+  <sentence id="10119">
+    <text>Nicht so viel Meckern Leute , bringt Liebe und Freude in Euer Leben. Thomas</text>
+  </sentence>
+  <sentence id="10120">
+    <text>Sehr aehr coole app wo alles was du machst mit der welt geteilt werden kann</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="app" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10121">
+    <text>Die fotos brauchen ewig zu laden.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="fotos" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10122">
+    <text>Geht</text>
+  </sentence>
+  <sentence id="10123">
+    <text>Nach der aktualisiert auf mein Smartphone nur noch Probleme werde ständig raus geworfen</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="aktualisiert" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10124">
+    <text>Ständig stürzt die App ab! Ich hab sie sogar schon deinstalliert und wieder installiert doch es stürzt einfach immer wieder ab!</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="App" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10125">
+    <text>Die App ist total scheiße</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10126">
+    <text>Es ist einfach cool so nah bei nderen zu sein.</text>
+  </sentence>
+  <sentence id="10127">
+    <text>Finde ich gut</text>
+  </sentence>
+  <sentence id="10128">
+    <text>aber wieso kann ich ein Video nicht mehr pausieren, nur noch den Ton regeln?!?</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="Video" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10129">
+    <text>Coooool!Ich würde mir wünschen das man die Bilder beim Bearbeiten spiegeln kann</text>
+    <aspectTerms>
+      <aspectTerm from="67" term="spiegeln" to="75"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10130">
+    <text>Seit dem neusem update ist instagram nicht mehr so gut.</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="update" to="23"/>
+      <aspectTerm from="28" term="instagram" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10131">
+    <text>Twitter ist eig. Einer meiner Lieblings Apps aber seit ner Weile bekomme ich wieder keine Benachrichtigung über favorisierte Personen noch über Favos, Retweets und Co. Zudem kann ich nichtmal nach dem Update Videos aus meiner Galerie teilen...Sehr Schade eig. Das macht es etwas nervig:/</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Twitter" to="8"/>
+      <aspectTerm from="91" term="Benachrichtigung" to="107"/>
+      <aspectTerm from="209" term="Videos aus meiner Galerie teilen" to="241"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10132">
+    <text>Die videos laufen die ersten 5 Sekunden normal, dann läuft der tin weiter und das video bleibt stehen richtig die scheiße</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="videos" to="11"/>
+      <aspectTerm from="83" term="video" to="88"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10133">
+    <text>Wahnsinn...seit dem letzten Update laden die Neuigkeiten nur noch willkürlich, die Videos sind abgehakt und das Ganze Handy tierisch langsam.. Lieber Zuckerberg-bissl mehr Kundenpflege wäre gut...</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="Update" to="35"/>
+      <aspectTerm from="46" term="Neuigkeiten" to="57"/>
+      <aspectTerm from="84" term="Videos" to="90"/>
+      <aspectTerm from="119" term="Handy" to="124"/>
+      <aspectTerm from="173" term="Kundenpflege" to="185"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10134">
+    <text>brauche ich nicht</text>
+  </sentence>
+  <sentence id="10135">
+    <text>Einfach Klasse</text>
+  </sentence>
+  <sentence id="10136">
+    <text>Langsam nervt es.. ihr wollt verbessern ... ? Ihr verschlechtert nur! Und schon wieder muss man den Messenger extra laden um dauerhaft mit Freunden zu schreiben. NERFT</text>
+    <aspectTerms>
+      <aspectTerm from="101" term="Messenger extra laden" to="122"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10137">
+    <text>Leute !!! Ladet euch die App nicht runter ihr werdet süchtig 😂</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="App" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10138">
+    <text>Ich liebe diese app</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="app" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10139">
+    <text>Gut</text>
+  </sentence>
+  <sentence id="10140">
+    <text>Seit dem Update klappt die Weiterleitung auf Websites (über artikelbeiträge) nicht mehr. Bitte ändern.</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Update" to="16"/>
+      <aspectTerm from="28" term="Weiterleitung auf Websites" to="54"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10141">
+    <text>Trotz sehr gutem Internet ist die App ewig langsam geworden und stürzt häufig ab..😕</text>
+    <aspectTerms>
+      <aspectTerm from="34" term="App" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10142">
+    <text>Nö</text>
+  </sentence>
+  <sentence id="10143">
+    <text>Betse</text>
+  </sentence>
+  <sentence id="10144">
+    <text>Cool</text>
+  </sentence>
+  <sentence id="10145">
+    <text>super</text>
+  </sentence>
+  <sentence id="10146">
+    <text>Nice app auf zum posten;)</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+      <aspectTerm from="18" term="posten" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10147">
+    <text>ista ist richtig geil</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="ista" to="5"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10148">
+    <text>Richtig richtig geil :-D</text>
+  </sentence>
+  <sentence id="10149">
+    <text>Es ist schlechtes bild immer wenn ich es öffne kommt ihrgend so ein scheiß fehler man !!!!!</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="bild" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10150">
+    <text>Bleibt ständig hängen, komm nicht wieder auf die Seite zurück!</text>
+  </sentence>
+  <sentence id="10151">
+    <text>Ohne viele Worte. Ich liebe diese App.</text>
+    <aspectTerms>
+      <aspectTerm from="34" term="App" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10152">
+    <text>Cool ,aber passt auf und poste lieber keine Bilder von dir!!!</text>
+  </sentence>
+  <sentence id="10153">
+    <text>Einer meiner Lieblingsapps.!❤😊</text>
+  </sentence>
+  <sentence id="10154">
+    <text>Passt alles , fehlt nur eine gute zuschneide Methode</text>
+    <aspectTerms>
+      <aspectTerm from="35" term="zuschneide Methode" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10155">
+    <text>Ich kenne keine Veränderung</text>
+  </sentence>
+  <sentence id="10156">
+    <text>Ich kann mich nicht mal anmelden :(</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="anmelden" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10157">
+    <text>Einfach nur geil</text>
+  </sentence>
+  <sentence id="10158">
+    <text>was ist denn nur los? es spinnt oft und ich finde man könnte sehen wer dir nicht zurück folgt oder???</text>
+  </sentence>
+  <sentence id="10159">
+    <text>Geht so</text>
+  </sentence>
+</sentences>

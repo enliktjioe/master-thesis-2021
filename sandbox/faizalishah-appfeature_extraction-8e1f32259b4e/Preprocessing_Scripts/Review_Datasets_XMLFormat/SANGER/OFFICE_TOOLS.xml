@@ -1,0 +1,916 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="5000">
+    <text>Super App und das kostenlos</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5001">
+    <text>Bis jetzt fehlte mir nichts, was ich bräuchte. Und es ist da, was ich bei anderen freien Apps vermisst habe. Der Zeilenumbruch in der mobilen Ansicht ist verbesserungswürdig und das Ausblenden von Formatierungszeichen (zB bedingter Trennstrich) nötig.</text>
+    <aspectTerms>
+      <aspectTerm from="114" term="Zeilenumbruch" to="127"/>
+      <aspectTerm from="183" term="Ausblenden von Formatierungszeichen" to="218"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5002">
+    <text>Schnell mal Office-Dokumente öffnen und eventuell bearbeiten. BESTENS.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Office-Dokumente" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5003">
+    <text>Auch wenn die Fotoqualität nicht an die des PC-Drucks heranreicht und Duplex ignoriert wird, ist es manchmal gut, den PC nicht extra hochfahren zu müssen. Die Bedienung geht einfach und schnell.</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="Fotoqualität" to="27"/>
+      <aspectTerm from="160" term="Bedienung" to="169"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5004">
+    <text>Nach dem patch für Android L ist es wieder möglich sich anzumelden. Läuft alles rund, super Erweiterung wenn man mit office am PC arbeitet!</text>
+    <aspectTerms>
+      <aspectTerm from="57" term="anzumelden" to="67"/>
+      <aspectTerm from="69" term="Läuft" to="74"/>
+      <aspectTerm from="93" term="Erweiterung" to="104"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5005">
+    <text>Top</text>
+  </sentence>
+  <sentence id="5006">
+    <text>Nach kurzer Einarbeitung - kann ich nur ein &quot;Hervorragend&quot; vergeben!</text>
+  </sentence>
+  <sentence id="5007">
+    <text>neuere Office-Formate (docx, xlsx) können nicht bearbeitet werden, die gab es vor rund 5 Jahre!</text>
+  </sentence>
+  <sentence id="5008">
+    <text>Ich arbeit schon eine ganze Weile (als es noch Kingsoft Office hieß) damit und bin soweit sehr zufrieden. Der Funktionsumfang ist ausreichend. Gut ist auch, daß man Dokumente lokal speichern kann und keine Cloud braucht. Einen Wunsch habe ich dann aber doch: Als LibreOffice user wünsche ich mir Exportfilter für die Open Document Formate. Dann gebe ich auch gerne 5 Sterne.</text>
+    <aspectTerms>
+      <aspectTerm from="111" term="Funktionsumfang" to="126"/>
+      <aspectTerm from="166" term="Dokumente" to="175"/>
+      <aspectTerm from="297" term="Exportfilter" to="309"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5009">
+    <text>Bearbeitung von Dateien klappt ganz gut.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Bearbeitung von Dateien" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5010">
+    <text>mehr noch nicht, zu viele Fehler...</text>
+  </sentence>
+  <sentence id="5011">
+    <text>Seit dem vorletzen Update reagiert meine Tastatur sehr träge. Es dauert ewig, bis die App die Buchstaben als Wort im Dokument anzeigt. Teilweise tippe ich halbe Sätze, bevor sie geschrieben auf dem Display erscheinen. Aber bis auf dieses Problem ist die App klasse.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="Update" to="26"/>
+      <aspectTerm from="42" term="Tastatur" to="50"/>
+      <aspectTerm from="95" term="Buchstaben als Wort im Dokument" to="126"/>
+      <aspectTerm from="255" term="App" to="258"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5012">
+    <text>Einen Punkt Abzug weil die App nur mit OneDrive nutzbar ist. Anbindung an andere Cloud Dienste, auch über Boxcryptor wären gut. Speichern geht scheinbar nur in OneDrive, lokale Dateien lassen sich öffnen und bearbeiten, aber Speichern lassen sie sich nur in die Cloud. 2. Stern Abzug gibt es weil die App nicht auf Tablets läuft, mein S4 wird ünterstützt, mein Note 8 nicht. Ganz magere Sache.</text>
+    <aspectTerms>
+      <aspectTerm from="28" term="App" to="31"/>
+      <aspectTerm from="40" term="OneDrive" to="48"/>
+      <aspectTerm from="75" term="andere Cloud Dienste" to="95"/>
+      <aspectTerm from="107" term="Boxcryptor" to="117"/>
+      <aspectTerm from="129" term="Speichern" to="138"/>
+      <aspectTerm from="161" term="OneDrive" to="169"/>
+      <aspectTerm from="171" term="lokale Dateien" to="185"/>
+      <aspectTerm from="226" term="Speichern" to="235"/>
+      <aspectTerm from="302" term="App" to="305"/>
+      <aspectTerm from="324" term="läuft" to="329"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5013">
+    <text>Lol</text>
+  </sentence>
+  <sentence id="5014">
+    <text>Super</text>
+  </sentence>
+  <sentence id="5015">
+    <text>Absolute Frechheit, wie einem hier über die zusätzlich zu installierende PDF-App Werbung, bzw. ein zusätzliches Zwangs-Abo untergejubelt wird.</text>
+    <aspectTerms>
+      <aspectTerm from="74" term="PDF-App" to="81"/>
+      <aspectTerm from="82" term="Werbung" to="89"/>
+      <aspectTerm from="113" term="Zwangs-Abo" to="123"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5016">
+    <text>Läuft alles bestens!</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Läuft" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5017">
+    <text>Langsam wirds!</text>
+  </sentence>
+  <sentence id="5018">
+    <text>Gibt besseres.</text>
+  </sentence>
+  <sentence id="5019">
+    <text>Erfüllt den Zweck.</text>
+  </sentence>
+  <sentence id="5020">
+    <text>Eine sehr weit unten liegende Zeile (footer) wird mit PrinterShare nicht gedruckt, egal welche Skalierung und welches Papierformat man einstellt, am Drucker liegt es nicht, mit HPeprint funktioniert es ohne Probleme.</text>
+    <aspectTerms>
+      <aspectTerm from="54" term="PrinterShare" to="66"/>
+      <aspectTerm from="177" term="HPeprint" to="185"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5021">
+    <text>Leicht verständlich und effizient. Auch als 76jähriger komme ich noch draus!</text>
+  </sentence>
+  <sentence id="5022">
+    <text>Total shit, so dass wirklich beste apps!!!</text>
+    <aspectTerms>
+      <aspectTerm from="35" term="apps" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5023">
+    <text>Ist gut um Hausaufgaben für IT zu machen, es ist aber sehr umständlich etwas auszudrucken.</text>
+    <aspectTerms>
+      <aspectTerm from="78" term="auszudrucken" to="90"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5024">
+    <text>Als Linux und LibreOffice Freund ein Muss!</text>
+  </sentence>
+  <sentence id="5025">
+    <text>Klar erst die App günstig im Angebot gekauft....so jetzt kommt immer schön die Werbung mit Aufforderung zu bezahlen - wofür den noch !!!</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="App" to="18"/>
+      <aspectTerm from="80" term="Werbung" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5026">
+    <text>Ich hab ein tablet und möcht auch gerne darauf arbeiten und es geht nur für Smartphone bitte beheben</text>
+    <aspectTerms>
+      <aspectTerm from="77" term="Smartphone" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5027">
+    <text>Nicht gratis!</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="gratis" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5028">
+    <text>Diese App ist ihr Geld wert. In Verbindung mit einem Canon Drucker funktioniert sie ausgezeichnet. Einziger bis jetzt festgesteller Schwachpunkt ist der Ausdruck von Webseiten. Diese werden mit sehr großen Buchstaben gedruckt, was auch zu sehr vielen Druckseiten führt.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App" to="10"/>
+      <aspectTerm from="68" term="funktioniert" to="80"/>
+      <aspectTerm from="154" term="Ausdruck von Webseiten" to="176"/>
+      <aspectTerm from="207" term="Buchstaben" to="217"/>
+      <aspectTerm from="252" term="Druckseiten" to="263"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5029">
+    <text>Absolutely awesome</text>
+  </sentence>
+  <sentence id="5030">
+    <text>Hat alles, was ich brauche.</text>
+  </sentence>
+  <sentence id="5031">
+    <text>Gutes Programm. Startet aber bei mir ungefragt im Hintergrund.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Programm" to="14"/>
+      <aspectTerm from="16" term="Startet" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5032">
+    <text>Vor dem Update hätte ich der App 5 Sterne gegeben. Aber jetzt ... Ich nutze die App für die Uni und muss oft viel tippen/ mitschreiben. Die Buchstaben machen sozusagen was sie wollen. Sie springen hin und her und meine Leerzeichen werden einfach mal gelöscht .. warum auch immer. Egal ob Blocksatz oder Bündig. Und eine 5 Seiten Mitschrift erneut zu überarbeiten nimmt für mich zu viel Zeit in Anspruch, vorallem wegen Fehlern die absolut nicht auftreten dürften! Ich bitte um eine Korrektur, da die App vorher wirklich super war.</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="Update" to="15"/>
+      <aspectTerm from="30" term="App" to="33"/>
+      <aspectTerm from="81" term="App" to="84"/>
+      <aspectTerm from="141" term="Buchstaben" to="151"/>
+      <aspectTerm from="501" term="App" to="504"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5033">
+    <text>Brauch Google-Drive Unterstützung sonst gut :)</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="Google-Drive Unterstützung" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5034">
+    <text>Führte sogar so weit, dass sich das handy kurz nach dem hochfahren aufgehängt hat. Einzige Möglichkeit war den Akku kurz raus zunehmen. Erst nach Deinstallation und Säuberung mit SD maid funktionierte wieder alles tadellos. Es sei gesagt dass ich das s2 mit cm10 nutze.</text>
+  </sentence>
+  <sentence id="5035">
+    <text>Hervorragend</text>
+  </sentence>
+  <sentence id="5036">
+    <text>Ich nutze dieses Programm weil ich oft Dateien zwischen PC und Smartphone hin und her schiebe, sie sowohl mobil als auch stationär nutzen und immer die &quot;aktuelle&quot; Ausführung quasi am Mann habe.....prima für meine Bedürfnisse; -)</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="Programm" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5037">
+    <text>Eine tolle App! Funktioniert auf Anhieb, wenn der WiFi-Drucker in der Liste aufgeführt ist.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="App" to="15"/>
+      <aspectTerm from="17" term="Funktioniert" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5038">
+    <text>Alle Officedokumente wie am PC. Die erste App die ich kenne die auch die Bilder gut darstellt.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Officedokumente" to="21"/>
+      <aspectTerm from="43" term="App" to="46"/>
+      <aspectTerm from="74" term="Bilder" to="80"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5039">
+    <text>Nix zu meckern. Macht genau das was ich will. Umwandeln der Dokumente in PDF wäre noch super.</text>
+    <aspectTerms>
+      <aspectTerm from="47" term="Umwandeln der Dokumente in PDF" to="77"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5040">
+    <text>Ich nutze dieses Office auf mehreren Geräten (PC, TABLET, GALAXY S5). Dateien sind an jedem Ort mit Internetanbindung verfügbar und bearbeitbar. Funktioniert eigentlich tadellos. Nur manchmal öffnet es Dateien nicht, die mit einem anderen Microsoft Office erstellt worden sind. Word- und Exceldateien. Passiert aber selten. Ich öffne diese Dateien mit einem Konkurrenzprodukt. Wenn dieses klitzekleine Problem gelöst ist, gibt's 5*. Habt Ihr euch echt verdient.</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="Office" to="24"/>
+      <aspectTerm from="146" term="Funktioniert" to="158"/>
+      <aspectTerm from="279" term="Word- und Exceldateien" to="301"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5041">
+    <text>Super schreib programm</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="schreib programm" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5042">
+    <text>Erstklassig! Funktioniert perfekt. Bei Verbindungsproblemen: Remotedesktop durch die Win-Firewall zulassen !</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Funktioniert" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5043">
+    <text>Sehr zufrieden</text>
+  </sentence>
+  <sentence id="5044">
+    <text>Finde ich einfach Toll. Genau die richtige App für mich.</text>
+    <aspectTerms>
+      <aspectTerm from="44" term="App" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5045">
+    <text>Iwie schon seltsam, dass viel mehr als fett, kursiv, unterstrichen, rot, grün, gelb und Schriftgröße nicht zu machen ist. Und dass die Bearbeitung von doc Dateien nicht unterstützt wird ist auch mysteriös :/ und hier ein Tipp für alle, dies auf nem tablet haben wollen: nehmt euch ein zweites gerät, das unterstützt wird, ladets da runter und schickt die apk-datei mit der App apk share auf das angeblich nicht unterstütze Gerät und installierts da. Von wegen nicht unterstützt, funzt nämlich ;) Dreiste Lüge!!</text>
+    <aspectTerms>
+      <aspectTerm from="136" term="Bearbeitung von doc Dateien" to="163"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5046">
+    <text>Die beste kostenlose RDP-App, die ich kenne. Ich habe einige probiert, aber diese funktioniert mit Windows Systemen bei meinem Einsatzzweck einfach am besten und ist sehr stabil.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="RDP-App" to="28"/>
+      <aspectTerm from="82" term="funktioniert mit Windows Systemen" to="115"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5047">
+    <text>Sehr nützlich</text>
+  </sentence>
+  <sentence id="5048">
+    <text>Mag für die Microsoft Welt ganz okay sein. Kennt jedoch keine OpenOffice Files.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Microsoft Welt" to="27"/>
+      <aspectTerm from="63" term="OpenOffice Files" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5049">
+    <text>Das einzige was ich vermiss sind Aufzählungen.ansonsten alles dabei.</text>
+    <aspectTerms>
+      <aspectTerm from="34" term="Aufzählungen" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5050">
+    <text>Damit kann man ja gar nichts machen -&amp;gt; noch nicht einmal F, K, U, -&amp;gt; Schriftart / -größe / -farbe geschweige denn Absatz u.o. Aufzählungszeichen usw. Das soll ein Textverarbeitungsprogramm sein??? Da bleib' ich doch besser bei meinem WPS</text>
+    <aspectTerms>
+      <aspectTerm from="170" term="Textverarbeitungsprogramm" to="195"/>
+      <aspectTerm from="241" term="WPS" to="244"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5051">
+    <text>Ausgezeichnet</text>
+  </sentence>
+  <sentence id="5052">
+    <text>Super zufrieden</text>
+  </sentence>
+  <sentence id="5053">
+    <text>Super</text>
+  </sentence>
+  <sentence id="5054">
+    <text>Keinerlei Probleme mit Htc Hero und HP. Klasse App.</text>
+    <aspectTerms>
+      <aspectTerm from="47" term="App" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5055">
+    <text>Jetzt können Open Office Dokumente gelesen werden. Bearbeiten und Speichern geht leider noch nicht.</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="Open Office Dokumente" to="35"/>
+      <aspectTerm from="52" term="Bearbeiten" to="62"/>
+      <aspectTerm from="67" term="Speichern" to="76"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5056">
+    <text>Top</text>
+  </sentence>
+  <sentence id="5057">
+    <text>Sicher verlangt diese app die rechte von gmail. Immerhin kann man mit ihr die google docs wunderbar bearbeiten.</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="app" to="25"/>
+      <aspectTerm from="30" term="rechte von gmail" to="46"/>
+      <aspectTerm from="78" term="google docs" to="89"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5058">
+    <text>Bin voll zufrieden</text>
+  </sentence>
+  <sentence id="5059">
+    <text>...momentan power point Erstellung nicht möglich.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="power point Erstellung" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5060">
+    <text>Für mich die perfekte App um einfach und exakt MS Office Dateien auf dem Smartphone zu öffnen. Nun kann ich endlich Google Docs, Google Tabellen und Quickoffice deinstallieren. Danke!</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="App" to="26"/>
+      <aspectTerm from="48" term="MS Office" to="57"/>
+      <aspectTerm from="117" term="Google Docs" to="128"/>
+      <aspectTerm from="130" term="Google Tabellen" to="145"/>
+      <aspectTerm from="150" term="Quickoffice" to="161"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5061">
+    <text>Da macht Microsoft Werbung wie ein Weltmeister und dann hängt die Office App schon bei der Anmeldung! Bringt des mal bitte zügig in Ordnung! 0 Sterne!</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Microsoft" to="19"/>
+      <aspectTerm from="67" term="Office App" to="77"/>
+      <aspectTerm from="92" term="Anmeldung" to="101"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5062">
+    <text>Soll das ein Scherz seien? Ich kann und will nicht glauben dass das MicrosoftOffice ist, mit diesem Scherz, hat man nichtmal entfernt soviel Funktionen, es ist entweder ein verdammt schlechtes OpenOffice, ein Aprilscherz von Microsoft, oder ein ETWAS besseres Notizprogramm</text>
+    <aspectTerms>
+      <aspectTerm from="69" term="MicrosoftOffice" to="84"/>
+      <aspectTerm from="142" term="Funktionen" to="152"/>
+      <aspectTerm from="194" term="OpenOffice" to="204"/>
+      <aspectTerm from="226" term="Microsoft" to="235"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5063">
+    <text>Leider auch bei dieser vom Funktionsumfang eher bescheidenen App in der aktuellen Version ebenfalls die Animierung des Nutzers im Fokus eine Premium-Version im Abo zu verkaufen</text>
+    <aspectTerms>
+      <aspectTerm from="28" term="Funktionsumfang" to="43"/>
+      <aspectTerm from="62" term="App" to="65"/>
+      <aspectTerm from="83" term="Version" to="90"/>
+      <aspectTerm from="142" term="Premium-Version" to="157"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5064">
+    <text>Macht alles was es soll!! Easy going dank dieser App!</text>
+    <aspectTerms>
+      <aspectTerm from="50" term="App" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5065">
+    <text>Einfach zu bedienen und nützlich im Social Media Alltag. Ich würde mir allerdings wünschen, dass die Download-, Share- und Like-Buttons nicht erst nach der letzten Folie erscheinen.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="bedienen" to="20"/>
+      <aspectTerm from="102" term="Download-" to="111"/>
+      <aspectTerm from="113" term="Share-" to="119"/>
+      <aspectTerm from="124" term="Like-Buttons" to="136"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5066">
+    <text>So ziemlich der Großteil der Android Phones sind auf Jelly Bean aktualisiert worden, und da spielt das Holo Design eine recht große Rolle. Noch dazu ist die Bildschirmauflösung heutzutage bei fast allen Smartphones hoch. Diese App ist wirklich sehr hilfreich und benutzerfreundlich. *Update*: Ein UI Update, tolle Sache! Jetzt gebe ich 5 Sterne.😀👍</text>
+    <aspectTerms>
+      <aspectTerm from="30" term="Android Phones" to="44"/>
+      <aspectTerm from="54" term="Jelly Bean" to="64"/>
+      <aspectTerm from="104" term="Holo Design" to="115"/>
+      <aspectTerm from="158" term="Bildschirmauflösung" to="177"/>
+      <aspectTerm from="228" term="App" to="231"/>
+      <aspectTerm from="298" term="UI Update" to="307"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5067">
+    <text>Ohne cloud und Offen legen seiner Dokumente (Anmeldung) nicht zu benutzen!</text>
+  </sentence>
+  <sentence id="5068">
+    <text>Reicht vollkommen aus</text>
+  </sentence>
+  <sentence id="5069">
+    <text>Super sache, nur leider in english, was ich nicht kann sonst fünf Sterne</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="english" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5070">
+    <text>Wie druckt man</text>
+  </sentence>
+  <sentence id="5071">
+    <text>Tolle App. Jedoch wäre ein Formeltool oder die Möglichkeit für Sondersymbole sehr sinnvoll.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App" to="10"/>
+      <aspectTerm from="28" term="Formeltool" to="38"/>
+      <aspectTerm from="64" term="Sondersymbole" to="77"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5072">
+    <text>warum lest ihr gerne meine dokumente ?? kost nix taugt nix</text>
+  </sentence>
+  <sentence id="5073">
+    <text>Klasse für eine Kostenlose App!</text>
+    <aspectTerms>
+      <aspectTerm from="28" term="App" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5074">
+    <text>....alles wie es soll...</text>
+  </sentence>
+  <sentence id="5075">
+    <text>Super Teil gute Nutzungsmöglichkeit</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Teil" to="10"/>
+      <aspectTerm from="16" term="Nutzungsmöglichkeit" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5076">
+    <text>Und registrieren funktioniert nicht</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="registrieren" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5077">
+    <text>Top App, für 0.79€ gekauft</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5078">
+    <text>Arbeite mit dem Premium aber das ist sein Geld wert. Weiter so.</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Premium" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5079">
+    <text>Die App öffnet Odt. leider nur zerstückelt sehr schade</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5080">
+    <text>Installiert. Angemeldet. Neues Dokument angelegt. 30 Minuten gearbeitet. Wollte speichern. Meldung “Anmeldeinformationen verloren“. Excel Dokument komplett weg. 30 Minuten umsonst gearbeitet. So was darf nicht passieren! Deinstalliert.</text>
+  </sentence>
+  <sentence id="5081">
+    <text>Super. Endlich das, was ich mir von Polaris erhofft hatte.</text>
+    <aspectTerms>
+      <aspectTerm from="36" term="Polaris" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5082">
+    <text>Jetzt Werbung im Kauf-App, eine riesengroße Frechheit!!! Bitte im Premium um Option für Kaffee kochen erweitern, dann bezahle ich gerne weitere 1'000.- €$£ und mehr. Vielen vielen Dank für eure Mühe. Edit. ok, Werbung weg Sterne nach oben!</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Werbung" to="13"/>
+      <aspectTerm from="17" term="Kauf-App" to="25"/>
+      <aspectTerm from="66" term="Premium" to="73"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5083">
+    <text>Ein komplettes Office for free. Wenn ichs könnte würde ichs kaufen. Einziger kleine Nachteil ist es ist auf englisch was mich nicht stört. Alle ms Office Dateien und pdf s werden unterstützt. Mit dem hauseigenen Programm kann man ja nur die Dateien anschauen, hiermit kann man bearbeitet! Einfach nur super!</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="Office" to="22"/>
+      <aspectTerm from="145" term="ms Office" to="154"/>
+      <aspectTerm from="167" term="pdf" to="170"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5084">
+    <text>Dieses kack Programm lässt sich nicht deinstallieren und es ist noch nicht mal die Vollversion!!!!!! Voll der Scheißdreck!!!</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Programm" to="21"/>
+      <aspectTerm from="84" term="Vollversion" to="95"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5085">
+    <text>Ist nicht kostenlos!!</text>
+  </sentence>
+  <sentence id="5086">
+    <text>Nix mehr hinzuzufügen.</text>
+  </sentence>
+  <sentence id="5087">
+    <text>Super app</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5088">
+    <text>Ermöglicht problemlos das Drucken von Dokumenten unter Android</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="Drucken" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5089">
+    <text>Gut portiert, allerdings nicht für Mobilgeräte angepasst, daher muss man viel zoomen.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="portiert" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5090">
+    <text>Leider nicht auf deutsch. Keine deutsche Rechtschreibprüfung. Trotzdem die beste Android Office App.</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="deutsch" to="25"/>
+      <aspectTerm from="33" term="deutsche Rechtschreibprüfung" to="61"/>
+      <aspectTerm from="90" term="Office App" to="100"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5091">
+    <text>E-Mailanhänge lesen, W-Laneinstellung an und abschalten, und und und. Was soll denn das alles ???</text>
+  </sentence>
+  <sentence id="5092">
+    <text>Super App, macht genau das was Sie soll und das total easy</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5093">
+    <text>Gutes Programm , lässt sich gut bearbeiten.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Programm" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5094">
+    <text>Die beste bis jetzt</text>
+  </sentence>
+  <sentence id="5095">
+    <text>Ich kann nichts schlechtes sagen, bei mir macht die App genau das, was sie soll.</text>
+    <aspectTerms>
+      <aspectTerm from="53" term="App" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5096">
+    <text>Absolut cool und das Beste was.. ich habe</text>
+  </sentence>
+  <sentence id="5097">
+    <text>EMPFEHLENSWERT</text>
+  </sentence>
+  <sentence id="5098">
+    <text>Gutes Programm. Startet aber bei mir ungefragt im Hintergrund.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Programm" to="14"/>
+      <aspectTerm from="16" term="Startet" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5099">
+    <text>Sehr gut</text>
+  </sentence>
+  <sentence id="5100">
+    <text>Super app</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5101">
+    <text>Neu 14.05.14 - Komisch, wegen der Premium Werbung ist nun ein Update auf 7.5 möglich. - Der Support versucht zu helfen, eine wirkliche Lösung noch nicht in Sicht. Achtung - Updates nicht kostenlos Leider sehr entäuscht, teuer gekauft und keine Updates enthalten. Mittlerweile ist version 7.4 möglich, aber nach Löschen und Neuinstallation weiterhin nur Version 7.3. Werde wohl wieder Quickoffice verwenden. Leider gibt es keine Null Sterne - ich muss einen Vergeben, aber nicht mal einer ist verdient.</text>
+    <aspectTerms>
+      <aspectTerm from="93" term="Support" to="100"/>
+      <aspectTerm from="174" term="Updates" to="181"/>
+      <aspectTerm from="227" term="gekauft" to="234"/>
+      <aspectTerm from="245" term="Updates" to="252"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5102">
+    <text>Macht das, was sie soll. Absolut zufrieden!</text>
+  </sentence>
+  <sentence id="5103">
+    <text>Daran sollte sich MS ein Beispiel nehmen!</text>
+  </sentence>
+  <sentence id="5104">
+    <text>Fehler seit update</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="update" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5105">
+    <text>Why is there the whole not in German? ??</text>
+  </sentence>
+  <sentence id="5106">
+    <text>Könnte besser sein. Das Grafische Menu zur Auswahl wo das Druckfile sein könnte (Bild etc.) ist gut, aber bei Dokumente versagt es. Da sollte klar gefragt werden , wo die sind: Intern, SD, etc. Offenbar ist da die Übersetzung &quot;Speichern&quot; falsch. &quot;Quelle&quot; wäre richtig, oder? Und ewig landen wir bei irgendeinem unfertigen Google Dienst, hier die Cloud. Leider druckt auch MS aus seinen neuen Office Produkten manisch gern dorthin, arrghh, urrxx. After having understood the UI its a nice product.</text>
+    <aspectTerms>
+      <aspectTerm from="35" term="Menu" to="39"/>
+      <aspectTerm from="111" term="Dokumente" to="120"/>
+      <aspectTerm from="215" term="Übersetzung" to="226"/>
+      <aspectTerm from="347" term="Cloud" to="352"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5107">
+    <text>Kann PowerPoint abspielen. Aber man kann keine Animationen hinzufügen.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="PowerPoint" to="15"/>
+      <aspectTerm from="47" term="Animationen hinzufügen" to="69"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5108">
+    <text>Nett verzahnt mit G+, ein paar Statistiken - ansonsten wenig Mehrwert.</text>
+    <aspectTerms>
+      <aspectTerm from="32" term="Statistiken" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5109">
+    <text>Eine bessere gibt es nicht.</text>
+  </sentence>
+  <sentence id="5110">
+    <text>Word-Dokument auf Tablet unterwegs bearbeitet. Bei Start von Polaris war Flugmodus on -&amp;gt; alle Verbindun gen deaktiviert. Als Bearbeitung fertig war, Speichern unter... aufgerufen und im vorgegebenen Pfad Eigene Dokumente - Inbox gespeichert. Dann, um auf Nummer sicher zu gehen, Senden per Email aktiviert und Email vorbereitet. Um diese dann senden zu können, Flugmodus off geschaltet. Sofort erschien in Polaris die Aufforderung mich neu anzumelden und danach war meine Arbeit von 2 Stunden dahin: die zuvor gespeicherte Datei war und ist unauffindbar!!! Eine riesige Schweinerei!!!! Wenn Ihr unsere Daten haben wollt, dann bezahlt uns gefälligst dafür!!! Oder lasst uns unsere eigenen Kreationen offline speichern, wie wir wollen. Frechheit =Deinstallation</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Word-Dokument" to="14"/>
+      <aspectTerm from="283" term="Senden per Email" to="299"/>
+      <aspectTerm from="527" term="Datei" to="532"/>
+      <aspectTerm from="703" term="offline speichern" to="720"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5111">
+    <text>Schöne Officesuite die aber eher für Phablets bzw Tablets geeignet ist. Leider lässt sich nur die Arbeisfläche und nicht die Symbolleisten skalieren, deswegen auch nur 3 Sterne. Aber vom Funktionsumfang hab ich noch nichts besseres gesehen für Android.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="Officesuite" to="19"/>
+      <aspectTerm from="126" term="Symbolleisten skalieren" to="149"/>
+      <aspectTerm from="188" term="Funktionsumfang" to="203"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5112">
+    <text>Funktioniert hervorragend auf Anhieb.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Funktioniert" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5113">
+    <text>Ich benutze die App mittlerweile seit gut einem Jahr. Bisher lief alles astrein. Aber heute nun, wollte ich wieder mal ein normales (generiertes, nicht gescanntes) pdf-Dokument drucken. Fehlanzeige! Beim Rendering passiert dann der Fehler. Nur die oberste Zeile wird umgesetzt, der Rest der Zeile bleibt weiß. Getestet nunmehr mit vielen pdf's. Fazit: gescannte pdf's werden normal gerendert. Generierte pdf's leider nicht mehr. In dieser Form ist die App komplett wertlos. Habe probeweise die App PrintHand i</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="App" to="20"/>
+      <aspectTerm from="205" term="Rendering" to="214"/>
+      <aspectTerm from="453" term="App" to="456"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5114">
+    <text>Geniale App! und umsonst!!! Zuschlagen. Wünsche mir deutschen Spellcheck</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="App" to="11"/>
+      <aspectTerm from="52" term="deutschen Spellcheck" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5115">
+    <text>Einfach zu benutzen, funktioniert perfekt mit Office-Dokumenten und PDF</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="benutzen" to="20"/>
+      <aspectTerm from="47" term="Office-Dokumenten" to="64"/>
+      <aspectTerm from="69" term="PDF" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5116">
+    <text>für das Note 10.1 bestens geeignet. Auf dem 12.2 PRO läuft das Hancom Office auf deutsch, auch super, gibt es bloß noch nicht für's 10,1 . und dass die Tastatur im Weg ist, kann ich nicht nachvollziehen, die lässt sich über ein kleines Symbol - Ilinks unten auch wieder ausklappen, Fazit: Beste Office APP für'S Tablett</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="Note 10.1" to="18"/>
+      <aspectTerm from="296" term="Office APP" to="306"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5117">
+    <text>Bisher konnte ich alles über mein HP WLan Drucker drucken. Geht leider nicht mehr, funktion drucken wurde leider entfernt. Nun muss ich ausweichen auf andere App</text>
+    <aspectTerms>
+      <aspectTerm from="93" term="drucken" to="100"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5118">
+    <text>Übertrifft die Win7 RDP!</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="Win7 RDP" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5119">
+    <text>Die App ist im Prinzip gut aber nimmt zu viele CPU Ressourcen in Anspruch. Die Werbung kann noch toleriert werden. Grundsätzlich gilt. Meine Daten im Tablett gehören mir und will diese auch nicht mit anderen teilen. Daten soll es nur gegen eine werbefreie Version geben. Ausspioniert werden geht gar nicht!!!</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="48" term="CPU Ressourcen" to="62"/>
+      <aspectTerm from="80" term="Werbung" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5120">
+    <text>Gewisse Sachen sind leider, bei der Bearbeitung, nicht möglich. Deshalb nur 4 Sterne</text>
+    <aspectTerms>
+      <aspectTerm from="37" term="Bearbeitung" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5121">
+    <text>Seit dem letzten Update kann die App keine Dateien mehr öffnen. Es kommt immer eine Meldung &quot;Fehler....&quot; Wenn das Problem behoben, dann wieder volle Sterbefall.</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="Update" to="24"/>
+      <aspectTerm from="34" term="App" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5122">
+    <text>super</text>
+  </sentence>
+  <sentence id="5123">
+    <text>Recht gute App. Nur lassen sich Änderungen offline nicht speichern. Somit ist die App zur mobilen Nutzung nicht geeignet.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="App" to="15"/>
+      <aspectTerm from="83" term="App" to="86"/>
+      <aspectTerm from="91" term="mobilen Nutzung" to="106"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5124">
+    <text>Jetzt noch in Deutsch und ich würde einen Stern dazukleben.</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="Deutsch" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5125">
+    <text>.docx-Dokumente können nicht geöffnet werden :-( und wie ich gerade feststelle, können Word 95 Dateien auch nicht geöffnet werden :-(</text>
+    <aspectTerms>
+      <aspectTerm from="87" term="Word 95 Dateien" to="102"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5126">
+    <text>Sofort wieder deinstalliert da sich die 90MB nicht auf die SD Karte verschieben lassen.</text>
+    <aspectTerms>
+      <aspectTerm from="60" term="SD Karte" to="68"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5127">
+    <text>Gute APP für unterwegs</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="APP" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5128">
+    <text>Seit einem der letzten Updates sind die Konfigurationsmöglichkeiten arg zusammengestrichen worden. Besonders ärgerlich: Die Statuszeile wird ausgeblendet! Was soll so eine Bevormundung? Ich möchte doch nicht jedesmal aus dem Dokument raus, wenn ich prüfen möchte, ob neue Nachrichten eingegangen, Ereignisse erinnert wurden oder ich überhaupt noch Empfang habe? // @ developers: Thanks for your reply. I really do understand the useful purpose and your good intentions for hiding the status bar. But the full-screen-big-font-size-big-icons-scroll-demanding-configure-nothing-attitude is getting worse and worse. Why don't you LEAVE IT TO THE USER if (s)he want's the status bar hidden or not? Make it optional! :-)</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="Updates" to="31"/>
+      <aspectTerm from="41" term="Konfigurationsmöglichkeiten" to="68"/>
+      <aspectTerm from="125" term="Statuszeile" to="136"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5129">
+    <text>Die Formatierungen sind mangelhaft. Hoffe, da wird es zeitnah ein Update geben.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Formatierungen" to="19"/>
+      <aspectTerm from="67" term="Update" to="73"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5130">
+    <text>... und das noch KOSTENLOS :-)</text>
+  </sentence>
+  <sentence id="5131">
+    <text>Wurde auch Zeit.. :-)</text>
+  </sentence>
+  <sentence id="5132">
+    <text>für mein Business ist es sehr hilfreich</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Business" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5133">
+    <text>This is really an amazing application. It works with word documents and also with pdf documents.</text>
+  </sentence>
+  <sentence id="5134">
+    <text>Hat ja lange gedauert, aber eine richtige Entscheidung von Microsoft</text>
+  </sentence>
+  <sentence id="5135">
+    <text>Das ist die optimale Lösung für smartphone und Co. Word ist super. Excel kann ich noch nicht beurteilen. Man sollte auch bedenken, dass es sich um eine kostenlose App handelt. Also nicht soviel meckern. Ansonsten Geldbeutel auf und kostenpflichtige Apps kaufen.</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="smartphone" to="43"/>
+      <aspectTerm from="52" term="Word" to="56"/>
+      <aspectTerm from="164" term="App" to="167"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5136">
+    <text>Sehr nützlich, grade im Studienalltag!</text>
+  </sentence>
+  <sentence id="5137">
+    <text>Die App läuft gut. Für alle die die Loginprobleme haben aufpassen, dass der Benutzername keine Leerzeichen ende hat (Eigenheit der Android Autovervollständig). Ein Stern Abzug da die Änderung der Bildschirmauflösung nicht möglich ist und im Zoom Modus nur ganz schlecht von der einen in die andere kommt.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="9" term="läuft" to="14"/>
+      <aspectTerm from="184" term="Änderung der Bildschirmauflösung" to="216"/>
+      <aspectTerm from="242" term="Zoom Modus" to="252"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5138">
+    <text>Funktioniert tadellos. Speichern auf SD-Card unter documents kein Problem. Evtl. Schreibprobleme mit der SD-Karte.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Funktioniert" to="12"/>
+      <aspectTerm from="23" term="Speichern auf SD-Card" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5139">
+    <text>Super Programm</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="Programm" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5140">
+    <text>Simples und gutes Tool. Alle Officeanwendungen und Pdf.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="Tool" to="23"/>
+      <aspectTerm from="30" term="Officeanwendungen" to="47"/>
+      <aspectTerm from="52" term="Pdf" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5141">
+    <text>Etwas unübersichtlich aber endlich tolles Programm zum FanFiktion writerschreiben. Toll!x</text>
+    <aspectTerms>
+      <aspectTerm from="42" term="Programm" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5142">
+    <text>...,wenn er als Netzwerkdrucker an der FritzBox hängt, und eine manuelle Konfiguration über IP-Adresse ist nicht möglich. Daher leider nicht brauchbar :(</text>
+    <aspectTerms>
+      <aspectTerm from="65" term="manuelle Konfiguration" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5143">
+    <text>Klasse Alternative zum teuren Microsoft Produkt.</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="Microsoft Produkt" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5144">
+    <text>Viele doc-Dateien auf meinem Telefon ließen sich damit nicht öffnen. Außerdem muss man ein MS-Konto anlegen</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="doc-Dateien" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5145">
+    <text>Einwandfrei Super</text>
+  </sentence>
+  <sentence id="5146">
+    <text>Nach dem Heutigen update findet er meinen Netzwerkdrucker nicht mehr.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="update" to="25"/>
+      <aspectTerm from="43" term="Netzwerkdrucker" to="58"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5147">
+    <text>Super</text>
+  </sentence>
+  <sentence id="5148">
+    <text>Macht Was es soll</text>
+  </sentence>
+  <sentence id="5149">
+    <text>Schnell, zuverlässig, kostenlos</text>
+  </sentence>
+  <sentence id="5150">
+    <text>Jetzt auch mit ODF support!</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="ODF support" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5151">
+    <text>Windows Server 2008 Terminal Server gibt falsches Passwort aus. Schade, keine Funktion im oder außerhalb des Netzwerkes.</text>
+  </sentence>
+  <sentence id="5152">
+    <text>Super einfach</text>
+  </sentence>
+  <sentence id="5153">
+    <text>..bis auf vereinzelte Abstürze beim Anzeigen von Präsentationen</text>
+    <aspectTerms>
+      <aspectTerm from="37" term="Anzeigen von Präsentationen" to="64"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5154">
+    <text>Also bei mir funktioniert die APP perfekt 👍😀.</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="funktioniert" to="26"/>
+      <aspectTerm from="31" term="APP" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5155">
+    <text>Danke ich auf meine Bitte auf den fix mit dem zu kleinem rauszoomen kam ein update welches diesen Fehler behoben hat. Dafür gibt es 5 Sterne.</text>
+    <aspectTerms>
+      <aspectTerm from="77" term="update" to="83"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5156">
+    <text>Eine App auf englisch, die funktioniert, ist mir immer noch lieber als eine auf deutsch die nicht mehr funktioniert! Sehr schade!</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+      <aspectTerm from="104" term="funktioniert" to="116"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5157">
+    <text>Top!</text>
+  </sentence>
+  <sentence id="5158">
+    <text>Software nicht für Tablets?</text>
+  </sentence>
+  <sentence id="5159">
+    <text>Grafisch sehr gut, aber benötigt immer Netz! Grösse ist auch mit knapp 50 MB beachtlich!</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Grafisch" to="9"/>
+      <aspectTerm from="46" term="Grösse" to="52"/>
+    </aspectTerms>
+  </sentence>
+</sentences>

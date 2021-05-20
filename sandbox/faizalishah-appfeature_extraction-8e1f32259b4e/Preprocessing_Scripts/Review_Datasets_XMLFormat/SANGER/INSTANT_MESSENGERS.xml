@@ -1,0 +1,829 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="0">
+    <text>Super App *-*</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="1">
+    <text>Also ich brauch die app nur um mit einer person zu schreiben und dafür langt sie auch.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="app" to="24"/>
+      <aspectTerm from="52" term="schreiben" to="61"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="2">
+    <text>Gut</text>
+  </sentence>
+  <sentence id="3">
+    <text>Vom &amp;gt;100 bei WhatsApp. Aber die App ansich ist super</text>
+    <aspectTerms>
+      <aspectTerm from="36" term="App" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="4">
+    <text>Besser als Whats app</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="Whats app" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5">
+    <text>Alsoo ich hatte skype auf meinem alten handy (xperia go) und da lief es fehlerfrei aber jetzt kann ich s nicht einmal downloaden (xperia z1) schade muss immer aufn pc gehn um zu skypen :/</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="skype" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6">
+    <text>Mich nervt es, dass es immer stockt ständig wenn ich snaps öffnen will hängt es.. Und ich sehe die snaps nicht... Oder es kommt immer eine Fehlermeldung, dass mein Snap nicht gesendet wurde oder kein Snap ankam.. S4</text>
+    <aspectTerms>
+      <aspectTerm from="54" term="snaps" to="59"/>
+      <aspectTerm from="100" term="snaps" to="105"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7">
+    <text>Nach dem Update ist das Kommunikationsgefühl weg man muss zum Beispiel, immer wieder auf einen Snap klicken obwohl es sich in der Geschichte von jemanden befindet.</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Update" to="16"/>
+      <aspectTerm from="96" term="Snap" to="100"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8">
+    <text>Leider kommen die Nachrichten nicht zeitnah an! Das macht die Anwendung für mich unbrauchbar.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="Nachrichten" to="30"/>
+      <aspectTerm from="63" term="Anwendung" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9">
+    <text>Geht alles</text>
+  </sentence>
+  <sentence id="10">
+    <text>Ich habe snapchat echt geliebt, sie gehörte zu einer meiner lieblingsapps ...doch seit dem neusten Update stürzt sie die ganze Zeit ab ... Wenn ich ein Foto mache öffnet sich nicht mal mehr die Tastatur 😰 Bitte sofort beheben, dann gibt es auch wieder 5 Sterne</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="snapchat" to="18"/>
+      <aspectTerm from="100" term="Update" to="106"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="11">
+    <text>Galaxy S5: beim versenden hängt alles , GSAZ (größter Schrott aller Zeiten)!!!!</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="versenden" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="12">
+    <text>Ich meine kann ich nicht bei einst. Irgendwie diese scheiß Farbe weg machen ?</text>
+  </sentence>
+  <sentence id="13">
+    <text>An sich gefällt mir Threema ganz gut, aber die Zuverlässigkeit beim Erhalt von Nachrichten ist nicht zufriedenstellend. Erst heute hat jemand eine Nachricht erhalten die bei mir seit 4 Tagen als versendet gegolten hat und das Handy des anderen immer eingeschaltet und auch angemeldet war.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="Threema" to="28"/>
+      <aspectTerm from="48" term="Zuverlässigkeit" to="63"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="14">
+    <text>Die anwendung funktioniert super gs2. Alles auf einem blick</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="anwendung" to="14"/>
+      <aspectTerm from="15" term="funktioniert" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="15">
+    <text>Hi , das bedeutet das du zu jung für snapchat bist , sorry du musst wohl warten bis du älter bist :-)</text>
+    <aspectTerms>
+      <aspectTerm from="38" term="snapchat" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="16">
+    <text>Mehr smileys!!! Ich kann immer noch keine Musik verschicken!!!!</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="smileys" to="13"/>
+      <aspectTerm from="43" term="Musik" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="17">
+    <text>Von Update zu Update immer mehr Fehler ,und neuerdings wird Werbung uber dem verbinden Button angezeigt sodass ich in kaum noch ankli ken kann ,sauerei!!!</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Update" to="11"/>
+      <aspectTerm from="15" term="Update" to="21"/>
+      <aspectTerm from="61" term="Werbung" to="68"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="18">
+    <text>Snapt mir, aber nur Mädels:) aestheticz98</text>
+  </sentence>
+  <sentence id="19">
+    <text>Einfsch gut</text>
+  </sentence>
+  <sentence id="20">
+    <text>Das beste</text>
+  </sentence>
+  <sentence id="21">
+    <text>Das Ding ist so schlecht!!! Völlig unnötiger Müll!</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="Ding" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="22">
+    <text>Ich finde es super</text>
+  </sentence>
+  <sentence id="23">
+    <text>Hoffendlich wird der kreatur vergewaltigt der diese app erfunden hat</text>
+    <aspectTerms>
+      <aspectTerm from="53" term="app" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="24">
+    <text>Aber wie es jz aussieht is ja mega schei***e</text>
+  </sentence>
+  <sentence id="25">
+    <text>Löscht das update und fügt neue smileys hinzu dann gibt's mehr Sterne</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="smileys" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="26">
+    <text>Aber die app ist echt top</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="app" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="27">
+    <text>Gibt es schon Telegramm+? 😏😄</text>
+  </sentence>
+  <sentence id="28">
+    <text>Es ist einfach scheiße. Ich warte auf meinen Cood und nix kommt. Die App ist cool, aber es ist einfach scheiße wie lange es dauert. Desshalb nur einen Stern.</text>
+    <aspectTerms>
+      <aspectTerm from="69" term="App" to="72"/>
+      <aspectTerm from="124" term="dauert" to="130"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="29">
+    <text>Wurde auch gezwungen diesen kack runterzuladen. Den einen stern gibts weils funzt 4abzug weil ich für fb jetzt 2apps brauch</text>
+  </sentence>
+  <sentence id="30">
+    <text>Man kann nicht erkennen wer hangouts benutzt. Und wenn ich eine Einladung verschicke kommt sie garnicht an.</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="hangouts" to="37"/>
+      <aspectTerm from="65" term="Einladung" to="74"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="31">
+    <text>App läuft soweit gut, bis auf, dass man eine recht flotte Internetverbindung braucht! Würde mich über weibliche snaps freuen! ibananaxt</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="App" to="4"/>
+      <aspectTerm from="5" term="läuft" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="32">
+    <text>Ist besser als WhatsApp</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="WhatsApp" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="33">
+    <text>Man hätte diese Apple einfach in die Facebookapp integrieren sollen</text>
+    <aspectTerms>
+      <aspectTerm from="38" term="Facebookapp" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="34">
+    <text>Diese app ist garantiert besser als whatsapp</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="app" to="10"/>
+      <aspectTerm from="37" term="whatsapp" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="35">
+    <text>Joar</text>
+  </sentence>
+  <sentence id="36">
+    <text>Lässt sich immer noch nicht auf SD Karte verschieben. Wann kommen mal neue Icons? Die vom IPHONE sind beim Android immer noch nicht dabei. Mann ruht sich immer mehr auf seinen guten Ruf aus, wa? Mal rasch 4 Sterne abgezogen Zuckerberg.</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="SD Karte" to="41"/>
+      <aspectTerm from="71" term="neue Icons" to="81"/>
+      <aspectTerm from="91" term="IPHONE" to="97"/>
+      <aspectTerm from="108" term="Android" to="115"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="37">
+    <text>LOVE</text>
+  </sentence>
+  <sentence id="38">
+    <text>Es ist besser als Facebook</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="Facebook" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="39">
+    <text>cool</text>
+  </sentence>
+  <sentence id="40">
+    <text>Wann kommt die videoaufnahmefunktion?</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="videoaufnahmefunktion" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="41">
+    <text>Ich finde diese app ist sehr gut</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="app" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="42">
+    <text>Cool</text>
+  </sentence>
+  <sentence id="43">
+    <text>z.bsp: goldener kackhaufen, einhorn, ...</text>
+  </sentence>
+  <sentence id="44">
+    <text>Super</text>
+  </sentence>
+  <sentence id="45">
+    <text>Die App ist an sich gut aber das es was kostet ist blöd</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="41" term="kostet" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="46">
+    <text>Es ist echt gut, aber mir fehlen nehr Einstellungen! Z.B. möchte ich in den Gruppen keine Audioaufname automatisch downloaden!</text>
+  </sentence>
+  <sentence id="47">
+    <text>Meine freundinn hat mir davon erzält soll echt gut sein.;-)</text>
+  </sentence>
+  <sentence id="48">
+    <text>Hässlich diese runden Profilfotos-war vorher schöner. ..und warum muss ich über WhatsApp telefonieren können. Ebenso nerven diese grünen Einladungen...bei Festnetzanschl.kann ich keinen &quot;einladen&quot;-leider nicht zu entfernen-blöd einfach.</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="Profilfotos-war" to="38"/>
+      <aspectTerm from="81" term="WhatsApp" to="89"/>
+      <aspectTerm from="131" term="grünen Einladungen" to="149"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="49">
+    <text>Seit dem letzten Update wird mein gegenüber erst über eine neue Nachricht informiert, sobald er Telegramm öffnet. Keine popup und keinen Hinweis außerhalb der APP. ( ich glaube die Kontakte mit Problem besitzen ein iPhone)</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="Update" to="24"/>
+      <aspectTerm from="65" term="Nachricht" to="74"/>
+      <aspectTerm from="97" term="Telegramm" to="106"/>
+      <aspectTerm from="121" term="popup" to="126"/>
+      <aspectTerm from="160" term="APP" to="163"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="50">
+    <text>Nach Update, nimmt es nicht alle Buchstaben 😔</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Update" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="51">
+    <text>...wenn das Handy trotzdem Töne von sich gibt? Vielleicht hab ich ja genau darauf keine Lust! Schade, dass man das nicht individuell einstellen kann. So ist der für mich zumindest nutzlos.</text>
+  </sentence>
+  <sentence id="52">
+    <text>diese whatapp anrufe ist die größte scheisse den es jeeeee gab , also noch schlechter kann man das nicht machen</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="whatapp" to="13"/>
+      <aspectTerm from="14" term="anrufe" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="53">
+    <text>Geil</text>
+  </sentence>
+  <sentence id="54">
+    <text>Cool</text>
+  </sentence>
+  <sentence id="55">
+    <text>Einfach nur geil</text>
+  </sentence>
+  <sentence id="56">
+    <text>Das ist doof das zieht richtig speicher:'(</text>
+    <aspectTerms>
+      <aspectTerm from="32" term="speicher" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="57">
+    <text>5/5</text>
+  </sentence>
+  <sentence id="58">
+    <text>Es sollten mehr Leute haben...</text>
+  </sentence>
+  <sentence id="59">
+    <text>Auser den blauen häkchen sehr gut</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="blauen häkchen" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="60">
+    <text>Michael Engelman</text>
+  </sentence>
+  <sentence id="61">
+    <text>Eigentlich sehr tolle app, nur leider unterstützt mein Handy die Live-Video Funktion nicht... das finde Ich sehr schade :'( Aber sonst echt top</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="app" to="26"/>
+      <aspectTerm from="66" term="Live-Video Funktion" to="85"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="62">
+    <text>Whatsapp call gefällt mir nicht</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Whatsapp call" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="63">
+    <text>Ganz schimm</text>
+  </sentence>
+  <sentence id="64">
+    <text>Sehr gut</text>
+  </sentence>
+  <sentence id="65">
+    <text>Man muss es herunterladen um in Facebook gehen zu können echt mies und man kann sich nicht abmelden!!</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="in Facebook gehen" to="46"/>
+      <aspectTerm from="91" term="abmelden" to="99"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="66">
+    <text>Laesst mich seit Monaten nicht mehr einloggen!! Nicht zu empfehlen. Ebuddy ist weitaus besser!! Samsung Galaxy S2</text>
+    <aspectTerms>
+      <aspectTerm from="37" term="einloggen" to="46"/>
+      <aspectTerm from="69" term="Ebuddy" to="75"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="67">
+    <text>Kontaktliste aktualisieren dauert oder geht einfach nicht</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Kontaktliste aktualisieren" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="68">
+    <text>Perfekt!</text>
+  </sentence>
+  <sentence id="69">
+    <text>Diese APP ist einfach super! Vorallem ist sie für jung und alt, ich kann sie nur weiterempfehlen. Diese APP ist ein MUSS!</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="APP" to="10"/>
+      <aspectTerm from="105" term="APP" to="108"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="70">
+    <text>Wirklich gut!!!</text>
+  </sentence>
+  <sentence id="71">
+    <text>Scheiße einfach nur scheiße</text>
+  </sentence>
+  <sentence id="72">
+    <text>Klappt super ohne Probleme. Muss man weiter empfehlen.</text>
+  </sentence>
+  <sentence id="73">
+    <text>Nach dem update totaler mist....</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="update" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="74">
+    <text>Also ich will mir Whatsapp runterladen aba es geht net. Ich finde es ziemlich traurig. :'(</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="Whatsapp" to="27"/>
+      <aspectTerm from="28" term="runterladen" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="75">
+    <text>Liebe diese app habe viel spaß daran bilder oder videos an freunde zu schicken. Bitte um video filter bitte bitte macht zu den videos auch filter es wäre perfekt !</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="app" to="16"/>
+      <aspectTerm from="90" term="video filter" to="102"/>
+      <aspectTerm from="140" term="filter" to="146"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="76">
+    <text>DANKE IHR SEID WIRKLICH DIE BESTEN AUCH NOCH DER NEUE DESIGN</text>
+    <aspectTerms>
+      <aspectTerm from="55" term="DESIGN" to="61"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="77">
+    <text>Beim neuen Android Lollipop lassen sich die Popups nicht deaktivieren bzw sie sind deaktiviert aber erscheinen trotzdem. .. sogar wenn man gerade andere Anwendungen geöffnet hat. Mega nervig!</text>
+    <aspectTerms>
+      <aspectTerm from="45" term="Popups" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="78">
+    <text>Das perfekte Ersatz für Whatsapp</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="Whatsapp" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="79">
+    <text>Bitte eine Funktion hinzufügen, das man die Antufe ausschalten kann! Nicht jeder möchte dauernd über WhatsApp angerufen werden.</text>
+    <aspectTerms>
+      <aspectTerm from="45" term="Antufe ausschalten" to="63"/>
+      <aspectTerm from="102" term="WhatsApp" to="110"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="80">
+    <text>Schlimmer gehts nicht-....</text>
+  </sentence>
+  <sentence id="81">
+    <text>Scheiß App. Öffnet sich nicht mal die scheiße !!</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App" to="10"/>
+      <aspectTerm from="12" term="Öffnet" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="82">
+    <text>bei mir wenn ich es instalieren will steht da aufgrund eines fehlers ging es nicht bitte beheben dann 5 sterne</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="instalieren" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="83">
+    <text>... und funktioniert einfach.</text>
+  </sentence>
+  <sentence id="84">
+    <text>Es wäre noch schön, wenn es eine Version für Windows Phone gäbe. Ansonsten Top App! Farben der Kontakte sind nach dem Update zu Bunt vorher waren sie angenehmer.</text>
+    <aspectTerms>
+      <aspectTerm from="34" term="Version für Windows Phone" to="59"/>
+      <aspectTerm from="80" term="App" to="83"/>
+      <aspectTerm from="85" term="Farben der Kontakte" to="104"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="85">
+    <text>Echt scheiße. Wie schon alle sagen: man kann sich nicht mehr abmelden, alles ist anders und schlechter geworden... Wenn sich das hier jemand durchliest, bevor er das update macht, bloß nicht! Ich wünschte ich hätte es gelesen, dann hätte ich den Mist nicht, sondern das gute alte icq! Bitte wieder ändern!!</text>
+    <aspectTerms>
+      <aspectTerm from="62" term="abmelden" to="70"/>
+      <aspectTerm from="167" term="update" to="173"/>
+      <aspectTerm from="281" term="icq" to="284"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="86">
+    <text>Ich liebe whats das ist meine lieblings app gwilo lol!!!XD</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="whats" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="87">
+    <text>Ohne whatsapp geht nix mehr 😊</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="whatsapp" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="88">
+    <text>lächerlich! Während der Chat Partner etwas tippt und man auch was schreiben möchte ist es so gut wie unmöglich ein wort unter 10 Sekunden zu tippen! das kann einen verdammt nochmal verrückt machen! :@@@</text>
+  </sentence>
+  <sentence id="89">
+    <text>Es ist ne ganz nette app in bezug zu sms</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="app" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="90">
+    <text>Einfache nur cool</text>
+  </sentence>
+  <sentence id="91">
+    <text>Ih</text>
+  </sentence>
+  <sentence id="92">
+    <text>Sehr gut!</text>
+  </sentence>
+  <sentence id="93">
+    <text>Ständige Abstürze von whatsapp stören einfach wäre toll wenn dies behoben werden würde</text>
+  </sentence>
+  <sentence id="94">
+    <text>Mega toll ich Liebe es...dadurch bilden sich zwa viele misverständnisse aber es is richtig geil</text>
+  </sentence>
+  <sentence id="95">
+    <text>Kehrt ständich in online zustand zurück trotz das es mehr mals auf als offline anzeigen stellte. Seit Microsoft die Finger im Spiel hatte ist das Programm so ein scheiß geworden!!!</text>
+    <aspectTerms>
+      <aspectTerm from="146" term="Programm" to="154"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="96">
+    <text>Sehr gut</text>
+  </sentence>
+  <sentence id="97">
+    <text>!!!</text>
+  </sentence>
+  <sentence id="98">
+    <text>Noch nicht sehr bekannt, dass man mit vielen schreiben kann</text>
+  </sentence>
+  <sentence id="99">
+    <text>Check aber net wie emojis gehen</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="emojis" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="100">
+    <text>Ich nutze selber seit einen Jahr Whatsapp, und bin (bis jetzt) sehr zufrieden mit diesen Messenger. Das neue Update mit den blauen Häckchen gefällt mir auch super.</text>
+    <aspectTerms>
+      <aspectTerm from="34" term="Whatsapp" to="42"/>
+      <aspectTerm from="90" term="Messenger" to="99"/>
+      <aspectTerm from="110" term="Update" to="116"/>
+      <aspectTerm from="125" term="blauen Häckchen" to="140"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="101">
+    <text>Wer abgehört werden will na los 📧📧📧</text>
+  </sentence>
+  <sentence id="102">
+    <text>Whatsapp laesst sich nicht mehr oeffen. Ich werde , nachdem ich versuche Whatsapp zu oeffnen , wieder ins Hauptmenü zurueckgebracht.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Whatsapp" to="9"/>
+      <aspectTerm from="33" term="oeffen" to="39"/>
+      <aspectTerm from="74" term="Whatsapp" to="82"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="103">
+    <text>Läuft ohne Probleme</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Läuft" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="104">
+    <text>Hängt nur noch..</text>
+  </sentence>
+  <sentence id="105">
+    <text>Super aber es könnte ein paar neue smilies geben</text>
+    <aspectTerms>
+      <aspectTerm from="36" term="smilies" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="106">
+    <text>Eine sortierung nach accounts wäre sinnvoll</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="sortierung nach accounts" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="107">
+    <text>Ich habe mir ein HTC gekauft, weil ich kein Apple haben möchte. Dieser Look ist einfach nur furchtbar. Lasst euch doch nicht einreden, das IOS7 stylisch und modern wäre. Ganz klar ein Schritt nach hinten...</text>
+    <aspectTerms>
+      <aspectTerm from="72" term="Look" to="76"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="108">
+    <text>Ich kann whats app nicht mal mehr herunter laden!!!!!!!!!!!! -.-&quot;</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="whats app" to="19"/>
+      <aspectTerm from="35" term="herunter laden" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="109">
+    <text>Kann mich net beklage läuft einwandfrei</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="läuft" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="110">
+    <text>Nach dem update neues Profil und mein altes kann ich nicht mehr herstellen da geht das Fenster nicht auf mit weiter. Was ist das bitte um schnelle bearbeitung. Dann gibt es wieder mehr Sterne</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="update" to="16"/>
+      <aspectTerm from="23" term="Profil" to="29"/>
+      <aspectTerm from="148" term="bearbeitung" to="159"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="111">
+    <text>gut</text>
+  </sentence>
+  <sentence id="112">
+    <text>Wie hässlich. Einfach nur zum wegdchauen</text>
+  </sentence>
+  <sentence id="113">
+    <text>Vor dem update War snapchat besser man sieht bei anderen keine besten Freunde mehr das nervt :/ auch eine Übersicht wer mich hinzugefügt hat ist nicht mehr da! Bitte verbessern dann perfekt</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="update" to="15"/>
+      <aspectTerm from="107" term="Übersicht" to="116"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="114">
+    <text>Stürzt nur ab</text>
+  </sentence>
+  <sentence id="115">
+    <text>Ich habe seit der Aktualisierung Probleme beim Audio Nachrichten abhören der Hintergrund wird dunkel und alles ganz leise</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="Aktualisierung" to="33"/>
+      <aspectTerm from="48" term="Audio Nachrichten" to="65"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="116">
+    <text>Whatsapp plus ist beschtes</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Whatsapp plus" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="117">
+    <text>Ich finde die App einfach nur perfekt . Seit dem letztem update kann man jetzt sogar kostenlos Telefonieren ^ ^ &amp;gt; \__/</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="App" to="18"/>
+      <aspectTerm from="58" term="update" to="64"/>
+      <aspectTerm from="96" term="Telefonieren" to="108"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="118">
+    <text>Erst wenn man die App mal zufällig öffnet. Android 4.1.2 / LG P700</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="App" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="119">
+    <text>Ist das gleiche wie what's app nur ausgeklügelter denn man kann alle nicht schriftlichen Nachrichten besser versenden.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="what's app" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="120">
+    <text>Super App kann ich nur weiterempfehlen :)</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="121">
+    <text>Die App ist Spitze, leider hat es nur niemand... Aus meiner Adressliste von 400 Personen haben es lediglich 5...</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="28" term="hat es nur niemand" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="122">
+    <text>Mir wird dieser code per SMS nicht gesendet , wenn der gesendet wird gib ich alle sterne außer es kommen noch mehr Beschwerden</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="code per SMS" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="123">
+    <text>Bin begeistert</text>
+  </sentence>
+  <sentence id="124">
+    <text>Super !!!!</text>
+  </sentence>
+  <sentence id="125">
+    <text>Kann die app nicht einmal öffnen !!</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="app" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="126">
+    <text>Einfach cool. Es macht echt viel Spaß wenn man mit den anderen schreiben kann nur ab und zu hängt es</text>
+    <aspectTerms>
+      <aspectTerm from="63" term="schreiben" to="72"/>
+      <aspectTerm from="92" term="hängt" to="97"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="127">
+    <text>Toll das es waths app gibt</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="waths app" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="128">
+    <text>Oh yes perfekt</text>
+  </sentence>
+  <sentence id="129">
+    <text>An Chris:du kannst mit mehreren gleichreitig telefonieren nur braucht einer der alle anderen hat mit denen ihr telefoniren wollt skype am computer</text>
+    <aspectTerms>
+      <aspectTerm from="46" term="telefonieren" to="58"/>
+      <aspectTerm from="130" term="skype" to="135"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="130">
+    <text>♡♥♡</text>
+  </sentence>
+  <sentence id="131">
+    <text>Bekomme meine nachrichten erst wenn ich onliine bin was das mensch T_T</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="nachrichten" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="132">
+    <text>Es wäre geil wenn son grüner punkt auf den kontakten wäre wenn sie on wären und wenn se off sind dann kein punkt wäre echt geil</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="grüner punkt auf den kontakten" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="133">
+    <text>Läd nicht runter</text>
+  </sentence>
+  <sentence id="134">
+    <text>Das ist scheiße wenn ich es mir insatliere steht da immer ungültiges Paket</text>
+    <aspectTerms>
+      <aspectTerm from="32" term="insatliere" to="42"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="135">
+    <text>Wäre schön wenn bei den Update Neuigkeiten mal was neues stehen würde</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="Update Neuigkeiten" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="136">
+    <text>Macht was es soll</text>
+  </sentence>
+  <sentence id="137">
+    <text>Whatsapp hat sich gerade aufgehängt, dann alle Nachrichten neu geladen, und jetzt funktioniert es überhaupt nicht mehr. Bitte beheben!</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Whatsapp" to="8"/>
+      <aspectTerm from="47" term="Nachrichten" to="58"/>
+      <aspectTerm from="82" term="funktioniert" to="94"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="138">
+    <text>Checkt mich aus bei Instagram und Snapchat Jayniks15</text>
+  </sentence>
+  <sentence id="139">
+    <text>Ich liebe snapchat, aber seit dem neusten update spackt es so hart rum. Bitte Bug fix</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="snapchat" to="19"/>
+      <aspectTerm from="43" term="update" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="140">
+    <text>Weil die Meisten zu dumm oder zu faul sind, kann man viel bessere Programme mit besserem Schutz und fast gleichem Funktionsumfang (zB. Textsecure) nicht nutzen. Eines kann TS nicht, aber wer braucht bitteschön Gruppenchats?...</text>
+    <aspectTerms>
+      <aspectTerm from="211" term="Gruppenchats" to="223"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="141">
+    <text>Die app ist super mann kann garnichts dazu dagen echt so 👍</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="app" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="142">
+    <text>Echt gute app :D</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="app" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="143">
+    <text>Nice</text>
+  </sentence>
+  <sentence id="144">
+    <text>Sehr gut 👍 beste Whatsapp-Alternative</text>
+  </sentence>
+  <sentence id="145">
+    <text>Stürzt dauerhaft ab</text>
+  </sentence>
+  <sentence id="146">
+    <text>Ich kann nicht nachvollziehen wieso WhatsApp+ Nutzer gesperrt werden. Man sollte eher darüber nachdenken wieso so viele Leute auf WhatsApp+ umsteigen.</text>
+  </sentence>
+  <sentence id="147">
+    <text>Selbe Problem</text>
+  </sentence>
+  <sentence id="148">
+    <text>Lol</text>
+  </sentence>
+  <sentence id="149">
+    <text>Also whatsapp ist nur weiter zu empfehlen👌 mit dieser app kanns man Leute kostenlos schreiben und kostenfrei kontaktieren. Ich finde es toll dass die app PRO Jahr nur um die 80¢ kostet 😊</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="whatsapp" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="150">
+    <text>Super app einfach super</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="app" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="151">
+    <text>Mir fehlen die blauen Häkchen ; (</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="blauen Häkchen" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="152">
+    <text>Hab lw bin w/12 snapped mich mal an (m o. w) : nessamausi_27 ...freu mich ;)</text>
+  </sentence>
+  <sentence id="153">
+    <text>Soweit alles gut</text>
+  </sentence>
+  <sentence id="154">
+    <text>Voll cool wäre aber cool wen man das mit 2gäreten verbinden könnte</text>
+    <aspectTerms>
+      <aspectTerm from="41" term="2gäreten verbinden" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="155">
+    <text>Seit dem neuesten Update leider nicht mehr so toll. Es wäre schön, wenn die Liste der besten Freunde wieder einsehbar wäre.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="Update" to="25"/>
+      <aspectTerm from="77" term="Liste der besten Freunde" to="101"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="156">
+    <text>Ich hab eingegeben das ich weiblich bin &amp; etz steht männlich da...&amp; bei meinen Geburtstag haben die auch das Datum anders mitgemacht, was soll das?! Ich habs richtig eingegeben....&amp; bei mir kommt nie eine Benachrichtigung das ich in icq eine Mail bekommen hab....hab es mir anders vorgestellt...</text>
+  </sentence>
+  <sentence id="157">
+    <text>Und zwar, Dauer der Vibration zu lang. Bitte Option um Dauer und Art der Vibration selbst bestimmen zu können einfügen. Dann, wenn man smileys einfügen will, finde ich dauert das aufrufen dieser zT recht lange. Cool wäre es auch wenn man einem Freund threema kaufen und verschenken könnte alá &quot;steam gifts&quot; . Und sprachnotizen wären top</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="Dauer der Vibration" to="30"/>
+      <aspectTerm from="74" term="Vibration selbst bestimmen" to="100"/>
+      <aspectTerm from="136" term="smileys einfügen" to="152"/>
+      <aspectTerm from="271" term="verschenken" to="282"/>
+      <aspectTerm from="314" term="sprachnotizen" to="327"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="158">
+    <text>Sehr gut😊</text>
+  </sentence>
+  <sentence id="159">
+    <text>Top</text>
+  </sentence>
+</sentences>

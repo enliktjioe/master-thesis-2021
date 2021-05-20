@@ -1,0 +1,844 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="8000">
+    <text>Gut</text>
+  </sentence>
+  <sentence id="8001">
+    <text>Material Design fehlt</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Material Design" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8002">
+    <text>Einfach gut....</text>
+  </sentence>
+  <sentence id="8003">
+    <text>Hervorragend</text>
+  </sentence>
+  <sentence id="8004">
+    <text>Seit 2 3 Tagen immer nur Fehler die app geht nicht mehr zu öffnen wäre echt super wenn das wieder geändert wird sonst hätte ich 5 Sterne gegeben</text>
+    <aspectTerms>
+      <aspectTerm from="37" term="app" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8005">
+    <text>Ja manchmal etwas unübersichtlich. Sonst OK ..☺</text>
+  </sentence>
+  <sentence id="8006">
+    <text>Super!!!!!!!!!!!!!!!!!!!!!!!!!</text>
+  </sentence>
+  <sentence id="8007">
+    <text>Super gemacht. Immer auf dem laufenden.</text>
+  </sentence>
+  <sentence id="8008">
+    <text>...der geilste Sport der Welt. Und der Kicker ist und bleibt die beste Zeitung der Welt. Auch in diesem Format. Die letzten zwei Updates waren super und sehr sinnvoll. Danke und weiter so! P.s.: vielleicht noch drüber nachdenken, dass man eigene Toralarmtöne individuell einstellen kann...</text>
+    <aspectTerms>
+      <aspectTerm from="130" term="Updates" to="137"/>
+      <aspectTerm from="247" term="Toralarmtöne individuell einstellen" to="282"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8009">
+    <text>Seit der letzten Aktualisierung nur noch Scheisse. Hängt sich immer wieder auf. Vielleicht gibt es jemanden der das in Griff bekommt. Bis jetzt war sie top.</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Aktualisierung" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8010">
+    <text>Update auf Samsung S2 gescheitert: Paketdatei ungueltig. Nachtrag: am 2.5. korrigiert.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Update" to="7"/>
+      <aspectTerm from="36" term="Paketdatei" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8011">
+    <text>Geil</text>
+  </sentence>
+  <sentence id="8012">
+    <text>Mein erster Erfahrungsbericht , weils echt übel ist ! Die alte App war um längen besser. Jetzt nur Werbung, lange Ladezeiten und dann Absturz, haha. Schlecht getestet und zu schnell online gestellt..... Also App löschen ! Versucht doch mal Sportstudio ! keine Werbung, schnell, nicht überladen !</text>
+    <aspectTerms>
+      <aspectTerm from="59" term="alte App" to="67"/>
+      <aspectTerm from="100" term="Werbung" to="107"/>
+      <aspectTerm from="115" term="Ladezeiten" to="125"/>
+      <aspectTerm from="209" term="App" to="212"/>
+      <aspectTerm from="241" term="Sportstudio" to="252"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8013">
+    <text>Ganz gut - Bin Zufrieden halt damit !!! Samsung Galaxy S3 funktioniert einwandfrei die App's !!!</text>
+    <aspectTerms>
+      <aspectTerm from="58" term="funktioniert" to="70"/>
+      <aspectTerm from="87" term="App's" to="92"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8014">
+    <text>Top Ap. Nur den Ton bekomme ich einfach nicht abgeschaltet bei Benachrichtigung. Das ist schlecht.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="Ap" to="6"/>
+      <aspectTerm from="16" term="Ton" to="19"/>
+      <aspectTerm from="63" term="Benachrichtigung" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8015">
+    <text>davon abgesehen dass die App immer viiiiieeel zu lange läd und das total nervig ist. Und bei dem News Feed Widged wird immer der falsche Bericht angezeigt. Bitte ändern!!!</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="App" to="29"/>
+      <aspectTerm from="56" term="läd" to="59"/>
+      <aspectTerm from="98" term="News Feed Widged" to="114"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8016">
+    <text>Tolle App</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8017">
+    <text>seit dem update lassen sich die artikel nicht mehr öffnen!!! ich hoffe da wird so schnell wie möglich was gemacht...</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="update" to="16"/>
+      <aspectTerm from="33" term="artikel" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8018">
+    <text>Super Sache ohne Probleme !!!!</text>
+  </sentence>
+  <sentence id="8019">
+    <text>Ich habe zuvor noch keine App gefunden, die so schnell meldet, dass ein Tor gefallen ist. Diese Hauptfunktion der App ist sensationell. Auch die Möglichkeit, einzelne Spiele von den Tormeldungen auszuschließen, ist eine sinnvolle Option für Leute, die sich nicht wie ich für alle Spiele interessieren. Einziger Verbesserungsvorschlag meinerseits wäre es, noch jeweils per Klick die aktuellen Aufstellungen mit anzuzeigen. Aber letztendlich eine gute App, die ich jedem Fußballfan empfehlen kann.</text>
+    <aspectTerms>
+      <aspectTerm from="56" term="meldet" to="62"/>
+      <aspectTerm from="97" term="Hauptfunktion" to="110"/>
+      <aspectTerm from="115" term="App" to="118"/>
+      <aspectTerm from="183" term="Tormeldungen auszuschließen" to="210"/>
+      <aspectTerm from="393" term="Aufstellungen mit anzuzeigen" to="421"/>
+      <aspectTerm from="451" term="App" to="454"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8020">
+    <text>Super</text>
+  </sentence>
+  <sentence id="8021">
+    <text>Ganz gut. Ein wenig unkomfortabel</text>
+  </sentence>
+  <sentence id="8022">
+    <text>Hamma</text>
+  </sentence>
+  <sentence id="8023">
+    <text>Super</text>
+  </sentence>
+  <sentence id="8024">
+    <text>Geil</text>
+  </sentence>
+  <sentence id="8025">
+    <text>Cool</text>
+  </sentence>
+  <sentence id="8026">
+    <text>Jedes mal stürzt das ab !</text>
+  </sentence>
+  <sentence id="8027">
+    <text>Automatische Aktualisierung im Liveticker wäre noch gut.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Automatische Aktualisierung" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8028">
+    <text>Top - für mich genau richtig</text>
+  </sentence>
+  <sentence id="8029">
+    <text>Toll gerade wollte ich fünf Sterne für eine richtig gute App vergeben. Nun mache ich ein update und nix geht mehr😠. Das war es dann mit den Sternen. Suche mir ne andere App.</text>
+    <aspectTerms>
+      <aspectTerm from="58" term="App" to="61"/>
+      <aspectTerm from="90" term="update" to="96"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8030">
+    <text>Sehr gute app live ticker und alles way du wissen willst ist vorhanden</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="app" to="14"/>
+      <aspectTerm from="15" term="live ticker" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8031">
+    <text>Schlecht ist sie net aber gut auch net</text>
+  </sentence>
+  <sentence id="8032">
+    <text>Beste Ticker ever</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Ticker" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8033">
+    <text>Alles supper.. leider fehlt da noch dass man Widget benutzen kann.. und dass es immer angesagt bekommt ob ein tor gefallen ist oder nicht!!!!!</text>
+    <aspectTerms>
+      <aspectTerm from="46" term="Widget" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8034">
+    <text>Top</text>
+  </sentence>
+  <sentence id="8035">
+    <text>Unverzichtbar</text>
+  </sentence>
+  <sentence id="8036">
+    <text>Macht was sie soll. Man bekommt alle Nachrichten...guten Überblick über den Spieltag und Tabellen. Alles was man braucht. Kann die APP nur empfehlen.</text>
+    <aspectTerms>
+      <aspectTerm from="58" term="Überblick" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8037">
+    <text>1 Stern ist noch zu viel! Aus etwas gutem nen Haufen Dreck gemacht! Das beste Beispiel dafür, dass bei BILD nur Nullnummern eingestellt werden!</text>
+  </sentence>
+  <sentence id="8038">
+    <text>Top</text>
+  </sentence>
+  <sentence id="8039">
+    <text>Auf dhd extrem langsam. Auf dem iPhone um Welten besser. Eig ne gute App aber wenn sie performance nicht verbessert wird kommt die App weg!</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="dhd" to="7"/>
+      <aspectTerm from="32" term="iPhone" to="38"/>
+      <aspectTerm from="69" term="App" to="72"/>
+      <aspectTerm from="87" term="performance" to="98"/>
+      <aspectTerm from="131" term="App" to="134"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8040">
+    <text>Nach einer woche muss man bundesliga bei abonnieren 4€</text>
+  </sentence>
+  <sentence id="8041">
+    <text>Sehr oft beim Liveticker Bluescreen.</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="Liveticker" to="25"/>
+      <aspectTerm from="26" term="Bluescreen" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8042">
+    <text>Sehr schade, dass die WM der Damen hier gar nicht berücksichtigt wird.......das wäre bei den Herren nicht passiert...</text>
+  </sentence>
+  <sentence id="8043">
+    <text>Das neue update ist so schlecht es dauert viel länger beim laden und es ist viel unübersichtlicher</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="update" to="16"/>
+      <aspectTerm from="60" term="laden" to="65"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8044">
+    <text>gut</text>
+  </sentence>
+  <sentence id="8045">
+    <text>Es ist schneller als so manche Übertragung, man hat einen guten Überblick und seit dem Update, ein top design.</text>
+    <aspectTerms>
+      <aspectTerm from="65" term="Überblick" to="74"/>
+      <aspectTerm from="88" term="Update" to="94"/>
+      <aspectTerm from="104" term="design" to="110"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8046">
+    <text>Nach dem Update funktionieren auf dem HTC DHD nur noch die News. Bei allen anderen Sachen bleibt der Bildschirm weiss...</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Update" to="16"/>
+      <aspectTerm from="39" term="HTC DHD" to="46"/>
+      <aspectTerm from="102" term="Bildschirm" to="112"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8047">
+    <text>Klasse</text>
+  </sentence>
+  <sentence id="8048">
+    <text>totaler Müll</text>
+  </sentence>
+  <sentence id="8049">
+    <text>;-)</text>
+  </sentence>
+  <sentence id="8050">
+    <text>Klasse!!!!</text>
+  </sentence>
+  <sentence id="8051">
+    <text>Fussball, sehr erfrischende Berichterstattung</text>
+    <aspectTerms>
+      <aspectTerm from="28" term="Berichterstattung" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8052">
+    <text>Also ich finde es wieder gut aber leider nicht perfeckt den MANCHMAL läd es langsam:( aber hey sonst ist alles gut leute! Runterladen ich empfehle es euch!!!</text>
+    <aspectTerms>
+      <aspectTerm from="70" term="läd" to="73"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8053">
+    <text>Ganz gut</text>
+  </sentence>
+  <sentence id="8054">
+    <text>Stürzt seid Android update auf 5.0.1 leider beim starten ab. Samsung Galaxy Note Edge</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="update" to="27"/>
+      <aspectTerm from="62" term="Samsung Galaxy Note Edge" to="86"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8055">
+    <text>Alles wieder wie gewohnt zuverlässig und schnell. Schön wäre, wenn der Torschütze und die Spielminute direkt im Spotlight angezeigt würden. Dann könnte man sich das lästige Tippen in die richtige Liga und Spiel ersparen. Ansonsten ist die App absolut zu empfehlen. Tipp: In der pro Version kann man sich für kleines Geld die Werbung ersparen.</text>
+  </sentence>
+  <sentence id="8056">
+    <text>Weiter so++</text>
+  </sentence>
+  <sentence id="8057">
+    <text>Push geht wieder</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Push" to="5"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8058">
+    <text>Es gibt nicht mehr alle Mannschaften ! Bei meinem Verein (Sv Alfhausen) fehlt die D2 zum Beispiel</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="Mannschaften" to="36"/>
+      <aspectTerm from="82" term="D2" to="84"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8059">
+    <text>Stürzt in letzter zeit ständig ab. Bitte fehler beheben. Sonst eine top app</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Stürzt" to="7"/>
+      <aspectTerm from="73" term="app" to="76"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8060">
+    <text>Was ein Mist, dass alte war um Längen besser</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="alte" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8061">
+    <text>Seit dem Update richtig gut. Fehlt noch ein Widget.</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="Update" to="15"/>
+      <aspectTerm from="44" term="Widget" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8062">
+    <text>Hat ne gut strategi</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="strategi" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8063">
+    <text>Alles da was man wissen will top app</text>
+    <aspectTerms>
+      <aspectTerm from="34" term="app" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8064">
+    <text>Seit dem letzten Update, stocken leider alle Videos nach ein paar Sekunden und hängt sich die ganze Zeit auf. Außerdem sind alle Statistikwerte in den einzelnen Ligen falsch (Heim - und Auswärtstabelle sind alle Werte vertauscht). Bitte die Fehler beheben. Ansonsten gute App.</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Update" to="23"/>
+      <aspectTerm from="129" term="Statistikwerte" to="143"/>
+      <aspectTerm from="272" term="App" to="275"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8065">
+    <text>Ich mag diese app weil es alles giebt wonach man im fussball sucht</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="app" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8066">
+    <text>Sport App</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Sport App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8067">
+    <text>Schade um die alte App, unübersichtlich, nur Links, viel Werbung, Hände weg...</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="alte App" to="22"/>
+      <aspectTerm from="45" term="Links" to="50"/>
+      <aspectTerm from="57" term="Werbung" to="64"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8068">
+    <text>4 Sterne da die app nicht für die 3 Liga ausgelegt ist wenn ein Tor fällt sonst alles super</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="app" to="19"/>
+      <aspectTerm from="34" term="3 Liga" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8069">
+    <text>Man weis einfach uber alles und es ist so geil</text>
+  </sentence>
+  <sentence id="8070">
+    <text>Man erfährt eine fache alles so schnell über Fußball</text>
+  </sentence>
+  <sentence id="8071">
+    <text>Gut</text>
+  </sentence>
+  <sentence id="8072">
+    <text>Ich möchte nur die aktuellen Berichte lesen, doch leider ist es seit dem update unmöglich geworden! Teilweise lädt es über eine Minute und das mit WLAN und 16000er Leitung. Bild+ist Müll und dieses Update zur &quot;Bundesliga bei Bild&quot; reiht sich nahtlos ein!</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="aktuellen Berichte lesen" to="44"/>
+      <aspectTerm from="74" term="update" to="80"/>
+      <aspectTerm from="111" term="lädt" to="115"/>
+      <aspectTerm from="199" term="Update" to="205"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8073">
+    <text>Seit letztem update 31.1. geht gar nichts mehr, ewige Ladezeiten. Sofort beheben auch am 3.2. hat nichts funktioniert. Alles kam viel zu spät. Bitte beheben. Nach update vom 4.2. wieder super flott und aktuell. Nur das deaktivieren vom stummschalten klappt noch nicht. Ich deaktivierte und anschließend ist es wieder stummgeschaltet</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="update" to="20"/>
+      <aspectTerm from="55" term="Ladezeiten" to="65"/>
+      <aspectTerm from="106" term="funktioniert" to="118"/>
+      <aspectTerm from="164" term="update" to="170"/>
+      <aspectTerm from="220" term="deaktivieren vom stummschalten" to="250"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8074">
+    <text>Geile app aber akku verbrauch nicht normal...</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="app" to="10"/>
+      <aspectTerm from="16" term="akku verbrauch" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8075">
+    <text>Sehr gut immer informiert</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="informiert" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8076">
+    <text>Top</text>
+  </sentence>
+  <sentence id="8077">
+    <text>Man hat eine große Auswahl an Topligen, Nationaler und Internationaler Pokalwettbewerbe. Dazu alle Statistiken im Überblick. Super!!!</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="Auswahl" to="27"/>
+      <aspectTerm from="100" term="Statistiken" to="111"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8078">
+    <text>Sehr Gut</text>
+  </sentence>
+  <sentence id="8079">
+    <text>Schade das man nicht bei allen zuhören kann</text>
+  </sentence>
+  <sentence id="8080">
+    <text>Nur noch flackern! App startet nicht mehr, sonst sehr gut...</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="App" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8081">
+    <text>Seit Update unbrauchbar. Deinstall.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Update" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8082">
+    <text>Top App,die aktuellen Tore werden sofort übermittelt,habe es soeben getestet.Super!Genial!</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="13" term="aktuellen Tore" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8083">
+    <text>gut bis sehr gut</text>
+  </sentence>
+  <sentence id="8084">
+    <text>Einfach super! Informativ, der beste Ticker und sehr gute Beiträge!</text>
+    <aspectTerms>
+      <aspectTerm from="38" term="Ticker" to="44"/>
+      <aspectTerm from="59" term="Beiträge" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8085">
+    <text>Gut</text>
+  </sentence>
+  <sentence id="8086">
+    <text>Schwer übersichtlich sonst sehr gut !!</text>
+  </sentence>
+  <sentence id="8087">
+    <text>Finde ich informativ und überschaubar</text>
+  </sentence>
+  <sentence id="8088">
+    <text>Son Schwachsinn kann sich auch nur die Bild wiedermal ausdenken. Nun soll man dafür auch noch bezahlen ??!! Bleibt mir bloß gestohlen. Ein Appell an alle: löscht diese app und setzt ein Zeichen ! Minus 100 Sterne für diese Aktion !!!</text>
+  </sentence>
+  <sentence id="8089">
+    <text>Bvb wird immer aktualisiert gg</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Bvb" to="4"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8090">
+    <text>Bei mir läuft es ein perfekt ich weiß garnicht was andere haben ich bin total zufrieden mit der app lohnt sich auf jedenfall und ich empfehle es einfach für ein richtigen Fußball Fan absolut die beste app</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="läuft" to="14"/>
+      <aspectTerm from="97" term="app" to="100"/>
+      <aspectTerm from="202" term="app" to="205"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8091">
+    <text>Prima App</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8092">
+    <text>Top das beste was es gibt</text>
+  </sentence>
+  <sentence id="8093">
+    <text>Starkes Design, schlicht und übersichtlich gestaltet Top Top Top!</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="Design" to="15"/>
+      <aspectTerm from="44" term="gestaltet" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8094">
+    <text>Die alte APP war einfach mal um Längen besser!! Unverschämt dieses ewige laden und die unübersichtlichkeit! Das schönste ist, dass die alten Bewertungen noch drin sind!</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="alte APP" to="13"/>
+      <aspectTerm from="74" term="laden" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8095">
+    <text>Klasse macht laune</text>
+  </sentence>
+  <sentence id="8096">
+    <text>Absoluter Müll! Mein Club war 1000 mal besser... Fast nur Abstürze und viel weniger einfache Möglichkeiten auch für die internationalen Ligen. Das einzige was besser ist, ist das Design... Design behalten Mein Club zurück!</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Mein Club" to="26"/>
+      <aspectTerm from="59" term="Abstürze" to="67"/>
+      <aspectTerm from="121" term="internationalen Ligen" to="142"/>
+      <aspectTerm from="180" term="Design" to="186"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8097">
+    <text>es passt einfach alles nur mein Internet spinnt manchmal rum aber das passt schon</text>
+  </sentence>
+  <sentence id="8098">
+    <text>Super App !!</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8099">
+    <text>Bis heute hab ich die App seit ihren Anfängen begleitet, auch wenn in letzter Zeit immer frustrierter. Seit gestern kann ich die App nicht nutzen. Über den Startscreen mit der Ladeinformation mit ständigem Neuladen des Layouts komme ich nicht hinaus. Cache leeren, Daten löschen, reinstall bringt nichts... Galaxy s5 + Android 5.0 + WLAN / Mobilfunk</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="App" to="26"/>
+      <aspectTerm from="130" term="App" to="133"/>
+      <aspectTerm from="207" term="Neuladen des Layouts" to="227"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8100">
+    <text>Des isch wurscht wia m' r des Kendle Nennet, die Hauptsach &quot;onda&quot; kommt Fussball raus... machet weiter so gruaß der Gutzi</text>
+  </sentence>
+  <sentence id="8101">
+    <text>Wenn man über die Benachrichtigung die App öffnet muss man erstmal manuell aktualisieren um das zu finden, was einem da gerade angepriesen wurde... schlecht Stürzt ständig ab beim öffnen von Artikeln...schlecht Miese Leistung für eine Art Browsererweiterung. Dann ruf ich die 11-Freunde-Seite lieber gleich über den Browser auf.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="Benachrichtigung" to="35"/>
+      <aspectTerm from="40" term="App" to="43"/>
+      <aspectTerm from="181" term="öffnen von Artikeln" to="200"/>
+      <aspectTerm from="218" term="Leistung" to="226"/>
+      <aspectTerm from="277" term="11-Freunde-Seite" to="293"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8102">
+    <text>Top</text>
+  </sentence>
+  <sentence id="8103">
+    <text>Gut aber hängt manchmal</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="hängt" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8104">
+    <text>Ist lol</text>
+  </sentence>
+  <sentence id="8105">
+    <text>Ganz gut, bis auf das das spiel bei meiner mannschaft nie das aktuelle ist..aber sonst echt spitze..</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="spiel" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8106">
+    <text>Funktioniert nicht mehr zuverlässig seit dem letzten update vorher war die app gut</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Funktioniert" to="13"/>
+      <aspectTerm from="54" term="update" to="60"/>
+      <aspectTerm from="76" term="app" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8107">
+    <text>Super</text>
+  </sentence>
+  <sentence id="8108">
+    <text>Ganz nett</text>
+  </sentence>
+  <sentence id="8109">
+    <text>App lässt sich nicht mehr öffnen nur noch geblinke und schreib Fehler beim laden Bitte beheben</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="App" to="3"/>
+      <aspectTerm from="42" term="geblinke" to="50"/>
+      <aspectTerm from="75" term="laden" to="80"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8110">
+    <text>Hoch lebe der deutsche fussball</text>
+  </sentence>
+  <sentence id="8111">
+    <text>richtig gut das ne Meldung kommt wenn tore passieren auch fur Champions League</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="Meldung" to="27"/>
+      <aspectTerm from="63" term="Champions League" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8112">
+    <text>Super Sache !</text>
+  </sentence>
+  <sentence id="8113">
+    <text>Klasse !</text>
+  </sentence>
+  <sentence id="8114">
+    <text>Gut!</text>
+  </sentence>
+  <sentence id="8115">
+    <text>Seit dem Update kann man die app wirklich nicht mehr gebrauchen. 1 Liga Spieltag 0......... 😠 Optisch meiner Meinung nach ein Rückschritt!!!!! 😨</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Update" to="16"/>
+      <aspectTerm from="30" term="app" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8116">
+    <text>Eigentlich noch nie Nee bessere App gesehen wie diese! Hat alles was man braucht, um auf dem laufenden über seinen Klub zu sein!</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="App" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8117">
+    <text>ich durfte das spiel von BVB net sehen und hab dann hierdurch alles erfahren was ich wissen wollte</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="spiel" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8118">
+    <text>Wäre toll wenn man noch was wäre wenn machen könnte</text>
+  </sentence>
+  <sentence id="8119">
+    <text>Ansonsten kann ich mich nicht beschweren, finde diese App sinnig, dar ich in dem Wohngebiet, also hier in 585xx sowieso nicht so gutes Netzwerk habe... Ich wünsche allen Nutzern noch viel Spaß beim Stöbern durch die Kicker live-App, auch wenn`s ein wenig länger dauert mit dem Aufbau spezieller Seiten. Eventuell kann man ja dieses Bug irgendwie beim nächsten Update gefixt kriegen?! Wäre schön, liebe Freunde bei Kicker...</text>
+    <aspectTerms>
+      <aspectTerm from="55" term="App" to="58"/>
+      <aspectTerm from="217" term="Kicker live-App" to="232"/>
+      <aspectTerm from="278" term="Aufbau spezieller Seiten" to="302"/>
+      <aspectTerm from="333" term="Bug" to="336"/>
+      <aspectTerm from="361" term="Update" to="367"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8120">
+    <text>Nach dem Update ladet die App sehr langsam, gefällt mir nicht mehr.</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="Update" to="15"/>
+      <aspectTerm from="16" term="ladet" to="21"/>
+      <aspectTerm from="26" term="App" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8121">
+    <text>Es ist immer aufen neuen stand 1liga,2liga und sogar 3liga und dann noch........... voll toll.</text>
+    <aspectTerms>
+      <aspectTerm from="32" term="1liga" to="37"/>
+      <aspectTerm from="38" term="2liga" to="43"/>
+      <aspectTerm from="54" term="3liga" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8122">
+    <text>Sehr gut erhaltenes Exemplar mit leichten Zugang zu den Themen Familie</text>
+  </sentence>
+  <sentence id="8123">
+    <text>Seit dem neuen Abo Tabelle nur nach Abschluss eines Abos.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="Tabelle" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8124">
+    <text>Echt klasse. ...nix zu meckern. .... Wie lange wollt ihr denn noch ein und das selbe abdate machen.... Langsam ist gut... Zu mal da nie was bei rum kommt....</text>
+    <aspectTerms>
+      <aspectTerm from="86" term="abdate" to="92"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8125">
+    <text>Geht voll nicht und das bei den lustigen Live Tickern :(</text>
+    <aspectTerms>
+      <aspectTerm from="42" term="Live Tickern" to="54"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8126">
+    <text>Gibt nur 3 Sterne weil es manchmal aussetzt</text>
+    <aspectTerms>
+      <aspectTerm from="35" term="aussetzt" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8127">
+    <text>Einfach super</text>
+  </sentence>
+  <sentence id="8128">
+    <text>Viel zu kleines Layout fürs Tablet</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Layout" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8129">
+    <text>-Liveticker geht nicht -kriege keine Benachrichtigungen mehr -BITTE BEARBEITEN SONST WIRD DIE APP DEINSTALLIERT! -Die App WAR mal die beste Fussball app ... jz muss ich mich woanders umsehen</text>
+    <aspectTerms>
+      <aspectTerm from="38" term="Benachrichtigungen" to="56"/>
+      <aspectTerm from="119" term="App" to="122"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8130">
+    <text>TOP</text>
+  </sentence>
+  <sentence id="8131">
+    <text>Sehr gut jedoch ist dass Design etwas langweilig und unübersichtlich</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="Design" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8132">
+    <text>Ich habe die app, weil ich selbst im verein spiele!app stürzt sehr oft ab,ob jetzt kurz nach starten der app oder mitten beim suchen kommt die meldung fussball.de angehalten und man bekommt die möglichkeit ein bericht zu senden oder auf ok zu drücken um nochmal die app zu starten einfach schwach.die 3 sterne sind eigentlich auch zu viel aber weil wenigstens kleine updates kommen,die zwar nicht was ändern wollen wir mal nicht so sein.</text>
+    <aspectTerms>
+      <aspectTerm from="52" term="app" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8133">
+    <text>Hammer</text>
+  </sentence>
+  <sentence id="8134">
+    <text>Cool man kann Fußball Eishockey und...im live ticker die ergebinsse angucken</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="Fußball" to="21"/>
+      <aspectTerm from="22" term="Eishockey" to="31"/>
+      <aspectTerm from="41" term="live ticker" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8135">
+    <text>Gefällt mir sehr gute app klasse</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="app" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8136">
+    <text>Unter Android 5 ist die App nicht zu gebrauchen. Beim navigieren durch die Ligen stürzt sie regelmäßig ab, was echt nervig ist.</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="App" to="28"/>
+      <aspectTerm from="55" term="navigieren durch die Ligen" to="81"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8137">
+    <text>Cool cool</text>
+  </sentence>
+  <sentence id="8138">
+    <text>Sehr gut.</text>
+  </sentence>
+  <sentence id="8139">
+    <text>schöner Zeitvertreib.super</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="Zeitvertreib" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8140">
+    <text>Einfach 100% geil</text>
+  </sentence>
+  <sentence id="8141">
+    <text>Immer diese Fehler nach updates</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="updates" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8142">
+    <text>Die Spiele sind schon längst vorbei, aber hier steht immer die 0. War nicht immer so, aber im Moment nur schlecht. Erklärung sind Server Probleme. Leider viel zu oft.</text>
+    <aspectTerms>
+      <aspectTerm from="131" term="Server Probleme" to="146"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8143">
+    <text>Sehr gut!</text>
+  </sentence>
+  <sentence id="8144">
+    <text>Man bekommt immer aktuelle informationen vom lieblingsverein wenn man ein Spiel nicht anschauen kann. Man findet sich gut zurecht. Nur zu empfehlen.</text>
+    <aspectTerms>
+      <aspectTerm from="28" term="informationen" to="41"/>
+      <aspectTerm from="107" term="findet" to="113"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8145">
+    <text>Cool</text>
+  </sentence>
+  <sentence id="8146">
+    <text>Besser geht's nicht!!! Seit dem Update aber kein Toralarm:-( Bitte beheben!</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="Update" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8147">
+    <text>Die App ist echt klasse. (Galaxy S) Ich nutze sie hauptsächlich für die Bundesliga und hiermit bin ich sehr zufrieden. Mit am Besten finde ich, dass man Alerts für seine Lieblingsmanschaft einstellen kann. Was ich aber in diesem Zusammenhang noch nicht gefunden habe ist die Möglichkeit den für die Alerts verwendeten Klingelton zu ändern. Falls das gar nicht geht, wäre es auf jeden Fall ein wünschenswertes Feature. Und wenn doch wär cool wenn mir jemand sagen könnte wie das geht.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="73" term="Bundesliga" to="83"/>
+      <aspectTerm from="154" term="Alerts" to="160"/>
+      <aspectTerm from="319" term="Klingelton zu ändern" to="339"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8148">
+    <text>man kann sehen wie spiele ausgegangen sind.</text>
+  </sentence>
+  <sentence id="8149">
+    <text>Einfach zu bedienen. Schnelle Tormeldungen.</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="bedienen" to="19"/>
+      <aspectTerm from="30" term="Tormeldungen" to="42"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8150">
+    <text>an sich gute News, App hängt sich aber hierzu zu oft auf!! daher unbrauchbar</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="News" to="18"/>
+      <aspectTerm from="20" term="App" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8151">
+    <text>Super app</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8152">
+    <text>War cool jetzt Rotz</text>
+  </sentence>
+  <sentence id="8153">
+    <text>Ich bin sehr zu frieden</text>
+  </sentence>
+  <sentence id="8154">
+    <text>macht genau was es soll und wie es beschrieben wurde. bis jetzt absolut nix auazusetzen!!!</text>
+  </sentence>
+  <sentence id="8155">
+    <text>Super App und immer Aktuell</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8156">
+    <text>Sehr flotte App, nicht so lahm wie Sport 1.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="App" to="16"/>
+      <aspectTerm from="36" term="Sport 1" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8157">
+    <text>Die App ist ansonsten genau so gut wie vorher, kommt nur in neuem, vermeintlich modernerem Design daher</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="92" term="Design" to="98"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8158">
+    <text>Gut</text>
+  </sentence>
+  <sentence id="8159">
+    <text>Nicht benutzbar in der aktuellen Version!</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="aktuellen Version" to="41"/>
+    </aspectTerms>
+  </sentence>
+</sentences>

@@ -1,0 +1,4749 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="1">
+    <text>The bread is top notch as well.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="bread" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="2">
+    <text>I have to say they have one of the fastest delivery times in the city.</text>
+    <aspectTerms>
+      <aspectTerm from="43" term="delivery times" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3">
+    <text>Food is always fresh and hot- ready to eat!</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Food" to="4"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="4">
+    <text>Did I mention that the coffee is OUTSTANDING?</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="coffee" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5">
+    <text>Certainly not the best sushi in New York, however, it is always fresh, and the place is very clean, sterile.</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="sushi" to="28"/>
+      <aspectTerm from="79" term="place" to="84"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6">
+    <text>I trust the people at Go Sushi, it never disappoints.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="people" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7">
+    <text>Straight-forward, no surprises, very decent Japanese food.</text>
+    <aspectTerms>
+      <aspectTerm from="44" term="Japanese food" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8">
+    <text>BEST spicy tuna roll, great asian salad.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="spicy tuna roll" to="20"/>
+      <aspectTerm from="28" term="asian salad" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9">
+    <text>Try the rose roll (not on menu).</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="rose roll" to="17"/>
+      <aspectTerm from="26" term="menu" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10">
+    <text>I love the drinks, esp lychee martini, and the food is also VERY good.</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="drinks" to="17"/>
+      <aspectTerm from="23" term="lychee martini" to="37"/>
+      <aspectTerm from="47" term="food" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="11">
+    <text>In fact, this was not a Nicoise salad and was barely eatable.</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="Nicoise salad" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="12">
+    <text>While there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="menu" to="27"/>
+      <aspectTerm from="71" term="drinks" to="77"/>
+      <aspectTerm from="91" term="dessert pizza" to="104"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="13">
+    <text>Once we sailed, the top-notch food and live entertainment sold us on a unforgettable evening.</text>
+    <aspectTerms>
+      <aspectTerm from="30" term="food" to="34"/>
+      <aspectTerm from="39" term="live entertainment" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="14">
+    <text>Our waiter was horrible; so rude and disinterested.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="waiter" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="15">
+    <text>The sangria's - watered down.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="sangria" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="16">
+    <text>menu - uneventful, small.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="menu" to="4"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="17">
+    <text>Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price.</text>
+    <aspectTerms>
+      <aspectTerm from="90" term="sushi" to="95"/>
+      <aspectTerm from="106" term="portions" to="114"/>
+      <aspectTerm from="135" term="price" to="140"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="18">
+    <text>Great food but the service was dreadful!</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="food" to="10"/>
+      <aspectTerm from="19" term="service" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="19">
+    <text>The portions of the food that came out were mediocre.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="portions of the food" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="20">
+    <text>the two waitress's looked like they had been sucking on lemons.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="waitress's" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="21">
+    <text>From the beginning, we were met by friendly staff memebers, and the convienent parking at Chelsea Piers made it easy for us to get to the boat.</text>
+    <aspectTerms>
+      <aspectTerm from="44" term="staff memebers" to="58"/>
+      <aspectTerm from="79" term="parking" to="86"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="22">
+    <text>We enjoyed ourselves thoroughly and will be going back for the desserts ....</text>
+    <aspectTerms>
+      <aspectTerm from="63" term="desserts" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="23">
+    <text>Desserts are almost incredible: my personal favorite is their Tart of the Day.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Desserts" to="8"/>
+      <aspectTerm from="62" term="Tart of the Day" to="77"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="24">
+    <text>I am surprised at the lower reviews because it is definitely better than other places I have tried with higher ratings.</text>
+  </sentence>
+  <sentence id="24">
+    <text>Maybe the secret was that we went on a Sunday night and everything was great.</text>
+  </sentence>
+  <sentence id="24">
+    <text>The food was extremely tasty, creatively presented and the wine excellent.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="59" term="wine" to="63"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="25">
+    <text>WE ENDED UP IN LITTLE ITALY IN LATE AFTERNOON.</text>
+  </sentence>
+  <sentence id="25">
+    <text>WE WERE PLEASANTLY SURPRISED WITH OUR CHOICE.</text>
+  </sentence>
+  <sentence id="25">
+    <text>THE LASAGNA WAS PROBABLY THE BEST I HAVE TASTED.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="LASAGNA" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="26">
+    <text>Harumi Sushi has the freshest and most delicious array of sushi in NYC.</text>
+    <aspectTerms>
+      <aspectTerm from="49" term="array of sushi" to="63"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="27">
+    <text>I highly recommend it for not just its superb cuisine, but also for its friendly owners and staff.</text>
+    <aspectTerms>
+      <aspectTerm from="46" term="cuisine" to="53"/>
+      <aspectTerm from="81" term="owners" to="87"/>
+      <aspectTerm from="92" term="staff" to="97"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="28">
+    <text>If you're craving some serious indian food and desire a cozy ambiance, this is quite and exquisite choice.</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="indian food" to="42"/>
+      <aspectTerm from="61" term="ambiance" to="69"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="29">
+    <text>I definitely enjoyed the food as well.</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="food" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="30">
+    <text>have always had a great time here.</text>
+  </sentence>
+  <sentence id="30">
+    <text>It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="service" to="40"/>
+      <aspectTerm from="61" term="garden" to="67"/>
+      <aspectTerm from="82" term="food" to="86"/>
+      <aspectTerm from="93" term="appetizers" to="103"/>
+      <aspectTerm from="107" term="entrees" to="114"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="31">
+    <text>You will be very happy with the experience.</text>
+  </sentence>
+  <sentence id="31">
+    <text>The food is surprisingly good, and the decor is nice.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="39" term="decor" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="32">
+    <text>How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and dinners!</text>
+    <aspectTerms>
+      <aspectTerm from="79" term="lunch" to="84"/>
+      <aspectTerm from="89" term="dinners" to="96"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="33">
+    <text>Two wasted steaks -- what a crime!</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="steaks" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="34">
+    <text>The staff should be a bit more friendly.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="staff" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="35">
+    <text>I absolutely suggest this place.</text>
+  </sentence>
+  <sentence id="35">
+    <text>I think the meatball parm is good.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="meatball parm" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="36">
+    <text>If you want good tasting, well seasoned latin food eat at Cabana and you can't go wrong.</text>
+    <aspectTerms>
+      <aspectTerm from="40" term="latin food" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="37">
+    <text>Definitely try the taglierini with truffles - it was incredible.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="taglierini with truffles" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="38">
+    <text>Also, the staff is very attentive and really personable.</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="staff" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="39">
+    <text>Overall, this is a great new restaurant that has been consistently good every time I have been.</text>
+  </sentence>
+  <sentence id="39">
+    <text>The gnocchi literally melts in your mouth!</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="gnocchi" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="40">
+    <text>Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.</text>
+    <aspectTerms>
+      <aspectTerm from="35" term="staff" to="40"/>
+      <aspectTerm from="55" term="food" to="59"/>
+      <aspectTerm from="83" term="portion size" to="95"/>
+      <aspectTerm from="127" term="portobello/gorgonzola/sausage appetizer" to="166"/>
+      <aspectTerm from="175" term="lobster risotto" to="190"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="41">
+    <text>Entrees include classics like lasagna, fettuccine Alfredo and chicken parmigiana.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Entrees" to="7"/>
+      <aspectTerm from="30" term="lasagna" to="37"/>
+      <aspectTerm from="39" term="fettuccine Alfredo" to="57"/>
+      <aspectTerm from="62" term="chicken parmigiana" to="80"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="42">
+    <text>The food is good, the teriyaki I recommend.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="22" term="teriyaki" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="43">
+    <text>Meal was very expensive for what you get.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Meal" to="4"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="44">
+    <text>Try the Peanut Butter Sorbet and the pizza with soy cheese!</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="Peanut Butter Sorbet" to="28"/>
+      <aspectTerm from="37" term="pizza with soy cheese" to="58"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="45">
+    <text>Good food at the right price, what more can you ask for.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="food" to="9"/>
+      <aspectTerm from="23" term="price" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="46">
+    <text>We love it, and took buses and cabs to get there.</text>
+  </sentence>
+  <sentence id="46">
+    <text>If you' re in New York, you do not want to miss this place.</text>
+  </sentence>
+  <sentence id="46">
+    <text>The food is top notch, the service is attentive, and the atmosphere is great.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="27" term="service" to="34"/>
+      <aspectTerm from="57" term="atmosphere" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="47">
+    <text>I've been coming here on and off for the past five years and I have to say that La Lanterna has never, ever dissapointed me.</text>
+  </sentence>
+  <sentence id="47">
+    <text>Great food, great waitstaff, great atmosphere, and best of all GREAT beer!</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="food" to="10"/>
+      <aspectTerm from="18" term="waitstaff" to="27"/>
+      <aspectTerm from="35" term="atmosphere" to="45"/>
+      <aspectTerm from="69" term="beer" to="73"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="48">
+    <text>this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.</text>
+    <aspectTerms>
+      <aspectTerm from="66" term="food" to="70"/>
+      <aspectTerm from="101" term="kimono shrimp special" to="122"/>
+      <aspectTerm from="154" term="atmosphere" to="164"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="49">
+    <text>My husband and I moved to Nolita 6 years ago and for as long as we have lived here, Peasant has been our favorite!</text>
+  </sentence>
+  <sentence id="49">
+    <text>The whole experience was satisfying.</text>
+  </sentence>
+  <sentence id="49">
+    <text>However, it was worth the visit.</text>
+  </sentence>
+  <sentence id="49">
+    <text>The menu is interesting and quite reasonably priced.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="menu" to="8"/>
+      <aspectTerm from="45" term="priced" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="50">
+    <text>The food was delicious and clearly fresh ingredients were used.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="41" term="ingredients" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="51">
+    <text>This made it obvious that the food wasn't cooked fresh; it was obviously made before hand and then reheated.</text>
+    <aspectTerms>
+      <aspectTerm from="30" term="food" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="52">
+    <text>Appetizer are excellent here; you can make a great (and inexpensive) meal out of them.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Appetizer" to="9"/>
+      <aspectTerm from="69" term="meal" to="73"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="53">
+    <text>The spicy mussels are a highlight.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="spicy mussels" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="54">
+    <text>Also get the Onion Rings -- best we've ever had.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Onion Rings" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="55">
+    <text>Would not return for the amount we paid.</text>
+  </sentence>
+  <sentence id="55">
+    <text>However, being foodies, we were utterly disappointed with the food.</text>
+    <aspectTerms>
+      <aspectTerm from="62" term="food" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="56">
+    <text>Huge portions, great and attentive service, and pretty good prices.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="portions" to="13"/>
+      <aspectTerm from="35" term="service" to="42"/>
+      <aspectTerm from="60" term="prices" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="57">
+    <text>I was highly disappointed by their service and food.</text>
+    <aspectTerms>
+      <aspectTerm from="35" term="service" to="42"/>
+      <aspectTerm from="47" term="food" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="58">
+    <text>I complained to the waiter and then to the manager, but the intensity of rudeness from them just went up.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="waiter" to="26"/>
+      <aspectTerm from="43" term="manager" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="59">
+    <text>The food is great and the milkshakes are even better!</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="26" term="milkshakes" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="60">
+    <text>Stay away if you're claustrophobic</text>
+  </sentence>
+  <sentence id="60">
+    <text>If you're in the 'hood, definitely stop in.</text>
+  </sentence>
+  <sentence id="60">
+    <text>the mushroom barley soup is amazing.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="mushroom barley soup" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="61">
+    <text>On the recommendation of a friend, I checked out Arezzo with my wife.</text>
+  </sentence>
+  <sentence id="61">
+    <text>I'm glad I did as the food was very good and the staff was friendly, courteous and efficient.</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="food" to="26"/>
+      <aspectTerm from="49" term="staff" to="54"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="62">
+    <text>Their duck here is also absolutely delicious.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="duck" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="63">
+    <text>This is definitely one of the places that I have continued to come back to over the years.</text>
+  </sentence>
+  <sentence id="63">
+    <text>While it was large and a bit noisy, the drinks were fantastic, and the food was superb.</text>
+    <aspectTerms>
+      <aspectTerm from="40" term="drinks" to="46"/>
+      <aspectTerm from="71" term="food" to="75"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="64">
+    <text>One caveat: Some of the curried casseroles can be a trifle harsh.</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="curried casseroles" to="42"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="65">
+    <text>I wasn't impressed and it wasn't SPICEY????</text>
+  </sentence>
+  <sentence id="65">
+    <text>The food was almost always EXCELLENT.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="66">
+    <text>I was pleasently surprised at the taste.</text>
+    <aspectTerms>
+      <aspectTerm from="34" term="taste" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="67">
+    <text>A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="space" to="12"/>
+      <aspectTerm from="94" term="cuisine" to="101"/>
+      <aspectTerm from="131" term="seafood" to="138"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="68">
+    <text>I never had an orange donut before so I gave it a shot.</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="orange donut" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="69">
+    <text>they really provide a relaxing, laid-back atmosphere.</text>
+    <aspectTerms>
+      <aspectTerm from="42" term="atmosphere" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="70">
+    <text>This particular location certainly uses substandard meats.</text>
+    <aspectTerms>
+      <aspectTerm from="52" term="meats" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="71">
+    <text>I stumbled upon this resteraunt on my way home from the subway.</text>
+  </sentence>
+  <sentence id="71">
+    <text>The Management was less than accomodating.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="Management" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="72">
+    <text>The ambience is also more laid-back and relaxed.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="ambience" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="73">
+    <text>the teas are great and all the sweets are homemade.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="teas" to="8"/>
+      <aspectTerm from="31" term="sweets" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="74">
+    <text>mojitos and the service are the best part in there</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="mojitos" to="7"/>
+      <aspectTerm from="16" term="service" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="75">
+    <text>Sandwiches, burgers and salads, like the lemon-dressed cobb, are classic successes.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Sandwiches" to="10"/>
+      <aspectTerm from="12" term="burgers" to="19"/>
+      <aspectTerm from="24" term="salads" to="30"/>
+      <aspectTerm from="41" term="lemon-dressed cobb" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="76">
+    <text>this restaurant is absolutely beautiful.</text>
+  </sentence>
+  <sentence id="76">
+    <text>The design is very intimate and romantic.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="design" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="77">
+    <text>The food was wonderful and imaginative.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="78">
+    <text>The staff is very sharp and they look good too.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="staff" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="79">
+    <text>The worst though was the taste.</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="taste" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="80">
+    <text>They were dry, stale and pretty flavorless.</text>
+  </sentence>
+  <sentence id="80">
+    <text>The fajita we tried was tasteless and burned and the mole sauce was way too sweet.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="fajita" to="10"/>
+      <aspectTerm from="53" term="mole sauce" to="63"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="81">
+    <text>Stay with the roasted chickens and you'll be fine.</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="roasted chickens" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="82">
+    <text>The atmosphere is warm, comfortable, artsy and sexy.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="atmosphere" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="83">
+    <text>The food is great (big selection, reasonable prices) and the drinks are really good.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="23" term="selection" to="32"/>
+      <aspectTerm from="45" term="prices" to="51"/>
+      <aspectTerm from="61" term="drinks" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="84">
+    <text>The steak melted in my mouth.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="steak" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="85">
+    <text>The food did take a few extra minutes to come, but the cute waiters' jokes and friendliness made up for it.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="60" term="waiters" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="86">
+    <text>Most importantly, it is reasonably priced.</text>
+    <aspectTerms>
+      <aspectTerm from="35" term="priced" to="41"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="87">
+    <text>The selection of food is excellent (I'm not used to having much choice at restaurants), and the atmosphere is great.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="selection of food" to="21"/>
+      <aspectTerm from="96" term="atmosphere" to="106"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="88">
+    <text>Only suggestion is that you skip the dessert, it was overpriced and fell short on taste.</text>
+    <aspectTerms>
+      <aspectTerm from="37" term="dessert" to="44"/>
+      <aspectTerm from="82" term="taste" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="89">
+    <text>Food was decent, but not great.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Food" to="4"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="90">
+    <text>I have no idea why this restaurant is so often overlooked.</text>
+  </sentence>
+  <sentence id="90">
+    <text>From the moment you walk in, you feel like you're in the perfect place.</text>
+  </sentence>
+  <sentence id="90">
+    <text>i dont know what some people who rave about this hot dog are talking about.</text>
+    <aspectTerms>
+      <aspectTerm from="49" term="hot dog" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="91">
+    <text>it is a hidden delight complete with a quaint bar and good food.</text>
+    <aspectTerms>
+      <aspectTerm from="46" term="bar" to="49"/>
+      <aspectTerm from="59" term="food" to="63"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="92">
+    <text>I find that most Kosher restaurants are average to good, but this has been the best I've eaten so far.</text>
+  </sentence>
+  <sentence id="92">
+    <text>The waiters ALWAYS look angry and even ignore their high-tipping regulars.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="waiters" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="93">
+    <text>the atmosphere is very nice, and a welcome escape from the rest of the SI mall.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="atmosphere" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="94">
+    <text>Yes, they're a bit more expensive then typical, but then again, so is their food.</text>
+    <aspectTerms>
+      <aspectTerm from="76" term="food" to="80"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="95">
+    <text>Not terrible, but not the restaurant in the reviews of 2002.</text>
+  </sentence>
+  <sentence id="95">
+    <text>I can say that the wraps, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="wraps" to="24"/>
+      <aspectTerm from="26" term="burgers" to="33"/>
+      <aspectTerm from="38" term="salads" to="44"/>
+      <aspectTerm from="75" term="mango margareta" to="90"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="96">
+    <text>It was delicious and large!</text>
+  </sentence>
+  <sentence id="96">
+    <text>Anywhere else, the prices would be 3x as high!</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="prices" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="97">
+    <text>The service we experienced was friendly and good.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="98">
+    <text>Our waiter was friendly and it is a shame that he didnt have a supportive staff to work with.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="waiter" to="10"/>
+      <aspectTerm from="74" term="staff" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="99">
+    <text>The folding chair I was seated at was uncomfortable.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="folding chair" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="100">
+    <text>As we waited I watched 3 seperate groups of diners discuss how dissapointed they also were.</text>
+  </sentence>
+  <sentence id="100">
+    <text>An excellent choice in midtown.</text>
+  </sentence>
+  <sentence id="100">
+    <text>Service was among the best I have ever had in NYC.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Service" to="7"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="101">
+    <text>The fettucino alfredo was amazing.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="fettucino alfredo" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="102">
+    <text>The food was very good and I was pleasantly surprised to see so many vegan options.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="69" term="vegan options" to="82"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="103">
+    <text>I know real Indian food and this wasn't it.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="Indian food" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="104">
+    <text>Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, Rabbit, the potato gratin, on and on and on...</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="Smoked Trout" to="31"/>
+      <aspectTerm from="34" term="Lamb Chops" to="44"/>
+      <aspectTerm from="46" term="Veal Chops" to="56"/>
+      <aspectTerm from="58" term="Rabbit" to="64"/>
+      <aspectTerm from="70" term="potato gratin" to="83"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="105">
+    <text>Even when the chef is not in the house, the food and service are right on target.</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="chef" to="18"/>
+      <aspectTerm from="44" term="food" to="48"/>
+      <aspectTerm from="53" term="service" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="106">
+    <text>Everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="eggs benedict" to="33"/>
+      <aspectTerm from="41" term="mussels" to="48"/>
+      <aspectTerm from="62" term="hamburger" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="107">
+    <text>The waiters were very professional, courteous and attentive.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="waiters" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="108">
+    <text>My boyfriend and I went here last night and LOVED it!</text>
+  </sentence>
+  <sentence id="108">
+    <text>The falafal was rather over cooked and dried but the chicken was fine.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="falafal" to="11"/>
+      <aspectTerm from="53" term="chicken" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="109">
+    <text>I highly reccomend the grand marnier shrimp, it's insanely good.</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="grand marnier shrimp" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="110">
+    <text>We been there and we really enjoy the food, was areally great food, and the service was really good.</text>
+    <aspectTerms>
+      <aspectTerm from="38" term="food" to="42"/>
+      <aspectTerm from="62" term="food" to="66"/>
+      <aspectTerm from="76" term="service" to="83"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="111">
+    <text>Desserts include flan and sopaipillas.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Desserts" to="8"/>
+      <aspectTerm from="17" term="flan" to="21"/>
+      <aspectTerm from="26" term="sopaipillas" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="112">
+    <text>I was starving and the small portions were driving me crazy!</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="portions" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="113">
+    <text>The wait staff was loud and inconsiderate.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="wait staff" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="114">
+    <text>However, the food and service and dramatically lacking.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="food" to="17"/>
+      <aspectTerm from="22" term="service" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="115">
+    <text>The sushi is cut in blocks bigger than my cell phone.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="sushi" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="116">
+    <text>The service is great, my soup always arrives nice and hot.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+      <aspectTerm from="25" term="soup" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="117">
+    <text>It had been awhile and I forgot just how delicious crepes can be.</text>
+    <aspectTerms>
+      <aspectTerm from="51" term="crepes" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="118">
+    <text>Montparnasse's desserts--especially the silken creme brulee and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="desserts" to="23"/>
+      <aspectTerm from="47" term="creme brulee" to="59"/>
+      <aspectTerm from="75" term="apple tart" to="85"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="119">
+    <text>My friend told me about this restaurant for a year before he finally took me this weekend.</text>
+  </sentence>
+  <sentence id="119">
+    <text>i had a delicious shrimp creole.</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="shrimp creole" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="120">
+    <text>The chicken dinner was real good.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="chicken dinner" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="121">
+    <text>Beware of the chili signed food items not unless you want to call the fire department to douse the flames in your mouth.</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="chili signed food items" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="122">
+    <text>The decor is designed in a contemporary Japanese style restaurant.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="decor" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="123">
+    <text>but the food was delicious.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="food" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="124">
+    <text>Try the ribs, sizzling beef and couple it with coconut rice.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="ribs" to="12"/>
+      <aspectTerm from="23" term="beef" to="27"/>
+      <aspectTerm from="47" term="coconut rice" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="125">
+    <text>The only drawback is that it's a little pricey.</text>
+  </sentence>
+  <sentence id="125">
+    <text>Everything about this place was wonderful.</text>
+  </sentence>
+  <sentence id="125">
+    <text>The avocado salad is a personal fave.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="avocado salad" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="126">
+    <text>And, the honey BBQ rib tips are yummy!</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="honey BBQ rib tips" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="127">
+    <text>The BEST Chinese food Uptown!</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="Chinese food" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="128">
+    <text>Service is known for bending over backwards to make everyone happy.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Service" to="7"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="129">
+    <text>The atmosphere is attractive, but a little uncomfortable.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="atmosphere" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="130">
+    <text>The staff is very friendly.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="staff" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="131">
+    <text>Waiters are very friendly and the pasta is out of this world.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Waiters" to="7"/>
+      <aspectTerm from="34" term="pasta" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="132">
+    <text>Great wine list and great cocktail menu.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="wine list" to="15"/>
+      <aspectTerm from="26" term="cocktail menu" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="133">
+    <text>The crab cakes are delicious and the BBQ rib was perfect.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="crab cakes" to="14"/>
+      <aspectTerm from="37" term="BBQ rib" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="134">
+    <text>The food is wonderful, artfully done and simply delicious.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="135">
+    <text>Tiny restaurant with very fast service.</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="service" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="136">
+    <text>The sauce may not be for everyone, since it is distintive.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="sauce" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="137">
+    <text>My husband and I have been there at least 6 times and we've always been given the highest service and often free desserts.</text>
+    <aspectTerms>
+      <aspectTerm from="90" term="service" to="97"/>
+      <aspectTerm from="113" term="desserts" to="121"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="138">
+    <text>A beautiful atmosphere, perfect for drinks and/or appetizers.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="atmosphere" to="22"/>
+      <aspectTerm from="36" term="drinks" to="42"/>
+      <aspectTerm from="50" term="appetizers" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="139">
+    <text>Curioni's Pizza has been around since the 1920's.</text>
+  </sentence>
+  <sentence id="139">
+    <text>They make the best pizza in New Jersey.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="pizza" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="140">
+    <text>I recently visited over this past summer after being away for a year.</text>
+  </sentence>
+  <sentence id="140">
+    <text>What a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list.</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="service" to="30"/>
+      <aspectTerm from="59" term="food" to="63"/>
+      <aspectTerm from="150" term="beer list" to="159"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="141">
+    <text>Frankly, the chinese food here is something I can make better at home.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="chinese food" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="142">
+    <text>There was only one waiter for the whole restaurant upstairs.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="waiter" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="143">
+    <text>We started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="scallops" to="28"/>
+      <aspectTerm from="33" term="asparagus" to="42"/>
+      <aspectTerm from="60" term="soft shell crab" to="75"/>
+      <aspectTerm from="91" term="cheese plate" to="103"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="144">
+    <text>Not to be overlooked, the service is excellent.</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="service" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="145">
+    <text>this without question is one of the worst hotdogs i have ever had.</text>
+    <aspectTerms>
+      <aspectTerm from="42" term="hotdogs" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="146">
+    <text>The staff is unbelievably friendly, and I dream about their Saag gosht...so good.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="staff" to="9"/>
+      <aspectTerm from="60" term="Saag gosht" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="147">
+    <text>I also recommend the garlic knots.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="garlic knots" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="148">
+    <text>Best Indian food I have ever eaten.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Indian food" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="149">
+    <text>You won't be dissapointed.</text>
+  </sentence>
+  <sentence id="149">
+    <text>This place has the best pizza.</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="pizza" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="150">
+    <text>Culinaria is a welcome addition to the Garment district- far better than any restaurant in the area.</text>
+  </sentence>
+  <sentence id="150">
+    <text>The music which is sometimes a little too heavy for my taste.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="music" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="151">
+    <text>The service is excellent and always informative without an air.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="152">
+    <text>The owner and staff go to great lengths to make you feel comfortable.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="owner" to="9"/>
+      <aspectTerm from="14" term="staff" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="153">
+    <text>I can't stand this dungeon.</text>
+  </sentence>
+  <sentence id="153">
+    <text>The sushi is always fresh and yummy and the menu is pretty varied.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="sushi" to="9"/>
+      <aspectTerm from="44" term="menu" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="154">
+    <text>The food was great - sushi was good, but the cooked food amazed us.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="21" term="sushi" to="26"/>
+      <aspectTerm from="45" term="cooked food" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="155">
+    <text>their dinner specials are fantastic.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="dinner specials" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="156">
+    <text>Delish and made to your liking!</text>
+  </sentence>
+  <sentence id="156">
+    <text>Great food, great drinks, nice dining atmosphere.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="food" to="10"/>
+      <aspectTerm from="18" term="drinks" to="24"/>
+      <aspectTerm from="31" term="dining atmosphere" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="157">
+    <text>For the price you pay for the food here, you'd expect it to be at least on par with other Japanese restaurants.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="price" to="13"/>
+      <aspectTerm from="30" term="food" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="158">
+    <text>Food portion was SMALL and below average.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Food portion" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="159">
+    <text>Do yourself a favor and avoid this place at ALL COST!</text>
+  </sentence>
+  <sentence id="159">
+    <text>since the first time I came here I've been hooked.</text>
+  </sentence>
+  <sentence id="159">
+    <text>Sit back in one of those comfortable chairs.</text>
+    <aspectTerms>
+      <aspectTerm from="37" term="chairs" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="160">
+    <text>People in the neighborhood seem to love it, too.</text>
+  </sentence>
+  <sentence id="160">
+    <text>in conclusion, THIS PLACE SUCKS!!!</text>
+  </sentence>
+  <sentence id="160">
+    <text>My favs here are the Tacos Pastor and the Tostada de Tinga...</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="Tacos Pastor" to="33"/>
+      <aspectTerm from="42" term="Tostada de Tinga" to="58"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="161">
+    <text>Nick Stef's is one of the only places worthy of going in the area, so if you happen to be by Madison Square Garden or Herald's Square check it out!</text>
+  </sentence>
+  <sentence id="161">
+    <text>Have to tell you: Not at all impressed.</text>
+  </sentence>
+  <sentence id="161">
+    <text>The bartenders and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="bartenders" to="14"/>
+      <aspectTerm from="23" term="managers" to="31"/>
+      <aspectTerm from="56" term="decor" to="61"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="162">
+    <text>For a savory take on the soup and sandwich meal, try the hot and sour soup.</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="soup and sandwich meal" to="47"/>
+      <aspectTerm from="57" term="hot and sour soup" to="74"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="163">
+    <text>This bar has it all - great drinks, cool atmosphere, excellent service and delicious food.</text>
+    <aspectTerms>
+      <aspectTerm from="28" term="drinks" to="34"/>
+      <aspectTerm from="41" term="atmosphere" to="51"/>
+      <aspectTerm from="63" term="service" to="70"/>
+      <aspectTerm from="85" term="food" to="89"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="164">
+    <text>Also, the chick peas with shrimp (appetizer) is divine.</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="chick peas with shrimp (appetizer)" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="165">
+    <text>Finally, I got sick of the bad service, obnoxious smirks, and snotty back talk.</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="service" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="166">
+    <text>How have I never been to Agave before?</text>
+  </sentence>
+  <sentence id="166">
+    <text>You're going to drop some coin, but completely worth it, especially if you are looking to impress someone.</text>
+  </sentence>
+  <sentence id="166">
+    <text>We ordered lamb which was perfectly cooked and tasted awesome.</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="lamb" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="167">
+    <text>i especially like their soft shell crab sandwich with fries.</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="soft shell crab sandwich with fries" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="168">
+    <text>if you're looking for authentic hong kong-style food, look no further.</text>
+    <aspectTerms>
+      <aspectTerm from="32" term="hong kong-style food" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="169">
+    <text>My wife I lived on the west side and found this while visiting firends on the UES.</text>
+  </sentence>
+  <sentence id="169">
+    <text>good food good wine that's it.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="food" to="9"/>
+      <aspectTerm from="15" term="wine" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="170">
+    <text>A nice find in the neighborhood.</text>
+  </sentence>
+  <sentence id="170">
+    <text>The staff was extremely friendly and pleasant.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="staff" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="171">
+    <text>And as SOON as one person is done, she asked to pick up the plate immediately.</text>
+  </sentence>
+  <sentence id="171">
+    <text>This place is Italian, not French.</text>
+  </sentence>
+  <sentence id="171">
+    <text>After so many great reviews here, my bf and I went to Esca to celebrate my birthday last nite.</text>
+  </sentence>
+  <sentence id="171">
+    <text>While their kitchen food is delicious, their Sushi is out of this world.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="kitchen food" to="24"/>
+      <aspectTerm from="45" term="Sushi" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="172">
+    <text>There was a heat problem to boot, so it was about 40 degrees in the restaurant -- we had to request to uncheck our coats!</text>
+  </sentence>
+  <sentence id="172">
+    <text>everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush atmosphere.</text>
+    <aspectTerms>
+      <aspectTerm from="46" term="service" to="53"/>
+      <aspectTerm from="62" term="waitresses" to="72"/>
+      <aspectTerm from="96" term="atmosphere" to="106"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="173">
+    <text>It's traditional, simple italian food.</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="italian food" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="174">
+    <text>My girlfriend and I just spent our 10 month anniversary at Lou Lou.</text>
+  </sentence>
+  <sentence id="174">
+    <text>The food is all-around good, with the rolls usually excellent and the sushi/sashimi not quite on the same level.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="38" term="rolls" to="43"/>
+      <aspectTerm from="70" term="sushi/sashimi" to="83"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="175">
+    <text>(The sashimi is cut a little thinly.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="sashimi" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="176">
+    <text>Bay Terrace mall is nothing (ok, almost nothing) without it!</text>
+  </sentence>
+  <sentence id="176">
+    <text>Could have had better for 1/3 the price in Chinatown.</text>
+    <aspectTerms>
+      <aspectTerm from="34" term="price" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="177">
+    <text>My husband and I had a blast.</text>
+  </sentence>
+  <sentence id="177">
+    <text>personally i say save your money.</text>
+  </sentence>
+  <sentence id="177">
+    <text>In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="hot dogs" to="29"/>
+      <aspectTerm from="50" term="breakfast sandwiches" to="70"/>
+      <aspectTerm from="118" term="tator tots" to="128"/>
+      <aspectTerm from="133" term="English muffins" to="148"/>
+      <aspectTerm from="171" term="pork product" to="183"/>
+      <aspectTerm from="220" term="Taylor ham" to="230"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="178">
+    <text>Believe me, they live up to the name.</text>
+  </sentence>
+  <sentence id="178">
+    <text>Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.</text>
+    <aspectTerms>
+      <aspectTerm from="41" term="manager" to="48"/>
+      <aspectTerm from="60" term="bartender" to="69"/>
+      <aspectTerm from="81" term="waiting" to="88"/>
+      <aspectTerm from="104" term="drinks" to="110"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="179">
+    <text>Not only is the service great, but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable.</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="service" to="23"/>
+      <aspectTerm from="94" term="atmosphere" to="104"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="180">
+    <text>When the dish arrived it was blazing with green chillis, definitely not edible by a human.</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="dish" to="13"/>
+      <aspectTerm from="42" term="green chillis" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="181">
+    <text>The absolute worst service I've ever experienced and the food was below average (when they actually gave people the meals they ordered).</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="service" to="26"/>
+      <aspectTerm from="57" term="food" to="61"/>
+      <aspectTerm from="116" term="meals" to="121"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="182">
+    <text>It's about $7 for lunch and they have take-out or dine-in.</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="lunch" to="23"/>
+      <aspectTerm from="38" term="take-out" to="46"/>
+      <aspectTerm from="50" term="dine-in" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="183">
+    <text>They are by far the BEST past in New York.</text>
+  </sentence>
+  <sentence id="183">
+    <text>I have eaten here several times before attending an afternoon performance.</text>
+  </sentence>
+  <sentence id="183">
+    <text>Everything is very cheap.</text>
+  </sentence>
+  <sentence id="183">
+    <text>Be sure to accompany your food with one of their fresh juice concoctions.</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="food" to="30"/>
+      <aspectTerm from="49" term="fresh juice concoctions" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="184">
+    <text>The food is great and the prices are reasonable.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="26" term="prices" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="185">
+    <text>The place is clean, and if you like soul food, then this is the place to be!</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="place" to="9"/>
+      <aspectTerm from="36" term="soul food" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="186">
+    <text>You'll see a lot of people eating there after church.</text>
+  </sentence>
+  <sentence id="186">
+    <text>I had roast chicken and a salad.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="roast chicken" to="19"/>
+      <aspectTerm from="26" term="salad" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="187">
+    <text>I've been a regular customer at Juice Generation for the last 3 months - my office moved to the Film Center on Ninth Avenue and they are on the next block.</text>
+  </sentence>
+  <sentence id="187">
+    <text>They have a very good chicken with avocado and good tuna as well.</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="chicken with avocado" to="42"/>
+      <aspectTerm from="52" term="tuna" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="188">
+    <text>It's the kind of place I like to support!</text>
+  </sentence>
+  <sentence id="188">
+    <text>But the meals were terrible.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="meals" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="189">
+    <text>My chicken was completely dried out and on the cold side and the sauce was not very flavorful.</text>
+    <aspectTerms>
+      <aspectTerm from="3" term="chicken" to="10"/>
+      <aspectTerm from="65" term="sauce" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="190">
+    <text>Malted Milk Ball Gelato - have you ever in your life heard of anything so ridiculously wonderful?</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Malted Milk Ball Gelato" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="191">
+    <text>just walk by the window and see all the unbiased positive reviews in all the major nyc publications.</text>
+  </sentence>
+  <sentence id="191">
+    <text>Way too much money for such a terrible meal.</text>
+    <aspectTerms>
+      <aspectTerm from="39" term="meal" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="192">
+    <text>Would not recommend anyone to go.</text>
+  </sentence>
+  <sentence id="192">
+    <text>However, the service is absolutely horrible.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="service" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="193">
+    <text>A con was the slow bar service.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="bar service" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="194">
+    <text>Dessert was also to die for!</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Dessert" to="7"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="195">
+    <text>BTW, the service is very good .</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="service" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="196">
+    <text>We loved it and will go back!</text>
+  </sentence>
+  <sentence id="196">
+    <text>I came again weeks later with my boyfriend and again had a very nice experience.</text>
+  </sentence>
+  <sentence id="196">
+    <text>It's eaten with black vinegar and shredded ginger.</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="black vinegar" to="29"/>
+      <aspectTerm from="34" term="shredded ginger" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="197">
+    <text>The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="lighting" to="25"/>
+      <aspectTerm from="51" term="food" to="55"/>
+      <aspectTerm from="97" term="disco pop duo" to="110"/>
+      <aspectTerm from="129" term="escargot" to="137"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="198">
+    <text>We'll definitly be back again!</text>
+  </sentence>
+  <sentence id="198">
+    <text>This is the best Italian restaurant in the city.</text>
+  </sentence>
+  <sentence id="198">
+    <text>it is a cozy place to go with a couple of friends.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="place" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="199">
+    <text>The service is always great, and the owner walks around to make sure you enjoy.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+      <aspectTerm from="37" term="owner" to="42"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="200">
+    <text>because the waiters need SEVERE ATTITUE ADJUSTMENTS.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="waiters" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="201">
+    <text>There are numerous shavue restaurants in LA, but few out here.</text>
+  </sentence>
+  <sentence id="201">
+    <text>Horrible experience - stay away!</text>
+  </sentence>
+  <sentence id="201">
+    <text>If this restaurant was in Manhattan, I would definitely go more often.</text>
+  </sentence>
+  <sentence id="201">
+    <text>the food is delicious and highly recommended.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="202">
+    <text>When it came time to take the order the waiter gave us a hard time, walked away then came back with a paper and pen for us to write down what we wanted...excuse me but isn't that his job???</text>
+    <aspectTerms>
+      <aspectTerm from="40" term="waiter" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="203">
+    <text>One of my Fav spots in the city.</text>
+  </sentence>
+  <sentence id="203">
+    <text>Over priced, overrated....stay away!</text>
+  </sentence>
+  <sentence id="203">
+    <text>Do not go to this restaurant.</text>
+  </sentence>
+  <sentence id="203">
+    <text>since i was in the neighborhood, we made sure to give this a try.</text>
+  </sentence>
+  <sentence id="203">
+    <text>All I can say is they are fantastic.</text>
+  </sentence>
+  <sentence id="203">
+    <text>Dieters stick to salads or indulge in vegetarian platters.</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="salads" to="23"/>
+      <aspectTerm from="38" term="vegetarian platters" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="204">
+    <text>So for a filling and healthy meal give it a go.</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="meal" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="205">
+    <text>I can't imagine how much worse it would have been if we'd gone at a prime time!</text>
+  </sentence>
+  <sentence id="205">
+    <text>I have dined at Mammino several times now and each time it gets bettter.</text>
+  </sentence>
+  <sentence id="205">
+    <text>Definitely something to come down and check out.</text>
+  </sentence>
+  <sentence id="205">
+    <text>Since I cook for a living, I'm very fussy about the food I eat in restaurants.</text>
+    <aspectTerms>
+      <aspectTerm from="52" term="food" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="206">
+    <text>The service was outstanding.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="207">
+    <text>I went for restaurant week.</text>
+  </sentence>
+  <sentence id="207">
+    <text>My friends and I stop here for pizza before hitting the Kips Bay movie theater.</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="pizza" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="208">
+    <text>We always enjoy the pizza.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="pizza" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="209">
+    <text>The service is pretty good.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="210">
+    <text>I went there with a few friends and will return.</text>
+  </sentence>
+  <sentence id="210">
+    <text>This place has been around for a few years.</text>
+  </sentence>
+  <sentence id="210">
+    <text>Yum, the chicken is great here.</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="chicken" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="211">
+    <text>I highly recommend this restaurant!!</text>
+  </sentence>
+  <sentence id="211">
+    <text>You will find everything about Trio to your liking!</text>
+  </sentence>
+  <sentence id="211">
+    <text>This place was the worst.</text>
+  </sentence>
+  <sentence id="211">
+    <text>I ordered from here last week.</text>
+  </sentence>
+  <sentence id="211">
+    <text>This is a nice sushi restaurant in Brooklyn that's located on 86 street, right underneath the train station.</text>
+  </sentence>
+  <sentence id="211">
+    <text>The food here was great, a treat from beginning to end.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="212">
+    <text>The host (owner) and servers are personable and caring.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="host (owner)" to="16"/>
+      <aspectTerm from="21" term="servers" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="213">
+    <text>I decided to try out this place after hearing about it in many magazines.</text>
+  </sentence>
+  <sentence id="213">
+    <text>It's just everything...the food, the atmosphere...the incrediby kind and gracious hostess.</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="food" to="31"/>
+      <aspectTerm from="37" term="atmosphere" to="47"/>
+      <aspectTerm from="82" term="hostess" to="89"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="214">
+    <text>Having moved I truly miss this place.</text>
+  </sentence>
+  <sentence id="214">
+    <text>The food is very good and the service is great.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="30" term="service" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="215">
+    <text>I usually get one the Vietnamese Beef Noodle Soup.</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="Vietnamese Beef Noodle Soup" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="216">
+    <text>SUM IT: local investment bankers like it, try for yourself at least once.</text>
+  </sentence>
+  <sentence id="216">
+    <text>I started going to dosa hut more after that.</text>
+  </sentence>
+  <sentence id="216">
+    <text>We were wondering why they were there to make our dining experience miserable?</text>
+    <aspectTerms>
+      <aspectTerm from="50" term="dining experience" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="217">
+    <text>Too bad, has a lot of potential.</text>
+  </sentence>
+  <sentence id="217">
+    <text>This place has the best Indian food in New York, hands down.</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="Indian food" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="218">
+    <text>The waiters are very friendly and helpful and if you frequent they will remember you.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="waiters" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="219">
+    <text>Intimate but charming interior with extremely friendly and attentive service.</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="interior" to="30"/>
+      <aspectTerm from="69" term="service" to="76"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="220">
+    <text>The food was as creative as the decor and both worked.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="32" term="decor" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="221">
+    <text>Siam Square is fairly new to the neighborhood and I think in time will gain the recognition it deserves.</text>
+  </sentence>
+  <sentence id="221">
+    <text>My first experience at Siam Square was very pleasant.</text>
+  </sentence>
+  <sentence id="221">
+    <text>I have gone back to Siam Square many times since and everytime I am very satisfied overall.</text>
+  </sentence>
+  <sentence id="221">
+    <text>The menu is great, with a good selection, and everything that I have tried is absolutely delicious.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="menu" to="8"/>
+      <aspectTerm from="31" term="selection" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="222">
+    <text>We had our Christmas party at Dos Caminos and it was wonderful.</text>
+  </sentence>
+  <sentence id="222">
+    <text>My personal favorite is Nick and Joe's.</text>
+  </sentence>
+  <sentence id="222">
+    <text>The sauce is zesty and flavorful and the crust is nice and crispy.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="sauce" to="9"/>
+      <aspectTerm from="41" term="crust" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="223">
+    <text>This place has the best sushi in the city.</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="sushi" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="224">
+    <text>They have an excellent selection (the rolls with crab are really great).</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="selection" to="32"/>
+      <aspectTerm from="38" term="rolls with crab" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="225">
+    <text>Everyone who works there (the host, the bartender, the servers) is so helpful.</text>
+    <aspectTerms>
+      <aspectTerm from="30" term="host" to="34"/>
+      <aspectTerm from="40" term="bartender" to="49"/>
+      <aspectTerm from="55" term="servers" to="62"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="226">
+    <text>And the food is fantastic.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="food" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="227">
+    <text>Favourites include: potato spinach gnocchi and the lamb.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="potato spinach gnocchi" to="42"/>
+      <aspectTerm from="51" term="lamb" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="228">
+    <text>Another great thing about Glechik-everything is very cheap!</text>
+  </sentence>
+  <sentence id="228">
+    <text>Unfortunately, we chose this spot for lunch as we had done a lot of walking and ended up at the South St Seaport.</text>
+    <aspectTerms>
+      <aspectTerm from="38" term="lunch" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="229">
+    <text>But regulars know that the sandwiches are the real star here.</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="sandwiches" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="230">
+    <text>The skillfully chosen Portuguese cheese cart paired with quality port provides the perfect Iberian ending.</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="Portuguese cheese cart" to="44"/>
+      <aspectTerm from="65" term="port" to="69"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="231">
+    <text>My friend had a burger and I had these wonderful blueberry pancakes.</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="burger" to="22"/>
+      <aspectTerm from="49" term="blueberry pancakes" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="232">
+    <text>We were so happy with our food and were even more thrilled when we saw the bill.</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="food" to="30"/>
+      <aspectTerm from="75" term="bill" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="233">
+    <text>I would definitely come back to this restaurant.</text>
+  </sentence>
+  <sentence id="233">
+    <text>The place just isn't ready for prime time.</text>
+  </sentence>
+  <sentence id="233">
+    <text>All toppings are so fresh you'd think they had their own vegetable garden and the crust is so perfect, that one actually thinks of how it was made.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="toppings" to="12"/>
+      <aspectTerm from="82" term="crust" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="234">
+    <text>Quartino is my favoriate resturant in NYC.</text>
+  </sentence>
+  <sentence id="234">
+    <text>We've always gotten amazing service and we love the food.</text>
+    <aspectTerms>
+      <aspectTerm from="28" term="service" to="35"/>
+      <aspectTerm from="52" term="food" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="235">
+    <text>The waitstaff is solicitous and friendly and always seems glad to see us, and the food is wonderful, if not stunningly creative.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="waitstaff" to="13"/>
+      <aspectTerm from="82" term="food" to="86"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="236">
+    <text>I'm in love with the lobster ravioli!</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="lobster ravioli" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="237">
+    <text>My order is on my table even on a busy friday night within 10 minutes (at the most) of hanging up the phone.</text>
+  </sentence>
+  <sentence id="237">
+    <text>We came across this restaurant by accident while at a DUMBO art festival and thoroughly enjoyed our meal.</text>
+    <aspectTerms>
+      <aspectTerm from="100" term="meal" to="104"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="238">
+    <text>Service is excellent, no wait, and you get a lot for the price.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Service" to="7"/>
+      <aspectTerm from="25" term="wait" to="29"/>
+      <aspectTerm from="57" term="price" to="62"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="239">
+    <text>I thought the food isn't cheap at all compared to Chinatown.</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="food" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="240">
+    <text>And you never get the feeling that you need to leave.</text>
+  </sentence>
+  <sentence id="240">
+    <text>Coffee is a better deal than overpriced Cosi sandwiches.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Coffee" to="6"/>
+      <aspectTerm from="40" term="Cosi sandwiches" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="241">
+    <text>We didn't know if we should order a drink or leave?</text>
+    <aspectTerms>
+      <aspectTerm from="36" term="drink" to="41"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="242">
+    <text>great neighbhorhood spot.</text>
+  </sentence>
+  <sentence id="242">
+    <text>Bobb V's is a great place to take your Friends and Family!</text>
+  </sentence>
+  <sentence id="242">
+    <text>) It's not the best Japanese restaurant in the East Village, but it's a pretty solid one for its modest prices, and worth repeat visits.</text>
+    <aspectTerms>
+      <aspectTerm from="104" term="prices" to="110"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="243">
+    <text>The food is so good and so popular that waiting can really be a nightmare.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="40" term="waiting" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="244">
+    <text>Here's the thing, you're in the best city in the world for restaurants.</text>
+  </sentence>
+  <sentence id="244">
+    <text>Go spend your money somewhere that really wows you.</text>
+  </sentence>
+  <sentence id="244">
+    <text>The crowd was older and the restaurant is very cramped, but it has old school charm.</text>
+  </sentence>
+  <sentence id="244">
+    <text>This is a real gem of a place.</text>
+  </sentence>
+  <sentence id="244">
+    <text>I think this a a wonderful place.</text>
+  </sentence>
+  <sentence id="244">
+    <text>First walking in the place seemed to have great ambience.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="place" to="26"/>
+      <aspectTerm from="48" term="ambience" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="245">
+    <text>I went to Kitchenette this weekend for brunch.</text>
+    <aspectTerms>
+      <aspectTerm from="39" term="brunch" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="246">
+    <text>This place doesn't get the publicity that Sylvias Soul Food restaurant does, but it should.</text>
+  </sentence>
+  <sentence id="246">
+    <text>Just because P Diddy had a party at Butter doesn't mean we should be automatically impressed.</text>
+  </sentence>
+  <sentence id="246">
+    <text>Even for two very hungry people there is plenty of food left to be taken home (it reheats really well also).</text>
+    <aspectTerms>
+      <aspectTerm from="51" term="food" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="247">
+    <text>Like I said, Nick and Joe's may not be everyone's favorite, but it's mine.</text>
+  </sentence>
+  <sentence id="247">
+    <text>The help was extremely nice and did not rush us.</text>
+  </sentence>
+  <sentence id="247">
+    <text>Then they somehow made a dry and burnt crust, around a raw and cold inside.</text>
+    <aspectTerms>
+      <aspectTerm from="39" term="crust" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="248">
+    <text>It's just good food, nothing more and that's all we want!</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="food" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="249">
+    <text>DON'T KNOW WHAT THE OTHERS ON THE BLOCK WERE LIKE BUT WE WERE PLEASED WITH OUR CHOICE.</text>
+  </sentence>
+  <sentence id="249">
+    <text>Average cake thats been courted by a LOT of hype.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="cake" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="250">
+    <text>It's cute and simple and I loved it.</text>
+  </sentence>
+  <sentence id="250">
+    <text>My wife and I recently visited the bistro for dinner and had a wonderful experience.</text>
+    <aspectTerms>
+      <aspectTerm from="46" term="dinner" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="251">
+    <text>THE SERVICE IS PERFECT TOO  NOTHING WRONG IN THIS ITALIAN/FRENCH RESTAURANT</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="SERVICE" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="252">
+    <text>My fiance and I recently wanted to see the city and deceided to take a dinner cruise.</text>
+  </sentence>
+  <sentence id="252">
+    <text>The $72 Delmonico steak had to be sent back because it was not cooked to order.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="Delmonico steak" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="253">
+    <text>Everytime I go there I can't pick anything to eat and not because the menu is filled with great things to eat.</text>
+    <aspectTerms>
+      <aspectTerm from="70" term="menu" to="74"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="254">
+    <text>Half a chicken with a mountain of rice and beans for $6.25.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="chicken" to="14"/>
+      <aspectTerm from="34" term="rice" to="38"/>
+      <aspectTerm from="43" term="beans" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="255">
+    <text>The service is really fast and friendly, and the value is great.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+      <aspectTerm from="49" term="value" to="54"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="256">
+    <text>We were very impressed with the food and value.</text>
+    <aspectTerms>
+      <aspectTerm from="32" term="food" to="36"/>
+      <aspectTerm from="41" term="value" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="257">
+    <text>You must try the garlic soup!</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="garlic soup" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="258">
+    <text>Casablanca servces delicious falafel, tabouleh, humus and other Mediterranean delights, which are all very inexpensive.</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="falafel" to="36"/>
+      <aspectTerm from="38" term="tabouleh" to="46"/>
+      <aspectTerm from="48" term="humus" to="53"/>
+      <aspectTerm from="64" term="Mediterranean delights" to="86"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="259">
+    <text>Even after a few bad evenings at Bardolino, I keep coming back.</text>
+  </sentence>
+  <sentence id="259">
+    <text>The pizza's are made fresh, crispy, and ready to serve.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="pizza's" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="260">
+    <text>There are many french bistros in the midtown area, and I wholheartedly recommend this one.</text>
+  </sentence>
+  <sentence id="260">
+    <text>Staff is accomodating make sure you are satified.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Staff" to="5"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="261">
+    <text>Chef Waldy's always measures up.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Chef" to="4"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="262">
+    <text>This diamond in the ruff is definitely worth my 10-minute walk from the 6 train.</text>
+  </sentence>
+  <sentence id="262">
+    <text>Being a vegan myself, I've made a point of trying all the vegan restaurants in Manhattan--and Zen Palate is easily my favorite.</text>
+  </sentence>
+  <sentence id="262">
+    <text>Don Pedro's is one of my favorite restaurants.</text>
+  </sentence>
+  <sentence id="262">
+    <text>Reasonably priced with very fresh sushi.</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="priced" to="17"/>
+      <aspectTerm from="34" term="sushi" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="263">
+    <text>Go for the Seafood Paella for two.</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="Seafood Paella for two" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="264">
+    <text>All of the apetizers are good and the Sangria is very good.</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="apetizers" to="20"/>
+      <aspectTerm from="38" term="Sangria" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="265">
+    <text>Cantinetta is a real treasure in a see of mediocre Italian restaurants.</text>
+  </sentence>
+  <sentence id="265">
+    <text>The one positive thing I can say is that the service was prompt, we got seated right away and the server was very friendly.</text>
+    <aspectTerms>
+      <aspectTerm from="45" term="service" to="52"/>
+      <aspectTerm from="98" term="server" to="104"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="266">
+    <text>The staff greeted me warmly at the door and I was seated promptly and the food was excellent.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="staff" to="9"/>
+      <aspectTerm from="74" term="food" to="78"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="267">
+    <text>Whether one pizza place is better than another is often very subjective.</text>
+  </sentence>
+  <sentence id="267">
+    <text>Really nice restaurant to go with a group or on a date.</text>
+  </sentence>
+  <sentence id="267">
+    <text>Service is usually pretty good.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Service" to="7"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="268">
+    <text>Host and Hostess was quite rude.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Host" to="4"/>
+      <aspectTerm from="9" term="Hostess" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="269">
+    <text>You will not be missing anything.</text>
+  </sentence>
+  <sentence id="269">
+    <text>I discovered Applebees when I went away to college in VA.</text>
+  </sentence>
+  <sentence id="269">
+    <text>the wait staff is very friendly, if your not rude or picky.......our meal at Leon last weekend was great -.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="wait staff" to="14"/>
+      <aspectTerm from="69" term="meal" to="73"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="270">
+    <text>I recommend any of their salmon dishes......</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="salmon dishes" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="271">
+    <text>The foie gras was sweet and luscious.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="foie gras" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="272">
+    <text>The menu, which changes seasonally, shows both regional and international influences.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="menu" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="273">
+    <text>but their mac cheese was YUMMY!</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="mac cheese" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="274">
+    <text>their brunch menu had something for everyone.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="brunch menu" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="275">
+    <text>jazz singer had a nice voice + she made us all get up to dance to shake some cals to eat some more.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="jazz singer" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="276">
+    <text>I often find myself with time to kill in Times Square, which is a shame since I don't love this area.</text>
+  </sentence>
+  <sentence id="276">
+    <text>They have very quick service which is great when you don't have much time.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="service" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="277">
+    <text>The food is average: breakfast food, soups, salads, sandwiches, etc.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="21" term="breakfast food" to="35"/>
+      <aspectTerm from="37" term="soups" to="42"/>
+      <aspectTerm from="44" term="salads" to="50"/>
+      <aspectTerm from="52" term="sandwiches" to="62"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="278">
+    <text>I WAS HIGHLY DISAPPOINTED BY THE FOOD.</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="FOOD" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="279">
+    <text>THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN,THE CRABCAKES ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="BANANA PUDDING" to="18"/>
+      <aspectTerm from="57" term="CRABCAKES" to="66"/>
+      <aspectTerm from="131" term="MAC AND CHEESE" to="145"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="280">
+    <text>The staff is arrogant, the prices are way high for Brooklyn.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="staff" to="9"/>
+      <aspectTerm from="27" term="prices" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="281">
+    <text>This place is average... at best.</text>
+  </sentence>
+  <sentence id="281">
+    <text>the service is prompt friendly.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="282">
+    <text>Whatever the reason it is definitely the place to be.</text>
+  </sentence>
+  <sentence id="282">
+    <text>This is literally a hot spot when it comes to the food.</text>
+    <aspectTerms>
+      <aspectTerm from="50" term="food" to="54"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="283">
+    <text>The downstairs bar scene is very cool and chill...</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="downstairs bar scene" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="284">
+    <text>The food was definitely good, but when all was said and done, I just couldn't justify it for the price (including 2 drinks, $100/person)...</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="97" term="price" to="102"/>
+      <aspectTerm from="116" term="drinks" to="122"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="285">
+    <text>I've come here for casual lunches as well as for a friend's birthday and I always enjoy myself.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="casual lunches" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="286">
+    <text>If you are a Tequila fan you will not be disappointed.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Tequila" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="287">
+    <text>Great beer selection too, something like 50 beers.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="beer selection" to="20"/>
+      <aspectTerm from="44" term="beers" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="288">
+    <text>After reading the great reviews, I invited a die-hard downtown friend of mine to join me at TASTE.</text>
+  </sentence>
+  <sentence id="288">
+    <text>Not to sound too negative but be wary of the delivary.</text>
+    <aspectTerms>
+      <aspectTerm from="45" term="delivary" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="289">
+    <text>Feels like family when we go there.</text>
+  </sentence>
+  <sentence id="289">
+    <text>I found the food to be just as good as its owner, Da Silvano, just much less expensive.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="food" to="16"/>
+      <aspectTerm from="43" term="owner" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="290">
+    <text>They have homemade pastas of all kinds -- I recommend the gnocchi -- yum!</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="homemade pastas" to="25"/>
+      <aspectTerm from="58" term="gnocchi" to="65"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="291">
+    <text>My vegetable risotto was burnt, and infused totally in a burnt flavor.</text>
+    <aspectTerms>
+      <aspectTerm from="3" term="vegetable risotto" to="20"/>
+      <aspectTerm from="63" term="flavor" to="69"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="292">
+    <text>What a pleasant surprise!</text>
+  </sentence>
+  <sentence id="292">
+    <text>The main draw of this place is the price.</text>
+    <aspectTerms>
+      <aspectTerm from="35" term="price" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="293">
+    <text>How can hope to stay in business with service like this?</text>
+    <aspectTerms>
+      <aspectTerm from="38" term="service" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="294">
+    <text>But dinner here is never disappointing, even if the prices are a bit over the top.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="dinner" to="10"/>
+      <aspectTerm from="52" term="prices" to="58"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="295">
+    <text>Not only did they have amazing, sandwiches, soup, pizza etc, but their homemade sorbets are out of this world!</text>
+    <aspectTerms>
+      <aspectTerm from="32" term="sandwiches" to="42"/>
+      <aspectTerm from="44" term="soup" to="48"/>
+      <aspectTerm from="50" term="pizza" to="55"/>
+      <aspectTerm from="71" term="homemade sorbets" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="296">
+    <text>the homemade Guacamole, the unbelievable entree, and thee most amazing deserts.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="homemade Guacamole" to="22"/>
+      <aspectTerm from="41" term="entree" to="47"/>
+      <aspectTerm from="71" term="deserts" to="78"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="297">
+    <text>The sushi is reasonably priced and fresh.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="sushi" to="9"/>
+      <aspectTerm from="24" term="priced" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="298">
+    <text>It's no-fuss, fast and delicious.</text>
+  </sentence>
+  <sentence id="298">
+    <text>Save room for deserts - they're to die for.</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="deserts" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="299">
+    <text>Best things to order are from the grill (Churrasco and Ribs).</text>
+    <aspectTerms>
+      <aspectTerm from="34" term="grill" to="39"/>
+      <aspectTerm from="41" term="Churrasco" to="50"/>
+      <aspectTerm from="55" term="Ribs" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="300">
+    <text>The traditional Italian items are great - cheap and served in a cozy setting.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="traditional Italian items" to="29"/>
+      <aspectTerm from="52" term="served" to="58"/>
+      <aspectTerm from="69" term="setting" to="76"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="301">
+    <text>Whether your choose the iced blended mocha or the hot white mocha you are sure to be extremely happy.</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="iced blended mocha" to="42"/>
+      <aspectTerm from="50" term="hot white mocha" to="65"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="302">
+    <text>last Tuesday for a late lunch with a friend.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="late lunch" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="303">
+    <text>It was delish and I didn't feel bad eating it.</text>
+  </sentence>
+  <sentence id="303">
+    <text>Another friend had to ask 3 times for parmesan cheese.</text>
+    <aspectTerms>
+      <aspectTerm from="38" term="parmesan cheese" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="304">
+    <text>Our waitress had apparently never tried any of the food, and there was no one to recommend any wine.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="waitress" to="12"/>
+      <aspectTerm from="51" term="food" to="55"/>
+      <aspectTerm from="95" term="wine" to="99"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="305">
+    <text>The service was a bit slow and the portions are a bit small so if you are hungry and in a rush, this is not the place for you.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+      <aspectTerm from="35" term="portions" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="306">
+    <text>No doubt the next time we want to go out for a special occasion or are entertaining guests from out of town, Spirit and Bateaux will be our destination.</text>
+  </sentence>
+  <sentence id="306">
+    <text>i would recommend Jewel Bako if you want to feel like you were kicked in the groin and had to pay for it too.</text>
+  </sentence>
+  <sentence id="306">
+    <text>The ambiance was pretty cool, but not worth the hassle.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="ambiance" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="307">
+    <text>The unfortunate lady next to us thought she had ordered a salad (including asking for salad dressing) and was instead given a quesedilla.</text>
+    <aspectTerms>
+      <aspectTerm from="58" term="salad" to="63"/>
+      <aspectTerm from="86" term="salad dressing" to="100"/>
+      <aspectTerm from="126" term="quesedilla" to="136"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="308">
+    <text>El Nidos one of the best restaurants in New York which I've ever been to, has a great variety of tasty, mouth watering pizza's.</text>
+    <aspectTerms>
+      <aspectTerm from="119" term="pizza's" to="126"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="309">
+    <text>The service was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+      <aspectTerm from="44" term="food" to="48"/>
+      <aspectTerm from="88" term="cost" to="92"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="310">
+    <text>Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly staff a visit.</text>
+    <aspectTerms>
+      <aspectTerm from="82" term="food" to="86"/>
+      <aspectTerm from="111" term="staff" to="116"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="311">
+    <text>I had to wait for my friend at the bar for a few minutes</text>
+    <aspectTerms>
+      <aspectTerm from="35" term="bar" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="312">
+    <text>Chef Vincenzo, always there if you need him, is a real talent and a real Roman.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Chef" to="4"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="313">
+    <text>If you're looking to taste some great Indian food and want good service, definitely visit Curry Leaf.</text>
+    <aspectTerms>
+      <aspectTerm from="38" term="Indian food" to="49"/>
+      <aspectTerm from="64" term="service" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="314">
+    <text>You must try Odessa stew or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Odessa stew" to="24"/>
+      <aspectTerm from="28" term="Rabbit stew" to="39"/>
+      <aspectTerm from="41" term="salads" to="47"/>
+      <aspectTerm from="62" term="kompot" to="68"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="315">
+    <text>My daughter and I left feeling satisfied (not stuffed) and it felt good to know we had a healthy lunch.</text>
+    <aspectTerms>
+      <aspectTerm from="97" term="lunch" to="102"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="316">
+    <text>I'm almost tempted to give this place a bad review so I can keep the crowds away...been going there on and off for a year now and it's really my fave hang out in the city.</text>
+  </sentence>
+  <sentence id="316">
+    <text>When she complained, the waitress said, Sorry.</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="waitress" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="317">
+    <text>The quality of the meat was on par with your local grocery store.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="quality of the meat" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="318">
+    <text>They specialize in smoothies and fresh juices.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="smoothies" to="28"/>
+      <aspectTerm from="33" term="fresh juices" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="319">
+    <text>It first came well done, and I politely sent it back.</text>
+  </sentence>
+  <sentence id="319">
+    <text>I recommend the black roasted codfish, it was the best dish of the evening.</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="black roasted codfish" to="37"/>
+      <aspectTerm from="55" term="dish" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="320">
+    <text>The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="manager" to="11"/>
+      <aspectTerm from="54" term="menu" to="58"/>
+      <aspectTerm from="114" term="waiter" to="120"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="321">
+    <text>In mi burrito, here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste.</text>
+    <aspectTerms>
+      <aspectTerm from="41" term="chicken" to="48"/>
+      <aspectTerm from="114" term="taste" to="119"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="322">
+    <text>during busy hrs, i recommend that you make a reservation.</text>
+    <aspectTerms>
+      <aspectTerm from="45" term="reservation" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="323">
+    <text>Don't waste your time or your money.</text>
+  </sentence>
+  <sentence id="323">
+    <text>it's good but, like the movie is never as good as the book, this is same analogy.</text>
+  </sentence>
+  <sentence id="323">
+    <text>it was a very warm experience.</text>
+  </sentence>
+  <sentence id="323">
+    <text>I went to Common Stock for brunch and I was so impressed.</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="brunch" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="324">
+    <text>now called nikki sushi, sushi is OK.</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="sushi" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="325">
+    <text>The food is also outstanding and is served quite quickly.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="36" term="served" to="42"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="326">
+    <text>I just have nothing to say about this place that is negative except that it's not a cheap night out...but it's SO worth it.</text>
+  </sentence>
+  <sentence id="326">
+    <text>From the erbazzone emiliana to the mostarda on the cheese plate, the dishes at this restaurant are all handled with delicate care.</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="erbazzone emiliana" to="27"/>
+      <aspectTerm from="35" term="mostarda on the cheese plate" to="63"/>
+      <aspectTerm from="69" term="dishes" to="75"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="327">
+    <text>The food is delicious and the bar has a great vibe.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="30" term="bar" to="33"/>
+      <aspectTerm from="46" term="vibe" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="328">
+    <text>expectations were real hi reading the '10's'.</text>
+  </sentence>
+  <sentence id="328">
+    <text>There's candlelight and music.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="candlelight" to="19"/>
+      <aspectTerm from="24" term="music" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="329">
+    <text>It's nice to find a place that is open 24 hours (especially in downtown Brooklyn).</text>
+  </sentence>
+  <sentence id="329">
+    <text>Simple healthy unglamorous food cheap.</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="food" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="330">
+    <text>It was such a fantastic dining experience, that I returned again the same week.</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="dining experience" to="41"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="331">
+    <text>To be fair, the food still is good and the service is quick and attentative even though its usually very busy.</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="food" to="20"/>
+      <aspectTerm from="43" term="service" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="332">
+    <text>The place is absolutely adorable and the food is delicious.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="place" to="9"/>
+      <aspectTerm from="41" term="food" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="333">
+    <text>I ordered the Chicken Teriyaki and my husband got Garlic Shrimp.</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="Chicken Teriyaki" to="30"/>
+      <aspectTerm from="50" term="Garlic Shrimp" to="63"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="334">
+    <text>I've had better Japanese food at a mall food court.</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="Japanese food" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="335">
+    <text>The staff members are extremely friendly and even replaced my drink once when I dropped it outside.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="staff members" to="17"/>
+      <aspectTerm from="62" term="drink" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="336">
+    <text>Cool atmosphere but such a let down.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="atmosphere" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="337">
+    <text>The Sashimi portion are big enough to appease most people, but I didn't like the fact they used artifical lobster meat.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="Sashimi portion" to="19"/>
+      <aspectTerm from="96" term="artifical lobster meat" to="118"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="338">
+    <text>They have wheat crusted pizza made with really fresh and yummy ingredients.</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="wheat crusted pizza" to="29"/>
+      <aspectTerm from="63" term="ingredients" to="74"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="339">
+    <text>Had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="dinner" to="19"/>
+      <aspectTerm from="53" term="food" to="57"/>
+      <aspectTerm from="99" term="service" to="106"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="340">
+    <text>the icing MADE this cake, it was fluffy, not ultra sweet, creamy and light.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="cake" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="341">
+    <text>Finally let into the store 5 at a time, to buy expensive slices from a harried staff.</text>
+    <aspectTerms>
+      <aspectTerm from="57" term="slices" to="63"/>
+      <aspectTerm from="79" term="staff" to="84"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="342">
+    <text>We ended up having to just leave because we were essentially being ignored by the wait staff--even though the rest of the restaurant was largely empty.</text>
+    <aspectTerms>
+      <aspectTerm from="82" term="wait staff" to="92"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="343">
+    <text>The wine list is extensive, well priced and covers alot of regions.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="wine list" to="13"/>
+      <aspectTerm from="33" term="priced" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="344">
+    <text>Go here if you want fresh and tasty salads of any type you can imagine.</text>
+    <aspectTerms>
+      <aspectTerm from="36" term="salads" to="42"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="345">
+    <text>Everything about this place is adorable - even the bathroom!</text>
+    <aspectTerms>
+      <aspectTerm from="51" term="bathroom" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="346">
+    <text>Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable repast.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="delivers" to="15"/>
+      <aspectTerm from="23" term="food" to="27"/>
+      <aspectTerm from="36" term="prices" to="42"/>
+      <aspectTerm from="57" term="service" to="64"/>
+      <aspectTerm from="96" term="repast" to="102"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="347">
+    <text>THEY HAVE WAITERS ON THE SIDEWALK TRYING TO PULL YOU IN WHICH MADE US SUSPICIOUS.</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="WAITERS" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="348">
+    <text>IT WAS OUR ONLY OPPORTUNITY TO VISIT AND WANTED AN AUTHENTIC ITALIAN MEAL.</text>
+    <aspectTerms>
+      <aspectTerm from="61" term="ITALIAN MEAL" to="73"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="349">
+    <text>It took 100 years for Parisi to get around to making pizza (at least I don't think they ever made it before this year)...but it was worth the wait.</text>
+    <aspectTerms>
+      <aspectTerm from="53" term="pizza" to="58"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="350">
+    <text>I asked for a simple medium rare steak.</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="steak" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="351">
+    <text>Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="organic grilled burgers" to="45"/>
+      <aspectTerm from="67" term="dish" to="71"/>
+      <aspectTerm from="81" term="Jerusalem market-style falafel wraps" to="117"/>
+      <aspectTerm from="122" term="Mediterranean salads--layered with beets, goat cheese and walnuts" to="187"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="352">
+    <text>Probably my worst dining experience in new york, and I'm a former waiter so I know what I'm talking about.</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="dining experience" to="35"/>
+      <aspectTerm from="66" term="waiter" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="353">
+    <text>Result (red velvet): Great texture, soft and velvety, nice hint of cocoa.</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="texture" to="34"/>
+      <aspectTerm from="59" term="hint of cocoa" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="354">
+    <text>Ask for the round corner table next to the large window.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="round corner table next to the large window" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="355">
+    <text>Their twist on pizza is heatlhy, but full of flavor.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="twist on pizza" to="20"/>
+      <aspectTerm from="45" term="flavor" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="356">
+    <text>The lack of AC and the fact that there are a million swarming bodies (although everyone is polite and no one is pushing) is a slight turn off.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="AC" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="357">
+    <text>I love the Little Pie Company as much as anyone else who has written reviews, but must discourage anyone from visiting the Grand Central location due to their RUDE service from two sales people.</text>
+    <aspectTerms>
+      <aspectTerm from="164" term="service" to="171"/>
+      <aspectTerm from="181" term="sales people" to="193"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="358">
+    <text>Unfortunately, unless you live in the neighborhood, it's not in a convenient location but is more like a hidden treasure.</text>
+    <aspectTerms>
+      <aspectTerm from="77" term="location" to="85"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="359">
+    <text>Didn't seem like any effort was made to the display and quality of the food.</text>
+    <aspectTerms>
+      <aspectTerm from="44" term="display and quality of the food" to="75"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="360">
+    <text>The food--though mostly deep-fried--is simple and satisfying.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="361">
+    <text>We live in the neighborhood and have been going there twice a week since the day they first opened.</text>
+  </sentence>
+  <sentence id="361">
+    <text>Glechik might be way too tiny for a restaurant by Russian standards, but it is cozy and the food is simply GREAT.</text>
+    <aspectTerms>
+      <aspectTerm from="92" term="food" to="96"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="362">
+    <text>The food was excellent - authentic Italian cuisine made absolutely fresh.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="35" term="Italian cuisine" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="363">
+    <text>At night the atmoshere changes turning into this hidden jewel that is waiting to be discovered.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="atmoshere" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="364">
+    <text>The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and service.</text>
+    <aspectTerms>
+      <aspectTerm from="75" term="booth by the windows" to="95"/>
+      <aspectTerm from="136" term="place" to="141"/>
+      <aspectTerm from="154" term="food" to="158"/>
+      <aspectTerm from="163" term="service" to="170"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="365">
+    <text>I would only go for the coffee which is way better than Starbucks or the like.</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="coffee" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="366">
+    <text>I used to be a regular costumer at pongal until dosa hut opened right next door to it.</text>
+  </sentence>
+  <sentence id="366">
+    <text>Somewhat disappointing wine list (only new vintages.</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="wine list" to="32"/>
+      <aspectTerm from="43" term="vintages" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="367">
+    <text>Both were very good, but nothing you couldn't get at similar restaurant.</text>
+  </sentence>
+  <sentence id="367">
+    <text>If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A$$ this is the place to be!!</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="priced" to="37"/>
+      <aspectTerm from="38" term="food" to="42"/>
+      <aspectTerm from="65" term="scenery" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="368">
+    <text>new hamburger with special sauce is ok - at least better than big mac!</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="new hamburger with special sauce" to="32"/>
+      <aspectTerm from="62" term="big mac" to="69"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="369">
+    <text>Perfectly al dente pasta, not drowned in sauce -- generous portions.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="pasta" to="24"/>
+      <aspectTerm from="41" term="sauce" to="46"/>
+      <aspectTerm from="59" term="portions" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="370">
+    <text>I can understand the prices if it served better food, like some Chinese restaurants in midtown/uptown area.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="prices" to="27"/>
+      <aspectTerm from="48" term="food" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="371">
+    <text>Service was awful - mostly because staff were overwhelmed on a Saturday night.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Service" to="7"/>
+      <aspectTerm from="35" term="staff" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="372">
+    <text>To the owners; good job guys, this place is a keeper!</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="owners" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="373">
+    <text>and the owner is simply lovely and friendly.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="owner" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="374">
+    <text>This little place is wonderfully warm welcoming.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="place" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="375">
+    <text>perfect for a quick meal.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="meal" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="376">
+    <text>Has the warmth of a family local yet it is a great place to watch sporting events.</text>
+    <aspectTerms>
+      <aspectTerm from="51" term="place" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="377">
+    <text>The service was great, and they have a whole great deal for birthdays.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="378">
+    <text>The staff is 100% Italian and the food is as authentic as it gets.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="staff" to="9"/>
+      <aspectTerm from="34" term="food" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="379">
+    <text>My only complaint might be the fortune cookies - I've never had a cookie predict bad luck for me before I visited Kar.</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="fortune cookies" to="46"/>
+      <aspectTerm from="66" term="cookie" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="380">
+    <text>Good for a quick sushi lunch.</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="sushi lunch" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="381">
+    <text>Have a mojito and sit in the back patio.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="mojito" to="13"/>
+      <aspectTerm from="29" term="back patio" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="382">
+    <text>The service was dreadfully slow (the place was only half full) and a smile would have been nice...</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="383">
+    <text>I went this past Saturday and had a excellent meal of consisting of a braised lamb shank with mashed potatoes.</text>
+    <aspectTerms>
+      <aspectTerm from="46" term="meal" to="50"/>
+      <aspectTerm from="70" term="braised lamb shank with mashed potatoes" to="109"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="384">
+    <text>The waitress came by to pick up the soy sauce WHILE we were eating our lunch!!!!!</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="waitress" to="12"/>
+      <aspectTerm from="36" term="soy sauce" to="45"/>
+      <aspectTerm from="71" term="lunch" to="76"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="385">
+    <text>So we sat at the bar, the bartender didn't seem like he wanted to be there.</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="bar" to="20"/>
+      <aspectTerm from="26" term="bartender" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="386">
+    <text>I reccomend the fried pork dumplings, the orange chicken/beef, and the fried rice.</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="fried pork dumplings" to="36"/>
+      <aspectTerm from="42" term="orange chicken/beef" to="61"/>
+      <aspectTerm from="71" term="fried rice" to="81"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="387">
+    <text>You will not be dissapointed by any of the choices in the menu.</text>
+    <aspectTerms>
+      <aspectTerm from="58" term="menu" to="62"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="388">
+    <text>The french fries -- with the kalmata dip were terrific!</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="french fries -- with the kalmata dip" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="389">
+    <text>Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the manager tells the bartender to spill the drinks you just paid for?</text>
+    <aspectTerms>
+      <aspectTerm from="65" term="wait" to="69"/>
+      <aspectTerm from="120" term="manager" to="127"/>
+      <aspectTerm from="138" term="bartender" to="147"/>
+      <aspectTerm from="161" term="drinks" to="167"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="390">
+    <text>The boutique selection of wines covers a wide variety without being imposeing.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="boutique selection of wines" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="391">
+    <text>If you're lucky and there's not a private party going on back there, you'll get a chance to really chill out.</text>
+  </sentence>
+  <sentence id="391">
+    <text>They also have a great assortment of wraps if your not in the mood for traditional Mediterranean fare.</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="assortment of wraps" to="42"/>
+      <aspectTerm from="71" term="traditional Mediterranean fare" to="101"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="392">
+    <text>Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Fresh veggies" to="13"/>
+      <aspectTerm from="28" term="middle eastern spreads" to="50"/>
+      <aspectTerm from="52" term="cheese" to="58"/>
+      <aspectTerm from="63" term="falafel" to="70"/>
+      <aspectTerm from="72" term="soup" to="76"/>
+      <aspectTerm from="78" term="fish" to="82"/>
+      <aspectTerm from="84" term="rice" to="88"/>
+      <aspectTerm from="90" term="root vegetables" to="105"/>
+      <aspectTerm from="109" term="rice medley" to="120"/>
+      <aspectTerm from="127" term="spinach thing" to="140"/>
+      <aspectTerm from="142" term="lamb kebabs" to="153"/>
+      <aspectTerm from="155" term="cheese baclava" to="169"/>
+      <aspectTerm from="184" term="fooood" to="190"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="393">
+    <text>Disappointingly, their wonderful Saketini has been taken off the bar menu.</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="Saketini" to="41"/>
+      <aspectTerm from="65" term="bar menu" to="73"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="394">
+    <text>In Short The Black Sheep distinguishes itself from the Midtown pub herd with a look that's a mix of sports-bar butch and ornate kitsch.</text>
+    <aspectTerms>
+      <aspectTerm from="79" term="look" to="83"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="395">
+    <text>I would definitely go back -- if only for some of those exotic martinis on the blackboard.</text>
+    <aspectTerms>
+      <aspectTerm from="63" term="martinis" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="396">
+    <text>They are located off the beaten path but are certainly worth the trip.</text>
+  </sentence>
+  <sentence id="396">
+    <text>then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people.</text>
+    <aspectTerms>
+      <aspectTerm from="56" term="chairs" to="62"/>
+      <aspectTerm from="84" term="table" to="89"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="397">
+    <text>The happy hour is so cheap, but that does not reflect the service or the atmosphere.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="happy hour" to="14"/>
+      <aspectTerm from="58" term="service" to="65"/>
+      <aspectTerm from="73" term="atmosphere" to="83"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="398">
+    <text>After waiting for almost an hour, the waiter brusquely told us he'd forgotten to give the kitchen our order.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="waiting" to="13"/>
+      <aspectTerm from="38" term="waiter" to="44"/>
+      <aspectTerm from="90" term="kitchen" to="97"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="399">
+    <text>With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere.</text>
+    <aspectTerms>
+      <aspectTerm from="101" term="quaility" to="109"/>
+      <aspectTerm from="114" term="atmosphere" to="124"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="400">
+    <text>A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.</text>
+    <aspectTerms>
+      <aspectTerm from="74" term="space" to="79"/>
+      <aspectTerm from="101" term="treats" to="107"/>
+      <aspectTerm from="122" term="prices" to="128"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="401">
+    <text>Give it a try, menu is typical French but varied.</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="menu" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="402">
+    <text>It gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice.</text>
+    <aspectTerms>
+      <aspectTerm from="51" term="seats" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="403">
+    <text>but for the value, it was a great affordable spot to enjoy a fun night out with small group.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="value" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="404">
+    <text>the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive attitude about the proper way to treat their customers and deliver top quality food.</text>
+    <aspectTerms>
+      <aspectTerm from="145" term="attitude" to="153"/>
+      <aspectTerm from="224" term="food" to="228"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="405">
+    <text>We ordered a glass of wine and were finished eating and paying before the wine came.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="glass of wine" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="406">
+    <text>It was good, but none of the flavors WOW.</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="flavors" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="407">
+    <text>Overall, this is a nice place to take a few friends to hang out at and the service is excellent.</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="place" to="29"/>
+      <aspectTerm from="75" term="service" to="82"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="408">
+    <text>Food is excellent quality for a good restaurant price.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Food" to="4"/>
+      <aspectTerm from="48" term="price" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="409">
+    <text>Actually, everyone who worked there seemed to be annoyed.</text>
+  </sentence>
+  <sentence id="409">
+    <text>for about eleven bucks you get a gigantic burrito (or tacos), margarita, and dessert.</text>
+    <aspectTerms>
+      <aspectTerm from="42" term="burrito" to="49"/>
+      <aspectTerm from="54" term="tacos" to="59"/>
+      <aspectTerm from="62" term="margarita" to="71"/>
+      <aspectTerm from="77" term="dessert" to="84"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="410">
+    <text>The space is traditional in feel.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="space" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="411">
+    <text>the restaurant was completely empty, but she gave me a dirty look and asked, no reservations?</text>
+    <aspectTerms>
+      <aspectTerm from="80" term="reservations" to="92"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="412">
+    <text>the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="39" term="interior" to="47"/>
+      <aspectTerm from="75" term="owners" to="81"/>
+      <aspectTerm from="178" term="dining" to="184"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="413">
+    <text>Good service, great food, good value, and never have to wait in line!</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="service" to="12"/>
+      <aspectTerm from="20" term="food" to="24"/>
+      <aspectTerm from="31" term="value" to="36"/>
+      <aspectTerm from="56" term="wait" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="414">
+    <text>Offerings like hot cakes and the Egg McMuffin sandwich are available for breakfast.</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="hot cakes" to="24"/>
+      <aspectTerm from="33" term="Egg McMuffin sandwich" to="54"/>
+      <aspectTerm from="73" term="breakfast" to="82"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="415">
+    <text>I have been going to this restaurant for years, in the past the service was average and the food inconsistant.</text>
+    <aspectTerms>
+      <aspectTerm from="64" term="service" to="71"/>
+      <aspectTerm from="92" term="food" to="96"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="416">
+    <text>The music was fascinating, but left room for conversation, and the bartender made superb drinks.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="music" to="9"/>
+      <aspectTerm from="67" term="bartender" to="76"/>
+      <aspectTerm from="89" term="drinks" to="95"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="417">
+    <text>rice dishes and noodle dishes rarely exceed $5 and add on a refreshing ice drink for $2 and you're set for the night!</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="rice dishes" to="11"/>
+      <aspectTerm from="16" term="noodle dishes" to="29"/>
+      <aspectTerm from="71" term="ice drink" to="80"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="418">
+    <text>Cuisine is billed as asian fusion - doesn't meet the bill.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Cuisine" to="7"/>
+      <aspectTerm from="11" term="billed" to="17"/>
+      <aspectTerm from="21" term="asian fusion" to="33"/>
+      <aspectTerm from="53" term="bill" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="419">
+    <text>Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="dishes" to="15"/>
+      <aspectTerm from="21" term="king crab salad with passion fruit vinaigrette" to="67"/>
+      <aspectTerm from="72" term="fettuccine with grilled seafood in a rosemary-orange sauce" to="130"/>
+      <aspectTerm from="183" term="bistro menu" to="194"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="420">
+    <text>Dishes denoted as &quot;Roy's Classics&quot; (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Dishes" to="6"/>
+      <aspectTerm from="18" term="&quot;Roy's Classics&quot;" to="34"/>
+      <aspectTerm from="50" term="menu" to="54"/>
+      <aspectTerm from="90" term="recipes" to="97"/>
+      <aspectTerm from="107" term="macadamia-crusted mahi mahi" to="134"/>
+      <aspectTerm from="146" term="sweet honey-mustard beef short ribs" to="181"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="421">
+    <text>The cold sesame noodles, which are a freebie when you order $10+, are delectable.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="cold sesame noodles" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="422">
+    <text>I came to fresh expecting a great meal, and all I got was marginally so-so food served in a restaurant that was just so freezing we couldn't enjoy eating.</text>
+    <aspectTerms>
+      <aspectTerm from="34" term="meal" to="38"/>
+      <aspectTerm from="75" term="food" to="79"/>
+      <aspectTerm from="80" term="served" to="86"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="423">
+    <text>The lone argentine chorizo appetizer at $8.95 was a heavy fennel flavored Italian sausage like the ones that sell for $2.99/lb at the store.</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="argentine chorizo appetizer" to="36"/>
+      <aspectTerm from="58" term="fennel flavored Italian sausage" to="89"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="424">
+    <text>I went to Swiftys with some friends of the family and we had a very nice dinner, but nothing amazing.</text>
+    <aspectTerms>
+      <aspectTerm from="73" term="dinner" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="425">
+    <text>Best Chinese on the Upper East, prompt delivery, good value.</text>
+    <aspectTerms>
+      <aspectTerm from="39" term="delivery" to="47"/>
+      <aspectTerm from="54" term="value" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="426">
+    <text>Most of the sandwiches are made with soy mayonaise which is actually pretty good.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="sandwiches" to="22"/>
+      <aspectTerm from="37" term="soy mayonaise" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="427">
+    <text>i went in one day asking for a table for a group and was greeted by a very rude hostess.</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="table" to="36"/>
+      <aspectTerm from="80" term="hostess" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="428">
+    <text>It's worthwhile to take a cab to Chelsea just for an awesome dinner at My Chelsea.</text>
+    <aspectTerms>
+      <aspectTerm from="61" term="dinner" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="429">
+    <text>Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine.</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="food" to="20"/>
+      <aspectTerm from="40" term="staff" to="45"/>
+      <aspectTerm from="150" term="food" to="154"/>
+      <aspectTerm from="159" term="wine" to="163"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="430">
+    <text>It has good music, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="music" to="17"/>
+      <aspectTerm from="24" term="tapas" to="29"/>
+      <aspectTerm from="46" term="selection of wines (primarily Spanish)" to="84"/>
+      <aspectTerm from="115" term="clientele" to="124"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="431">
+    <text>The food is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="32" term="dumplings" to="41"/>
+      <aspectTerm from="43" term="cold sesame noodles" to="62"/>
+      <aspectTerm from="64" term="chicken" to="71"/>
+      <aspectTerm from="76" term="shrimp dishs" to="88"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="432">
+    <text>And the food, well the food will keep you coming back.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="food" to="12"/>
+      <aspectTerm from="23" term="food" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="433">
+    <text>Waiting three hours before getting our entrees was a treat as well.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Waiting" to="7"/>
+      <aspectTerm from="39" term="entrees" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="434">
+    <text>It's the conversations that make this a fun place to be.</text>
+    <aspectTerms>
+      <aspectTerm from="44" term="place" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="435">
+    <text>My gf's duck confitte was very solid as well, although i have little base of reference.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="duck confitte" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="436">
+    <text>The wine list was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="wine list" to="13"/>
+      <aspectTerm from="30" term="tapas" to="35"/>
+      <aspectTerm from="62" term="atmosphere" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="437">
+    <text>You can eat gourmet food at a fast food price.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="food" to="24"/>
+      <aspectTerm from="40" term="price" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="438">
+    <text>I've eaten at all three locations and I always love, love the food, the service is always wonderful and the prices are really reasonable.</text>
+    <aspectTerms>
+      <aspectTerm from="62" term="food" to="66"/>
+      <aspectTerm from="72" term="service" to="79"/>
+      <aspectTerm from="108" term="prices" to="114"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="439">
+    <text>Not because I was pregnant, but the food here is always delicious.</text>
+    <aspectTerms>
+      <aspectTerm from="36" term="food" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="440">
+    <text>Had a great meal there this weekend before heading to the movies!</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="meal" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="441">
+    <text>We had a birthday party here recently and the food and service was amazing.</text>
+    <aspectTerms>
+      <aspectTerm from="46" term="food" to="50"/>
+      <aspectTerm from="55" term="service" to="62"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="442">
+    <text>the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="dinner menu" to="15"/>
+      <aspectTerm from="42" term="entrees" to="49"/>
+      <aspectTerm from="67" term="seafood" to="74"/>
+      <aspectTerm from="84" term="steaks" to="90"/>
+      <aspectTerm from="117" term="non-meat alternatives" to="138"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="443">
+    <text>This place has the strangest menu and the restaurants tries too hard to make fancy food.</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="menu" to="33"/>
+      <aspectTerm from="83" term="food" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="444">
+    <text>The appetizers are ok, but the service is slow.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="appetizers" to="14"/>
+      <aspectTerm from="31" term="service" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="445">
+    <text>the food - not worth the price.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="25" term="price" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="446">
+    <text>What can you say about a place where the waitress brings out the wrong entree, then verbally assaults your 80 year old grandmother and gives her lip about sending it back (which she did politely, by the way).</text>
+    <aspectTerms>
+      <aspectTerm from="41" term="waitress" to="49"/>
+      <aspectTerm from="71" term="entree" to="77"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="447">
+    <text>The prices are not terrible.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="prices" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="448">
+    <text>15% gratuity automatically added to the bill.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="gratuity" to="12"/>
+      <aspectTerm from="40" term="bill" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="449">
+    <text>The halibut cheek appetizer came with a generous portion of foie gras, but that's about the only positive thing I can say about the meal.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="halibut cheek appetizer" to="27"/>
+      <aspectTerm from="49" term="portion of foie gras" to="69"/>
+      <aspectTerm from="132" term="meal" to="136"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="450">
+    <text>Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Food" to="4"/>
+      <aspectTerm from="37" term="empenadas" to="46"/>
+      <aspectTerm from="51" term="plaintains" to="61"/>
+      <aspectTerm from="84" term="afternoon snack" to="99"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="451">
+    <text>Both a number of the appetizer and pasta specials were amazing.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="appetizer" to="30"/>
+      <aspectTerm from="35" term="pasta specials" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="452">
+    <text>All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="Big Mac" to="38"/>
+      <aspectTerm from="40" term="Chicken McNuggets" to="57"/>
+      <aspectTerm from="59" term="Filet-O-Fish sandwich" to="80"/>
+      <aspectTerm from="85" term="McDonald's famous french fries" to="115"/>
+      <aspectTerm from="138" term="entree-sized salads" to="157"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="453">
+    <text>Although somewhat loud, the noise was minimally intrusive.</text>
+    <aspectTerms>
+      <aspectTerm from="28" term="noise" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="454">
+    <text>It's a basic pizza joint, not much to look at, but the pizza is what I go for.</text>
+    <aspectTerms>
+      <aspectTerm from="55" term="pizza" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="455">
+    <text>Tables are close, so you better be comfortable bumping elbows with other patrons.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Tables" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="456">
+    <text>Was her Monday for lunch - was working on a film in the area - and found this rare jewel.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="lunch" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="457">
+    <text>Not too much so, but enough that there's a great scene.</text>
+    <aspectTerms>
+      <aspectTerm from="49" term="scene" to="54"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="458">
+    <text>You feel like you made it to New York when you eat here.</text>
+  </sentence>
+  <sentence id="458">
+    <text>We'd walked by it dozens of times and finally settled on a Monday night.</text>
+  </sentence>
+  <sentence id="458">
+    <text>SUM IT: don't read the '10's' reviews, try it to judge for yourself so you won't have as hi expectations, then you'll be sure to enjoy it.</text>
+  </sentence>
+  <sentence id="458">
+    <text>We went there, no one greeted us.</text>
+  </sentence>
+  <sentence id="458">
+    <text>Dug the blue bar area too.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="blue bar area" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="459">
+    <text>We spent so much time getting elbowed around while we waited we left.</text>
+  </sentence>
+  <sentence id="459">
+    <text>I got the opportunity to dine at your establishment again a few weeks ago, I was in your upstrairs dining area.</text>
+    <aspectTerms>
+      <aspectTerm from="89" term="upstrairs dining area" to="110"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="460">
+    <text>Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.</text>
+    <aspectTerms>
+      <aspectTerm from="47" term="veggie burger" to="60"/>
+      <aspectTerm from="95" term="chickpeas" to="104"/>
+      <aspectTerm from="106" term="carrots" to="113"/>
+      <aspectTerm from="124" term="vegetables" to="134"/>
+      <aspectTerm from="139" term="spices" to="145"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="461">
+    <text>At peak times, the restaurant is overcrowded and tables are uncomfortably close.</text>
+    <aspectTerms>
+      <aspectTerm from="49" term="tables" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="462">
+    <text>The service was on point - what else you would expect from a Ritz?</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="463">
+    <text>Menus feature seasonal picks, like sweet corn-foie gras brulee.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Menus" to="5"/>
+      <aspectTerm from="35" term="sweet corn-foie gras brulee" to="62"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="464">
+    <text>Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce.</text>
+    <aspectTerms>
+      <aspectTerm from="49" term="Carinthia cheese ravioli with wild mushrooms" to="93"/>
+      <aspectTerm from="101" term="caviar-topped sturgeon" to="123"/>
+      <aspectTerm from="159" term="green spinach-vodka sauce" to="184"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="465">
+    <text>And these are not small, wimpy fast food type burgers - these are real, full sized patties.</text>
+    <aspectTerms>
+      <aspectTerm from="46" term="burgers" to="53"/>
+      <aspectTerm from="83" term="patties" to="90"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="466">
+    <text>There restaurant is very casual, but perfect for lunch, and their delivery service is always very fast.</text>
+    <aspectTerms>
+      <aspectTerm from="49" term="lunch" to="54"/>
+      <aspectTerm from="66" term="delivery service" to="82"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="467">
+    <text>Chinatown definitely has better quality with cheaper prices.</text>
+    <aspectTerms>
+      <aspectTerm from="32" term="quality" to="39"/>
+      <aspectTerm from="53" term="prices" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="468">
+    <text>I had to flag down a third staff person for a fork... so now it's goodbye Little RUDE Pie Company.</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="staff person" to="39"/>
+      <aspectTerm from="46" term="fork" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="469">
+    <text>I have been in NYC for over 10 years and could not find this delicacy east of the Hudson .</text>
+  </sentence>
+  <sentence id="469">
+    <text>Go with the specials, and stay away from the salmon. </text>
+    <aspectTerms>
+      <aspectTerm from="12" term="specials" to="20"/>
+      <aspectTerm from="45" term="salmon" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="470">
+    <text>The pastas were pretty good.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="pastas" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="471">
+    <text>Atmosphere is a bore.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Atmosphere" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="472">
+    <text>The decor is what initially got me in the door.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="decor" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="473">
+    <text>The wait staff was very attentive and polite.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="wait staff" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="474">
+    <text>Great restaurant, and even greater food!</text>
+    <aspectTerms>
+      <aspectTerm from="35" term="food" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="475">
+    <text>The dishes are remarkably tasty and such a cozy and intimate place!</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="dishes" to="10"/>
+      <aspectTerm from="61" term="place" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="476">
+    <text>Save room for the desserts! ;-)</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="desserts" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="477">
+    <text>I love the simplicity and respect which was given to the food, as well the staff was freindly and knowledgable.</text>
+    <aspectTerms>
+      <aspectTerm from="57" term="food" to="61"/>
+      <aspectTerm from="75" term="staff" to="80"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="478">
+    <text>Service was good and so was the atmosphere.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Service" to="7"/>
+      <aspectTerm from="32" term="atmosphere" to="42"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="479">
+    <text>MY date and I both ordered the Branzini and both felt the fish was very average.</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="Branzini" to="39"/>
+      <aspectTerm from="58" term="fish" to="62"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="480">
+    <text>We were there March 7 and found Maison very nice.</text>
+  </sentence>
+  <sentence id="480">
+    <text>The food was good, the service prompt, and the price very reasonable. </text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="23" term="service" to="30"/>
+      <aspectTerm from="47" term="price" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="481">
+    <text>Wonderful menu, warm inviting ambiance, great service the FOOD keeps me coming back!</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="menu" to="14"/>
+      <aspectTerm from="30" term="ambiance" to="38"/>
+      <aspectTerm from="46" term="service" to="53"/>
+      <aspectTerm from="58" term="FOOD" to="62"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="482">
+    <text>Great food, good wine and an excellent host.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="food" to="10"/>
+      <aspectTerm from="17" term="wine" to="21"/>
+      <aspectTerm from="39" term="host" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="483">
+    <text>went there last night with my coworker.</text>
+  </sentence>
+  <sentence id="483">
+    <text>Pizzas were excellent in addition to appetizers and main courses.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Pizzas" to="6"/>
+      <aspectTerm from="37" term="appetizers" to="47"/>
+      <aspectTerm from="52" term="main courses" to="64"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="484">
+    <text>Definitely try the calamari, any pasta, or even the Sliced steak entree.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="calamari" to="27"/>
+      <aspectTerm from="33" term="pasta" to="38"/>
+      <aspectTerm from="52" term="Sliced steak entree" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="485">
+    <text>The caeser salad was great.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="caeser salad" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="486">
+    <text>The fried calamari was even better!</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="fried calamari" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="487">
+    <text>The atmosphere was nice but it was a little too dark.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="atmosphere" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="488">
+    <text>The food was good overall. </text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="489">
+    <text>The food was outstanding and the service was tops.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="33" term="service" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="490">
+    <text>The portions are very large and the service is fantastic!!</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="portions" to="12"/>
+      <aspectTerm from="36" term="service" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="491">
+    <text>I recomend the chicken milanese.</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="chicken milanese" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="492">
+    <text>excellent tapas at great prices, romantic, small but not overly crowed, excellent</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="tapas" to="15"/>
+      <aspectTerm from="25" term="prices" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="493">
+    <text>The service is a quite slow, but friendly.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="494">
+    <text>The chocolate raspberry cake is heavenly- not too sweet, but full of flavor.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="chocolate raspberry cake" to="28"/>
+      <aspectTerm from="69" term="flavor" to="75"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="495">
+    <text>Our waiter was helpful and charming, the food was perfect, and the wine was good, too.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="waiter" to="10"/>
+      <aspectTerm from="41" term="food" to="45"/>
+      <aspectTerm from="67" term="wine" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="496">
+    <text>Alias is warm and cozy and you don't get that squished-in feeling you get at 71 Clinton.</text>
+  </sentence>
+  <sentence id="496">
+    <text>I HAVE NEVER HAD A BAD MEAL(OR BAD SERVICE )@ PIGALLE.</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="MEAL" to="27"/>
+      <aspectTerm from="35" term="SERVICE" to="42"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="497">
+    <text>Best hot dogs in the tri-state area.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="hot dogs" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="498">
+    <text>This is a typical example of an establishment in which its owners do not know anything about the restaurant business!</text>
+  </sentence>
+  <sentence id="498">
+    <text>I would not recommend MEET at all, it is a rip off all the way from the time to step in!</text>
+  </sentence>
+  <sentence id="498">
+    <text>Went there for a special celebration.</text>
+  </sentence>
+  <sentence id="498">
+    <text>The restaurant was quiet and intimate.</text>
+  </sentence>
+  <sentence id="498">
+    <text>The service was very attentive and very generous.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="499">
+    <text>We had tons of great food, wine, and desserts.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="food" to="25"/>
+      <aspectTerm from="27" term="wine" to="31"/>
+      <aspectTerm from="37" term="desserts" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="500">
+    <text>Really Lovely dining experience in the midst of buzzing midtown area.</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="dining experience" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="501">
+    <text>OK, I've been to Dumont a few times now.</text>
+  </sentence>
+  <sentence id="501">
+    <text>The food really isn't very good and the service is terrible.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="40" term="service" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="502">
+    <text>Maybe it's that most of Dumont's patrons are younger and have lower expectations, but I cannot recommend Dumont.</text>
+  </sentence>
+  <sentence id="502">
+    <text>Not only do they have the best escargot in town,they always try to accomodate our toddler.</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="escargot" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="503">
+    <text>I've been to Sotto Voce several time, and I have to say this one place that hits the nail right on the head ever time!</text>
+  </sentence>
+  <sentence id="503">
+    <text>Between my guest and I, we sampled at least 80% of the menu, and they were all hits.</text>
+    <aspectTerms>
+      <aspectTerm from="55" term="menu" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="504">
+    <text>The Deco and ambiance was really romantic.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="Deco" to="8"/>
+      <aspectTerm from="13" term="ambiance" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="505">
+    <text>This is the best unknown restaurant in and around New York.</text>
+  </sentence>
+  <sentence id="505">
+    <text>Just go in and sample the greatest french food west of Daniel.</text>
+    <aspectTerms>
+      <aspectTerm from="35" term="french food" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="506">
+    <text>For someone who used to hate Indian food, Baluchi's has changed my mid.</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="Indian food" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="507">
+    <text>Finally a curry that I can eat, enjoy and not suffer from gastritis from 3 hours later.</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="curry" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="508">
+    <text>All are GREAT - poori, naan, paratha all FRESH.</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="poori" to="21"/>
+      <aspectTerm from="23" term="naan" to="27"/>
+      <aspectTerm from="29" term="paratha" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="509">
+    <text>Try the homemade breads.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="homemade breads" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="510">
+    <text>This place has beautiful sushi, and it's delicious CHEAP. </text>
+    <aspectTerms>
+      <aspectTerm from="25" term="sushi" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="511">
+    <text>It also has lots of other Korean dishes that are affordable and just as yummy.</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="Korean dishes" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="512">
+    <text>I went for restaurant week and ordered off the prix fixe menu</text>
+    <aspectTerms>
+      <aspectTerm from="47" term="prix fixe menu" to="61"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="513">
+    <text>Not only was the waiter efficient and courteous, but also extremely helpful. </text>
+    <aspectTerms>
+      <aspectTerm from="17" term="waiter" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="514">
+    <text>It took a bigger bite from my wallet than my appetite - I would not reccomend this to anyone that I would want to talk to me again!!</text>
+  </sentence>
+  <sentence id="514">
+    <text>This place is classy, chic, the service is warm and hospitable, and the food is outstanding.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="place" to="10"/>
+      <aspectTerm from="32" term="service" to="39"/>
+      <aspectTerm from="72" term="food" to="76"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="515">
+    <text>I read about this place in Time Out magazine.</text>
+  </sentence>
+  <sentence id="515">
+    <text>It's a great find in Astoria.</text>
+  </sentence>
+  <sentence id="515">
+    <text>Great burgers, grilled cheeses and french fries.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="burgers" to="13"/>
+      <aspectTerm from="15" term="grilled cheeses" to="30"/>
+      <aspectTerm from="35" term="french fries" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="516">
+    <text>The Yellowfin Tuna and Calf's liver are my favorites!</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="Yellowfin Tuna" to="18"/>
+      <aspectTerm from="23" term="Calf's liver" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="517">
+    <text>Sushi so fresh that it crunches in your mouth.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Sushi" to="5"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="518">
+    <text>But make sure you have enough room on your credit card as the bill will leave a big dent in your wallet.</text>
+    <aspectTerms>
+      <aspectTerm from="62" term="bill" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="519">
+    <text>Despite the 5th ave address there are no frills whick I also love.</text>
+  </sentence>
+  <sentence id="519">
+    <text>They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak (I tried them ALL).</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="sauce cart" to="23"/>
+      <aspectTerm from="35" term="table" to="40"/>
+      <aspectTerm from="68" term="choices of sauces" to="85"/>
+      <aspectTerm from="95" term="steak" to="100"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="520">
+    <text>Not only was the sushi fresh, they also served other entrees allowed each guest something to choose from and we all left happy (try the duck!</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="sushi" to="22"/>
+      <aspectTerm from="53" term="entrees" to="60"/>
+      <aspectTerm from="136" term="duck" to="140"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="521">
+    <text>good variety but nothing surprising.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="variety" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="522">
+    <text>After I paid for my purchase, I noticed they had not given me utensils so I could eat my pie.</text>
+    <aspectTerms>
+      <aspectTerm from="62" term="utensils" to="70"/>
+      <aspectTerm from="89" term="pie" to="92"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="523">
+    <text>Likewise if you like really thin crust or really big slices then Nick and Joe's may not be your favorite.</text>
+    <aspectTerms>
+      <aspectTerm from="28" term="thin crust" to="38"/>
+      <aspectTerm from="53" term="slices" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="524">
+    <text>It's always quiet because it's awful.</text>
+  </sentence>
+  <sentence id="524">
+    <text>No green beans, no egg, no anchovy dressing, no nicoise olives, no red onion.</text>
+    <aspectTerms>
+      <aspectTerm from="3" term="green beans" to="14"/>
+      <aspectTerm from="19" term="egg" to="22"/>
+      <aspectTerm from="27" term="anchovy dressing" to="43"/>
+      <aspectTerm from="48" term="nicoise olives" to="62"/>
+      <aspectTerm from="67" term="red onion" to="76"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="525">
+    <text>Build a meal with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="meal" to="12"/>
+      <aspectTerm from="18" term="side orders" to="29"/>
+      <aspectTerm from="35" term="Amazin' Greens salads" to="56"/>
+      <aspectTerm from="58" term="Buffalo Chicken Kickers" to="81"/>
+      <aspectTerm from="86" term="Cinna Stix" to="96"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="526">
+    <text>Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="fries" to="11"/>
+      <aspectTerm from="13" term="meaty chili" to="24"/>
+      <aspectTerm from="29" term="stuffed baked potatoes" to="51"/>
+      <aspectTerm from="64" term="menu" to="68"/>
+      <aspectTerm from="103" term="chocolate Frosty" to="119"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="527">
+    <text>I always find myself asking the waiter to make something bland and different than what is on the menu.</text>
+    <aspectTerms>
+      <aspectTerm from="32" term="waiter" to="38"/>
+      <aspectTerm from="97" term="menu" to="101"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="528">
+    <text>Good cake BUT: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="cake" to="9"/>
+      <aspectTerm from="35" term="cake" to="39"/>
+      <aspectTerm from="168" term="employees" to="177"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="529">
+    <text>The closest that I got was the Cherry Marscapone, but they were out of it that day.</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="Cherry Marscapone" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="530">
+    <text>The homage to India is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour.</text>
+    <aspectTerms>
+      <aspectTerm from="54" term="roti canai appetizer" to="74"/>
+      <aspectTerm from="78" term="fried pancake served with pungent curry dipping sauce" to="131"/>
+      <aspectTerm from="143" term="mango chicken" to="156"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="531">
+    <text>It doesn't look like much on the outside, but the minute you walk inside, it's a whole other atmosphere.</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="outside" to="40"/>
+      <aspectTerm from="93" term="atmosphere" to="103"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="532">
+    <text>I have to say the place was awesome.</text>
+  </sentence>
+  <sentence id="532">
+    <text>The ground chickpea soup we sampled as a starter tasted somewhat thin.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="ground chickpea soup" to="24"/>
+      <aspectTerm from="41" term="starter" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="533">
+    <text>We requested they re-slice the sushi, and it was returned to us in small cheese-like cubes.</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="sushi" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="534">
+    <text>The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+      <aspectTerm from="48" term="quality of food" to="63"/>
+      <aspectTerm from="74" term="bartenders" to="84"/>
+      <aspectTerm from="95" term="clientele" to="104"/>
+      <aspectTerm from="206" term="staff" to="211"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="535">
+    <text>If you're in the neighborhood, definitely stop by for a great meal.</text>
+    <aspectTerms>
+      <aspectTerm from="62" term="meal" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="536">
+    <text>Unfortunately, with our show tickets, we didn't have time to sample any desserts.</text>
+    <aspectTerms>
+      <aspectTerm from="72" term="desserts" to="80"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="537">
+    <text>The restaurant could use a little paint, but all in all a great sushi place!</text>
+  </sentence>
+  <sentence id="537">
+    <text>Make more tables- perhaps a rooftop bar?</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="tables" to="16"/>
+      <aspectTerm from="28" term="rooftop bar" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="538">
+    <text>The decoration was feeling like we was on the Cairo, actually the street is part of that adventure.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="decoration" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="539">
+    <text>Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="ambience" to="41"/>
+      <aspectTerm from="53" term="food" to="57"/>
+      <aspectTerm from="63" term="catfish" to="70"/>
+      <aspectTerm from="133" term="service" to="140"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="540">
+    <text>I didn't go there for food so I can't comment.</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="food" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="541">
+    <text>My friends and I go once a week (minimum, we live in the area) and everytime can't resist walking out ready to burst.</text>
+  </sentence>
+  <sentence id="541">
+    <text>Stick to the items the place does best, brisket, ribs, wings, cajun shrimp is good, not great.</text>
+    <aspectTerms>
+      <aspectTerm from="40" term="brisket" to="47"/>
+      <aspectTerm from="49" term="ribs" to="53"/>
+      <aspectTerm from="55" term="wings" to="60"/>
+      <aspectTerm from="62" term="cajun shrimp" to="74"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="542">
+    <text>Hip boutiques and bars on Ludlow add to the artsy, laid-back atmosphere at this Israeli-style takeout and eat-in burger joint.</text>
+    <aspectTerms>
+      <aspectTerm from="61" term="atmosphere" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="543">
+    <text>Young neighborhood trendies graze at the counter during the day, while chic, art-house drinkers with heavy doses of the munchies pile in late at night.</text>
+    <aspectTerms>
+      <aspectTerm from="41" term="counter" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="544">
+    <text>Bring your date and a bottle of wine!</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="bottle of wine" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="545">
+    <text>Not only is this the best Thai restaurant I have been to, but it also ranks as one of my favorite places to dine.</text>
+  </sentence>
+  <sentence id="545">
+    <text>Don't be put off by another reviewers extremely negative review.</text>
+  </sentence>
+  <sentence id="545">
+    <text>My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.</text>
+    <aspectTerms>
+      <aspectTerm from="37" term="menu" to="41"/>
+      <aspectTerm from="71" term="Japanese dishes" to="86"/>
+      <aspectTerm from="95" term="Foie Gras Unagi Napolean" to="119"/>
+      <aspectTerm from="121" term="Jap style hamburger steak" to="146"/>
+      <aspectTerm from="148" term="spicy cod roe spaghetti" to="171"/>
+      <aspectTerm from="173" term="black cod with miso base" to="197"/>
+      <aspectTerm from="203" term="rack of lamb in black truffle sauce" to="238"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="546">
+    <text>His food is excellent (and not expensive by NYC standards- no entrees over $30, most appetizers $12 to 14).</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="62" term="entrees" to="69"/>
+      <aspectTerm from="85" term="appetizers" to="95"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="547">
+    <text>The food is consistant and good but how it got name Best Diner In Manhattan is beyond me.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="548">
+    <text>The pasta primavera was outstanding as well, lots of fresh veggies.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="pasta primavera" to="19"/>
+      <aspectTerm from="53" term="fresh veggies" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="549">
+    <text>don't get me wrong - sushi was good, just not fantastic.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="sushi" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="550">
+    <text>Being Puerto Rican I know a thing or two about flan and this place serves one of the best (I hope Mom doesn't read this!).</text>
+    <aspectTerms>
+      <aspectTerm from="47" term="flan" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="551">
+    <text>Been to the one in Brooklyn for over 25 years, now I dont have to go over the bridge for the best pizza ....Hanx</text>
+    <aspectTerms>
+      <aspectTerm from="98" term="pizza" to="103"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="552">
+    <text>Had dinner here on a Friday and the food was great.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="dinner" to="10"/>
+      <aspectTerm from="36" term="food" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="553">
+    <text>We recently spent New Year's Eve at the restaurant, and had a great experience, from the wine to the dessert menu.</text>
+    <aspectTerms>
+      <aspectTerm from="89" term="wine" to="93"/>
+      <aspectTerm from="101" term="dessert menu" to="113"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="554">
+    <text>Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place; also, the bar looks nice.</text>
+    <aspectTerms>
+      <aspectTerm from="102" term="takeout" to="109"/>
+      <aspectTerm from="139" term="place" to="144"/>
+      <aspectTerm from="156" term="bar" to="159"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="555">
+    <text>The ambiance was fine, a little loud but still nice and romantic.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="ambiance" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="556">
+    <text>but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="filet mignon" to="21"/>
+      <aspectTerm from="47" term="cocktail hour" to="60"/>
+      <aspectTerm from="75" term="appetizers" to="85"/>
+      <aspectTerm from="92" term="non-sushi selection" to="111"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="557">
+    <text>It took about 2 1/2 hours to be served our 2 courses.</text>
+    <aspectTerms>
+      <aspectTerm from="32" term="served" to="38"/>
+      <aspectTerm from="45" term="courses" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="558">
+    <text>Who said go when the place is quiet during the day?</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="place" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="559">
+    <text>Can be a bit busy around peak times because of the size.</text>
+    <aspectTerms>
+      <aspectTerm from="51" term="size" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="560">
+    <text>I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade.</text>
+    <aspectTerms>
+      <aspectTerm from="102" term="place" to="107"/>
+      <aspectTerm from="121" term="chicken tacos" to="134"/>
+      <aspectTerm from="139" term="Hibiscus lemonade" to="156"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="561">
+    <text>good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="place" to="10"/>
+      <aspectTerm from="73" term="soup" to="77"/>
+      <aspectTerm from="89" term="french dish" to="100"/>
+      <aspectTerm from="108" term="glass of wine" to="121"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="562">
+    <text>Very nice touch that very much fits the place.</text>
+    <aspectTerms>
+      <aspectTerm from="40" term="place" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="563">
+    <text>However, there is just something so great about being outdoors, in great landscaping, enjoying a casual drink that makes going to this place worthwhile.</text>
+    <aspectTerms>
+      <aspectTerm from="54" term="outdoors" to="62"/>
+      <aspectTerm from="97" term="casual drink" to="109"/>
+      <aspectTerm from="135" term="place" to="140"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="564">
+    <text>We were seated promptly in close proximity to the dance floor.</text>
+    <aspectTerms>
+      <aspectTerm from="50" term="dance floor" to="61"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="565">
+    <text>If you are here as a pre-show meal, hop in a cab and take the extra 10 minutes to go to the uptown location.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="pre-show meal" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="566">
+    <text>A plus was the good mix of people in their twenties that provided for great eye-candy while I was there.</text>
+  </sentence>
+  <sentence id="566">
+    <text>The comments about fried foods is correct (below) but the other dishes, including the lamb entree and many of the salads (avocado shrimp) were quite good.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="fried foods" to="30"/>
+      <aspectTerm from="64" term="dishes" to="70"/>
+      <aspectTerm from="86" term="lamb entree" to="97"/>
+      <aspectTerm from="114" term="salads (avocado shrimp)" to="137"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="567">
+    <text>It's best to go on a cold night with a close friend or a good book.</text>
+  </sentence>
+  <sentence id="567">
+    <text>Slow service, but when you're hanging around with groups of 10 or 20, who really notices?</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="service" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="568">
+    <text>The sauce is excellent (very fresh) with dabs of real mozzarella.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="sauce" to="9"/>
+      <aspectTerm from="41" term="dabs of real mozzarella" to="64"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="569">
+    <text>Don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at dining.</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="drinks" to="30"/>
+      <aspectTerm from="58" term="people" to="64"/>
+      <aspectTerm from="126" term="dining" to="132"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="570">
+    <text>The room is a little plain, but it's difficult to make such a small place exciting and I would not suggest that as a reason not to go.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="room" to="8"/>
+      <aspectTerm from="68" term="place" to="73"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="571">
+    <text>Prices even outside of restaurant week were great.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Prices" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="572">
+    <text>A small, outdoor eating area makes for a private, comfortable space to study alone or meet up with friends.</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="outdoor eating area" to="28"/>
+      <aspectTerm from="62" term="space" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="573">
+    <text>Before the place didn't call my attention.</text>
+  </sentence>
+  <sentence id="573">
+    <text>And all the [female] servers are cute too, which is always nice.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="[female] servers" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="574">
+    <text>The best dessert, a chocolate and peanut butter tart, isn't particularly Hawaiian, but it's a small world when it comes to sweets.</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="dessert" to="16"/>
+      <aspectTerm from="20" term="chocolate and peanut butter tart" to="52"/>
+      <aspectTerm from="123" term="sweets" to="129"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="575">
+    <text>for an appetizer, their calamari is a winner.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="appetizer" to="16"/>
+      <aspectTerm from="24" term="calamari" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="576">
+    <text>Satay is one of those favorite haunts on Washington where the service and food is always on the money.</text>
+    <aspectTerms>
+      <aspectTerm from="62" term="service" to="69"/>
+      <aspectTerm from="74" term="food" to="78"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="577">
+    <text>After dinner I heard music playing and discovered that there is a lounge downstairs.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="dinner" to="12"/>
+      <aspectTerm from="21" term="music" to="26"/>
+      <aspectTerm from="66" term="lounge" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="578">
+    <text>But now that it's under new ownership and has been renovated, it looks great.</text>
+  </sentence>
+  <sentence id="578">
+    <text>The room is a gorgeous, bi-level space and the long bar perfect for a drink.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="room" to="8"/>
+      <aspectTerm from="24" term="bi-level space" to="38"/>
+      <aspectTerm from="47" term="long bar" to="55"/>
+      <aspectTerm from="70" term="drink" to="75"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="579">
+    <text>Now we moved out of the state and every visit to NYC includes a stop here.</text>
+  </sentence>
+  <sentence id="579">
+    <text>Two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="appetizer selection" to="41"/>
+      <aspectTerm from="79" term="mozzarella sticks" to="96"/>
+      <aspectTerm from="104" term="menu" to="108"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="580">
+    <text>I don't remember what we had; nothing was memorable.</text>
+  </sentence>
+  <sentence id="580">
+    <text>It is bland and nothing extrodinary.</text>
+  </sentence>
+  <sentence id="580">
+    <text>I was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party.</text>
+    <aspectTerms>
+      <aspectTerm from="58" term="waitstaff" to="67"/>
+      <aspectTerm from="179" term="service" to="186"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="581">
+    <text>The chicken and falafel platters were nondescript combinations with fresh leaf salad.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="chicken and falafel platters" to="32"/>
+      <aspectTerm from="68" term="fresh leaf salad" to="84"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="582">
+    <text>Every time I visit NYC, I come here.</text>
+  </sentence>
+  <sentence id="582">
+    <text>I've been coming here regularly since it opened, about 2 years ago.</text>
+  </sentence>
+  <sentence id="582">
+    <text>The atmosphere takes you to that place, the place many dream of.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="atmosphere" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="583">
+    <text>several times and put up with the waiters' bad manners, knowing that their job isn't easy.</text>
+    <aspectTerms>
+      <aspectTerm from="34" term="waiters" to="41"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="584">
+    <text>The service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good...</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="service" to="11"/>
+      <aspectTerm from="89" term="desserts" to="97"/>
+      <aspectTerm from="120" term="coffee" to="126"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="585">
+    <text>We were seated next to a couple whose kitchen was being renovated and we agreed since we're all foodies who eat out a lot - that this wasn't a place we'd return to.</text>
+  </sentence>
+  <sentence id="585">
+    <text>They are served on Focacchia bread and are to die for.</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="served" to="15"/>
+      <aspectTerm from="19" term="Focacchia bread" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="586">
+    <text>While the smoothies are a little big for me, the fresh juices are the best I have ever had!</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="smoothies" to="19"/>
+      <aspectTerm from="49" term="fresh juices" to="61"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="587">
+    <text>The food is just OKAY, and it's almost not worth going unless you're getting the pialla, which is the only dish that's really good.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="81" term="pialla" to="87"/>
+      <aspectTerm from="107" term="dish" to="111"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="588">
+    <text>The guac is fresh, yet lacking flavor, we like to add our fresh salsa into it.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="guac" to="8"/>
+      <aspectTerm from="31" term="flavor" to="37"/>
+      <aspectTerm from="58" term="fresh salsa" to="69"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="589">
+    <text>The new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="new menu" to="12"/>
+      <aspectTerm from="116" term="prices" to="122"/>
+      <aspectTerm from="129" term="staff" to="134"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="590">
+    <text>It' only open for lunch but the food is so good!</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="lunch" to="23"/>
+      <aspectTerm from="32" term="food" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="591">
+    <text>If you like seafood and/or Greek food you will love this place though it is not limited to just these things.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="seafood" to="19"/>
+      <aspectTerm from="27" term="Greek food" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="592">
+    <text>&quot; The menu includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as &quot;vegetarians.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="menu" to="10"/>
+      <aspectTerm from="20" term="pub fare" to="28"/>
+      <aspectTerm from="30" term="burgers" to="37"/>
+      <aspectTerm from="39" term="steaks" to="45"/>
+      <aspectTerm from="50" term="shepherds pie" to="63"/>
+      <aspectTerm from="76" term="portabella lasagna" to="94"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="593">
+    <text>How can they survive serving mediocre food at exorbitant prices?!</text>
+    <aspectTerms>
+      <aspectTerm from="38" term="food" to="42"/>
+      <aspectTerm from="57" term="prices" to="63"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="594">
+    <text>The food was mediocre and the service was severely slow.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="food" to="8"/>
+      <aspectTerm from="30" term="service" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="595">
+    <text>i have eaten here on a different occasion - the food is mediocre for the prices.</text>
+    <aspectTerms>
+      <aspectTerm from="48" term="food" to="52"/>
+      <aspectTerm from="73" term="prices" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="596">
+    <text>I'm looking forward to going back soon and eventually trying most everything on the menu!</text>
+    <aspectTerms>
+      <aspectTerm from="84" term="menu" to="88"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="597">
+    <text>I just had my first visit to this place and can't wait to go back and slowly work my way through the menu.</text>
+    <aspectTerms>
+      <aspectTerm from="101" term="menu" to="105"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="598">
+    <text>I asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter.</text>
+    <aspectTerms>
+      <aspectTerm from="42" term="meal" to="46"/>
+      <aspectTerm from="107" term="waiter" to="113"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="599">
+    <text>I stopped by for some brunch today and had the vegan cranberry pancakes and some rice milk.</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="brunch" to="28"/>
+      <aspectTerm from="47" term="vegan cranberry pancakes" to="71"/>
+      <aspectTerm from="81" term="rice milk" to="90"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="600">
+    <text>Weekends can get crowded, but still highly recommended.</text>
+  </sentence>
+  <sentence id="600">
+    <text>It gets very crowded so I would suggest that you get their early.</text>
+  </sentence>
+  <sentence id="600">
+    <text>Sweet Irish bartender is always happy and able to bring a smile to my friends a my face.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="bartender" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="601">
+    <text>I always find myself sitting next to someone in the theatre industry- interesting to hear ideas hashed out while having a quick bite to eat.</text>
+  </sentence>
+  <sentence id="601">
+    <text>Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="drinks" to="31"/>
+      <aspectTerm from="106" term="drink" to="111"/>
+      <aspectTerm from="124" term="service" to="131"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="602">
+    <text>Anyway, the owner was fake.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="owner" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="603">
+    <text>Owner is pleasant and entertaining.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Owner" to="5"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="604">
+    <text>I have never in my life sent back food before, but I simply had to, and the waiter argued with me over this.</text>
+    <aspectTerms>
+      <aspectTerm from="34" term="food" to="38"/>
+      <aspectTerm from="76" term="waiter" to="82"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="605">
+    <text>Although the restaurant itself is nice, I prefer not to go for the food.</text>
+    <aspectTerms>
+      <aspectTerm from="67" term="food" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="606">
+    <text>Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Creamy appetizers" to="17"/>
+      <aspectTerm from="19" term="taramasalata" to="31"/>
+      <aspectTerm from="33" term="eggplant salad" to="47"/>
+      <aspectTerm from="53" term="Greek yogurt (with cuccumber, dill, and garlic)" to="100"/>
+      <aspectTerm from="125" term="warm pitas" to="135"/>
+    </aspectTerms>
+  </sentence>
+</sentences>

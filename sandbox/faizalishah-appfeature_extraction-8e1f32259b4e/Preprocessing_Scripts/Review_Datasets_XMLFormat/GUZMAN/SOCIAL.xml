@@ -1,0 +1,991 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="1" review-id="151041">
+    <text>Love the app	Very easy to use no problems!!</text>
+    <aspectTerms>
+      <aspectTerm label1="Very easy to use" label2="easy to use" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="2" review-id="151043">
+    <text>Cool	It made my pinning more interesting. Keep up the good work!</text>
+    <aspectTerms>
+      <aspectTerm label1="pinning" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3" review-id="155141">
+    <text>Awesome Application	Wonderful place to share products, art, makeup, home furnishings, helpful tips, how to do, and recipes galore!</text>
+    <aspectTerms>
+      <aspectTerm label1="share" label2="share" score1="1" score2="NA"/>
+      <aspectTerm label1="tips" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="4" review-id="153098">
+    <text>Love it	Perfect and so easy to use</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to use" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5" review-id="151571">
+    <text>Cool	I'd always heard about pinterest but I never really good into it at all because I didn't understand it. I understand it now and it's really very fun to find things snag pin them. Also pinning things from all over the internet.</text>
+    <aspectTerms>
+      <aspectTerm label1="find" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="pin" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6" review-id="153107">
+    <text>Love this app!	Super simple layout and easy to use on mobile device.  Happy with the updates especially the quick pin and like capability!</text>
+    <aspectTerms>
+      <aspectTerm label1="like capability" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="quick pin" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="simple layout" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7" review-id="154645">
+    <text>Luv pinning!	I actually do alot of the pins been a success so far!?</text>
+    <aspectTerms>
+      <aspectTerm label1="pins" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="pinning" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8" review-id="152087">
+    <text>Amazing	I love that I can even upload my own personal photos and have them as a pin!!</text>
+    <aspectTerms>
+      <aspectTerm label1="photos as a pin" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="upload photos" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9" review-id="153633">
+    <text>Love love love. I'm a crafter so when I have time and feel inspired I get on here and browse. I spent entirely too much time on here, but its so addictive!</text>
+    <aspectTerms>
+      <aspectTerm label1="browse" label2="browse" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10" review-id="152100">
+    <text>If you can't beat them, join them	Great place to find interesting images and to lose a few hours a day</text>
+    <aspectTerms>
+      <aspectTerm label1="find images" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="11" review-id="152613">
+    <text>Love it	Great app, but a lot of repeated items.</text>
+    <aspectTerms>
+      <aspectTerm label1="repeated items" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="12" review-id="152614">
+    <text>I love all the great things I find and the ease of pinning them.	:-)</text>
+    <aspectTerms>
+      <aspectTerm label1=" pinning" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="find" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="13" review-id="151083">
+    <text>Awesome app!1	Love the app. Only problem that it freezes and shuts down frequently. I hope they fix it. I know they get a lot of traffic.</text>
+    <aspectTerms>
+      <aspectTerm label1="freezes and shuts down" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="14" review-id="153645">
+    <text>2\1\14	Will not let me share recipes with any of my friends.</text>
+    <aspectTerms>
+      <aspectTerm label1="share recipes" label2="share recipes" score1="-1" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="15" review-id="153133">
+    <text>Wonderful App	Very addictive, and a lot of fun.  Get to share some really cool pictures, ideas, jokes and recipes.</text>
+    <aspectTerms>
+      <aspectTerm label1="share ideas" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="share jokes" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="share pictures" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="share recipes" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="16" review-id="152111">
+    <text>Great place!	There are so many varieties of options to go through on this site.  Nice to have access to all of it.</text>
+    <aspectTerms>
+      <aspectTerm label1=" access" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="varieties" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="17" review-id="151089">
+    <text>Multiple Sign In's	I have a personal Pinterest and one I use for my business, it would be nice to be able to easily go back and forth between accounts</text>
+    <aspectTerms>
+      <aspectTerm label1="Multiple Sign In's" label2="Sign In's" score1="0" score2="NA"/>
+      <aspectTerm label1="go back and forth between accounts" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="18" review-id="152625">
+    <text>Obsessed	I always see, read, and watch things that I think are cool and Pinterest is a good way to keep them in a place to access later. It's also really nice for finding like minded people to follow who are all collecting things they also think are cool which gives a fresh feed of coolness tailored to me.</text>
+    <aspectTerms>
+      <aspectTerm label1="follow people" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="read" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="see" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="watch" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="19" review-id="151091">
+    <text>New update= NO	The new update sucks it doesn't let you look at all the pins and is always shutting down I wish they would revert back to the old one.</text>
+    <aspectTerms>
+      <aspectTerm label1="look at all the pins" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="20" review-id="154679">
+    <text>Love it!	Such inspiration!  Pinterest is highly addictive and dont know that I could survive without it now.. jk of course. . But seriously,  very great app. Lots of USEFUL information and creative ideas! And to boot ...its a free app to enjoy endlessly! No tech problems. Just superb through and through!</text>
+    <aspectTerms>
+      <aspectTerm label1="information" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="21" review-id="153152">
+    <text>Loved it	I loved it, but it took up way to much space.</text>
+    <aspectTerms>
+      <aspectTerm label1="space" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="22" review-id="153155">
+    <text>Very easy to use and very helpful	So cool</text>
+    <aspectTerms>
+      <aspectTerm label1="Very easy to use" label2="easy to use" score1="2" score2="NA"/>
+      <aspectTerm label1="very helpful" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="23" review-id="153667">
+    <text>Love it	I love everything about the pinterest app. The only thing it's missing is being able to change the cover photos on the boards.</text>
+    <aspectTerms>
+      <aspectTerm label1="change the cover photos on the boards" label2="change the cover photos on the boards" score1="0" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="24" review-id="152133">
+    <text>Love this app.	It's quick, when i pin something it goes up immediately. Can't live with out it</text>
+    <aspectTerms>
+      <aspectTerm label1="when i pin something it goes up immediately" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="25" review-id="152135">
+    <text>Love it	Good ideas and you can find whatever u need for any occasion</text>
+    <aspectTerms>
+      <aspectTerm label1="ideas" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="26" review-id="151624">
+    <text>Love it...maybe too much	App is easy to use and navigate. I use it to look for everything from recipes to gifts to random humor. I may need a pinterest intervention soon!</text>
+    <aspectTerms>
+      <aspectTerm label1="navigate" label2="navigate" score1="1" score2="NA"/>
+      <aspectTerm label1="easy to use" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="27" review-id="151117">
+    <text>Wtf	I was happily pinning away when I got a msg telling I'd reached my pin limit. Wtf?  Look, if we are going to have limits of what I can pin, then I am going to delete this app and my account. That's just stupid. Plz fix. I love Pinterest but if I can't get the same quality of service I've been used to....well...what's the point</text>
+    <aspectTerms>
+      <aspectTerm label1="limits of what I can pin" label2="msg reached my pin limit" score1="-2" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="28" review-id="152144">
+    <text>Pinterest	Its an excellent and easy way to post what you're doing. It just keeps getting better and better I just loved all the postings and all that share.</text>
+    <aspectTerms>
+      <aspectTerm label1="easy way to post" label2="post" score1="1" score2="NA"/>
+      <aspectTerm label1="share" label2="share" score1="2" score2="NA"/>
+      <aspectTerm label1="postings" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="29" review-id="152657">
+    <text>Confusing	If you have never used Pintrest it is confusing. Now they have a new mapping thing that you have to say if you want to use every pin. Also pops up for you to rate it at every log in so save yourself the annoyance and rate it right away.</text>
+    <aspectTerms>
+      <aspectTerm label1="mapping" label2="new mapping" score1="0" score2="NA"/>
+      <aspectTerm label1="pops up to rate" label2="pops up" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="30" review-id="154192">
+    <text>Bots?	I would rate it higher i love the app but it says there are bots on my network and i cannot fix it</text>
+    <aspectTerms>
+      <aspectTerm label1="bots on my network" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="31" review-id="151129">
+    <text>Love it!	Love the site and love the app I spend the most of my time online browsing through Pinterest</text>
+    <aspectTerms>
+      <aspectTerm label1="browsing" label2="browsing" score1="1" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="32" review-id="152671">
+    <text>Eh	It stops suddenly, kicks me out. And I have to load it because its the ONLY way I can use it on my phones browser which isn't the mobile site anymore. All tiny like the app. Not as appealing as it was when it started out</text>
+    <aspectTerms>
+      <aspectTerm label1="load" label2="have to load it because its the ONLY way I can use" score1="-1" score2="NA"/>
+      <aspectTerm label1="stops suddenly" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="33" review-id="152672">
+    <text>Great	This so is awesome, great app that lets you share ideas and things you like.</text>
+    <aspectTerms>
+      <aspectTerm label1="share ideas" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="34" review-id="154724">
+    <text>Addictive!	Love saving things to read later and finding so many crafty ideas!!</text>
+    <aspectTerms>
+      <aspectTerm label1="finding" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="saving" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="35" review-id="151661">
+    <text>:)	I love it, a lot less messy and much convenient than a real bulletin board or scrapbook</text>
+    <aspectTerms>
+      <aspectTerm label1="less messy" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="36" review-id="153713">
+    <text>Great sharing	Love to be able to search and find exactly what I want! Also makes preparing a menu easier! It's awesome to have exactly what I have pinned all organized, just for me!</text>
+    <aspectTerms>
+      <aspectTerm label1="preparing a menu" label2="preparing a menu easier" score1="1" score2="NA"/>
+      <aspectTerm label1="search " label2="search" score1="0" score2="NA"/>
+      <aspectTerm label1="sharing" label2="sharing" score1="1" score2="NA"/>
+      <aspectTerm label1="organized" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="pinned" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="37" review-id="153208">
+    <text>Love to Pin it!	I love pintrest. Super fun ideas and the app works great most if the time. Sometimes it spools but not very often.</text>
+    <aspectTerms>
+      <aspectTerm label1="Sometimes it spools" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Pin it" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="38" review-id="153721">
+    <text>Good	Easy to use</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy to use" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="39" review-id="152699">
+    <text>Sumsang GNote 1	Still prefer the 1St version. Easy to Pin from Mobile.  Feb 7,14: Can't view the photos  anymore (if there's no HTTP link). Can that be fix? Sometimes the photo itself is too small, u can't even know what others' posting.</text>
+    <aspectTerms>
+      <aspectTerm label1="view the photos" label2="Can't view the photos if there's no HTTP link" score1="-1" score2="NA"/>
+      <aspectTerm label1="Pin" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="40" review-id="153723">
+    <text>Awesome!	Love this app! Some of the updates are annoying, but it's still great.</text>
+    <aspectTerms>
+      <aspectTerm label1="updates" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="41" review-id="153213">
+    <text>Keeps telling me to reset my password,because it is in safe mode,but will not send me the email to do so!</text>
+    <aspectTerms>
+      <aspectTerm label1="      Keeps telling me to reset my password,becaus" label2="reset password" score1="-1" score2="NA"/>
+      <aspectTerm label1="send email" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="42" review-id="154751">
+    <text>Love this app	Lets you keep all things you find interesting in one place</text>
+    <aspectTerms>
+      <aspectTerm label1="keep all things" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="43" review-id="153735">
+    <text>Jfk702	Great apps to share thought and pic...</text>
+    <aspectTerms>
+      <aspectTerm label1="share pic" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="share thought" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="44" review-id="154763">
+    <text>Excellent!!!!	Love Love Love!!!! I have so many new recipes and design ideas. Its so fun to see what friends like and pin also.</text>
+    <aspectTerms>
+      <aspectTerm label1="pin" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="45" review-id="152716">
+    <text>great way to save favourite things	love it but constant emails irritating</text>
+    <aspectTerms>
+      <aspectTerm label1=" constant emails" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="save favourite things" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="46" review-id="153743">
+    <text>One of my favourite if not the favourite social networking sites	Use it every day to find and store lots of interesting and lovely things</text>
+    <aspectTerms>
+      <aspectTerm label1="find lots of interesting and lovely things" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="store lots of interesting and lovely things" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="47" review-id="151186">
+    <text>Easy to use.  Not driven by advertising.	Always full of things that are interesting to me without chasing me or interrupting my enjoyment with endless advertising.</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy to use" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="without advertising" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="48" review-id="153747">
+    <text>I'm loving it.  Mind you it does keep freezing up.</text>
+    <aspectTerms>
+      <aspectTerm label1="freezing up" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="49" review-id="152725">
+    <text>I love pinning!	I love pintrest and this app lets me use it anywhere. The only problem I've had is that if i turn my phone sideways, the screen gets messed up and i have to exit out of the app....please fix!</text>
+    <aspectTerms>
+      <aspectTerm label1="if i turn my phone sideways, the screen gets messe" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="50" review-id="154775">
+    <text>Love this app	This app is fantastic and very user friendly</text>
+    <aspectTerms>
+      <aspectTerm label1="user friendly" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="51" review-id="151704">
+    <text>? it!	Me and kids adore pinterest. They have a lot of room ideas for my girls. And help me with ideas for parties and all kinds of gathering and celebrations. Also lets me post my crafty side and get more feedback. Thanks pinterest! :)</text>
+    <aspectTerms>
+      <aspectTerm label1="ideas" label2="help me with ideas for all kinds of gatherings" score1="1" score2="NA"/>
+      <aspectTerm label1="get more feedback" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="help me with ideas for parties" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="lot of room ideas" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="52" review-id="152729">
+    <text>all in one spot	From hair styles, to do-it-yourself ideas, fashion ideas to quotes... It's all in one spot! It's wonderful!</text>
+    <aspectTerms>
+      <aspectTerm label1="fashion ideas" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="53" review-id="151706">
+    <text>Useful, improved	Happy with the progress on this app but there are many updates that seem to make no change. Can't see the names of many boards - there needs to be a wrapped text function on board names so long board names can be seen. Indexing is very slow too, many of my pins take weeks to come up in search.</text>
+    <aspectTerms>
+      <aspectTerm label1="Indexing" label2="Indexing is very slow" score1="-1" score2="NA"/>
+      <aspectTerm label1="names of many boards" label2="Can't see the names of many boards" score1="0" score2="NA"/>
+      <aspectTerm label1="updates" label2="many updates that seem to make no change" score1="-1" score2="NA"/>
+      <aspectTerm label1="improved" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="progress" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Useful" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="54" review-id="152221">
+    <text>Best App Ever!	Inspiration and ideas from around the globe.</text>
+    <aspectTerms>
+      <aspectTerm label1="ideas" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="55" review-id="151721">
+    <text>Useful	Awesome way to discover  new stuffs</text>
+    <aspectTerms>
+      <aspectTerm label1="discover" label2="discover" score1="1" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="56" review-id="153269">
+    <text>Go to app	Super easy and convenient. Pinning, sending, editing, and making new boards- easy to use!</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to use" label2="easy to use" score1="2" score2="NA"/>
+      <aspectTerm label1="editing" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="making new boards" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="Pinning" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="sending" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="57" review-id="152759">
+    <text>Happy Girl	At last. Been waiting for this app. And now i have it i am very pleased. Much easier to navigate.</text>
+    <aspectTerms>
+      <aspectTerm label1="navigate" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="58" review-id="153784">
+    <text>Perfecto!	Well, couldn't ask for more... but you, please, don't stop introducing more updates...</text>
+    <aspectTerms>
+      <aspectTerm label1="introducing more updates" label2="updates" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="59" review-id="151737">
+    <text>What an amazing app	So many ideas, and inspirations, love it ;)</text>
+    <aspectTerms>
+      <aspectTerm label1="ideas" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="inspirations" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="60" review-id="152768">
+    <text>Obsessed	I love this app. I prefer using it on my ipad than my phone as the clarity of the pictures are incredible. Great photos, great inspiration for things. Helping me in role as a part time wedding planner. Easy to use and love how there's no Internet trolls on here. Just happy people!</text>
+    <aspectTerms>
+      <aspectTerm label1="clarity of the pictures" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="Easy to use" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="61" review-id="150723">
+    <text>Love this app!!	Love using this app to find fun foods and funny things to brighten up my day</text>
+    <aspectTerms>
+      <aspectTerm label1="find" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="62" review-id="153283">
+    <text>Great tool!!!	I use this to organize my life.</text>
+    <aspectTerms>
+      <aspectTerm label1="organize" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="63" review-id="151238">
+    <text>Love it	Ive never had any problems.  Uploads and searches are fine</text>
+    <aspectTerms>
+      <aspectTerm label1="searches" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Uploads" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="64" review-id="152265">
+    <text>I love it	Easy to use</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy to use" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="65" review-id="153802">
+    <text>Constant issue with confirming email address	Got bored went back to Tumblr</text>
+    <aspectTerms>
+      <aspectTerm label1="Constant issue with confirming email address" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="66" review-id="150736">
+    <text>Awesome	Loving it. Easy to use with  good content.</text>
+    <aspectTerms>
+      <aspectTerm label1="content" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="67" review-id="151258">
+    <text>Love it	Great app.  Which there was a way to multi check pins When editing  (deleting or moving to another board) rather than having to do it one at a time.</text>
+    <aspectTerms>
+      <aspectTerm label1="Which there was a way to multi check pins When edi" label2="multi check pins" score1="0" score2="NA"/>
+      <aspectTerm label1=" editing" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="68" review-id="153308">
+    <text>Love pinterest	Love it, only downside is the quality of the pictures are a lot lower on the app than the website when used on computers</text>
+    <aspectTerms>
+      <aspectTerm label1="quality of the pictures" label2="the quality of the pictures are a lot lower on the" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="69" review-id="150757">
+    <text>One thing needed	You should be able to have sub-boards  For example. You would have the board Food. Then on the board food you could have a sub board for dessert. Or healthy. Our brunch.</text>
+    <aspectTerms>
+      <aspectTerm label1="sub-boards" label2="sub-boards" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="70" review-id="154857">
+    <text>Matters of Interest	Simple to use. Easy setup.</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy setup" label2="setup" score1="1" score2="NA"/>
+      <aspectTerm label1="Simple to use" label2="Simple to use" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="71" review-id="151275">
+    <text>15/2 Update	What's happened to this app? The people I follow page isn't working properly, the images disappear and nothing happens when it's refreshed! It's been all good until now. Fix it please.</text>
+    <aspectTerms>
+      <aspectTerm label1="follow page" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="refreshed" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Update" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="72" review-id="150764">
+    <text>Love it!	So vast and so many creative ideas -</text>
+    <aspectTerms>
+      <aspectTerm label1="ideas" label2="creative ideas" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="73" review-id="151787">
+    <text>I love it	It's a place for me to see fandom stuff and funny photos.</text>
+    <aspectTerms>
+      <aspectTerm label1="photos" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="74" review-id="151789">
+    <text>Love it!	You can search just about anything, pin it and go back to it later.</text>
+    <aspectTerms>
+      <aspectTerm label1="pin" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="search" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="75" review-id="154866">
+    <text>Excellent	I love it. I can pin everything I like and send pictures and quotes to my girlfriend.</text>
+    <aspectTerms>
+      <aspectTerm label1="pin" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="send pictures" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="send quotes" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="76" review-id="154868">
+    <text>Galaxy tab 3	Love pinterest, app works well, have it both on phone and tab</text>
+    <aspectTerms>
+      <aspectTerm label1="works well on phone" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="works well on tab" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="77" review-id="150773">
+    <text>???	Great app. Runs smoothly and gives you everything you expect from Pinterest.</text>
+    <aspectTerms>
+      <aspectTerm label1="Runs smoothly" label2="Runs smoothly" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="78" review-id="151802">
+    <text>A giant picture filing cabinet!! I love it	Easy to use and relatively stable app. Just wish it would STOP suggesting I share pins with my friends</text>
+    <aspectTerms>
+      <aspectTerm label1="picture filing" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="suggesting I share pins" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="cabinet" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Easy to use" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="stable" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="79" review-id="151300">
+    <text>Love it!	Fantastic ideas and inspiration for my crafty projects. So easy to use and simple to save to my own boards.</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to use" label2="So easy to use" score1="2" score2="NA"/>
+      <aspectTerm label1="save" label2="simple to save to my own boards" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="80" review-id="154380">
+    <text>Fare	Still having problems, I got foreclosed on like 20 times last night and still aren't able to change my password or access my boards, it's as if my Pinterest has been compromised!)-: please fix this issue so that I can get back into enjoying my Pinning. Thx Pinterest!</text>
+    <aspectTerms>
+      <aspectTerm label1="change password" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="81" review-id="153885">
+    <text>Great app. Easy to use and super quick.</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy to use" label2="Easy to use" score1="2" score2="NA"/>
+      <aspectTerm label1="quick" label2="quick" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="82" review-id="153886">
+    <text>Wonderful, and very helpful app!	Pintrest is a magnificent app, because it is very helpful when I want to save websites, photos, and recipes!</text>
+    <aspectTerms>
+      <aspectTerm label1="save photos" label2="save photos" score1="2" score2="NA"/>
+      <aspectTerm label1="save recipes" label2="save recipes" score1="2" score2="NA"/>
+      <aspectTerm label1="save websites" label2="save websites" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="83" review-id="151844">
+    <text>Video playback sucks	This is a wonderful app minus the videos. To play one it takes you to an internet browser, then to youtube. Please allow for in-app playback to bypass all the nonsense.</text>
+    <aspectTerms>
+      <aspectTerm label1="in-app playback" label2="allow for in-app playback" score1="0" score2="NA"/>
+      <aspectTerm label1="Video playback" label2="Video playback" score1="-2" score2="NA"/>
+      <aspectTerm label1="To play one it takes you to an internet browser, t" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="84" review-id="151846">
+    <text>Very useful.	Enjoy using it.</text>
+    <aspectTerms>
+      <aspectTerm label1="Very useful" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="85" review-id="151847">
+    <text>What the heck?	Love the program BUT since you added the 'share this pin'  option I have been receiving spam that my friends did not send.  My account was hacked too. How about a fix???</text>
+    <aspectTerms>
+      <aspectTerm label1="share this pin" label2="share this pin" score1="-1" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="86" review-id="152872">
+    <text>Love it	This app is great I get most of my recipes fron it and loys of great decorating ideas for parties</text>
+    <aspectTerms>
+      <aspectTerm label1="decorating ideas" label2="decorating ideas" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="87" review-id="151848">
+    <text>Inspiring!	Collecting your favorite things is fun to do as well as trying to express your likes and interests to others.</text>
+    <aspectTerms>
+      <aspectTerm label1="Collecting" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="88" review-id="154924">
+    <text>Love it.	I'm addicted. Plus, everything I asked to fix has been fixed, so thanks for listening to us and making your updates worth it!</text>
+    <aspectTerms>
+      <aspectTerm label1="updates" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="89" review-id="150834">
+    <text>What's up with the searching?	Every time I try to look up something it never really gives me what I want (can someone fix this please?) , but above that it's a very good app.</text>
+    <aspectTerms>
+      <aspectTerm label1="searching" label2="searching" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="90" review-id="151346">
+    <text>Excellent app	The first versions of this were a little slow but now the app is great. It has my favorite UI of all my most used apps.</text>
+    <aspectTerms>
+      <aspectTerm label1="UI" label2="UI " score1="2" score2="NA"/>
+      <aspectTerm label1="slow" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="91" review-id="151858">
+    <text>Love.......	What else can you say, simply put this is a wonderful, awesome app filled with awesomeness!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="simply" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="92" review-id="153910">
+    <text>Awesome	I love pinterest.. its a place where I can keep all the things I like and are interested in, in one place</text>
+    <aspectTerms>
+      <aspectTerm label1="all things in one place" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="93" review-id="151864">
+    <text>I dislike the update on the news feed, I don't want to see in which boards my pins are being pinned to... I prefer the old feed.</text>
+    <aspectTerms>
+      <aspectTerm label1="news feed" label2="news feed" score1="-1" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="94" review-id="154431">
+    <text>Thank you, thank you! It's fixed!	I LOVE Pinterest over all other  apps! I now know how it feels to be addicted to something, but I get a great deal of enjoyment from it! It's the most simple way to collect &amp; organize interests, and new ideas. It is an almost too good to be true awsome app! The only draw-back I see is when I'm using pinterest, time goes by sooo fast.... I recommend this app &amp; tell people who are looking for  a certain pattern, &quot;I have that exact pattern on Pinterest!&quot;</text>
+    <aspectTerms>
+      <aspectTerm label1="collect interests" label2="collect" score1="1" score2="NA"/>
+      <aspectTerm label1="organize interests" label2="organize" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="95" review-id="151360">
+    <text>Ugh	It force closes after about 45 seconds of browsing. This happened with the new update. Please fix</text>
+    <aspectTerms>
+      <aspectTerm label1="browsing" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="96" review-id="150849">
+    <text>The new update is horrible.	What the hell is wrong with this new update? It was highly unnecessary. Pinterest was perfect before but now it's terribly messed up. Type in a name and not one board nor pin of the person or the thing appears. It's VERY frustrating since I myself am addicted to pinning. PLEASE fix, immediately.</text>
+    <aspectTerms>
+      <aspectTerm label1="Type in a name" label2=" Type in a name and not pin of the person" score1="0" score2="NA"/>
+      <aspectTerm label1="update" label2="new update" score1="-2" score2="NA"/>
+      <aspectTerm label1="Type in a name and not one board" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="97" review-id="153935">
+    <text>Love the info, pics, and people	Love it</text>
+    <aspectTerms>
+      <aspectTerm label1="info" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="98" review-id="152915">
+    <text>I am a little bit in love with pinterest!	very addictive, a little slow though!</text>
+    <aspectTerms>
+      <aspectTerm label1="slow" label2="little slow" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="99" review-id="152920">
+    <text>Love it	I love, love, love being able to pin things on the run I love being able to access those pins on the run!  If only I could text a pin or the link to friends that aren't pinners yet.</text>
+    <aspectTerms>
+      <aspectTerm label1=" text a pin or the link to friends that aren't pin" label2="access pins on the run" score1="0" score2="NA"/>
+      <aspectTerm label1="pin" label2="pin things" score1="2" score2="NA"/>
+      <aspectTerm label1="access those pins" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="text a link to friends" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="text a pin to friends" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="100" review-id="153947">
+    <text>Awesome app but...	Add the option of controlling the quality of pictures loaded do that less data usage is incurred. Also please stop auto loading of images in feed section. Add the tap to load or swipe down to load options!!</text>
+    <aspectTerms>
+      <aspectTerm label1="controlling the quality of pictures" label2="quality of pictures" score1="1" score2="NA"/>
+      <aspectTerm label1="stop auto loading of images in feed section" label2="stop auto loading of images" score1="0" score2="NA"/>
+      <aspectTerm label1="Add tap to load or swipe down" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="101" review-id="153437">
+    <text>Great app!	I am so addicted to pinning on my 20+ boards.</text>
+    <aspectTerms>
+      <aspectTerm label1="pinning" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="102" review-id="154977">
+    <text>Informative!	Very Enjoyable!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="Informative" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Very Enjoyable" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="103" review-id="151397">
+    <text>Na	Design needs a more straight forward menu to navigate features</text>
+    <aspectTerms>
+      <aspectTerm label1="menu to navigate" label2="menu to navigate features" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="104" review-id="150889">
+    <text>Addictive	I love to pin the things that interest me and watch as other people enjoy my pinning.</text>
+    <aspectTerms>
+      <aspectTerm label1="pin the things" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="watch as other people enjoy my pinning" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="105" review-id="154478">
+    <text>Why run at startup??	Asking for unnecessary permissions Also I do not want the app to run at startup! I would rather uninstall this.</text>
+    <aspectTerms>
+      <aspectTerm label1="run at startup" label2="run at startup" score1="-1" score2="NA"/>
+      <aspectTerm label1="unnecessary permissions" label2="unnecessary permissions" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="106" review-id="150896">
+    <text>Somethings wrong wuth search!!!!	This used to be my favorite app but now when i try to search something nothing related to my search comes up. Please please fix this!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="search something nothing related to my search come" label2="search" score1="-1" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="107" review-id="153457">
+    <text>;)....:-/.....:-((	Just great usually....but since latest update unable to send pins. Big frowny face.</text>
+    <aspectTerms>
+      <aspectTerm label1="latest update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="108" review-id="152950">
+    <text>Cant log in	Cant seem to log in using my google account. It keeps saying log in error. Please help.</text>
+    <aspectTerms>
+      <aspectTerm label1="log in " label2="Cant log in using google account" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="109" review-id="151417">
+    <text>New updates force close...	Please fix. This new update causes the app to stop all the time and it's irritating. Please fix and I'll go back to five stars.</text>
+    <aspectTerms>
+      <aspectTerm label1="New updates force close" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="110" review-id="153986">
+    <text>Love this app!	Sometimes I get lost with time because it is so addicting. It is so fun to look at everything and pin your likes or needs to your own boards. I also use a lot of the ideas I get from Pinterest in my classroom, and I have used DIY ideas for my home!</text>
+    <aspectTerms>
+      <aspectTerm label1="pin your likes" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="111" review-id="153989">
+    <text>Miss the 'popular' section	Definitely a pinterest addict.</text>
+    <aspectTerms>
+      <aspectTerm label1="'popular' section" label2="popular section" score1="0" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="112" review-id="150925">
+    <text>Quotes &lt;3	The option to save is great.</text>
+    <aspectTerms>
+      <aspectTerm label1="save" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="113" review-id="153999">
+    <text>I love this app just wish it was available for every site i visited..	Would recommend.</text>
+    <aspectTerms>
+      <aspectTerm label1="available for every site visited" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="114" review-id="151444">
+    <text>Update issues!	As soon as this was updated it will no longer give me accurate search results! Please fix pinterest!</text>
+    <aspectTerms>
+      <aspectTerm label1="search" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="115" review-id="150938">
+    <text>Update version sucks!	Search doesn't work.</text>
+    <aspectTerms>
+      <aspectTerm label1="Search" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="116" review-id="154523">
+    <text>Updates not so good..	Agree with others who commented about &quot;sub boards&quot;, definitely would be great for holidays. I also wouldn't mind an option to pin to multiple boards. It would make it easier for me to find things that would fit under more than one of my boards, I often have to look to see  where I decided to put it. Could care less about location pinning.</text>
+    <aspectTerms>
+      <aspectTerm label1=" location pinning" label2="care less about location pinning" score1="-1" score2="NA"/>
+      <aspectTerm label1="pin multiple boards" label2="option to pin to multiple boards" score1="1" score2="NA"/>
+      <aspectTerm label1="Updates" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="117" review-id="150940">
+    <text>Sorry for the low score.	I love the great things you can find here. But very discouraged when I go to do a something that I get advertisements for a ton of other stuff.</text>
+    <aspectTerms>
+      <aspectTerm label1="advertisements" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="118" review-id="151453">
+    <text>Awesome app!!!	Super easy to use. Fantastic resources!</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to use" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="resources" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="119" review-id="151962">
+    <text>Super useful	From the fashion to the DIY anything you might need want to try is on here super super useful</text>
+    <aspectTerms>
+      <aspectTerm label1="useful" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="120" review-id="154011">
+    <text>Although I am an avid Pinner, this app keeps knocking me out of my Pinning time, therefore making my search have to start over.  Very irritating.  Also slows down a ton when I open another board besides my own.  Please fix these problems!  I want to Pin more!</text>
+    <aspectTerms>
+      <aspectTerm label1="open another board" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Pin" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="slows down" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="121" review-id="152480">
+    <text>Amazing app!!! Love it :D	Fully like an online scrap board... Awesome idea :)</text>
+    <aspectTerms>
+      <aspectTerm label1="online scrap board" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="122" review-id="154531">
+    <text>Ideas for everything	This app is great for artistic projects and other creative tasks</text>
+    <aspectTerms>
+      <aspectTerm label1="great for artistic project" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="great for other creative tasks" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="123" review-id="151471">
+    <text>Wtf	I just did the update and the dang thing won't give me accurate search results. And I know its messed up because i JUST searched for the same thing and got word for word results in the boards section. What the heck?!</text>
+    <aspectTerms>
+      <aspectTerm label1="search results" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="124" review-id="154545">
+    <text>Great app	I really love this app. Very entertaining and educational.</text>
+    <aspectTerms>
+      <aspectTerm label1="educational" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="entertaining" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="125" review-id="154554">
+    <text>Fabulous. :)	I love having this app! It always loads quickly and runs great.</text>
+    <aspectTerms>
+      <aspectTerm label1="loads quickly" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="126" review-id="150971">
+    <text>Cool	Good place to go if you need an idea for almost anything</text>
+    <aspectTerms>
+      <aspectTerm label1="need an idea for almost anything" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="127" review-id="154044">
+    <text>Awesome!	I love this app so much! I do wish I could change my board cover and have more categories like on the website.</text>
+    <aspectTerms>
+      <aspectTerm label1="ave more categories like on the website" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="change my board cover" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="128" review-id="153023">
+    <text>Pretty awesome	Liked everything about it. Wish there was a way to save some of the photos though..</text>
+    <aspectTerms>
+      <aspectTerm label1="a way to save some of the photos" label2="save some of the photos" score1="0" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="129" review-id="150975">
+    <text>Excellent	Beautiful sharing of beautiful pictures, ideas ideas! Love  Peace Thank you</text>
+    <aspectTerms>
+      <aspectTerm label1="sharing of pictures" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="130" review-id="151489">
+    <text>Easy to use	Screen shots can be a little small</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy to use" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Screen shots" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="131" review-id="152525">
+    <text>So much fun!	I absolutely love pinning projects, recipes and travel ideas. I can get lost for hours.</text>
+    <aspectTerms>
+      <aspectTerm label1="pinning" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="132" review-id="150992">
+    <text>Search doesn't work anymore	After the update, the search function doesn't work. It keeps putting 20's within the search so nothing comes up. Please fix, otherwise the app is useless if I can't search for anything.</text>
+    <aspectTerms>
+      <aspectTerm label1="Search" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="133" review-id="152529">
+    <text>Excellent for keeping visual ideas	I really use this to keep recipes,  and fashion ideas, but overall great app.</text>
+    <aspectTerms>
+      <aspectTerm label1="keep fashion ideas" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="keep recipes" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="keeping visual ideas" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="134" review-id="150996">
+    <text>5 to 3	Latest update causes page to scroll down on its own everytime opening a pin..ANNOYING! Pls fix!</text>
+    <aspectTerms>
+      <aspectTerm label1="opening a pin" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="135" review-id="152023">
+    <text>Glitchy, unintuitive &amp; frustrating	Drove me up the wall in a couple days had uninstalled it was that bad. I'm pretty tech savvy and for love nor money couldn't get this to work. Could pin but not see my own boards to retrieve the pins! It kept trying to divert me to Google play to download the app... Whilst using the app! Overall not worth me bothering, I'll stick with chrome bookmarks or G+ things to retrieve stuff. A shame, coz the pin boards are pretty and a nice idea... Assuming one can find them again!</text>
+    <aspectTerms>
+      <aspectTerm label1="pin boards" label2="pin boards" score1="-2" score2="NA"/>
+      <aspectTerm label1="retrieve the pins" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="see own boards" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="136" review-id="152536">
+    <text>It's allot of fun	You can find all kinds of stuff without searching all over the internet!!</text>
+    <aspectTerms>
+      <aspectTerm label1="searching" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="find" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="137" review-id="151514">
+    <text>I've been addicted forever,	The only thing I would change is that over time, I want it more organized so I make another board. I wish there was a 'move pin' button to place it to another board. current technique is having to repin, then delete it from the old board.</text>
+    <aspectTerms>
+      <aspectTerm label1="'move pin' button" label2="move pin" score1="0" score2="NA"/>
+      <aspectTerm label1="make another board" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="138" review-id="152027">
+    <text>Great app but......	I wish I could move pins, from one board to another, in bulk instead of one by one. When I edit my boards it takes too long to move one pin at a time. Other than that I love the app</text>
+    <aspectTerms>
+      <aspectTerm label1="move pins" label2="move pins" score1="0" score2="NA"/>
+      <aspectTerm label1="edit boards" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="139" review-id="151517">
+    <text>Love it	I love how I can save recipes, clothing ideas, and work outs.</text>
+    <aspectTerms>
+      <aspectTerm label1="save" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="ideas" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="recipes" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="140" review-id="152545">
+    <text>Used to be great	Now I cannot see anything from the people or boards I'm following. Pretty frustrating.</text>
+    <aspectTerms>
+      <aspectTerm label1="cannot see anything from the boards" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="cannot see anything from the people" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="141" review-id="152550">
+    <text>Really fun	A few small glitches when loading some pins but other than that no problems. HTC 4G android.    Update I'm using a Samsung galaxy S4 now and pinterest is still great.  I wish I could make more adjustments from my phone , but I still have to use the regular laptop to change pin cover photos and to  rearrange boards.</text>
+    <aspectTerms>
+      <aspectTerm label1="more adjustments" label2="adjustments" score1="0" score2="NA"/>
+      <aspectTerm label1="change pin cover photos" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="HTC 4G" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="rearrange boards" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Samsung galaxy S4" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="142" review-id="152552">
+    <text>Perfect boredom killer	Plus great recipe filer/  project planner</text>
+    <aspectTerms>
+      <aspectTerm label1="project planner" label2="project planner" score1="2" score2="NA"/>
+      <aspectTerm label1="recipe filer" label2="recipe filer" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="143" review-id="152558">
+    <text>Love Pinterest	One of my favorite social media channels, and this app lets me have most of it's functions, but I've been getting lags and errors lately. Plus, can you add the function, like Twitter, to switch between accounts? Cheers!</text>
+    <aspectTerms>
+      <aspectTerm label1="add the function to switch between accounts" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="lags and errors" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="144" review-id="154098">
+    <text>Great!	Only complaint is being able to change the picture that represents your boards. And just a user friendlier way to change settings and customize/add pictures to your boards.</text>
+    <aspectTerms>
+      <aspectTerm label1="change settings" label2="change settings" score1="0" score2="NA"/>
+      <aspectTerm label1="customize/add pictures to your boards" label2="customize/add pictures" score1="0" score2="NA"/>
+      <aspectTerm label1="change the picture" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="145" review-id="151538">
+    <text>Only one issue:	All of a sudden, I'm being sent many, MANY pins every day from people I don't know. All of them are for work-at-home &quot;opportunities&quot; and e cigarettes. I DO NOT like being spammed on Pinterest! Please add some way to block pins from people I don't follow! This is INCREDIBLY irritating!</text>
+    <aspectTerms>
+      <aspectTerm label1="block pins" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="146" review-id="152568">
+    <text>Great app	Occasionally freezes or has errors loading &amp; pinning.  I have also had issues refreshing feed at times...but otherwise great app.</text>
+    <aspectTerms>
+      <aspectTerm label1="has errors loading" label2="has errors loading " score1="0" score2="NA"/>
+      <aspectTerm label1="has errors pinning" label2="has errors pinning" score1="0" score2="NA"/>
+      <aspectTerm label1="refreshing feed" label2="issues refreshing feed" score1="0" score2="NA"/>
+      <aspectTerm label1="Occasionally freezes" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+</sentences>

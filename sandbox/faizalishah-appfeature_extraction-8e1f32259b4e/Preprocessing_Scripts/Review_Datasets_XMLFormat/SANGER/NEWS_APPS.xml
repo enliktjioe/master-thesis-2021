@@ -1,0 +1,927 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="6000">
+    <text>Ich habe die Bild seit ca. Eine Woche jetzt wollte ich Nachrichten bei der Bild anschauen und sehe das ALLES premium ist also ich müsste jetzt zahlen (was ich nicht machen werde) um ein paar Nachrichten zu lesen das ist einfach blöd ich gebe der App 2 Sterne wegen der 1 Woche. Ich verstehe ja das ihr auch ein bisschen Geld haben wollt aber das Geld was ihr verlangt ist einfach zu viel. Ich könnte nicht mal bezahlen wenn ich es machen würde aber ich habe keine Kreditkarte. Schade war eine tolle App.</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="Bild" to="18"/>
+      <aspectTerm from="76" term="Bild" to="80"/>
+      <aspectTerm from="247" term="App" to="250"/>
+      <aspectTerm from="347" term="Geld" to="351"/>
+      <aspectTerm from="500" term="App" to="503"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6001">
+    <text>1) Mein Handy ist so eingestellt, dass nach einer Minute der Bildschirm schwarz wird. Ist ein Audio-Beitrag länger, so geht er auch mit aus. Und er muss danach von vorne gestartet werden, man kann nicht durch den Beitrag scrollen. 2) Möchte ich den Bildschirm hell lassen, tippe ich darauf, damit ich den Audio-Beitrag ganz hören kann. Allerdings stoppt dann der Beitrag. Ich habe also keine Chance Audio-Beiträge, die länger als 1min sind zu hören...Super! :-(</text>
+    <aspectTerms>
+      <aspectTerm from="306" term="Audio-Beitrag" to="319"/>
+      <aspectTerm from="364" term="Beitrag" to="371"/>
+      <aspectTerm from="400" term="Audio-Beiträge" to="414"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6002">
+    <text>Die Werbung vor jedem Clip bewegte mich jetzt diese App zu löschen. Trotzdem informiert die App und man kann gut durch Artikel lesen - dabei stört die Werbung nämlich kaum. Den Punkt Abzug gibt es für die fehlende Performance und die Datenfresserei bei schlechtem Netz. Weil es da dauert bis ein einfacher Artikel angezeigt wird.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Werbung" to="12"/>
+      <aspectTerm from="93" term="App" to="96"/>
+      <aspectTerm from="120" term="Artikel lesen" to="133"/>
+      <aspectTerm from="215" term="Performance" to="226"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6003">
+    <text>Inhalt okay, APP taugt nichts mehr, wird immer &quot;angehalten&quot;. Muss dann deinstalliert und später wieder installiert werden. Alle 2 Tage das gleiche Spiel...das nervt nur noch.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Inhalt" to="6"/>
+      <aspectTerm from="13" term="APP" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6004">
+    <text>Kompakt</text>
+  </sentence>
+  <sentence id="6005">
+    <text>Nach letztwm Update sehr häufig nur Startbildschirm und Meldung &quot;Nachrichten werden aktualisiert&quot; SGS1</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Update" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6006">
+    <text>Sie macht, was sie soll. ..informieren. ..</text>
+  </sentence>
+  <sentence id="6007">
+    <text>Alles wieder paletti 👍</text>
+  </sentence>
+  <sentence id="6008">
+    <text>Nutze ich regelmäßig. Wirklich klasse!</text>
+  </sentence>
+  <sentence id="6009">
+    <text>Immer gut informiert !!</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="informiert" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6010">
+    <text>Besser geht's nur selten!</text>
+  </sentence>
+  <sentence id="6011">
+    <text>Ok</text>
+  </sentence>
+  <sentence id="6012">
+    <text>Beschte Weiter so</text>
+  </sentence>
+  <sentence id="6013">
+    <text>Am liebsten null sterne weil ich für jeden artikel bezahlen muss ? Ne niemals</text>
+  </sentence>
+  <sentence id="6014">
+    <text>einfach super!</text>
+  </sentence>
+  <sentence id="6015">
+    <text>und nix passiert. Samsung Galaxy S3 Android 4.2.2 AOSP</text>
+  </sentence>
+  <sentence id="6016">
+    <text>Gefällt mir sehr gut und die Krönung ist der Deutschland - Ticker</text>
+    <aspectTerms>
+      <aspectTerm from="46" term="Deutschland - Ticker" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6017">
+    <text>Seit dem letzten Update oeffnen sich leider gar keine Artikel mehr, die App laedt nur die Bilder. Schade....</text>
+  </sentence>
+  <sentence id="6018">
+    <text>Neben der ziemlich nervigen Werbung habe ich es noch nie geschafft, ein eingebetteten Video anzuzeigen. Das Warterädchen dreht sich aber das Video startet nicht.</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="Werbung" to="36"/>
+      <aspectTerm from="87" term="Video anzuzeigen" to="103"/>
+      <aspectTerm from="142" term="Video" to="147"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6019">
+    <text>Für mich ist der Spiegel einfach die beste Info Quelle für unterwegs mit Smartphone oder Pad. Sehr lobendswert der übersichtliche Aufbau und die Möglichkeit pack u go. Wünschen würde ich mir eine lokale Rubrik.</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="Spiegel" to="25"/>
+      <aspectTerm from="131" term="Aufbau" to="137"/>
+      <aspectTerm from="158" term="pack u go" to="167"/>
+      <aspectTerm from="197" term="lokale Rubrik" to="210"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6020">
+    <text>Es gibt auch interessante videos es lohnt sich das app runter-zu-laden</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="videos" to="33"/>
+      <aspectTerm from="52" term="app" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6021">
+    <text>Sehr gut!</text>
+  </sentence>
+  <sentence id="6022">
+    <text>Wozu braucht diese APP Kamerazugriff??? Schade, aber so gehts nicht.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="APP" to="23"/>
+      <aspectTerm from="24" term="Kamerazugriff" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6023">
+    <text>Top</text>
+  </sentence>
+  <sentence id="6024">
+    <text>App gelöscht und neu installiert, Tor Alarm muss jedes Mal neu abgestellt werden. Es nervt!</text>
+    <aspectTerms>
+      <aspectTerm from="35" term="Tor Alarm" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6025">
+    <text>Eine exelente Übersicht aller Beiträge. Nachrichten und Videos wunderbar.</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="Übersicht" to="24"/>
+      <aspectTerm from="41" term="Nachrichten" to="52"/>
+      <aspectTerm from="57" term="Videos" to="63"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6026">
+    <text>Hängt sich nur noch auf.</text>
+  </sentence>
+  <sentence id="6027">
+    <text>wenn sie denn mal auf meinem Galaxy Tab 10.1 laufen würde! Wird alles gestartet, und dann ist Schluss. Auf dem Galaxy S3 läuft die App tadellos. Da bleibt sie drauf, vom Tab ist sie weg!</text>
+  </sentence>
+  <sentence id="6028">
+    <text>Echt ne tolle App man bekommt alle wichtigen Informationen per Eilmeldung mit und weiß so immer vor allen anderen bescheid.</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="App" to="18"/>
+      <aspectTerm from="64" term="Eilmeldung" to="74"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6029">
+    <text>Für einen IT-orientierten Verlag ungenügend umgesetzt. Vom Cache merkt man nichts, da immer erst nach neuen Artikeln gesucht wird bevor irgendetwas angezeigt wird. Zudem ist die Benachrichtigung zum Herunterladen von Offline-Artikeln schlecht. Es reicht in 5%-Schritten hochziehen, anstatt mit 10fps. Tags zu Artikeln mit Benachrichtigungen bei neuem Artikel zu favorisiertem Tag wäre toll</text>
+    <aspectTerms>
+      <aspectTerm from="45" term="umgesetzt" to="54"/>
+      <aspectTerm from="179" term="Benachrichtigung" to="195"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6030">
+    <text>tolle app...aber wo bleiben die breaking news? bisher noch keine erhalten auf sgs2</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+      <aspectTerm from="32" term="breaking news" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6031">
+    <text>Design ist auch nicht mehr zeitgemäß!</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Design" to="7"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6032">
+    <text>Hervorragende app!</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="app" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6033">
+    <text>Die lange Ladezeit ist eibe Zumutung. Deinstalliert.</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="Ladezeit" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6034">
+    <text>Beiträge, wie das unboxing der Apfeluhr - wer sucht bei euch die Themen aus? Sehr schwach!</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Beiträge" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6035">
+    <text>Ich bin sehr zufrieden ,-)</text>
+  </sentence>
+  <sentence id="6036">
+    <text>Gute Nachrichten-App.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Nachrichten-App" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6037">
+    <text>Gibts nur noch in weiß, und die Überschriften der nachrichtenkategorien nehmen fast so viel Platz ein wie die nur noch drei! Nachrichten pro kategorie</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="Überschriften" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6038">
+    <text>Ich kann nach Zahlung der 4.99 Euro Bild Plus nicht nutzen. Schon zweimal diesen Fehler gehabt und jetzt reicht es mir wirklich. Entweder der Fehler wird behoben oder ich kündige und Buche den Beitrag zurück!</text>
+    <aspectTerms>
+      <aspectTerm from="37" term="Bild Plus" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6039">
+    <text>Blöde Samsung Bloatware</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Samsung Bloatware" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6040">
+    <text>Jes vool gheil</text>
+  </sentence>
+  <sentence id="6041">
+    <text>Sehr nützlich</text>
+  </sentence>
+  <sentence id="6042">
+    <text>Ich will selber entscheiden. Das nächste Gerät hat kein Google verschnitt.</text>
+  </sentence>
+  <sentence id="6043">
+    <text>Warum könnt ihr keinen Zurück-Button in der App einbauen und den Geräte-Zurück-Button dem Beenden der App vorbehalten? Essentiell bei einer App, bei der man ja hoffentlich nicht nur einen Beitrag liest, sondern eine längere Verweildauer hat. Oder glaubt ihr, dass der durchschnittliche SPON-Leser die App nach einem Beitrag wieder verlässt??</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="Zurück-Button" to="36"/>
+      <aspectTerm from="44" term="App" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6044">
+    <text>Klasse App. Läuft flüssig und ohne Probleme auf meinem SGS 3. Man ist immer bestens informiert. Die aktuelle Tagesschau ist als Video immer abrufbar, entweder komplett oder auch einzelne Teile wie z.B. das Wetter. Als schnelle Alternative steht noch die 60 sec. Version zur Verfügung die man von Eins Extra aus dem TV kennt. Darüber hinaus gibt's viele weitere Berichte zu aktuellen Themen.</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="App" to="11"/>
+      <aspectTerm from="13" term="Läuft" to="18"/>
+      <aspectTerm from="85" term="informiert" to="95"/>
+      <aspectTerm from="101" term="aktuelle Tagesschau" to="120"/>
+      <aspectTerm from="362" term="Berichte zu aktuellen Themen" to="390"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6045">
+    <text>Keine Aktualisierung seit 30.01.2015. Bitte Fehler beheben!! Fehler wurde schnell behoben. WIDGET läuft wieder einwandfrei.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="Aktualisierung" to="21"/>
+      <aspectTerm from="92" term="WIDGET" to="98"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6046">
+    <text>Diese App fügt leider auf dem Gerät auch einen Ordner hinzu, der unaufgefordert Werbevideos von einem Werbepartner der Süddeutschen auf das Gerät lädt.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App" to="10"/>
+      <aspectTerm from="81" term="Werbevideos" to="92"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6047">
+    <text>4,99 € pro Monat??? Da bleibe ich lieber bei NTV und Co. Die berichten seriöser und vor allem KOSTENLOS.</text>
+  </sentence>
+  <sentence id="6048">
+    <text>Von den journalistischen Fähigkeiten dieser Boulevard-Zeitung mag man halten was man will. Aber gestalterisch hat die App endlich etwas Form angenommen, wirkt in sich konsistenter und stabiler.</text>
+    <aspectTerms>
+      <aspectTerm from="97" term="gestalterisch" to="110"/>
+      <aspectTerm from="119" term="App" to="122"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6049">
+    <text>Seit einiger Zeit lassen sich keine Videos mehr anschauen. Ansonsten angenehme und informative App.</text>
+    <aspectTerms>
+      <aspectTerm from="37" term="Videos" to="43"/>
+      <aspectTerm from="96" term="App" to="99"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6050">
+    <text>Einfach top. Sogar mit Livestream!</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="Livestream" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6051">
+    <text>App funktioniert nicht mehr ordnungsgemäß. Es werden im Artikel nur noch die Überschriften angezeigt. Der nachfolgende Text wird nicht mehr angezigt. Verweise auf Videos im Artikel lassen sich nicht mehr abspielen.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="App" to="3"/>
+      <aspectTerm from="4" term="funktioniert" to="16"/>
+      <aspectTerm from="56" term="Artikel" to="63"/>
+      <aspectTerm from="119" term="Text" to="123"/>
+      <aspectTerm from="163" term="Videos" to="169"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6052">
+    <text>Es fehlt noch eine Offlinefunktion und beim Drehen des Bildschirms springt die Anzeige leider immer zum Anfang des Artikels</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="Offlinefunktion" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6053">
+    <text>Top</text>
+  </sentence>
+  <sentence id="6054">
+    <text>Ich benutze die App schon länger und wollte jetzt selbst Kommentare schreiben, nach 2 Neuanmeldungen und mehrfach neu zugesandten Passwörtern, habe ich es schließlich aufgegeben! Funktioniert nicht. Videobeiträge sind schlecht. Für jemanden der keine Nachrichten schaut und einen schnellen Überblick möchte, ist es gut. Man ist immer auf dem neuesten Stand, mehr braucht man nicht erwarten.</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="App" to="20"/>
+      <aspectTerm from="58" term="Kommentare" to="68"/>
+      <aspectTerm from="180" term="Funktioniert" to="192"/>
+      <aspectTerm from="200" term="Videobeiträge" to="213"/>
+      <aspectTerm from="291" term="Überblick" to="300"/>
+      <aspectTerm from="343" term="neuesten Stand" to="357"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6055">
+    <text>Sehr übersichtliche und ansehnlich gestaltete App.</text>
+    <aspectTerms>
+      <aspectTerm from="47" term="App" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6056">
+    <text>So sehr ich die Berichterstattung der SZ schätze und auch verstehe, das Journalismus bezahlt werden muss: die Abos sind mir zu teuer.</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="Berichterstattung" to="33"/>
+      <aspectTerm from="110" term="Abos" to="114"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6057">
+    <text>Kurz und kompakte news</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="news" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6058">
+    <text>Übersichtliches Design!</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Design" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6059">
+    <text>Eine Preiserhöhung um mehr als 100 %. Für Gelegenheitsnutzer nun uninteressant. Vorher war auch die Bezahlung über Google Play sehr praktisch.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Preiserhöhung" to="19"/>
+      <aspectTerm from="43" term="Gelegenheitsnutzer" to="61"/>
+      <aspectTerm from="101" term="Bezahlung über Google Play" to="127"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6060">
+    <text>Teils teils findet man Satz oder Wort fehler , die aber nicht ins Gewicht fallen. Die chronischen news finde ich persönlich nicht optimal gelungen , da die chronik am Ende anfängt. Teilweise interessieren mich news mit videoinhalten , die ich aber nicht immer und überall gucken kann.... eine kl. Text basierte Zusammenfassung wäre Top !</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="Satz" to="28"/>
+      <aspectTerm from="34" term="Wort" to="38"/>
+      <aspectTerm from="87" term="chronischen news" to="103"/>
+      <aspectTerm from="157" term="chronik" to="164"/>
+      <aspectTerm from="211" term="news" to="215"/>
+      <aspectTerm from="312" term="Zusammenfassung" to="327"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6061">
+    <text>Gut Informiert</text>
+  </sentence>
+  <sentence id="6062">
+    <text>Häufig keine weiter Leitung zu den Artikeln möglich.</text>
+    <aspectTerms>
+      <aspectTerm from="35" term="Artikeln" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6063">
+    <text>Ich finde die Option Eilmeldung prima, ich bin dann immer auf dem neuesten Stand</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="Eilmeldung" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6064">
+    <text>Alled gut,...!</text>
+  </sentence>
+  <sentence id="6065">
+    <text>Deutsche medien und neutralitaet ?? NIEMALS !</text>
+  </sentence>
+  <sentence id="6066">
+    <text>Sehr gut.</text>
+  </sentence>
+  <sentence id="6067">
+    <text>Top</text>
+  </sentence>
+  <sentence id="6068">
+    <text>Zufrieden</text>
+  </sentence>
+  <sentence id="6069">
+    <text>Mein erster Eindruck nach Öffnen der App? Alles perfekt; Lesen; Audio; Video; Bewertungsmöglichkeit; hochauflösende Bilder; Aktualität.</text>
+    <aspectTerms>
+      <aspectTerm from="38" term="App" to="41"/>
+      <aspectTerm from="58" term="Lesen" to="63"/>
+      <aspectTerm from="65" term="Audio" to="70"/>
+      <aspectTerm from="72" term="Video" to="77"/>
+      <aspectTerm from="79" term="Bewertungsmöglichkeit" to="100"/>
+      <aspectTerm from="102" term="hochauflösende Bilder" to="123"/>
+      <aspectTerm from="125" term="Aktualität" to="135"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6070">
+    <text>Ich finde es richtig cool. Vor allem die Sport- Kategorie. Die Benachrichtigung ist sehr cool wenn ein Tor fällt.</text>
+    <aspectTerms>
+      <aspectTerm from="41" term="Sport- Kategorie" to="57"/>
+      <aspectTerm from="63" term="Benachrichtigung" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6071">
+    <text>Kurz und schnell immer aktuell informiert. Herzlichen Dank!</text>
+  </sentence>
+  <sentence id="6072">
+    <text>Funktioniert leider immer noch nicht.</text>
+  </sentence>
+  <sentence id="6073">
+    <text>Nutze Focus über Facebook und da kam die Werbung. Reagiert man außnahmsweise mal auf Werbung, kommt dieser Mist.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="Focus" to="12"/>
+      <aspectTerm from="18" term="Facebook" to="26"/>
+      <aspectTerm from="42" term="Werbung" to="49"/>
+      <aspectTerm from="86" term="Werbung" to="93"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6074">
+    <text>Klasse.</text>
+  </sentence>
+  <sentence id="6075">
+    <text>..stürzt die App in letzter Zeit immer häufiger auf dem Nexus 5 ab bzw. friert während des scrollens ein. Bitte beheben.</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="App" to="17"/>
+      <aspectTerm from="57" term="Nexus 5" to="64"/>
+      <aspectTerm from="92" term="scrollens" to="101"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6076">
+    <text>Sehr gute app. Ohne Fehler</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="app" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6077">
+    <text>Kann die ganzen Beschwerden die App stürze ab nicht verstehen bei mir läuft das Programm einwandfrei und gut. Auch die Berichte sind von hoher Qualität.</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="App" to="36"/>
+      <aspectTerm from="81" term="Programm" to="89"/>
+      <aspectTerm from="120" term="Berichte" to="128"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6078">
+    <text>Eure Berichterstattung, gerade bei Themen wie Syrien oder Ukraine ist unter aller Sau. Man sollte euch umbenennen in &quot;proamerikanische Staatspresse&quot;. Eure app ist ein Schandfleck auf dem Desktop meines Handys. Warum ich euch nicht deinstalliere? Weil ich gerne Märchen lese</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Berichterstattung" to="23"/>
+      <aspectTerm from="156" term="app ist" to="163"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6079">
+    <text>... aber, auch wenn das kleinlich wirkt: Erstellt die Artikel bitte mit mehr Sorgfalt. Die ständigen Rechtschreibfehler und fehlenden Wörter nerven einfach beim Lesen. Von einem seriösen Berichterstatter kann man das ja wohl erwarten. Behebt die grammatikalischen Mängel, dann gibt's 5 Sterne. Edit 01.02.2015: Das Widget aktualisiert schon seit 3 Tagen nicht mehr, die angezeigten Artikel sind dementsprechend veraltet.</text>
+    <aspectTerms>
+      <aspectTerm from="102" term="Rechtschreibfehler" to="120"/>
+      <aspectTerm from="125" term="fehlenden Wörter" to="141"/>
+      <aspectTerm from="188" term="Berichterstatter" to="204"/>
+      <aspectTerm from="316" term="Widget" to="322"/>
+      <aspectTerm from="383" term="Artikel" to="390"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6080">
+    <text>Läd seit paar tagen keine Artikel mehr, nur noch Bilder zu sehen.... Edit: Nach 'Neuinstallation gehts komischerweise wieder. Hoffe ich muss das nicht andauernd neuinstallieren. Bewertung wird angehoben.</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="Artikel" to="34"/>
+      <aspectTerm from="50" term="Bilder" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6081">
+    <text>kann die App seit dem Update nicht mehr einwandfrei benutzen. Unbrauchbar. Schade.</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="App" to="13"/>
+      <aspectTerm from="23" term="Update" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6082">
+    <text>Stürzt leider immer beim Abspielen eines Videos ab. Honeycomb 3.2</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="Abspielen" to="35"/>
+      <aspectTerm from="42" term="Videos" to="48"/>
+      <aspectTerm from="53" term="Honeycomb 3.2" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6083">
+    <text>Intuitive Bedienung geht anders. Mehrwert gegenüber Web nicht erkennbar.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Intuitive Bedienung" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6084">
+    <text>funktioniert super auch bei niedriger Internet Geschwindigkeit.</text>
+  </sentence>
+  <sentence id="6085">
+    <text>Reine Propaganda, keine Objektive Journalismus! Bild Zeitung Kategorie!</text>
+  </sentence>
+  <sentence id="6086">
+    <text>n-tv Informationen sind auf keinen Fall mit aktuellen Fakten in Bezug auf MH17 zu vereinbaren. Hetze gegen Russland wird hoch gepusht. Peinlich Deutschland. Diese App fliegt vom Smartphone.</text>
+    <aspectTerms>
+      <aspectTerm from="164" term="App" to="167"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6087">
+    <text>Auch bei mir ist nach dem updatenotes die App verschwunden. Bitte um ein neues Updates.</text>
+    <aspectTerms>
+      <aspectTerm from="42" term="App" to="45"/>
+      <aspectTerm from="79" term="Updates" to="86"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6088">
+    <text>Seriöse App...</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="App" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6089">
+    <text>Bei der letzten Installation klappten nur ein paar Links nicht richtig, aber jetzt ist es noch schlimmer. Bei jedem Video laufen die ersten paar Sekunden ohne Probleme, dann die Meldung 'Ihr Gerät unterstützt das Videoformat nicht' und Ende...</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Installation" to="29"/>
+      <aspectTerm from="52" term="Links" to="57"/>
+      <aspectTerm from="117" term="Video" to="122"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6090">
+    <text>Gute App!</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6091">
+    <text>30 Sekunden Werbung für ca. 10 Sekunden Clip, bei jedem Clip... lasst euch was einfallen oder die App fliegt runter.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Werbung" to="20"/>
+      <aspectTerm from="41" term="Clip" to="45"/>
+      <aspectTerm from="57" term="Clip" to="61"/>
+      <aspectTerm from="99" term="App" to="102"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6092">
+    <text>Grds. gute App. Das Laden dauert mir zu lange und die Struktur ist zwar ok aber nicht immer sinnvoll bzw. nachvollziehbar. Besonders die Links machen manchmal stutzig. Also an Arbeit.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="App" to="15"/>
+      <aspectTerm from="21" term="Laden" to="26"/>
+      <aspectTerm from="55" term="Struktur" to="63"/>
+      <aspectTerm from="138" term="Links" to="143"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6093">
+    <text>Schlecht</text>
+  </sentence>
+  <sentence id="6094">
+    <text>4x1 Widget ist wieder da, super! Sogar die Redaktion hat dazu Stellung genommen. Wieder fünf Sterne!</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="4x1 Widget" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6095">
+    <text>...dennoch schafft es Focus immer wieder ganz oben indem Suchergebnissen aufzutauchen. Das echte Resultat ist allerdings meistens enttäuschend und typisch Burda/Bunte/Freizeit Revue Niveau.</text>
+    <aspectTerms>
+      <aspectTerm from="98" term="Resultat" to="106"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6096">
+    <text>Weiter so!</text>
+  </sentence>
+  <sentence id="6097">
+    <text>Eigentlich super App. Leider zur Zeit Download to go</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="App" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6098">
+    <text>Da hat der Programmierer ganze Arbeit geleistet. Oder Sabotage??? Jedenfalls ist das Programm tot. Reine Verschwendung des Speicherplatzes.</text>
+    <aspectTerms>
+      <aspectTerm from="86" term="Programm" to="94"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6099">
+    <text>Geht ok wenn man auf Bild steht. Boulevard mit viel Foto und Klatsch;-)</text>
+  </sentence>
+  <sentence id="6100">
+    <text>Nutze ich schon lange, sehr zufrieden</text>
+  </sentence>
+  <sentence id="6101">
+    <text>Als großer Tagesschau-Fan habe ich natürlich auch die zugehörige App installiert. Das Layout ist zwar nicht ganz mein Fall, aber es kommt ja bekanntlich auf den Inhalt an. Was mich aber wirklich stört, sind die viel zu häufigen Eilmeldungen. Für mich muss eine Eilmeldung das Potential zur Schlagzeile auf der Titelseite einer Tageszeitung haben. Jetzt habe ich die Eilmeldungen schweren Herzens abgeschaltet.</text>
+    <aspectTerms>
+      <aspectTerm from="87" term="Layout" to="93"/>
+      <aspectTerm from="229" term="Eilmeldungen" to="241"/>
+      <aspectTerm from="262" term="Eilmeldung" to="272"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6102">
+    <text>Es geht es stimmt nicht immer alles was da drin steht</text>
+  </sentence>
+  <sentence id="6103">
+    <text>Fantastische App, aber nach wie vor zuviele abstürze bei einzelnen Reporten. Please fix :-)</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="App" to="16"/>
+      <aspectTerm from="44" term="abstürze" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6104">
+    <text>Vielen Dank für die schnelle Nachbesserung...</text>
+  </sentence>
+  <sentence id="6105">
+    <text>Gutes Layout, gute Autoren. Mit der App bekommt man in kurzer Zeit einen guten Überblick, wenn man keine Zeit hat, die komplette SZ zu lesen!</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="Layout" to="13"/>
+      <aspectTerm from="20" term="Autoren" to="27"/>
+      <aspectTerm from="37" term="App" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6106">
+    <text>ZUFRIEDEN</text>
+  </sentence>
+  <sentence id="6107">
+    <text>Tip Top</text>
+  </sentence>
+  <sentence id="6108">
+    <text>Super!</text>
+  </sentence>
+  <sentence id="6109">
+    <text>Leider kann man die Eilmeldungen nicht auf seine Bedürfnisse einstellen, den nicht alles ist von Interesse. :-)</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="Eilmeldungen" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6110">
+    <text>Gute Pushmitteilungen,immer sehr aktuell und schnell.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Pushmitteilungen" to="21"/>
+      <aspectTerm from="33" term="aktuell" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6111">
+    <text>Nach Update verschwunden</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Update" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6112">
+    <text>Pure Propaganda</text>
+  </sentence>
+  <sentence id="6113">
+    <text>Ich schaue N-TV oft und die App ist gut! Es gibt nur 4 Sterne, weil es in der App keinen Livestream gibt. Die App ist viel besser als die N24 News app, aber bei N24 News gibt es einen Livestream. Es wäre gut, wenn n-tv einen Livestream zur Verfügung stellen würde, dann gibt es auch 5 Sterne. Wenn kein Livestream in Zukunft zur Verfügung gestellt wird, dann schreibt mir bitte warum!</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="App" to="32"/>
+      <aspectTerm from="79" term="App" to="82"/>
+      <aspectTerm from="90" term="Livestream" to="100"/>
+      <aspectTerm from="111" term="App" to="114"/>
+      <aspectTerm from="139" term="N24 News app" to="151"/>
+      <aspectTerm from="185" term="Livestream" to="195"/>
+      <aspectTerm from="226" term="Livestream" to="236"/>
+      <aspectTerm from="304" term="Livestream" to="314"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6114">
+    <text>Funktioniert einwandfrei - inkl. Breaking News. ASUS Transformer</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Funktioniert" to="13"/>
+      <aspectTerm from="34" term="Breaking News" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6115">
+    <text>Aktuell und Informativ gut gemacht - weiter so !!!</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Aktuell" to="7"/>
+      <aspectTerm from="12" term="Informativ" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6116">
+    <text>Jetzt muss man nach 10 gelesenen Artikeln plötzlich zahlen... Neuer Chef, neuer Unsinn?</text>
+  </sentence>
+  <sentence id="6117">
+    <text>Sehr übersichtlich. Individuell zu gestalten. Sehr informativ. Schriftgröße veränderbar. Bis jetzt wenig Werbung. Auswahl der Themen möglich. Sehr zu empfehlen. Was noch verbessert werden könnte, wäre eine Möglichkeit, die Größe der Bilder einzustellen. M.E. wäre es besser, kleinere Bilder, größere Schrift, d.h. Bild links, Text rechts. Eine individuelle Einstellungsmöglichkeit diesbezüglich wäre gut. Alles in allem sehr gut.</text>
+    <aspectTerms>
+      <aspectTerm from="52" term="informativ" to="62"/>
+      <aspectTerm from="64" term="Schriftgröße" to="76"/>
+      <aspectTerm from="106" term="Werbung" to="113"/>
+      <aspectTerm from="115" term="Auswahl der Themen" to="133"/>
+      <aspectTerm from="224" term="Größe der Bilder einzustellen" to="253"/>
+      <aspectTerm from="345" term="individuelle Einstellungsmöglichkeit" to="381"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6118">
+    <text>Alles gut, bin sehr zufrieden.</text>
+  </sentence>
+  <sentence id="6119">
+    <text>Zu teuer</text>
+  </sentence>
+  <sentence id="6120">
+    <text>TOLLE ERFAHRUNGEN GEMACHT MIT DER APP</text>
+    <aspectTerms>
+      <aspectTerm from="34" term="APP" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6121">
+    <text>wieso wird mir nach dem android-update die bild app mal wieder draufgeklatscht wenn ich sowieso nichts davon lesen kann?! richtig schwach!</text>
+  </sentence>
+  <sentence id="6122">
+    <text>Nicht so als Ersatz für die richtige Bild nutzbar. Im Vergleich fehlt einiges. Im Ausland trotz Flat läuft sie fast garnicht.</text>
+    <aspectTerms>
+      <aspectTerm from="37" term="Bild" to="41"/>
+      <aspectTerm from="101" term="läuft" to="106"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6123">
+    <text>Immer zahlen</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="zahlen" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6124">
+    <text>Tip top</text>
+  </sentence>
+  <sentence id="6125">
+    <text>Heise eben, gut gemacht und nützlich. Auf Desire läuft top</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Heise" to="5"/>
+      <aspectTerm from="49" term="läuft" to="54"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6126">
+    <text>Ich bin super genervt. Ich habe diese App geliebt, jetzt kommen nur noch Fehlermeldungen und Berichte kann ich erst recht nicht lesen. Auch nach mehrmaligen wieder de -und installieren bin ichs jetzt leid. Ich muss mir nun eine andere Nachrichten App suchen.</text>
+    <aspectTerms>
+      <aspectTerm from="39" term="App" to="42"/>
+      <aspectTerm from="94" term="Berichte" to="102"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6127">
+    <text>Sehr gut, super informativ!</text>
+  </sentence>
+  <sentence id="6128">
+    <text>Kommt frühzeitig immer mit den neusten Nachrichten an. Klasse</text>
+    <aspectTerms>
+      <aspectTerm from="40" term="Nachrichten" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6129">
+    <text>Kaum ein Artikel der wirklich nur Fakten nennt ohne mehr oder weniger unterschwellig bis offensichtlich den Leser in eine bestimmte &quot;Sichtweise&quot; zu drängen. Fakten, Fakten, Fakten war einmal...</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Artikel" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6130">
+    <text>Habe mehr von Google erwartet</text>
+  </sentence>
+  <sentence id="6131">
+    <text>Super</text>
+  </sentence>
+  <sentence id="6132">
+    <text>Sehr gute App!</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="App" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6133">
+    <text>Die App funktioniert tadellos, aber die Redakteure arbeiten &quot;unter aller Sau&quot;! Nachrichten sind einseitig beeinflussend und basieren mehr auf Meinung von Journalisten-Azubi denn auf Tatsachen und Information! Hier wird nicht informiert, hier wird abgeschrieben... und das teilweise mit so vielen Rechtsschreibfehlern, dass mir ernste Zweifel aufkommen. Die App ist sehr gut. Aber das hier ist nicht der Focus!</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="9" term="funktioniert" to="21"/>
+      <aspectTerm from="80" term="Nachrichten" to="91"/>
+      <aspectTerm from="226" term="informiert" to="236"/>
+      <aspectTerm from="297" term="Rechtsschreibfehlern" to="317"/>
+      <aspectTerm from="358" term="App" to="361"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6134">
+    <text>Wie kann man so eine gute app machen und dann nicht auf wvga anpassen. Weg mit den matschtexturen und vor allem dem Icon x-(</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="app" to="29"/>
+      <aspectTerm from="56" term="wvga" to="60"/>
+      <aspectTerm from="116" term="Icon" to="120"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6135">
+    <text>Eine sehr schnelle und informative APP. Ob man der Nachrichtenargentur Spiegel alles so glauben kann, sei mal dahin gestellt. Dennoch, wenn irgendwas passiert auf der Welt, ist man nach kürzester Zeit über eine kleine Einblendung am Kopf des Smartphones schnell informiert! Meine Empfehlung!</text>
+    <aspectTerms>
+      <aspectTerm from="36" term="APP" to="39"/>
+      <aspectTerm from="263" term="informiert" to="273"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6136">
+    <text>Wie erwartet... Halt Tagesschau ;-)</text>
+  </sentence>
+  <sentence id="6137">
+    <text>Infos in Kürze und auf einen Blick</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Infos" to="5"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6138">
+    <text>Gudi</text>
+  </sentence>
+  <sentence id="6139">
+    <text>Die wichtigsten Nachrichten abends vorm Schlafengehen ist mir eine liebe Gewohnheit geworden. Seit dem Update heute läuft nichts mehr. Die Videos laden ewig und lassen sich dann nur bröckchenweise abspielen. Bitte wieder so wie vorher</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Nachrichten" to="28"/>
+      <aspectTerm from="104" term="Update" to="110"/>
+      <aspectTerm from="140" term="Videos" to="146"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6140">
+    <text>Sehr gute App. Aber ich verstehe nicht wieso diese schwachsinnigen App Berechtigungen, wie z. B. Identität, benötigt . Das hätte ich von der Tagesschau nicht erwarten</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="App" to="14"/>
+      <aspectTerm from="68" term="App Berechtigungen" to="86"/>
+      <aspectTerm from="142" term="Tagesschau" to="152"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6141">
+    <text>Sehr zufrieden mit dieser App und dem daraus gewonnen Informationsgehalt...</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="App" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6142">
+    <text>Bild App gut. ist aber nur mit Abo lesbar</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Bild App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6143">
+    <text>Gute Artikel die spannend simd zu lesen. Was nervt: zu häufige werbung. Was noch als update dazukommen sollte: bei den Artikeln die unter den jeweiligen Kategorien sind sollte es ein Austausch button geben damit man auch noch andere gute Artikel lesen kann</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Artikel" to="13"/>
+      <aspectTerm from="64" term="werbung" to="71"/>
+      <aspectTerm from="184" term="Austausch button" to="200"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6144">
+    <text>Seit dem Update komme ich nur noch auf die 1.Seite. Sobald ich auf einen Artikel klicke lädt er wieder neu. sehr schade, war mal meine liebste app....</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Update" to="16"/>
+      <aspectTerm from="74" term="Artikel" to="81"/>
+      <aspectTerm from="144" term="app" to="147"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6145">
+    <text>Also diese App ist tausend mal besser als die Bild App sehr zu empfhelen... Habe nicht das problem mit mehreren Nachrichten :)</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="App" to="15"/>
+      <aspectTerm from="113" term="Nachrichten" to="124"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6146">
+    <text>...aber mit völlig nerviger und schon aufdringlicher Werbung mitten in den Artikeln, die Informationen suggeriert, aber bei Aufruf nur kostenpflichtige Dinge präsentiert. Extrem überflüssig!</text>
+    <aspectTerms>
+      <aspectTerm from="54" term="Werbung" to="61"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6147">
+    <text>Geht gar nichts mehr seit gestern abend!!! Es lädt keinen Artikel mehr und dann noch Kohle kassieren...</text>
+    <aspectTerms>
+      <aspectTerm from="59" term="Artikel" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6148">
+    <text>mir fehlt lediglich die Möglichkeit auf weisse Schrift auf schwarz umzuschalten</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="Möglichkeit auf weisse Schrift" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6149">
+    <text>Thumbnails, Bilder und Videos werden nicht mehr angezeigt, nur Fragezeichen. Xperia X10i.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Thumbnails" to="10"/>
+      <aspectTerm from="12" term="Bilder" to="18"/>
+      <aspectTerm from="23" term="Videos" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6150">
+    <text>ein +1 dafür das die Macher sich für die Unannehmlichkeiten entschuldigen. Habe ich vorher nirgends gelesen</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="Macher" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6151">
+    <text>funktioniert seit Update vom 14.01.11 auch großformatig auf GalaxyTab und scheint schneller geworden zu sein</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="Update" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6152">
+    <text>jetzt Zeitgeisterbahn.......mit Hang zum Russlandhass...</text>
+  </sentence>
+  <sentence id="6153">
+    <text>Schade wurde ja schon öfter geschrieben das wenn man einen Bericht anklickt die App immer wieder neu startet. Aber bis dahin eine super App. BITTE BITTE beheben. Deswegen nur 4von5 Sternen in Erwartung das es bald wieder läuft.</text>
+    <aspectTerms>
+      <aspectTerm from="81" term="App" to="84"/>
+      <aspectTerm from="137" term="App" to="140"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6154">
+    <text>Vor allem, um die der deutschen Rechtschreibung offensichtlich unkundigen Putin-Lakaien zu neutralisieren gibt's von mir 5 Sterne.</text>
+  </sentence>
+  <sentence id="6155">
+    <text>Pushmeldungen nerven, GPS nervt, lange Ladezeiten nerven. Deinstalliert da ich es eh kaum nutze.</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Pushmeldungen" to="13"/>
+      <aspectTerm from="22" term="GPS" to="25"/>
+      <aspectTerm from="39" term="Ladezeiten" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6156">
+    <text>Leider ist die Ladezeit der Artikel oft zu lang. Zudem stürzt die App öfter beim Aufruf eines Artikels ab.</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="Ladezeit der Artikel" to="36"/>
+      <aspectTerm from="56" term="stürzt" to="62"/>
+      <aspectTerm from="67" term="App" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6157">
+    <text>Mittlerweile eine gute App.</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="App" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6158">
+    <text>Ich kann nicht meckern. Die App gibt gute Infos und die Nachrichten sind immer aktuell.</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="App" to="32"/>
+      <aspectTerm from="43" term="Infos" to="48"/>
+      <aspectTerm from="57" term="Nachrichten" to="68"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6159">
+    <text>Ich habe das gleiche Problem, seltsam und vor allem schade.</text>
+  </sentence>
+</sentences>

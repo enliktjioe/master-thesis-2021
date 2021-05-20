@@ -1,0 +1,2310 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="1" review-id="8704">
+    <text>I love the fact that Evernote allows me to sync my notes between each of my devices and computers. I use it everyday to keep everything right in front of me. I wish the interface a bit different. Maybe the option of colored notes?</text>
+    <aspectTerms>
+      <aspectTerm label1="interface a bit different" label2="interface" score1="0" score2="NA"/>
+      <aspectTerm label1="sync my notes" label2="sync" score1="1" score2="NA"/>
+      <aspectTerm label1="colored notes" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="tool" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="2" review-id="10241">
+    <text>Perhaps the most-used app on my mobile devices.  Well organized, easy to use.  Great product.</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to use" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="mobile devices" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3" review-id="9218">
+    <text>Evernote is a great way to store pictures &amp; notes online, to your computer to your cellphone, I always found myself using it to store notes I would lose.</text>
+    <aspectTerms>
+      <aspectTerm label1="store notes" label2="notes" score1="2" score2="NA"/>
+      <aspectTerm label1="store pictures" label2="store pictures" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="4" review-id="11269">
+    <text>The app was awesome until the latest update.  I lost a weeks worth of class notes, can't even open the program without it crashing unless I'm connected to wifi, and a complete notebook just disappeared after the password reset.  Everything was great before the update, now nothing works.</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="latest update" score1="-1" score2="NA"/>
+      <aspectTerm label1="password reset" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="crashing" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="nothing works" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="5" review-id="8197">
+    <text>The apps is great, the only thing I run into is that it won't always save my voice records. I used to think I was just doing it wrong, but I've tried hitting the &quot;stop&quot; button before I hit save and most of the time the recording will just disappear. Some times it will save and work correctly, but most of the time it won't.  Anyway, it doesn't keep me from using the app, but I just definitely don't trust it with important voice recordings yet!</text>
+    <aspectTerms>
+      <aspectTerm label1="voice records" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="6" review-id="3594">
+    <text>Much better place to store all those notes than your Gmail account.</text>
+    <aspectTerms>
+      <aspectTerm label1="Much better place to store all those notes" label2="store notes" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7" review-id="12299">
+    <text>It's great and all but I have all my work and school work on google drive and I wish that it could sync with google drive cuz I love taken notes in this!</text>
+    <aspectTerms>
+      <aspectTerm label1="sync with google drive" label2="sync" score1="1" score2="NA"/>
+      <aspectTerm label1="notes" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="8" review-id="8716">
+    <text>The sync process between my phone and computer can be cumbersome.</text>
+    <aspectTerms>
+      <aspectTerm label1="sync" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9" review-id="11277">
+    <text>Worked great with Dolphin, until the last update. Now it is not.</text>
+    <aspectTerms>
+      <aspectTerm label1="last update" label2="last update" score1="-1" score2="NA"/>
+      <aspectTerm label1="Stopped working with dolphin" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="10" review-id="6160">
+    <text>PC, laptops , droid, tablet, two iPhones and one set of reference documents on all of them for myself and the wife. What the heck was I doing sending copies and updates in msgs and hand written notes, I'm so embarrassed I did not find this 3 years ago?</text>
+    <aspectTerms>
+      <aspectTerm label1="PC, laptops , droid, tablet, two iPhones" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="11" review-id="7699">
+    <text>I love to write. Inspiration for words can come at the drop of a hat which why I absolutely love this app. I have the ability to record thoughts at my finger tips by having the app on my phone then can go back and work on the same pieces on my computer later at home. The instant syncing between computer and phone is fantastic!
+It's perfect for writing, recipes, or absolutely anything really. Very satisfied!</text>
+    <aspectTerms>
+      <aspectTerm label1="instant syncing between computer and phone" label2="syncing" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="12" review-id="8213">
+    <text>Impressed by its versatility in terms of the type of note one can take. It's great to have the ability to input URL, photos, audio, and text. And great that it has desktop integration for a computer.
+
+The drawback that I've encountered is though it offers labels it doesn't offer folders. Editing and the dashboard in the app could use an easier interface. Still good app though.</text>
+    <aspectTerms>
+      <aspectTerm label1="dashboard interface" label2="dashboard" score1="-1" score2="NA"/>
+      <aspectTerm label1="Editing" label2="Editing" score1="-1" score2="NA"/>
+      <aspectTerm label1="folders" label2="doesn't offer folders" score1="0" score2="NA"/>
+      <aspectTerm label1="input audio" label2="input audio" score1="1" score2="NA"/>
+      <aspectTerm label1="input photos" label2="input photos" score1="1" score2="NA"/>
+      <aspectTerm label1="input text" label2="input text" score1="1" score2="NA"/>
+      <aspectTerm label1="input URL" label2="input URL" score1="1" score2="NA"/>
+      <aspectTerm label1="desktop integration" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="labels" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="type of note" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="13" review-id="6166">
+    <text>Performs better than other services that I have tried.</text>
+    <aspectTerms>
+      <aspectTerm label1="all platforms" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="14" review-id="5143">
+    <text>Love the new interface. Quick access to my most used notes and tags makes the app so much more quick. The most beautiful app on my phone.</text>
+    <aspectTerms>
+      <aspectTerm label1="most used notes" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="most used tags" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="new interface" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="15" review-id="8728">
+    <text>Editing ability and consistency on iPhone has improved with recent updates. Still some work to do to allow additional font sizes and such for items created on iPhone. Should get a 4.5 for that reason but it would be unfair to rate this a 4 b/c of those minor limitations. Robust editing on Mac, online allow workarounds.</text>
+    <aspectTerms>
+      <aspectTerm label1="Editing" label2="Robust editing " score1="2" score2="NA"/>
+      <aspectTerm label1="font sizes" label2="additional font sizes " score1="0" score2="NA"/>
+      <aspectTerm label1="consistency" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="minor limitations" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="online allow workarounds" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="recent updates" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="16" review-id="3609">
+    <text>Wait 1 month then read reviews before risking an update.</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="17" review-id="7194">
+    <text>The app present good features, but there is a lot of bugs and missing some hotkeys to make the writing easier.</text>
+    <aspectTerms>
+      <aspectTerm label1="hotkeys" label2="hotkeys" score1="0" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="18" review-id="8218">
+    <text>It's been great and works on my iPad, iPhone and Mac.</text>
+    <aspectTerms>
+      <aspectTerm label1="works on iPhone" label2="works on my iPad, iPhone and Mac" score1="1" score2="NA"/>
+      <aspectTerm label1="wokrs on iPad" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="works on Mac" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="19" review-id="8733">
+    <text>Ok what don't I use Evernote for? Nothing! I use for everything! Storing contacts, business cards, my son's artwork, recipes, food journals, workout logs, useful documents, receipts, magazine clippings..
+
+In this new version I can finally edit notebooks on my phone. I'm 99% mobile. I love that you can access your notes from anywhere. 
+My husband has the Evernote pen an takes notes during his meetings. He looses his notebooks but the pen syncs with Evernote and all his handwritten notes are there. Super cool!
+I also use Evernote Food App (which syncs with Evernote). Awesome!</text>
+    <aspectTerms>
+      <aspectTerm label1="access your notes from anywhere" label2="access your notes from anywhere" score1="1" score2="NA"/>
+      <aspectTerm label1="edit notebooks" label2="edit notebooks on phone" score1="1" score2="NA"/>
+      <aspectTerm label1="Evernote pen" label2="Evernote" score1="1" score2="NA"/>
+      <aspectTerm label1="Food App" label2="Evernote Food App" score1="1" score2="NA"/>
+      <aspectTerm label1="pen syncs" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="use for everything" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Evernote pen" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="20" review-id="10781">
+    <text>Overall good maneuverability. Love the connectivity. I hate how hard iris to put different notes into different notebooks, though!</text>
+    <aspectTerms>
+      <aspectTerm label1="connectivity" label2="connectivity" score1="1" score2="NA"/>
+      <aspectTerm label1="put different notes into different notebooks" label2="notes into different notebooks" score1="-1" score2="NA"/>
+      <aspectTerm label1="maneuverability" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="21" review-id="9763">
+    <text>I'd tried Evernote in the past and never stuck with it, but after using it for everything for the last six months, I don't know what is do without it. 
+
+The app is fantastic. Works really smoothly and makes creating and retrieving notes easy.</text>
+    <aspectTerms>
+      <aspectTerm label1="creating notes" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="retrieving notes" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="22" review-id="8740">
+    <text>iPhone, Mac, kindle... It's always there and once I get the hang of the updates, even better. 
+Thanks!</text>
+    <aspectTerms>
+      <aspectTerm label1="syncing" label2="cross platform syncing" score1="2" score2="NA"/>
+      <aspectTerm label1="iPhone" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="kindle" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Mac" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="23" review-id="5669">
+    <text>I don't know who approved this, but they should be fired! Talk about a step backwards and a leadership failure... The user interface is hard to read and is now just a cluttered mess... I had to stop using it... It took me twice as long to find my notes... I catch myself just jotting notes on a sticky pad and leaving them on my desk... This is ridiculous...
+Shame, I've been using evernote for years and here I am looking at alternatives...</text>
+    <aspectTerms>
+      <aspectTerm label1="find my notes" label2="find my notes" score1="0" score2="NA"/>
+      <aspectTerm label1="UPDATE" label2="UPDATE" score1="-2" score2="NA"/>
+      <aspectTerm label1="user interface" label2="user interface" score1="-1" score2="NA"/>
+      <aspectTerm label1="jotting notes on a sticky pad" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="24" review-id="9765">
+    <text>I absolutely love being able to save notes and organize them in notebooks. I use this app daily. Two of my most useful notebooks are: 1. Storing recipes 2. Medical info such as current meds. I also love that I can view it all on various devices. I do wish that when sharing the notes, they didn't look like garble when I use colors and formatting. Also, I haven't found an undo option on the app version so when I accidentally delete content, I have to do it over. The app still deserves 5 stars hands down though!</text>
+    <aspectTerms>
+      <aspectTerm label1="save notes" label2="save notes" score1="1" score2="NA"/>
+      <aspectTerm label1="undo option" label2="undo" score1="0" score2="NA"/>
+      <aspectTerm label1="various devices" label2="view it all on various devices" score1="1" score2="NA"/>
+      <aspectTerm label1="sharing the notes" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="organize them in notebooks" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="25" review-id="12324">
+    <text>This new layout is awesome. Use this app daily and love it.</text>
+    <aspectTerms>
+      <aspectTerm label1="new layout" label2="layout" score1="2" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="26" review-id="5160">
+    <text>I am so disappointed to see the turn that the ios app has taken. There's so much to dislike about this craptastic abomination that I'm not even going to try. 
+I'm a long time premium user and am seriously considering other options.</text>
+    <aspectTerms>
+      <aspectTerm label1="abomination" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="27" review-id="7717">
+    <text>I use it to keep track of recipes, make notes on hobbies, keep up with maintenance tasks</text>
+    <aspectTerms>
+      <aspectTerm label1="notes" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="28" review-id="10276">
+    <text>I use my iPad to take notes for business meetings. It automatically synchs with my iPhone and laptop.</text>
+    <aspectTerms>
+      <aspectTerm label1="synchs" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="29" review-id="5675">
+    <text>Just for everyone to know if you install Evernote and your notes do not show up first you need to delete Evernote and reinstall and it will begin to sync again</text>
+    <aspectTerms>
+      <aspectTerm label1="notes do not show up" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="30" review-id="4655">
+    <text>Once I learned to use the notebook/multiple tag search I was very pleased with the new update.  I use Evernote for my GTD system and primarily work on iPad.  The new graphics are great.  Thanks for my most used app.</text>
+    <aspectTerms>
+      <aspectTerm label1="graphics" label2="new graphics" score1="1" score2="NA"/>
+      <aspectTerm label1="new update" label2="update" score1="1" score2="NA"/>
+      <aspectTerm label1="notebook/multiple tag search" label2="notebook/multiple tag search" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="31" review-id="6191">
+    <text>Evernote for iOS 7 is beautiful built for apples latest toys. It's the best way to organize documents and images in one place.</text>
+    <aspectTerms>
+      <aspectTerm label1="organize documents" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="organize images" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="32" review-id="4145">
+    <text>The new version of Evernote is okay. I would like it better if I was able to increase the text size
+SUGGESTION-
+Have an undo button. I just deleted an entire document when I meant to copy. This is bad.</text>
+    <aspectTerms>
+      <aspectTerm label1="increase the text size" label2="text size" score1="0" score2="NA"/>
+      <aspectTerm label1="new version of Evernote" label2="new version" score1="1" score2="NA"/>
+      <aspectTerm label1="undo button" label2="undo button" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="33" review-id="5681">
+    <text>I use evernote for most of my note taking, but now I have to pay 5 dollars a month just for a slightly longer note? Ridiculous!</text>
+    <aspectTerms>
+      <aspectTerm label1="size limit" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="34" review-id="8755">
+    <text>This app has made my job and life so much easier! It is available on all platforms and syncs automatically. There are updates all of the time. I have been using this for about a year now and I have never had an issue with losing notes. I use this to write my notes for billing so that part is crucial. Thanks for making my life easier!!</text>
+    <aspectTerms>
+      <aspectTerm label1="syncs automatically" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="35" review-id="4660">
+    <text>Seriously ready to stop paying for this monthly. It will now only work if I uninstall it then re-install it. It will only work once and then if I open it again it will be nothing but a black screen. Then I have to delete it and install it again for it to work only once. It was perfect before the last update. If it's not broken then don't fix it.</text>
+    <aspectTerms>
+      <aspectTerm label1="last update" label2="update" score1="-2" score2="NA"/>
+      <aspectTerm label1="open it" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="36" review-id="5173">
+    <text>The only reason I moved to iOS7 was to get the newest version of Evernote. Let me say, I have no idea what everyone is complaining about. Super easy to add notes still. No sync issues. Handy announcements from Evernote. The card view is still there, you just have to (gasp) look for a sec. 
+
+If you are having issues, contact support before blasting the app. And take a deep breath folks. Life isn't that bad.</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to add notes still" label2="add notes" score1="2" score2="NA"/>
+      <aspectTerm label1="Handy announcements" label2="announcements" score1="1" score2="NA"/>
+      <aspectTerm label1="The card view " label2="card view" score1="1" score2="NA"/>
+      <aspectTerm label1="contact support" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="sync" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="37" review-id="8245">
+    <text>Evernote is my daily Goto app for all of my actions and to dos. The file folder UI can be clunky but under the covers this app delivers.</text>
+    <aspectTerms>
+      <aspectTerm label1="file folder UI" label2="file folder UI" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="38" review-id="6199">
+    <text>That's it. Love it.</text>
+    <aspectTerms>
+      <aspectTerm label1="use it on four devices" label2="four devices" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="39" review-id="8757">
+    <text>Not able to synchronise after a month of installing the program so unable to back up my info. 
+
+Avoided updating the latest version becos during the last update, all the info which were not synchronized and backed up were swiped off!! All my precious info gone! I am also unable to email the existing info.
+
+I am now searching for another better program.</text>
+    <aspectTerms>
+      <aspectTerm label1="synchronise" label2="synchronise" score1="-1" score2="NA"/>
+      <aspectTerm label1="unable to email " label2="email" score1="0" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="back up" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="40" review-id="9785">
+    <text>I probably am not using Evernote to its full capability, but I'm an avid note taker and list maker so this is one of my most-used aps. Would like to see a feature of putting Due Dates on some notes, so it becomes a task list too. Sometimes editing notes is slow, that's why I give 4 stars.</text>
+    <aspectTerms>
+      <aspectTerm label1="Sometimes editing notes is slow" label2="editing" score1="-1" score2="NA"/>
+      <aspectTerm label1="putting Due Dates on some notes" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="41" review-id="5690">
+    <text>New design is strange to navigate, tag lookup is slow, unintuitive is a pretty good word for some of the changes.</text>
+    <aspectTerms>
+      <aspectTerm label1="tag lookup" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="design" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="42" review-id="9787">
+    <text>I find it very handy to be able to copy from penultimate straight to Evernote! I have yet to see another program that does this! If only Penultimate would support zooming in, it would be awesome!!</text>
+    <aspectTerms>
+      <aspectTerm label1="copy from penultimate straight to Evernote" label2="copy from penultimate straight to Evernote" score1="1" score2="NA"/>
+      <aspectTerm label1="zooming in" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="43" review-id="7228">
+    <text>This app will not down load or let me remove it. Why?</text>
+    <aspectTerms>
+      <aspectTerm label1="Can not be removed" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="44" review-id="5181">
+    <text>Had the app for so long and was a paid user as well.  The new update is just horrible.  All my notebooks are there but there aren't anymore notes in them. The design looks like a dog threw up on it also.  It's extremely annoying to navigate through everything now too.  You should go back to the original view you had before.</text>
+    <aspectTerms>
+      <aspectTerm label1="navigate" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="new interface" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="45" review-id="7734">
+    <text>This is a wonderful app that enables users to write about whatever they need in a variety of ways on a variety of devices.</text>
+    <aspectTerms>
+      <aspectTerm label1="on a variety of devices" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="write about whatever they need" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="46" review-id="7231">
+    <text>I find the interface to be awkward, but the biggest fault w this app is its poor syncing across devices. Even my supermarket app updates my shopping list instantly--if I add something on my ipad, it's there on my iPhone immediately. In Evernote, I have to manually refresh and if I make a change on one device then another without refreshing on the first device, I get a note that there was a &quot;conflicting&quot; edit. What is the point of a note app that isn't constantly saving and refreshing? And this isn't just the case over a few minutes' time; I've had notes not change over the course of weeks--I have to to go to the last device I made changes on, refresh, and then refresh again on the other device. Not good.</text>
+    <aspectTerms>
+      <aspectTerm label1="interface" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="syncing" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="47" review-id="5184">
+    <text>Hard to use; takes up big chunks of the screen trying to sell me crap.</text>
+    <aspectTerms>
+      <aspectTerm label1="ads" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="usability" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="48" review-id="11836">
+    <text>this new update won't let me open the app anymore ???? please fix it! I use this app for everything and I really need it</text>
+    <aspectTerms>
+      <aspectTerm label1="Crashing" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="new update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="49" review-id="11332">
+    <text>Great super helpful app. However, the positioning is glitchy. When I'm trying to type, the keyboard will often cover where I'm trying to type. So I can't see what I'm typing.. Thanks.</text>
+    <aspectTerms>
+      <aspectTerm label1="positioning" label2="positioning" score1="-1" score2="NA"/>
+      <aspectTerm label1="update" label2="update" score1="-1" score2="NA"/>
+      <aspectTerm label1="keyboard will often cover where I'm trying to type" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="50" review-id="5188">
+    <text>I'm SO upset! I've been using this app for a year &amp; have patiently endured the slow process of improvement. It had really gotten quite good. Then this last bungled attempt has made the app virtually useless. Shame on Evernote's QC group (if they even have one?)</text>
+    <aspectTerms>
+      <aspectTerm label1="Last Update ios 7.0" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="QC" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="51" review-id="12358">
+    <text>Update: I really do not like the new tab-based interface. It's very slow and unwieldy on my iPhone 4. It's hard to tap and drag the headers. They're not very responsive, and the slow animation between tabs is just useless fluff that gets in the way of speedily making and finding notes. 
+
+Also, using the same view in landscape mode is really ugly and wastes screen real estate. 
+
+I still like many aspects of Evernote, but it is important that you keep the focus on usability and functionality, rather than cute interface magic. It is very frustrating to be watching slow animations when I want to make a quick note. 
+
+Furthermore, too much key info is buried. Tags, location, etc. I have to go through too many menus and dialogs to change these and then go back back back to my notes. 
+
+And now we also can't see our notes on the map filtered by tag. I can't look at just my cafes or restaurants or meetings on the map. That makes the map pretty useless (on top of apple maps being horrendous).
+
+I appreciate the efforts to improve, but this interface was a step backwards actually. It constantly gets in my way and frustrates me. 
+
+----------------------
+Evernote, THANK YOU!
+
+The latest update makes your app slick and quick. No more crashing, fast slick uploading, proper non-buggy text entry, and proper functioning of folders!!
+
+In particular, the text entry is a BIG deal. I was very disappointed in the weird behavior previously with spaces and line breaks. I was getting worried about relying on Evernote for all my stuff..  
+
+But you did it right this time. THANKS!</text>
+    <aspectTerms>
+      <aspectTerm label1="location" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Tags" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="animations" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="functioning of folders" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="key info" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="new tab-based interface" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="notes on the map filtered by tag" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="quick" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="same view in landscape mode" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="slick" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="text entry" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="uploading" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="52" review-id="6728">
+    <text>I am blown away by this application.  I don't just mean the iPhone or iPad versions, but rather the entire concept.  I've now ditched all of my task management systems and note systems in favor or this single system.  I can search pictures of business cards, agendas as well as meeting notes and I can do this from my iPad, iPhone, web or home computer app. I can tag items and move between folders which allow me to manage my daily tasks and set reminders if something has a due date.  
+
+Also, I love the new interface.  Very easy to use and quick.</text>
+    <aspectTerms>
+      <aspectTerm label1="move between folders" label2="move between folders" score1="1" score2="NA"/>
+      <aspectTerm label1="new interface" label2="interface" score1="1" score2="NA"/>
+      <aspectTerm label1="search pictures" label2="search pictures" score1="1" score2="NA"/>
+      <aspectTerm label1="tag items" label2="tag items" score1="1" score2="NA"/>
+      <aspectTerm label1="iPad" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="iPhone" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="notes" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="53" review-id="8266">
+    <text>I've been using this for just over 6 weeks and have eliminated all paper notes. Even when I find myself at a meeting without a laptop or iPad, my paper notes easily get loaded in simply by snapping a photo. 
+
+Additionally, classifying a note by notebook and adding tags makes it easy to organize among a couple different dimensions for easy retrieval at a later date.</text>
+    <aspectTerms>
+      <aspectTerm label1="adding tags" label2="tags" score1="1" score2="NA"/>
+      <aspectTerm label1="easy retrieval" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="classifying" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="54" review-id="7243">
+    <text>From baby feeding and diaper changes to shopping lists and research papers - our family shares everything. 
+Thanks Evernote!!</text>
+    <aspectTerms>
+      <aspectTerm label1="shares" label2="shares everything" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="55" review-id="8267">
+    <text>I'm loving the organization and ease Evernote brings to my life! It's new reminders feature has been amazing!</text>
+    <aspectTerms>
+      <aspectTerm label1="reminders" label2="reminders" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="56" review-id="7754">
+    <text>It's a lot of money for what a mounts to a great sorting system for notes if you're a flake like me. Looking back, I should just have kept those little slips of paper in my pocket.</text>
+    <aspectTerms>
+      <aspectTerm label1="price $450" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="57" review-id="7758">
+    <text>A essential for any tablet user or ANY entrepreneur. It's capability and conveniences will make you wonder how you went without it (or how you used the Notes function so long)!</text>
+    <aspectTerms>
+      <aspectTerm label1="Notes" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="58" review-id="12367">
+    <text>I am extremely excited about the possibilities for tracking my prospects and clients in a user friendly manner with evernotes.  The Tag and Search functions make it easy to recall prospects who are interested in specific models --- new and used.  I can order the searches to look at latest entries first which is very important in my business.  Many other applications work well, but I do have one observation that you should be aware of.  There seems to be a bug in the search function for notebooks, when you do a search in a specific notebook.  The all notebooks search works fine, as does the tag search breakdown.  All in all, this is a great program.</text>
+    <aspectTerms>
+      <aspectTerm label1="Search" label2="bug in the search function for notebooks" score1="1" score2="NA"/>
+      <aspectTerm label1="search function for notebooks" label2="Search" score1="-1" score2="NA"/>
+      <aspectTerm label1="Tag" label2="Tag" score1="1" score2="NA"/>
+      <aspectTerm label1="look at latest entries first" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="usability" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="59" review-id="10320">
+    <text>It's a great app for taking class notes on my tablet and still be able to access them via the internet.  Love it!</text>
+    <aspectTerms>
+      <aspectTerm label1="access notes via the internet" label2="notes" score1="1" score2="NA"/>
+      <aspectTerm label1="taking class notes on tablet " label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="60" review-id="9297">
+    <text>I lately found this app..simply amazing interface and many options</text>
+    <aspectTerms>
+      <aspectTerm label1="interface" label2="interface" score1="2" score2="NA"/>
+      <aspectTerm label1="options" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Seamless integration" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="61" review-id="12368">
+    <text>The Evernote desktop version effectively ruined my windows 7 computer and brought to a halt my MS Office especially outlook.  Still trying to repair the effects of this program. Sadly haven't even got to really use the program.   If you use a Mac then maybe no issues, but it was a bad purchase for this windows computer user.</text>
+    <aspectTerms>
+      <aspectTerm label1="bad purchase for this windows computer user" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="62" review-id="11347">
+    <text>Used to think it was acceptable at least, but after losing my notes a few days ago I cant give this app a good rating. Dont waste your time on it.</text>
+    <aspectTerms>
+      <aspectTerm label1="losing my notes " label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="63" review-id="5205">
+    <text>That's basically all I have to say. The organization makes different notebooks inaccessible; I liked when I could slide tabs of folders and I'd love to be able to customize the tabs. 
+For the longest time I couldn't find a single sync button anywhere. I wasn't sure if my notes were saving until I saw them in a list in the side bar. It shows an arrow on it but does let you sync from that arrow. That would be really convenient!</text>
+    <aspectTerms>
+      <aspectTerm label1="customize the tabs" label2="customize the tabs" score1="1" score2="NA"/>
+      <aspectTerm label1="slide tabs of folders" label2="slide tabs" score1="1" score2="NA"/>
+      <aspectTerm label1="sync button" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="64" review-id="7766">
+    <text>Does almost everything except allowing me to make a quick diagram by hand.  But it does allow me to take a pic, and record voice, so that helps.</text>
+    <aspectTerms>
+      <aspectTerm label1="quick diagram" label2="diagram" score1="0" score2="NA"/>
+      <aspectTerm label1="record voice" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="take a pic" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="65" review-id="5210">
+    <text>I have a premium account and I use Evernote for business and personal items all day long and I am very frustrated about the new advertisement section I've been graced with despite paying not to have advertisements.  Also, there is no logic behind the new tag section. I really like the the tag section, but I want to organize what pops up there. I can't find a master list of reminders in the app or the desktop version. Maybe I haven't looked hard enough, but this seems to be a gaping oversight.  A calandra would be nifty as well.</text>
+    <aspectTerms>
+      <aspectTerm label1="master list of reminders" label2="can't find a master list of reminders in the app" score1="-1" score2="NA"/>
+      <aspectTerm label1="ads" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="calender" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="can't find a master list of reminders in the deskt" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="new tag section" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="premium new advertisement " label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="66" review-id="5214">
+    <text>The new version is more difficult to use, not attractive, and the Evernote ads are really bad (I'm a premium member).</text>
+    <aspectTerms>
+      <aspectTerm label1="ads" label2="ads" score1="-1" score2="NA"/>
+      <aspectTerm label1="new version" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="67" review-id="8287">
+    <text>Have been using Evernote forfiver a year now... very easy-to-use program, love the syncing with my desktop, phone, iPad, etc.</text>
+    <aspectTerms>
+      <aspectTerm label1="syncing with desktop" label2="syncing" score1="1" score2="NA"/>
+      <aspectTerm label1="syncing with iPad" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="syncing with phone" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="usability" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="easy-to-use" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="68" review-id="9311">
+    <text>No more magazine clippings. One place for to do lists. Would love to see the ability to set alarms and send reminders. One of my favorite and most versatile apps.</text>
+    <aspectTerms>
+      <aspectTerm label1="alarms" label2="set alarms" score1="2" score2="NA"/>
+      <aspectTerm label1="reminders" label2="send reminders" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="69" review-id="6241">
+    <text>Absolutely love this app. Found out about it from a fellow Southwestair flyer. Use it all the time for &quot;must saves&quot; from twitter &amp; the internet. Easy to use with folders &amp; tags. Can keep all of my daily notes &amp; thoughts close at hand.</text>
+    <aspectTerms>
+      <aspectTerm label1="folders" label2="usability with folders" score1="1" score2="NA"/>
+      <aspectTerm label1="tags" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="70" review-id="8290">
+    <text>I love that I can have post it notes without the post its. Love that I can take picture notes and get a memory jog just by looking at the &quot;post it&quot;. Good app I'll upgrade when I use up all the space :)</text>
+    <aspectTerms>
+      <aspectTerm label1="take picture notes" label2="take picture notes" score1="1" score2="NA"/>
+      <aspectTerm label1="post it notes without the post its" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="71" review-id="5218">
+    <text>I really wanted a note system I could trust, but Evernote just lost all my notes on the upgrade.</text>
+    <aspectTerms>
+      <aspectTerm label1="lost all my notes on the upgrade" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="72" review-id="5219">
+    <text>It seems Evernote did not understand the spirit of iOS 7. The design seems flat for the sake of flatness. Usability has been thrown out the door. It's very confusing to use the app. Simple actions are painfully slow.</text>
+    <aspectTerms>
+      <aspectTerm label1="actions" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="design" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Usability" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="73" review-id="10853">
+    <text>I frequently ask users of smart phones which application they love the most. Evernote is the most frequent response. I love it too. It really empowers me to write while on the go.</text>
+    <aspectTerms>
+      <aspectTerm label1="write while on the go" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="74" review-id="8807">
+    <text>I love Evernote!  The convenience of saving web info, documents from airline itineraries to e-tickets to office documents to photos, etc. on my IPad or my computer is wonderful! The fact it works on pc platforms is a real bonus!  Put the info on one device and you have it on all your devices!  Thank you developers!!</text>
+    <aspectTerms>
+      <aspectTerm label1="saving web info" label2="saving web info" score1="1" score2="NA"/>
+      <aspectTerm label1="saving airline itineraries documents" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="saving e-tickets" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="saving office documents" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="works on pc platforms" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Put the info on one device and you have it on all " label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="savig documents" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="75" review-id="10856">
+    <text>Great app for David Allen's 'Getting Things Done' organizational techniques. Syncs with iPhone, iPad and Mac immediately so you always have access to what you need wherever you are.
+
+I use this app to keep track of everything from work tasks, household chores, shopping lists and ideas for the future without getting them mixed up.  Check out TheSecretWeapon.org for ideas on how to set up your Evernote to stay organized. 
+
+Great app!!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="keep track of everything" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Syncs" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="76" review-id="6249">
+    <text>I use thus app more than any of my other apps combined... from voice memos, notes, recipes... it can all be saved, filed and tagged for easy retrieval and viewing.  The fact that it is also compatible with so many other apps make it a daily resource and a valuable asset in my day to say life.  It will only keep getting better with each update and IMO is already a household software name like Office, etc.  Evernote is now even bridging the gap with social media options... BRAVO EVERNOTE!</text>
+    <aspectTerms>
+      <aspectTerm label1="notes" label2="notes" score1="1" score2="NA"/>
+      <aspectTerm label1="easy retrieval" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="viewing" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="recipes" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="voice memos" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="77" review-id="9836">
+    <text>Love this product.</text>
+    <aspectTerms>
+      <aspectTerm label1="product" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="78" review-id="5230">
+    <text>It's a app that you can do pretty much everything from making to do list to office papers. It's great for people that are on the go and can store almost anything and have it in the palm of their hand.</text>
+    <aspectTerms>
+      <aspectTerm label1="store almost anything" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="79" review-id="3698">
+    <text>It's wonerful: I keep recipes, receipts, , knitting patterns, copies of postcards and greeting cards from friends, car maintenance records, appliance manuals, parts numbers for appliance parts., and many other things. I keep schedules for my favorite sports teams, information about attractions I would like to visit the next time I travel to various cities,. I keep business cards and journal articles that I use at work. Easy to search for information when I need it</text>
+    <aspectTerms>
+      <aspectTerm label1="Easy to search for information" label2="search for information" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="80" review-id="7796">
+    <text>Still learning how to use the app.  Using it with GTD.  I used it some before the reminder system was added.  Now trying to convert to full time use.  We'll see.  Do wish it allowed all functions to exist in an Apple environment since I am cross-bred with my devices.</text>
+    <aspectTerms>
+      <aspectTerm label1="allow all functions to exist in an Apple environme" label2="allowed all functions to exist in an Apple environ" score1="0" score2="NA"/>
+      <aspectTerm label1="reminder system" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="81" review-id="5749">
+    <text>Feels more fluid, controls are intuitive and exactly where I expect them to be. Design meshes perfectly with iOS 7
+
+Great job on this update :)</text>
+    <aspectTerms>
+      <aspectTerm label1="controls" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Design" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="fluid" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="iOS 7 update" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="82" review-id="9846">
+    <text>How dirty! Who are you to say that I need to change my password! Especially since I was already creating a l-o-n-g note. Interrupted my work flow and then lost my note after changing my password!!!!!!!!!!!!!
+
+...and you call this &quot;EVERnote&quot; ? Should be &quot;NEvER NOTE&quot;!
+ I'd laugh but I am too busy cursing!
+
+Waste of an entire morning... switching to another note taking app then deleting this app once I have time to transfer remaining notes to &quot;ELSEWHERE&quot; note app!!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="change my password" label2="forced password change" score1="-1" score2="-2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="83" review-id="6262">
+    <text>The more I use Evernote, the more ways I find to use it. Love the excellent and consistent multi-platform experience and sync.</text>
+    <aspectTerms>
+      <aspectTerm label1="multi-platform" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="sync" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="84" review-id="9848">
+    <text>Was never able to even start using this app. It kept insisting I log into some account or create an account. I have no desire to do either and I never could figure out how to bypass the startup login requirement and use it as a standalone note taking app.
+
+Epic fail. Doesn't matter how good it is if I can't bypass the login requirement and start using it.</text>
+    <aspectTerms>
+      <aspectTerm label1="No standalone mode" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="startup login" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="85" review-id="11385">
+    <text>I did the update and they made me change my password. I logged in with my new password and ALL of my files are missing! And then I logged into my account through the website and no notes are there either... This is great since midterms are next week and all of my notes are gone.... :'(</text>
+    <aspectTerms>
+      <aspectTerm label1="change my password" label2="change my password" score1="0" score2="NA"/>
+      <aspectTerm label1="logged into account" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="ALL of my files are missing" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="website" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="86" review-id="5753">
+    <text>I find I must logon again each and every time I open the app on my iPad2 running iOS7. Curiously, this doesn't happen on my iPhone 4S. Grr...</text>
+    <aspectTerms>
+      <aspectTerm label1="logon" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="87" review-id="10875">
+    <text>This is the best business productivity tool.  I wish I would have known about it sooner!!!!  Love, love it!!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="productivity tool" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="88" review-id="9852">
+    <text>Good but notes are not available offline unless you favorite them which you cannot do on an ipad. Favorites can only be done on iPhone app. They seem to purposely make that fact buried or vague. It took some digging in the forums to find out. I guess it's a way to get you the purchase Premium.</text>
+    <aspectTerms>
+      <aspectTerm label1="but notes" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="favorite" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="ipad" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="iPhone" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="offline" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="89" review-id="10365">
+    <text>Very easy to use on any device or OS</text>
+    <aspectTerms>
+      <aspectTerm label1="easy" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="usability" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="90" review-id="8832">
+    <text>ITS ONE OF MY FAVORITE AND MOST USED APPS ON MY IPOD.  I USE IT TO WRITE JOURNAL ENTRIES, TAKE NOTES AT CHURCH, JOB MEETINGS, ETC.  ONE OF IF NOT THE BEST NOTETAKING APPS EVER HANDS DOWN.  (And believe me... I've tried a lot of them! )  :)</text>
+    <aspectTerms>
+      <aspectTerm label1="TAKE NOTES" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="WRITE JOURNAL" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="91" review-id="4739">
+    <text>The most amazing app, for sure the most used on my iPad, however I liked some features of the older version, please bring back the option to make Paragraph headers and subsections. The typing could be faster but Still great app.</text>
+    <aspectTerms>
+      <aspectTerm label1="Paragraph headers" label2="make Paragraph headers and subsections" score1="0" score2="NA"/>
+      <aspectTerm label1="typing" label2="typing" score1="0" score2="NA"/>
+      <aspectTerm label1="iPad" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="subsections" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="92" review-id="5251">
+    <text>The app is missing a few things compared to the computer based version, but overall functionality is pretty good. The only reason I don't give the app 5 stars is because the new interface is absolutely ugly. Although this is just a personal opinion, I feel that the layout is slightly inconvenient and confusing. If this changes, I will give it 5 stars.</text>
+    <aspectTerms>
+      <aspectTerm label1="interface" label2="interface" score1="-2" score2="NA"/>
+      <aspectTerm label1="layout" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="93" review-id="9347">
+    <text>This has made taking notes both fun and easy. The ability to access and take notes on my computer, phone or tablet is incredibly convenient. Being able to add voice memos, pictures and tags to notes is very helpful. Great app.</text>
+    <aspectTerms>
+      <aspectTerm label1="add voice memos" label2="add voice memos" score1="1" score2="NA"/>
+      <aspectTerm label1="notes" label2="access and take notes on computer" score1="1" score2="NA"/>
+      <aspectTerm label1="pictures" label2="add voice pictures" score1="1" score2="NA"/>
+      <aspectTerm label1="tags" label2="add voice tags to notes" score1="1" score2="NA"/>
+      <aspectTerm label1="access and take notes on phone" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="access and take notes on tablet" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="94" review-id="10373">
+    <text>I love this! As a scatter-brained note taker, I always have to rewrite lists and reminders and plans because I am not in the same place as that lovely random pad of paper. No more! Thank you! I access all my entries on my iPad, iPhone, or computer. Updated in real time. Love the change in italics and boxes to check off. this rocks my socks!</text>
+    <aspectTerms>
+      <aspectTerm label1="boxes" label2="boxes to check off" score1="2" score2="NA"/>
+      <aspectTerm label1="italics" label2="change in italics" score1="2" score2="NA"/>
+      <aspectTerm label1="access all entries on computer" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="access all entries on iPad" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="access all entries on iPhone" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Updated in real time" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="95" review-id="11399">
+    <text>Great productivity app: syncs across all my devices without a problem.</text>
+    <aspectTerms>
+      <aspectTerm label1="syncs across all devices" label2="syncs" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="96" review-id="11398">
+    <text>One day, after using this program for months, I find that all of my previously accessible notes can only be accessed online unless I pay $50 for blackmail, I mean premium. Thanks for completely screwing up my workday while I search for a note-taking app which won't pull the rug out from under me. The only reason my language is still G rated is the hope that others will see this review and save themselves the time and suffering.</text>
+    <aspectTerms>
+      <aspectTerm label1="premium" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="notes" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="97" review-id="6796">
+    <text>Very handy, access notes from anywhere.</text>
+    <aspectTerms>
+      <aspectTerm label1="access notes from anywhere" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="usability" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="98" review-id="8844">
+    <text>There is always room for improvement but this app has replaced no less than 3 other apps, and now with reminders it is my go-to application for pretty much anything task or project related.</text>
+    <aspectTerms>
+      <aspectTerm label1="reminders" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="99" review-id="11920">
+    <text>I love this app. It's like having Word on my iPad. I can even access it on a pc and on my iPhone. The way it updates it self is great! I love this app.</text>
+    <aspectTerms>
+      <aspectTerm label1="self updates" label2="updates" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="100" review-id="4753">
+    <text>Still freezing and quitting in iOS7. Worthless.  I take a lot of notes at work and now have been forced to go back to the Apple note app.</text>
+    <aspectTerms>
+      <aspectTerm label1="iOS7" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="101" review-id="4755">
+    <text>It's an amazing app and I love it's features except for one little problem. The GPS feature is a bit off. I'm at home and when I want to make a quick note it gives me the wrong address. It would be great if this could get fixed</text>
+    <aspectTerms>
+      <aspectTerm label1="GPS" label2="GPS feature" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="102" review-id="5779">
+    <text>Started with app not getting all notes. Deleted and reinstalled app. Fixed that. Now when I select all notes, it opens to a specific note and freezes when I try to go back. So here I am to try reinstalling again. iPhone 5 ios7.</text>
+    <aspectTerms>
+      <aspectTerm label1="select all notes, it opens to a specific note and " label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="103" review-id="3733">
+    <text>Good app for noting but too expensive to use it for poor students ... 60mb is not enough...could you make it more plz ?</text>
+    <aspectTerms>
+      <aspectTerm label1="60mb" label2="60mb" score1="-1" score2="NA"/>
+      <aspectTerm label1="noting" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="too expensive" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="104" review-id="5269">
+    <text>My dear friends, how could you?  Requiring iOS 7?  Really?  Please update your app to support iOS 6 as well. Thank you!</text>
+    <aspectTerms>
+      <aspectTerm label1="support iOS 6" label2="support iOS 6" score1="-1" score2="NA"/>
+      <aspectTerm label1="Requiring iOS 7" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="105" review-id="4247">
+    <text>Good product</text>
+    <aspectTerms>
+      <aspectTerm label1="product" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="106" review-id="10391">
+    <text>It is what it says it is, which is refreshing. A place to collect all the pieces of information that can clutter your life. Sure, it takes some work on your part to sort it all out but you have to get it in one place first. That is what Evernote does best. It's on my iPhone, iPad and MacBook. I use it everyday.</text>
+    <aspectTerms>
+      <aspectTerm label1="used on iPad" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="used on iPhone" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="used on MacBook" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="collect all the pieces of information" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="in one place first" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="iPhone, iPad and MacBook" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="107" review-id="10901">
+    <text>I love it! All of my reminders, notes and receipts in one place. Thank goodness!</text>
+    <aspectTerms>
+      <aspectTerm label1="reminders, notes and receipts in one place" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="108" review-id="11928">
+    <text>Ever spent an hour trying to find a user name that would be accepted?  This app is it!  What a freaking waste of my time!   I would give it a zero if it would allow me!</text>
+    <aspectTerms>
+      <aspectTerm label1="user name that would be accepted" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="109" review-id="5277">
+    <text>But not anymore.  iOS 7 seems to be incompatible.  Too bad, so sad: uninstall</text>
+    <aspectTerms>
+      <aspectTerm label1="incompatible" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="110" review-id="8350">
+    <text>Simple, easy to use note taking app. Sometimes not all notes are available when not on wireless network.</text>
+    <aspectTerms>
+      <aspectTerm label1="usability" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="easy note taking" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="not on wireless network" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Simple note taking" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="111" review-id="8863">
+    <text>This app is, in a word, blissful. Seriously, everything I want and need to do and all the ways I want to take notes--annotated and tagged images clippings, articles, news reports, etc--offered in a nicely bound package that helps keep organized. Its like sticky notes, moleskins, pages, zotero, and Instagram all in one.</text>
+    <aspectTerms>
+      <aspectTerm label1="annotated and tagged images clippings" label2="tagged images clippings" score1="1" score2="NA"/>
+      <aspectTerm label1="articles" label2="articles" score1="1" score2="NA"/>
+      <aspectTerm label1="news reports" label2="news reports" score1="1" score2="NA"/>
+      <aspectTerm label1="take notes" label2="take notes" score1="1" score2="NA"/>
+      <aspectTerm label1="organized" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="112" review-id="8864">
+    <text>but i don't understand why we can't add a website even though it's an option. also, it'll be cool to add videos!</text>
+    <aspectTerms>
+      <aspectTerm label1="add a website" label2="can't add a website" score1="-1" score2="NA"/>
+      <aspectTerm label1="add videos" label2="add videos" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="113" review-id="10399">
+    <text>This is really a great app an tool to manage multiple projects and scattered notes. I just wish that there was a calendar integration and sub folders within stacks. 
+
+Also in Evernote hello there is no categorizing. 
+
+But make no mistake... I swear by this program.</text>
+    <aspectTerms>
+      <aspectTerm label1="calendar integration" label2="calendar integration" score1="0" score2="NA"/>
+      <aspectTerm label1="categorizing" label2="no categorizing" score1="-1" score2="NA"/>
+      <aspectTerm label1="sub folders within stacks" label2="sub folders within stacks" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="114" review-id="10912">
+    <text>Frequently crashes and does not allow local storage of personal notes, which are automatically stored on painfully slow Evernote servers.  Personal notes and passwords have been compromised by hackers once already.  Hope you did not have anything sensitive in your notes!</text>
+    <aspectTerms>
+      <aspectTerm label1="local storage of personal notes" label2="local storage of personal notes" score1="0" score2="NA"/>
+      <aspectTerm label1="slow Evernote servers" label2="slow" score1="-2" score2="NA"/>
+      <aspectTerm label1="insecure" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="passwords" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Personal notes" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="115" review-id="5792">
+    <text>I am using this to reduce paper clutter in my house. So far, so good. Notes from the kids' school and organizations get photographed and organized in one notebook. Notes for parties in another. Ideas for the house are organized too, including pictures from home and garden magazines. Love it so far. I am a little worried, however, that I need access to the Internet for it. Not sure if this will work then.</text>
+    <aspectTerms>
+      <aspectTerm label1="Ideas" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Notes" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="organized in one notebook" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="116" review-id="4773">
+    <text>I dislike the latest version. My notes randomly disappear. They are listed under the wrong name (usually by the one that is actually above it.) I LOVED the version prior to this one. This version is making me lose my confidence that my notes are actually being saved!</text>
+    <aspectTerms>
+      <aspectTerm label1="notes listed under the wrong name" label2="notes" score1="-1" score2="NA"/>
+      <aspectTerm label1="latest version" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="version prior to this one" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="117" review-id="6311">
+    <text>I love Evernote and I use it everywhere and on various devices (iOS and desktop). I used to love the simplicity of the web interface, but the new one seems too cumbersome and I've had some really weird issues where it has overwritten my notes. Overall, I would rate the environment 4.5.</text>
+    <aspectTerms>
+      <aspectTerm label1="web interface" label2=" web interface" score1="-1" score2="NA"/>
+      <aspectTerm label1="overwritten notes" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="usability" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="new web interface" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="118" review-id="4266">
+    <text>Give these guys some credit. They completely resigned the app for iOS 7. There will be bugs. I have had a few but I know that they have a good vision. 
+
+Evernote for life!</text>
+    <aspectTerms>
+      <aspectTerm label1="iOS 7" label2="redesign for iOS 7" score1="1" score2="NA"/>
+      <aspectTerm label1="resigned" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="119" review-id="3754">
+    <text>The app used to work great, but now it keeps freezing and I can't get into my  notes. It is very frustrating. I have to delete the app and download it again. What a pain!!</text>
+    <aspectTerms>
+      <aspectTerm label1="can't get into my  notes" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="120" review-id="4269">
+    <text>Update has bad UI and doesn't support all the 3GS iPhones that are still on contracts. Delete and use apple notes instead.</text>
+    <aspectTerms>
+      <aspectTerm label1="iPhone 3GS support" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="UI" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="121" review-id="3758">
+    <text>Update, EN performance has improved considerably (from 2 to 3 stars) since my last review, however the app remains pretty buggy. It constantly reports failure to synch, it freezes momentarily between all actions, it crashes here and thee, and the search function sometimes fails to find key words. I am borderline thinking of going premium, but also keeping an eye for alternatives. Note, some of my problems may be related with some incompatibility of iPad2 with iOS7.
+
+Previous review,
+After several months of daily use, and building about 1K pretty intensive notes, I was in the process to put a serious long-term commitment to EN- but I've had to seriously rethink this after the problems with the last upgrade. The problems I've experienced are not as severe as what others are reporting. Mine have been mostly with the iPad 2 version, while the desktop version w MacBook Air has continued to work OK. 
+
+On the iPad things have actually improved quite a bit over the past week, in terms of less freezes, when trying to do a search- so for me it is wait and see, to see if EN can get it together. The searches have also become less efficient and clunky in all iPad &amp; Mac desktop versions. I am still working on EN, but will also be on stand-by, and looking for possible alternatives.
+
+I don't have many concerns w the new design, as others do-- but I do hope that EN programmers can stay focused on the real issues.</text>
+    <aspectTerms>
+      <aspectTerm label1="search" label2="search" score1="-1" score2="NA"/>
+      <aspectTerm label1="synch" label2="synch" score1="-1" score2="NA"/>
+      <aspectTerm label1="performance" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="desktop version" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="iOS7" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="iPad2" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="upgrade" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="122" review-id="5807">
+    <text>Evernote is no longer usable to me because I have not jumped on the iOS7 bandwagon. I never adopt a new OS until the kinks have been wrung out. Now I have lost the use of Evernote?and I used to use it a lot. Bad call! 
+
+Now I will be looking for something else to use, and will let my Premium subscription expire.</text>
+    <aspectTerms>
+      <aspectTerm label1="minimum iOS" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="123" review-id="7853">
+    <text>Good notes app, nicely organized and clean to edit and read.  Highly recommend.</text>
+    <aspectTerms>
+      <aspectTerm label1="edit" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="read" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="124" review-id="5300">
+    <text>It is overwriting my notes with outdated versions. The complaints about syncing issues with the iOS 7 update are spot on. Stay with the iOS6 version if possible!</text>
+    <aspectTerms>
+      <aspectTerm label1="syncing issues" label2="syncing issues with the iOS 7" score1="-1" score2="NA"/>
+      <aspectTerm label1="iOS 7 Update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="125" review-id="11957">
+    <text>Downloaded app.  Wrote important document.  Tried to save it.  Lost it instead,  Glad I didn't buy the upgrade.  Was easy to use up until I was through with the document and ready to save it!? (pretty critical point in the process). Now I have to start over.  Pretty disappointed.</text>
+    <aspectTerms>
+      <aspectTerm label1="save document" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="wrote document" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="126" review-id="9398">
+    <text>I would like to say that I do not like the fact that the password has to be reset.</text>
+    <aspectTerms>
+      <aspectTerm label1="password has to be reset" label2="password reset" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="127" review-id="4280">
+    <text>Both the application and the browser version on my iPad 2 are crashing, burning, and totally failing. Work cannot get done. Woops!</text>
+    <aspectTerms>
+      <aspectTerm label1="iPad 2" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="128" review-id="6328">
+    <text>It is my most important work tool. Keep the updates coming.</text>
+    <aspectTerms>
+      <aspectTerm label1="tool" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="129" review-id="6333">
+    <text>I really enjoy this app but during my use, I just wish I could format my notes a little more nicely - by that I mean more functions like the ones in InDesign, or apps similar to it. I also realized that when you start numbering your content, you kind of have to keep going and not have a paragraph in-between. If you stop numbering at, say, 5, when you start again, it's back to 1 again. Also, I think it would be really fun if you incorporate a doodling function in Evernote. What do you say?</text>
+    <aspectTerms>
+      <aspectTerm label1="format notes" label2="format my notes" score1="0" score2="NA"/>
+      <aspectTerm label1="numbering" label2=" numbering your content" score1="0" score2="NA"/>
+      <aspectTerm label1="incorporate a doodling" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="doodling function" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="130" review-id="7358">
+    <text>I love pasting notes to ever note. I paste my passwords I paste copies of receipts and anything that I need to locate later and I can easily find it in one location the search option is very handy as well. I WISH THE INSTRUCTIONS WERE CLEARER</text>
+    <aspectTerms>
+      <aspectTerm label1="pasting notes" label2="notes" score1="2" score2="NA"/>
+      <aspectTerm label1="INSTRUCTIONS" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="locate" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="search" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="131" review-id="10942">
+    <text>Great app for business purposes.  Eliminated all handwritten notes and sticky note reminders.  Great for tagging and clipping important websites and urls.  Would love to see option to color code notes for us visual organizers.  Great for checklists and idea sharing with others.</text>
+    <aspectTerms>
+      <aspectTerm label1="color code notes" label2="color code notes" score1="-1" score2="NA"/>
+      <aspectTerm label1="clipping urls" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="clipping websites" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="tagging websites" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="132" review-id="5310">
+    <text>Awful. Like other users have reported, when you open the app it freezes and you have to double-click home to kill it off. Useless. If you can get it to run (there are tricks) then you have to deal with the ridiculous interface - like scrolling to the bottom to see a square list that has a couple of notebooks listed, not all. And then a few more taps to get to your notes. It's a lot of clicking to do something as simple as review your notes. There are so many other design metaphors available, it's crazy why they went this way. Anyhow, I miss Catch and some others. This app as is I would say is near a waste of time.</text>
+    <aspectTerms>
+      <aspectTerm label1="interface" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="lot of clicking" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="miss Catch" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="133" review-id="5821">
+    <text>Upgraded to latest version (iOS 7) and lost all but three of my notes. I've tried the Sync Now several times and nothing. Fortunately all my notes are still on my laptop, but still? . 
+And I don't need to be reminded to go Premium on every screen, thank you very much.</text>
+    <aspectTerms>
+      <aspectTerm label1="sync" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="134" review-id="5823">
+    <text>I loved the app, but ever since I installed iOS 7 and updated the app, it does not start. Please fix it</text>
+    <aspectTerms>
+      <aspectTerm label1="iOS 7" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="start" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="135" review-id="5316">
+    <text>Okay Evernote, I hope you are listening. You had a great idea. But &quot;note&quot; should not be in your name. Call it Eversomething. The text formatting makes it virtually impossible to create a note with any form of rich text, bullets, numbered lists, indentation, etc. Maybe the underlying code base or architecture makes it difficult to create rich text with proper formatting. I don't know, but until this is fixed it is not useful. And man I've really tried to like Evernote. The synching ability among so many platforms was great. But I have to go back to OneNote now. Who knows if you will read this. But I really wish you would understand this huge weakness in your product. And I have done a good amount of googling around to know that I'm not the only one around wanting better text capabilities. Please fix this. I really want / need a proper Evernote!</text>
+    <aspectTerms>
+      <aspectTerm label1="rich text with proper formatting" label2="rich text" score1="-2" score2="NA"/>
+      <aspectTerm label1="synching ability" label2="synching" score1="2" score2="NA"/>
+      <aspectTerm label1="bullets" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="indentation" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="numbered lists" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="text capabilities" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="text formatting" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="136" review-id="11972">
+    <text>Evernote is an excellent service, and this is an awesome app!</text>
+    <aspectTerms>
+      <aspectTerm label1="service" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="137" review-id="5833">
+    <text>I loved Evernotes...that is Until I download iOS7. With their new and improved look they also did away with everything you ever had saved.  They did however manage to maintain the notebook names...unfortunately all of the notes within those notebooks were erased.  I used this app for work and personal business...all files gone!  Be sure to only use this app for unimportant notes.  Very disappointed. :-(</text>
+    <aspectTerms>
+      <aspectTerm label1="all of the notes within those notebooks were erase" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="new and improved look" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="138" review-id="6858">
+    <text>After I downloaded this it just sat on my desktop for a million years. Then I got the bright idea of taking a screen snapshot of an Expedia itinerary. Wow! Suddenly I am off and running, saving and accessing info on everything from learning disabilities to salad dressings. I would like it better if there were multi- layer nesting available for the notebooks, but it is pretty cool. 
+Btw, I use the skitch add-on for editing,reformatting, *bold* print, etc.  It's great.</text>
+    <aspectTerms>
+      <aspectTerm label1="multi- layer nesting" label2="multi- layer nesting" score1="0" score2="NA"/>
+      <aspectTerm label1="accessing info" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="editing" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="reformatting" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="saving info" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="skitch add-on" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="139" review-id="11467">
+    <text>Third &quot;upgrade&quot; in two days. Two of them including this one stop me getting into the app. Lousy work by the Evernote team.</text>
+    <aspectTerms>
+      <aspectTerm label1="upgrade" label2="upgrade" score1="-2" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="140" review-id="4300">
+    <text>First time I tried to use it, it locked up. Tried again, same result (iPad 2). Featured in Time magazine for some reason. I deleted it and don't think I'll miss it.</text>
+    <aspectTerms>
+      <aspectTerm label1="locked up" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="iPad 2" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="141" review-id="7373">
+    <text>I love this app so much. I love that it syncs with my computer. This app is such a great thing for beginning writers like myself. I recommend it completely.</text>
+    <aspectTerms>
+      <aspectTerm label1="syncs" label2="syncs" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="142" review-id="6862">
+    <text>Evernote is now virtually unusable. I was simply trying to toggle check marks in my grocery list yesterday, and it would take three or more attempts to acknowledge me, and then suddenly the keyboard would pop up without any reason and the screen and cursor would jump to the bottom of the list. When the program did finally acknowledge me, the check marks would be delayed by about 2 seconds each as if it had to stop and sync between every gesture.
+
+Do people even test apps before release any more? Who thought &quot;Oh, yeah, this looks perfect,&quot; should be fired.</text>
+    <aspectTerms>
+      <aspectTerm label1="check marks delayed by 2 seconds " label2="check marks would be delayed by about 2 seconds ea" score1="-1" score2="NA"/>
+      <aspectTerm label1="keyboard would pop up without any reason" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="the screen and cursor would jump to the bottom of " label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="toggle check mark" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="usability" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="143" review-id="8907">
+    <text>I'm a writer and so I was always constantly using the original notes app that comes with apple products. But it strangely deleted all my notes, twice! So I decided I needed something better. I went through many different note taking apps but none sufficed. Then I found Evernote and was so pleased! Thank you guys so much! You make note taking fun and easy!!</text>
+    <aspectTerms>
+      <aspectTerm label1="note" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="144" review-id="8909">
+    <text>Was a great app that I use every day before. Update with reminders makes it that much better. Evernote keeps me organized!</text>
+    <aspectTerms>
+      <aspectTerm label1="reminders" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="145" review-id="9930">
+    <text>For some reason, I kept waiting for Yojimbo to get its act together and do a companion iOS app. After using Evernote for 3 months, I'm hooked. It just works. When you put them all together, the desktop, web and mobile apps are an impressive solution for just about any productivity challenge.</text>
+    <aspectTerms>
+      <aspectTerm label1="desktop" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="web" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="146" review-id="7378">
+    <text>I use Evernote for so many things:
+Note taking, Recording meetings, to do lists, web clipping, reading PDFs - and everything syncs to all devices i use.  Love the app.  It's must have for the iPhone and iPad and desktop PC (or Mac).</text>
+    <aspectTerms>
+      <aspectTerm label1="Note taking" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="reading PDFs" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="Recording" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="syncs to all devices" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="to do lists" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="web clipping" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="147" review-id="5844">
+    <text>I have over 200 notes in Evernote (verified in the Mac version and on Evernote.com), but only 4 of them appeared in the new version of this app until I deleted and reinstalled it. Logging out and logging back in didn't work. The new UI will take some getting used to but feels cleaner and faster than before.</text>
+    <aspectTerms>
+      <aspectTerm label1="new UI" label2="UI" score1="1" score2="NA"/>
+      <aspectTerm label1="new version" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="Logging out and logging back" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="148" review-id="10966">
+    <text>Love it. Haven't gotten too much in place yet, but already I've come to depend on this. Few things to make it &quot;The One&quot; for my organizing heart, in the most drool-inducing order. 1. Ability to swipe through notes, like flipping pages in a books. 2. Sub-folders/notebook. 3. Ability to highlight (re-positionable sticky notes are a dream). 4. Colors! I get cross-eyed hunting through a long list of same 
+colored notebooks. The ability to sort and organize by color would be wonderful. I'd know exactly what section to go to rather quickly.
+
+This has let me collect my notes from my Palm, Blackberry, iPhone, PC...wherever, and put them in one place. I feel so un-scattered. Amazing how much information we and Evernote can hold.</text>
+    <aspectTerms>
+      <aspectTerm label1="Ability to highlight" label2="highlight" score1="0" score2="NA"/>
+      <aspectTerm label1="Ability to swipe through notes" label2="swipe through notes" score1="0" score2="NA"/>
+      <aspectTerm label1="Colors" label2="Colors" score1="1" score2="NA"/>
+      <aspectTerm label1="Sub-folders" label2="Sub-folders" score1="0" score2="NA"/>
+      <aspectTerm label1="Sub-notebook" label2="notebook" score1="0" score2="NA"/>
+      <aspectTerm label1="The ability to sort and organize by color" label2="organize by color" score1="1" score2="NA"/>
+      <aspectTerm label1="collect notes" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="sort by color" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="149" review-id="5848">
+    <text>I have to say that Evernote is in the top 3 ranking of my productivity apps, if not number 1. So simple to use. I use it to store all sorts of data that I need to be able to recall quickly. 
+Great for note taking, recipes, software keys, wifi settings... Endless uses.</text>
+    <aspectTerms>
+      <aspectTerm label1="store all sorts of data" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="simple to use" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="150" review-id="9945">
+    <text>I have had this program for over a year now. I use it for all my note taking. No more pads! Easy to share information with staff with a few key strokes. A great app.</text>
+    <aspectTerms>
+      <aspectTerm label1="share information" label2="share" score1="1" score2="NA"/>
+      <aspectTerm label1="note" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="program" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="151" review-id="5852">
+    <text>The last version had a &quot;wow &quot; factor to it, this version is ugly IMHO.  Still like what it does for me though.</text>
+    <aspectTerms>
+      <aspectTerm label1="service" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="152" review-id="7901">
+    <text>Afterr trying many organizers over the last year I am settling on Evernote. Is easiest and most intuitive to use, syncs so easily to laptop.</text>
+    <aspectTerms>
+      <aspectTerm label1="syncs" label2="syncs" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="153" review-id="4318">
+    <text>Used to be great. Now looks terrible. Wish I could go back to previous version. Time to start phasing it out.</text>
+    <aspectTerms>
+      <aspectTerm label1="looks terrible" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="154" review-id="7395">
+    <text>This is a very useful and helpful app. In my opinion, the only thing it's missing is video handling. You can add pictures and audio to your notes, and I think you should be able to add videos, too.</text>
+    <aspectTerms>
+      <aspectTerm label1="add audio" label2="audio" score1="1" score2="NA"/>
+      <aspectTerm label1="add pictures" label2="add pictures" score1="1" score2="NA"/>
+      <aspectTerm label1="missing video handling" label2="video handling" score1="0" score2="NA"/>
+      <aspectTerm label1="notes" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="155" review-id="4844">
+    <text>Is the badest UI i have ever seen. Is very hard to use and no nice visual and no good to look. I dont like at all. Whats happen Evernote???</text>
+    <aspectTerms>
+      <aspectTerm label1="UI" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="156" review-id="11504">
+    <text>Today's update, dated March 1, 2013 is horrible!  Every single time I open up the App, it defaults to the &quot;Updated&quot; view of all my notes. Then, when I select either &quot;Title&quot;, which is how I REALLY WANT to organize my notes, in alphabetical order, or I select &quot;Created,&quot;, the App immediately crashes and closes.  I have tried this over 50 times! I tried rebooting my iPad...no to avail.  I tried deleting the App all together, and then reloaded it, but still the same problem!  This HAS TO BE FIXED ASAP PLEASE!!!!!!!  I can't effectively use my notes...it's too much of a hassle to try to look in each month for a note created, and even each month is not in alphabetical order.  THERE IS NO RYTHME OR REASON TO THIS UPDATE!!!!  I have always been one of your biggest advocates and proponents.  If this bug isn't fixed pronto, I will have to delete Evernote permanently, and use a different App!  ARGHHHHHH!!!!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="use my notes" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="157" review-id="9971">
+    <text>I use this app almost every day. It really helps keep me on track. There is one thing I find very irritating however.  When I open it I hate having to wait so long on the green elephant screen! I wish so much I could just tap and make it go away so I could access what I need to and be done!</text>
+    <aspectTerms>
+      <aspectTerm label1="wait so long to open it" label2="open" score1="-2" score2="NA"/>
+      <aspectTerm label1="green elephant screen" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="wait" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="158" review-id="11508">
+    <text>I use Evernote every day for both work and personal note-taking; glad the crash on launch was fixed so quickly! Would like to see complete parity (on formatting and some other features) between desktop and iPad versions, but it's getting really close.</text>
+    <aspectTerms>
+      <aspectTerm label1="formatting" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="159" review-id="11511">
+    <text>After this latest update I can't even get into my account on either my iPhone or iPad it says incorrect password!!! What a freakin joke of an update! Do they even test before sending out these updates or what?</text>
+    <aspectTerms>
+      <aspectTerm label1="can't even get into my account" label2="I can't even get into my account on either my iPho" score1="-1" score2="NA"/>
+      <aspectTerm label1="latest update" label2="latest update" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="160" review-id="7418">
+    <text>its a good app but i think there should be daily reminders or just like the alarms that are already on the devices you can set the days ...</text>
+    <aspectTerms>
+      <aspectTerm label1="daily reminders" label2="daily reminders" score1="0" score2="NA"/>
+      <aspectTerm label1="alarms" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="161" review-id="5373">
+    <text>I love, love, love Evernote! It is the only way I remember anything. Their generous monthly allotment of new storage space is incredible!
+
+The new interface seems to have buried things I want most. Such as Sync Now and Search. Sync seems to be broken regardless.
+
+I am also unhappy with the iOS version of Evernote using my location as the default new note title instead of doing it like the desktop version does, using my first sentence. 
+
+Another new(?) annoyance is Search now ignores which folder you are in. Always searching every note in your Evernote history is not efficient. If I know a note I am searching for is in a certain folder I should not have to search through search hits from all my other folders. Again, working like the desktop version would be better here.
+
+Finally, it would be nice if tag searching worked like it does on the web version of Evernote, evaluating the entire tag. Not just the first word in the tag.
+
+The iOS version is a bit buggy but that may be all iOS 7's fault. It is the buggiest iOS I can remember.
+
+I'm not mad. Just frustrated. 2 stars is a reflection on the iOS version, not the Evernote across platforms.</text>
+    <aspectTerms>
+      <aspectTerm label1="iOS version" label2=" iOS version" score1="-1" score2="NA"/>
+      <aspectTerm label1="new interface" label2="new interface" score1="-1" score2="NA"/>
+      <aspectTerm label1="Search" label2="Search" score1="-1" score2="NA"/>
+      <aspectTerm label1="tag searching" label2="tag searching" score1="1" score2="NA"/>
+      <aspectTerm label1="desktop version" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="iOS 7" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Sync Now" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="new storage space" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="162" review-id="11517">
+    <text>even with the latest glitches, evernote is  still one of the only apps on my phone i use daily. best program to keep up with my life, super glad it is on the iphone!</text>
+    <aspectTerms>
+      <aspectTerm label1="latest glitches" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="163" review-id="12032">
+    <text>I love, love this app! Evernote is so easy to use and very functional when surfing the web. It's like having a mini-assistant helping take notes!!</text>
+    <aspectTerms>
+      <aspectTerm label1="tool" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="usability" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="take notes" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="164" review-id="6401">
+    <text>A genuine 'must have' app. I have it on all my devices to note ideas down, clip web articles and can search through everything.</text>
+    <aspectTerms>
+      <aspectTerm label1="all my devices" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="note" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="search" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="165" review-id="3845">
+    <text>Wait for the bugs to get fixed. Better yet. Look for an alternative app.</text>
+    <aspectTerms>
+      <aspectTerm label1="Current Version" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="166" review-id="9990">
+    <text>Evernote is my go to for everything - whether lists, meeting notes, just things to remember etc.  The only thing that I wish it had is a date driven &quot;to-do&quot; or reminder.  Then it would be the only app I would ever use for all things productivity.</text>
+    <aspectTerms>
+      <aspectTerm label1="date driven &quot;to-do&quot; or reminder" label2="date driven reminder" score1="0" score2="NA"/>
+      <aspectTerm label1="notes" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="167" review-id="5895">
+    <text>?The highlighting of words works but the menu that pops up to copy, cut, paste etc.. Won't stay open long enough to be used.
+?When placing the cursor over text when the keyboard is open makes the text jump every where but where you want the cursor to be.</text>
+    <aspectTerms>
+      <aspectTerm label1="iOS 7 glitches" label2="iOS 7" score1="-1" score2="NA"/>
+      <aspectTerm label1="menu pops up won't stay open long enough" label2="menu" score1="-1" score2="NA"/>
+      <aspectTerm label1="placing cursor over text" label2="cursor over text" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="168" review-id="4872">
+    <text>I like the UI improvements with the new version. The old UI was hideous and I usually used En via another app like drafts or IFTTT. 
+
+But the fact that I cannot add recent photos from my album!?!?!!? This is the main function for me of Evernote. This must be fixed!</text>
+    <aspectTerms>
+      <aspectTerm label1="cannot add recent photos from my album" label2="add recent photos" score1="-1" score2="NA"/>
+      <aspectTerm label1="UI new version" label2="UI" score1="1" score2="NA"/>
+      <aspectTerm label1="camera album" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="169" review-id="7433">
+    <text>As stated in the title I am a new user. Even though I've only been using Evernote for about two months, I have come to greatly depend on it. It is fabulous to be able to record a meeting and take notes at the same time. I can't imagine anything better. I hope to find out all the other ways I can use it!</text>
+    <aspectTerms>
+      <aspectTerm label1="record a meeting " label2="record" score1="1" score2="NA"/>
+      <aspectTerm label1=" take notes" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="170" review-id="4363">
+    <text>Agree with recent reviewers - this update completely ruined this excellent app for the iPhone on IOS7. Doesn?t work AT ALL. Opens, then freezes completely and can?t even open any of my notes or create new ones.
+Doesn?t anyone test these apps before releasing them??  Please fix ASAP!!</text>
+    <aspectTerms>
+      <aspectTerm label1="update" label2="this update" score1="-1" score2="NA"/>
+      <aspectTerm label1="IOS7" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Doesn?t work AT ALL" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="171" review-id="3862">
+    <text>As recently as last week, I used this as almost my central control for everything.  After the latest upgrades, there were issues and now it crashes and I cannot access anything.  I am left in a very difficult situation.  Please fix it!</text>
+    <aspectTerms>
+      <aspectTerm label1="cannot access" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="upgrades" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="172" review-id="3864">
+    <text>Recent upgrade is causing the app to crash on iPad. Needs fixed. I have tried to delete and reinstall but that didn't fix the problem.</text>
+    <aspectTerms>
+      <aspectTerm label1="upgrade" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="173" review-id="4889">
+    <text>I like the concept and automation using the subject line.</text>
+    <aspectTerms>
+      <aspectTerm label1="automation" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="subject line" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="174" review-id="8987">
+    <text>It allows me to record daily notes that aid in medical evaluations. It feel almost like cheating my memory.</text>
+    <aspectTerms>
+      <aspectTerm label1="notes" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="175" review-id="6430">
+    <text>Evernote is a great application. I use it across platforms and it always works without a glitch.</text>
+    <aspectTerms>
+      <aspectTerm label1="platforms" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="176" review-id="10527">
+    <text>I use this app more than any of the others, regardless of category. I love the ability to sync on all of my computers so I am always up to speed.</text>
+    <aspectTerms>
+      <aspectTerm label1="sync on all of computers" label2="sync all computers" score1="1" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="177" review-id="12063">
+    <text>It was a little overwhelming to set up Evernote initially. Now that I've got things the way I want, I really enjoy it!</text>
+    <aspectTerms>
+      <aspectTerm label1="product" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="set up" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="178" review-id="6946">
+    <text>A wonderful substitute for loss of brain function in middle age. It remembers everything for me across platforms....!</text>
+    <aspectTerms>
+      <aspectTerm label1="across platforms" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="179" review-id="10531">
+    <text>Continuous improvement keeps this complete cross-platform system well ahead and above the alternatives.</text>
+    <aspectTerms>
+      <aspectTerm label1="cross-platform" label2="cross-platform" score1="1" score2="NA"/>
+      <aspectTerm label1="Continuous improvement" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="180" review-id="11042">
+    <text>Great tool to consolidate your notes</text>
+    <aspectTerms>
+      <aspectTerm label1="consolidate your notes" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="181" review-id="6951">
+    <text>Great tool. The iOS app though, has issues. At the moment, you can't copy/paste text, many users (myself included) have reported a typing bug where the cursor jumps when you try to type, rendering the note taking part useless. 
+
+On design flaws: you can't create a new notebook in the app mode, the interface is quite rigid and doesn't flow like the rest if apples iOS, you can't add notebooks to the shortcut section (though you can delete them..), and so on. I personally think it should be easier to manage your Evernote on a phone without accessing a computer. 
+
+Still, get the app if you don't have it. It's an essential and probably one of the best in its category. Just be aware of the pitfalls that I'm sure the team is trying to fix...</text>
+    <aspectTerms>
+      <aspectTerm label1="can't add notebooks to the shortcut section" label2="new notebook in the app mode" score1="-1" score2="NA"/>
+      <aspectTerm label1="can't create a new notebook in the app mode" label2="rendering the note" score1="-1" score2="NA"/>
+      <aspectTerm label1="copy/paste text" label2="copy/paste text" score1="-1" score2="NA"/>
+      <aspectTerm label1="interface is rigid" label2="interface" score1="-1" score2="NA"/>
+      <aspectTerm label1="typing bug " label2="typing" score1="-1" score2="NA"/>
+      <aspectTerm label1="design" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="tool" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="182" review-id="8493">
+    <text>As a writer/daydreamer, I'm constantly in my head thinking up new ideas, and having a tool that allows me to access my material pretty much anywhere is fantastic. Instead of just jotting down a note (which I can't always do) and referring to it later on once I've gotten home, logged onto a computer, &amp; opened up a Word document, it's so much easier and convenient to do it on this app. I've even used Evernote for school stuff, essays mostly, so there's no need for emailing documents to myself. There are only a few errors/glitches that I've encountered but nothing that makes me want to stop using this app. I love it too much!!</text>
+    <aspectTerms>
+      <aspectTerm label1="note" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="183" review-id="10029">
+    <text>I use this app all the time to keep track of notes, recipes, general info, favorite restaurants, etc.  I do some organizing up front, but the real benefit is everything is then searchable and available on both my computers, phone and tablet.  Excellent and useful!</text>
+    <aspectTerms>
+      <aspectTerm label1="availability on computers" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="availability on phone" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="availability on tablet" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="search" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="available on computers, phone and tablet" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="184" review-id="3888">
+    <text>Green interface doesn't look, or feel good. Nor is it more useful. Maximizing space to type in should be the goal, however, it doesn't feel like it. The app still works. It's clunky and advertising too much. It probably isn't even an issue they may have rolled out the advertisements at the wrong time.</text>
+    <aspectTerms>
+      <aspectTerm label1="advertising" label2="advertising" score1="-1" score2="NA"/>
+      <aspectTerm label1="interface" label2="Green interface" score1="-1" score2="NA"/>
+      <aspectTerm label1="Maximizing space" label2="Maximizing space to type" score1="-1" score2="NA"/>
+      <aspectTerm label1="Green interface usability" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="185" review-id="10032">
+    <text>I use it for everything from grocery lists to creative writing to notes on strange dreams that wake me at 2 am. Evernote's only limitations derive from the user's imaginative shortcomings.
+
+The way it travels seamlessly between my devices allows me to jot down the vaguest impression of a thought and expand on it later.</text>
+    <aspectTerms>
+      <aspectTerm label1="travels seamlessly between my devices" label2="travels seamlessly between devices" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="186" review-id="6961">
+    <text>I love Evernote and frankly don't know how I'd live without it. I have it installed on my desktop, iPhone and iPad.  It's a lifesaver. For newbies you might not be sure how to use this app. Head to their website and they have user guides which will give you some ideas. Once you incorporate it you'll start seeing the value right away.</text>
+    <aspectTerms>
+      <aspectTerm label1="user guides" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="187" review-id="11570">
+    <text>These guys really don't seem to test their releases before sending them out.  This is not the first time that it took several releases to get it right.  When they DO get it right, this is a 5 start app. But now it crashes if you select &quot;Created&quot; or &quot;Title&quot; for the viewing mode.  Save yourself some headache and NEVER update Evernote until the reviews indicate that they got the bugs fixed.  And that would NOT be version 5.2.1.</text>
+    <aspectTerms>
+      <aspectTerm label1="Created&quot; or &quot;Title&quot; for the viewing mode" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="latest version (5.2.1)" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="188" review-id="5433">
+    <text>The search function isn't working and I have to sign in every time I open it. Evernote needs to fix this. Other than that, I love Evernote.</text>
+    <aspectTerms>
+      <aspectTerm label1="search" label2="search" score1="0" score2="NA"/>
+      <aspectTerm label1="sign in" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="189" review-id="4411">
+    <text>I love Evernote. I use it on my Mac and I use it on my iPhone. I love the Evernote app but ever since the last update, which was a few days ago, this app has been giving me nothing but problems. Sometimes it just doesn't open. All I keep seeing is a blank screen. Sometimes it opens up but then while going back and forth between notes or notebooks it simply gets stuck and doesn't respond to any finger taps or actions. I hope the Evernote people improve this app and fix these bugs because I truly love Evernote and would like to keep using it. But lately I have encountered nothing but serious quality problems with Evernote.</text>
+    <aspectTerms>
+      <aspectTerm label1="doesn't open" label2="app doesn't open" score1="0" score2="NA"/>
+      <aspectTerm label1="update" label2="last update" score1="0" score2="NA"/>
+      <aspectTerm label1="going back and forth between notes or notebooks it" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="190" review-id="9022">
+    <text>This is a great app for organizing notes, recipes, etc across devices.  I use it both at home and work.  I will enter info on my iphone, ipad, or on my PC.</text>
+    <aspectTerms>
+      <aspectTerm label1="organizing notes" label2="notes" score1="1" score2="NA"/>
+      <aspectTerm label1="across devices" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="191" review-id="5951">
+    <text>You've got to be kidding!  I'm an Evernote premium user, but NEVER update my iOS on the first go round.  If I had known, I would not have updated Evernote?  Crap - I use EN for everything!</text>
+    <aspectTerms>
+      <aspectTerm label1="IOS6" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="192" review-id="3904">
+    <text>I love Evernote and have become very reliant on it, one of the apps I can't do without however I am without it now because it crashes on open and will not open on iPhone.  DO NOT load the Dec 12 update!  Evernote please fix.</text>
+    <aspectTerms>
+      <aspectTerm label1="iPhone" label2="crashes on iphone" score1="0" score2="NA"/>
+      <aspectTerm label1="Update" label2="Dec 12 Update" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="193" review-id="10558">
+    <text>I love using Evernote for its simplicity, ease of use and effectiveness. I use this tool for work and personal purposes. Mainly for taking notes at work meetings, eliminating the paper clutter (both work and personal). I really like its integration with other SaaS tools. Recently switched my wife to Evernote for storing scanned documents.</text>
+    <aspectTerms>
+      <aspectTerm label1="integration with other SaaS tools" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="194" review-id="11582">
+    <text>You guys need to fix this now!</text>
+    <aspectTerms>
+      <aspectTerm label1="Update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="195" review-id="10052">
+    <text>I just struggle to find a use for it, and when I do, I often want PDFs out, which I struggle to acquire at work where it's all Windows all the time.</text>
+    <aspectTerms>
+      <aspectTerm label1="PDFs out" label2="PDFs" score1="1" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="196" review-id="11076">
+    <text>Whatever feature I think ought to be included eventually gets included: hi-lighting, sorting options, converting to plain text AND simplified HTML, ...</text>
+    <aspectTerms>
+      <aspectTerm label1="converting to plain text" label2="converting to plain text" score1="1" score2="NA"/>
+      <aspectTerm label1="hi-lighting" label2="hi-lighting" score1="1" score2="NA"/>
+      <aspectTerm label1="simplified HTML" label2="simplified HTML" score1="1" score2="NA"/>
+      <aspectTerm label1="sorting options" label2="sorting options" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="197" review-id="12102">
+    <text>But it works on all computers, including Mac.</text>
+    <aspectTerms>
+      <aspectTerm label1="works on all computers" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="198" review-id="3912">
+    <text>I started to use evernote since high school, but didn't feel that useful. Now i am a college student, I use evernote in every life. I love the highlight section, but wish there is more color than yellow. Moreover, I enjoy the website version as well. It is organized and sophistic. Thank you for providing this application. It is so convenience.</text>
+    <aspectTerms>
+      <aspectTerm label1="website version" label2="website version" score1="1" score2="NA"/>
+      <aspectTerm label1="wish more color" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="highlight section" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="199" review-id="4425">
+    <text>The app has been unbelievably buggy since the last update. Cannot trust using it on iPhone (only desktop and iPad).</text>
+    <aspectTerms>
+      <aspectTerm label1="Cannot trust using it on iPhone " label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="last update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="200" review-id="5451">
+    <text>I use Evernote a lot. It is my primary note app. The redesign is interesting. I think it will something I will really enjoy once I get used to it. 
+
+That is if I can find out how to indent. There used to be a format option/tab above the keyboard in the earlier version. This provided the ability to do many formatting changes to notes you take. Some of these options remain, but not all. 
+
+I heavily used the indent option to organize my notes. If this option is truly removed then I will really have to rethink how I take my notes. I hope it is still possible, but I just can't find it (or they add it in a patch). I know there is an outline feature (with either dots or numbers, this is not the feature I commonly use. I just want to indent). 
+
+I still like the app and do not think it deserves a low review, but one of my most used features might have just been removed. I cannot give this update a 5. I hope this gets resolved soon.</text>
+    <aspectTerms>
+      <aspectTerm label1="format option/tab" label2="format tab" score1="-1" score2="NA"/>
+      <aspectTerm label1="redesign" label2="redesign" score1="1" score2="NA"/>
+      <aspectTerm label1="indent" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="option tab" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="outline" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="201" review-id="12108">
+    <text>$50 bucks a year to use this? iCloud is FREE. Why do we have to pay so much money to get access?
+
+Is there a rule in our iTunes account that we have to like whatever junk they tell us to like?</text>
+    <aspectTerms>
+      <aspectTerm label1="pay money to get access" label2="NA" score1="-2" score2="NA"/>
+      <aspectTerm label1="price" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="202" review-id="11086">
+    <text>Awesome app, allows you to easily create and share notes, pictures, diagrams and ideas between devices in a highly organized fashion. This is good if you're a scatter brain like me and never know when inspiration will strike but would lose it if if wasn't easy to categorize (ie traditional postit note model where they don't end up helping because they're everywhere)</text>
+    <aspectTerms>
+      <aspectTerm label1="create notes" label2="create" score1="1" score2="NA"/>
+      <aspectTerm label1="create pictures" label2="pictures" score1="1" score2="NA"/>
+      <aspectTerm label1="share notes" label2="share" score1="1" score2="NA"/>
+      <aspectTerm label1="share pictures" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="diagrams" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="203" review-id="7507">
+    <text>a very good app. It's easy-using.</text>
+    <aspectTerms>
+      <aspectTerm label1="easy-using" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="204" review-id="4948">
+    <text>I use EN constantly through the day for various productivity tasks. It performs well and all my devices are always in sync, so my files and notes are always handy. No crashes or complaints with the new design. It just works and I love it.</text>
+    <aspectTerms>
+      <aspectTerm label1="performs well and all my devices" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="sync" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="205" review-id="5460">
+    <text>Constant crashes in iOS 7; 8 crashes in 30 minutes.  Evernote not really ready for new iOS.</text>
+    <aspectTerms>
+      <aspectTerm label1="Constant crashes in iOS 7" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="iOs 8 crashes in 30 minutes" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="206" review-id="5461">
+    <text>Evernote has been a mainstay in my life for the past years, and it pains me to say that there's a major bug in current ver. 
+Once I get into webview, I'm unable to go back to Evernote. The Done button is not working. I tried quoting the app and it won't work either. Now I'm re-downloading the app, cross fingers this will help.</text>
+    <aspectTerms>
+      <aspectTerm label1="Done button" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="go back" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="207" review-id="4440">
+    <text>Brilliant app but crashes on iPad and iPhone.</text>
+    <aspectTerms>
+      <aspectTerm label1="crash on iPad and iPhone" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="208" review-id="9563">
+    <text>Easy to use for quick, concise note-taking.  Would be fantastic if you could freehand and if the compatibility with wireless keyboards was more efficient.
+
+Example: Apple &quot;Command&quot; key cannot control bold/underlining/italics functions.  You still have to use screen.</text>
+    <aspectTerms>
+      <aspectTerm label1="wireless keyboards" label2="wireless keyboard" score1="1" score2="NA"/>
+      <aspectTerm label1="note-taking" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="209" review-id="10079">
+    <text>Evernote is my main way to keep my projects in order. The only reason 4 stars instead of 5 - lack of 3-4 editing choices when entering text on my Iphone (features available in other apps,   i.e. change text color, etc.) Perhaps some or all are there, if so, not easy to find. The syncing is great. Great app!</text>
+    <aspectTerms>
+      <aspectTerm label1="syncing" label2="syncing" score1="1" score2="NA"/>
+      <aspectTerm label1="4 editing choices when entering text" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="text color" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="210" review-id="4448">
+    <text>The latest updates are really frustrating me. Because I am used to writing large amounts of text per note, it makes it extremely difficult to get the entirety of each note to load, and then to enter type mode. I have inadvertently deleted entire notes because of the new layout, which is slow and barely functional. Before the iOS 7 updates, Evernote was perfect. Then, with each update, the app got slower and slower and frankly, uglier and uglier. I am thoroughly disappointed in what used to be my go to writing app. I certainly hope the loads of poor reviews left for these past few updates are reaching you, because it doesn't appear that way. Please fix things!</text>
+    <aspectTerms>
+      <aspectTerm label1="difficult to get the entirety of each note to load" label2="note to load" score1="-2" score2="NA"/>
+      <aspectTerm label1="latest updates" label2="updates" score1="-2" score2="NA"/>
+      <aspectTerm label1="new layout" label2="layout" score1="-2" score2="NA"/>
+      <aspectTerm label1="enter type mode" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="211" review-id="5472">
+    <text>My Mac OS X version is working fine, but the app does not upload my data until I soft reset the phone. Useless. iOS 7, iPhone 5.</text>
+    <aspectTerms>
+      <aspectTerm label1="app does not upload my data until I soft reset the" label2="upload my data" score1="-1" score2="NA"/>
+      <aspectTerm label1="iOS 7, iPhone 5" label2="iOS 7" score1="-1" score2="NA"/>
+      <aspectTerm label1="iPhone 5" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Mac OS X version" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="212" review-id="10593">
+    <text>When this app worked, I'd give it 4 stars. But shortly after having it I got several errors about inability to sync. And then I couldn't open all my notes. And now it says trouble reaching evernote server. Btw the solution to that 1 (after I tried reinstalling and rebooting) is to log in using user name instead of email (or vice versa. Whatever you're having a problem w try the other). But annoying this happens at all. 
+
+If it works for you, this is a pretty good app to help you keep all those notes you scribble down and email yourself in 1 place.</text>
+    <aspectTerms>
+      <aspectTerm label1="opening notes  " label2="opening notes" score1="-1" score2="NA"/>
+      <aspectTerm label1="syncing" label2="syncing" score1="-1" score2="NA"/>
+      <aspectTerm label1="trouble reaching evernote server" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="log in" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="213" review-id="4452">
+    <text>I just downloaded it and can't open it on my iPad! And no I'm not an idiot. I looked on spotlight and it's not anywhere!! What gives?!?!</text>
+    <aspectTerms>
+      <aspectTerm label1="can't open it on my iPad" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="214" review-id="5989">
+    <text>No notes showing up. All the notebooks are there but they are all empty. Boo</text>
+    <aspectTerms>
+      <aspectTerm label1="No notes showing up" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="notebooks are empty" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="215" review-id="4966">
+    <text>Evernote is an excellent and indispensable service in my life. I'm happy to be a premium subscriber.
+
+The mobile app, however, seems to be getting progressively worse. The latest version is clunky and buggy. Not to mention that &quot;announcements,&quot; which are essentially ads, now occupy the app's prime real estate. If there were an extra-premium subscription that would let me hide those and focus on my work, I'd subscribe!
+
+I love the document photo feature. I use it daily. In the latest app iteration, though, this feature causes a crash. Arg!
+
+I'm an Evernote evangelist, but I honestly could not recommend this mobile app.
+
+???
+ORIGINAL REVIEW:
+Thanks for your hard work. Happy to be a premium subscriber.
+
+Only suggestion: add ability to copy note links.</text>
+    <aspectTerms>
+      <aspectTerm label1="document photo" label2="document photo feature" score1="2" score2="NA"/>
+      <aspectTerm label1="announcements" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="ads" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="latest version" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="216" review-id="7014">
+    <text>If you need to store lots of information and then be able to retrieve it through a number of different tags, you'll love Evernote.</text>
+    <aspectTerms>
+      <aspectTerm label1="retrieve it through a number of different tags" label2="tags" score1="2" score2="NA"/>
+      <aspectTerm label1="store lots of information" label2="store lots of information" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="217" review-id="11110">
+    <text>It's really useful now it just needs a dragon dictate so I can quit copy and pasting lol useful app though =]</text>
+    <aspectTerms>
+      <aspectTerm label1="dragon dictate" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="218" review-id="4969">
+    <text>Can't use on 4s with iOS 7. Freezes upon opening and can't use the app at all. Plus the new app is super confusing and difficult to use when it works on iPad. A massive step in the wrong direction.</text>
+    <aspectTerms>
+      <aspectTerm label1="Can't use on 4s with iOS 7" label2="use on 4s with iOS 7" score1="-1" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="219" review-id="4970">
+    <text>Don't Updated to iOS7 cause I noticed the paragraph section is missing the ability to create &quot;Section, subsection, paragraph and blockquote&quot; as I was able to in the previous version. It only allows me to select &quot; Simplify&quot; or &quot;Plain Text&quot;. I guess they are forcing us to pay for premium, find alternative, fellows!</text>
+    <aspectTerms>
+      <aspectTerm label1="FORMATING function" label2="FORMATING" score1="1" score2="NA"/>
+      <aspectTerm label1="missing the ability to create blockquote" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="missing the ability to create paragraph" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="missing the ability to create section" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="missing the ability to create subsection" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="pay for premium" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Update to iOS7" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="220" review-id="11629">
+    <text>Waited for this update, then we get this? EverNote is no longer for taking text notes. It is now obvious to me, and I have been in denial for over a year. 
+
+There is no font control, editing is random and buggy, slow as molasses, and unreliable-- when you take time to write a paragraph, you want 100% confidence EverNote will not crash midway, or you get Synchronization Fail and thus lose your work. 
+
+Note sorting and text-friendly organization (i.e., lists) have been thrown out the window for a shiny interface and lots of icons and flashy graphics. I can't write with the confidence that EverNote will not crash, but HEY, I can take a picture of my pancakes and keep it for posterity. Hey, EverFail, I quit. I am canceling my membership today. 
+
+When you get serious about EverNote as a tool for work, send me an email. Actually, don't bother.</text>
+    <aspectTerms>
+      <aspectTerm label1="editing" label2="editing" score1="0" score2="NA"/>
+      <aspectTerm label1="font contro" label2="font control" score1="0" score2="NA"/>
+      <aspectTerm label1="graphics" label2="graphics" score1="0" score2="NA"/>
+      <aspectTerm label1="icons" label2="lots of icons" score1="0" score2="NA"/>
+      <aspectTerm label1="shiny interface" label2="interface" score1="0" score2="NA"/>
+      <aspectTerm label1="Synchronization" label2="Synchronization" score1="0" score2="NA"/>
+      <aspectTerm label1="update" label2="update" score1="0" score2="NA"/>
+      <aspectTerm label1="taking text notes" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="text-friendly organization" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="slow" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="take a picture" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="unreliable" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="221" review-id="5485">
+    <text>I love this thing, seriously. I use it for everything from project tracking to grocery lists to personal archive. Can't recommend it highly enough.
+
+That said, I've got iOS7 on my phone, but have not upgraded my iPad; waiting for Apple to work some of the bugs out of the new OS for us tablet users. As a result, synching between devices is not always reliable right now - just a watch-out.</text>
+    <aspectTerms>
+      <aspectTerm label1="synching" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="222" review-id="7536">
+    <text>Seems like the Evernote religion has passed me by. Perhaps there are handy tools that I am missing; trainings that are obvious to all but me. But, really! The notes, bullet points, spacing, numbering all fail when i transfer to Word and other systems. The resulting formatting problems take longer than just starting over and retyping notes. I also find that the left column flickers and the program crashes at every other use. About 1 in 4 syncs give an error message. 
+
+All that aside, I like calling up notes on my phone, ipad, and desktop (almost) whenever I want. If this problematic version is intended to induce me to go for another version, it doesn't. In fact, if this version were more solid, I'd be tempted to buy the upgrade.</text>
+    <aspectTerms>
+      <aspectTerm label1="calling up notes" label2="notes" score1="1" score2="NA"/>
+      <aspectTerm label1="syncs" label2="syncs" score1="-1" score2="NA"/>
+      <aspectTerm label1="transfer to Word and other systems" label2="transfer to Word" score1="-1" score2="NA"/>
+      <aspectTerm label1=" left column" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="bullet points" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="numbering" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="spacing" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="223" review-id="9585">
+    <text>I use it all the time.  I especially like the web clipper and then emailing right from Evernote</text>
+    <aspectTerms>
+      <aspectTerm label1="emailing right from Evernote" label2="emailing" score1="1" score2="NA"/>
+      <aspectTerm label1="web clipper" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Web clipping" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="224" review-id="10610">
+    <text>Great for taking personal notes.</text>
+    <aspectTerms>
+      <aspectTerm label1="notes" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="225" review-id="9587">
+    <text>Great for slow note takers I use it for all my classes wish there was a bullet option</text>
+    <aspectTerms>
+      <aspectTerm label1="bullet" label2="a bullet option" score1="0" score2="0.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="226" review-id="6516">
+    <text>Try to up sell you but give few instructions or you can BUY A BOOK. Oh please.  Might like it better if I actually knew how to optimize its use and they were helpful in making the info you need easily available.</text>
+    <aspectTerms>
+      <aspectTerm label1="instructions" label2="no instructions" score1="-1" score2="NA"/>
+      <aspectTerm label1="making the info you need easily available" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="optimize its use" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="227" review-id="9079">
+    <text>I have been a long-time user of google docs/drive and finally switched to Evernote for its vastly greater functionality. just as I was beginning to enjoy and appreciate the app, taking notes on a book I'm reading both textually and by taking pictures of passages, I accidentally touched the &quot;plain text&quot; format button. this move is apparently irreversible and I can no longer see the photos I took of passages from the book I have read, which I was planning to quote/cite later. I did not foresee such a drastic loss as possible, so I do not have these notes archived elsewhere. if I am to use an app that allows for this much thought and effort to be stored within it, I need to be able to trust that my work will not be lost with a simple touch screen selection error. This app has some very useful and convenient features, but I cannot continue to use it after such a loss. frustrating and disappointing.</text>
+    <aspectTerms>
+      <aspectTerm label1="&quot;plain text&quot; format button" label2="plain text format button" score1="-1" score2="NA"/>
+      <aspectTerm label1="can no longer see the photos" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="taking notes on a book by taking pictures" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="taking notes on a book textually" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="228" review-id="12152">
+    <text>Love the interface. Wish I remembered to use the app more!</text>
+    <aspectTerms>
+      <aspectTerm label1="interface" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="229" review-id="6521">
+    <text>Evernote is one of the few apps that I use everyday. It's a delight to use for recording ideas and notes.</text>
+    <aspectTerms>
+      <aspectTerm label1="recording notes" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="230" review-id="7037">
+    <text>I hate giving this 3 stars, but know its just for the app interface, not Evernote itself, which I love. I find it difficult to navigate the app. It's ok, and I certainly understand the limited screen real estate they have to work with.  Still, it could be better.</text>
+    <aspectTerms>
+      <aspectTerm label1="interface" label2="interface" score1="2" score2="NA"/>
+      <aspectTerm label1="iPhone UI" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="231" review-id="12158">
+    <text>Evernote has allowed me to organize all the notes and journal summaries for my MBA thesis seamlessly and everything is accessible whether I'm at home, work, or mobile. Love it!</text>
+    <aspectTerms>
+      <aspectTerm label1="accessibility" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="232" review-id="9602">
+    <text>I've been using Evernote for 4 years and it just keeps getting better. Everything is easy to search and it has always worked flawlessly.</text>
+    <aspectTerms>
+      <aspectTerm label1="search" label2="search" score1="1" score2="NA"/>
+      <aspectTerm label1="robustness" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="233" review-id="6026">
+    <text>I can't believe you guys removed one of the most useful features of Evernote, which was the ability to style lines as either a section, subsection, paragraph or blockquote. That was the only way we could give some hierarchy to our notes.
+
+Now all my notes are one dimensional and its impossible to organize my thoughts. How could the Evernote team consider that this feature was unnecessary? Do you guys not use your own app? How am I supposed to outline my notes? This is really a big let down to an otherwise great update. But it's too big an omission for me too be happy about anything else. That's why I give it 2 stars.</text>
+    <aspectTerms>
+      <aspectTerm label1="styling as paragraph or section" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="style lines" label2="NA" score1="-2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="234" review-id="10125">
+    <text>I love Evernote and have used it for the past few years. Good for quick word processing and keeping track of all kinds of stuff. I use it as my daily journal, too!</text>
+    <aspectTerms>
+      <aspectTerm label1="keeping track of all kinds of stuff" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="word processing " label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="235" review-id="7567">
+    <text>I love Evernote and feel so organized now. I like being able to take pictures and use it often for business cards. I have recommended to friends. I can't live without my Evernote.</text>
+    <aspectTerms>
+      <aspectTerm label1="take pictures" label2="take pictures" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="236" review-id="5009">
+    <text>Updated and lost all my notes. Great work guys. Do all your fans a favor - fire all your current programmers, offer the 2011 version as an update, and then call it a day.</text>
+    <aspectTerms>
+      <aspectTerm label1="2011 version as an update" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="Update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="237" review-id="9108">
+    <text>Keeps all your information in one place. A must have</text>
+    <aspectTerms>
+      <aspectTerm label1="information in one place" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Keeps information" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="238" review-id="7576">
+    <text>Multi platform support is flawless</text>
+    <aspectTerms>
+      <aspectTerm label1="Multi platform support" label2="Multi platform support" score1="1" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="239" review-id="6555">
+    <text>Syncs great with desktop. Allowing me to keep my thoughts organized and accessible.</text>
+    <aspectTerms>
+      <aspectTerm label1="Syncs" label2="Syncs with desktop" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="240" review-id="8604">
+    <text>Syncs well and wonderful for projects at work and home.</text>
+    <aspectTerms>
+      <aspectTerm label1="Syncs" label2="Syncs" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="241" review-id="11167">
+    <text>I love the do-anything note capabilities: text, inline photos, audio files, web-clips (which I have yet to become proficient with, but will)!
+
+The cross-platform access to your notes on the cloud is brilliant and a HUGE time saver!
+
+This app, combined with the inexpensive bluetooth keyboard that I bought recently have given me a power mobile information gathering and organizing capability.</text>
+    <aspectTerms>
+      <aspectTerm label1="cross-platform access to your notes on the cloud" label2="cross-platform access" score1="1" score2="NA"/>
+      <aspectTerm label1="audio files" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="inline photos" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="text" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="web-clips" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="242" review-id="10145">
+    <text>This has become my main notes program.  Wish I could do handwriting on it.  Love how can I can put outlook emails in it.   Using more than my other note apps in the iPad.</text>
+    <aspectTerms>
+      <aspectTerm label1="handwriting" label2="handwriting" score1="1" score2="NA"/>
+      <aspectTerm label1="put outlook emails in it" label2="put outlook emails in it" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="243" review-id="5539">
+    <text>Been using Evernote for over a year.  I'm done with losing data.</text>
+    <aspectTerms>
+      <aspectTerm label1="Data" label2="Data loss" score1="0" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="244" review-id="9124">
+    <text>Well organized, easy to use, and doesn't shove buying the upgrade in your face.  I use it here on my phone and on my laptop.  Great stuff!</text>
+    <aspectTerms>
+      <aspectTerm label1="easy to use" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="245" review-id="5543">
+    <text>Was just beginning to trust this app until 7 update. Quit working for all practical purposes.
+Will watch for patches and post an updated review. I really was wanting this app to be effective. They have some silly new process to sell post it notes. Not!</text>
+    <aspectTerms>
+      <aspectTerm label1="new process to sell post it notes" label2="sell post notes" score1="-1" score2="NA"/>
+      <aspectTerm label1="7 update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="246" review-id="9128">
+    <text>Love you it synchs!</text>
+    <aspectTerms>
+      <aspectTerm label1="synchs" label2="synchs" score1="2" score2="1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="247" review-id="5545">
+    <text>I've used other note taking apps before, but this is my favorite. I haven't even begun to scratch the surface of all its capabilities, but I love the fact that it will sync across all my devices.  My notes are easy to find. It would've great if there was a way to hide some of my notebooks with a password for secure data. That's the only reason I gave it four stars instead of five.</text>
+    <aspectTerms>
+      <aspectTerm label1="sync across all devices" label2="sync across devices" score1="2" score2="NA"/>
+      <aspectTerm label1="hide notebooks with a password" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="password for secure data" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="248" review-id="4520">
+    <text>Opening some notes will cause app to crash :( please fix! This is beautifully designed but useless if it just keeps crashing :(</text>
+    <aspectTerms>
+      <aspectTerm label1="design" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Opening notes" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="249" review-id="6063">
+    <text>The new ver.7 won't sync with my account. 
+
+I went back into the desktop app. Forced a sync then force quit the new iOS app and re-launched. Still nothing. 
+
+This is the only thing this app is supposed to do. C'mon guys, it's broken.</text>
+    <aspectTerms>
+      <aspectTerm label1="Sync" label2="new ver.7 sync" score1="-1" score2="NA"/>
+      <aspectTerm label1="ver.7" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="250" review-id="11700">
+    <text>Just installed update and it's unusable now because it crashes 100% of the time upon startup.</text>
+    <aspectTerms>
+      <aspectTerm label1="crashes 100% of the time upon startup" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="251" review-id="5045">
+    <text>the last v. its not good cuz if u wrote a wrong word the app. didn't set or draw a red line under the word so u will past with out correction. i want to come back it in next v. .......</text>
+    <aspectTerms>
+      <aspectTerm label1="spelling" label2="spelling" score1="-1" score2="-1.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="252" review-id="8629">
+    <text>I use Evernote every day. It's more and more robust with each new edition.</text>
+    <aspectTerms>
+      <aspectTerm label1="robustness" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="253" review-id="10172">
+    <text>This app is a must-have for those in the professional world. It is a great way to stay 'green' by storing documents rather than printing hard copies. The ability to search notes and PDFs makes old-fashioned pen and paper obsolete. The integration with Penultimate is pleasing for those who still wish to &quot;write&quot; rather than type.</text>
+    <aspectTerms>
+      <aspectTerm label1="integration with Penultimate" label2="The integration with Penultimate" score1="1" score2="NA"/>
+      <aspectTerm label1="search notes" label2="search notes" score1="1" score2="NA"/>
+      <aspectTerm label1="search PDFs" label2="search PDFs" score1="1" score2="NA"/>
+      <aspectTerm label1="storing documents" label2="storing documents" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="254" review-id="8126">
+    <text>Interfered with an app I already had and was happy with.  But then Evernote took over. Had to keep restring my password to try to use it.  A waste of time</text>
+    <aspectTerms>
+      <aspectTerm label1="password" label2="restring password" score1="-1" score2="NA"/>
+      <aspectTerm label1="user friendly" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="usability" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="255" review-id="10686">
+    <text>Thanks, Evernote, for a great app!  I use it DAILY to keep my (gluten-free, dairy-free) recipes organized!
+
+A tip: Please allow me to search ALL my notebooks - helpful to locate an ingredient - rather than searching within each notebook individually.
+
+Also, I would love to pay a flat fee to be able to access my notes offline.  Thanks.</text>
+    <aspectTerms>
+      <aspectTerm label1="offline access" label2="access my notes offline" score1="2" score2="NA"/>
+      <aspectTerm label1="search" label2="search ALL my notebooks" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="256" review-id="11198">
+    <text>I have tried a number of note taking apps, and it is fair to say that I am not a huge fan of any of them.  I tried Evernote because a couple folks recommended it.  
+
+Good intentions, and probably the most functional of the apps I have tried.  But let's face it - they are all pretty clunky.   Evernote seems to build &quot;islands of stuff&quot; - text, pictures, URLs, etc.  editing any of that becomes problematic.  And when you email or cut&amp;paste into something else - it is a nightmare.  
+
+One of the big reasons I looked at it is because I wanted to use bullets, numbers, outlining in my notes -- so I was SOOO happy to see those in the app.  BUT LET'S FACE IT - they basically don't work!!!!  They flake out, have irrational spacing, when you try to edit or move them they will most likely just disappear!!  Thank God for the un-do command.  
+
+There seems to be quite a cult growing around this app - but I wish they would stop adding ancillary apps and JUST MAKE THE BASIC EVERNOTE APP WORK!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="bullets" label2="bullets" score1="-1" score2="NA"/>
+      <aspectTerm label1="cut&amp;paste" label2="cut&amp;paste" score1="-2" score2="NA"/>
+      <aspectTerm label1="numbers" label2="numbers" score1="-1" score2="NA"/>
+      <aspectTerm label1="outlining" label2="outlining" score1="-1" score2="NA"/>
+      <aspectTerm label1="pictures" label2="pictures" score1="-1" score2="NA"/>
+      <aspectTerm label1="text" label2="text" score1="-1" score2="NA"/>
+      <aspectTerm label1="URLs" label2="URLs" score1="-1" score2="NA"/>
+      <aspectTerm label1="editing" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="email" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="257" review-id="9153">
+    <text>I use this app constantly to log and recall business cards, notes, to do's, wine, art, inspiration, quotes...everything.</text>
+    <aspectTerms>
+      <aspectTerm label1="notes" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="258" review-id="9666">
+    <text>Notes app no longer needed with all these capabilities. Between my Mac, iPhone and work with IE and desktop app, it easy to save from the web and edit notes as needed. Can't do without</text>
+    <aspectTerms>
+      <aspectTerm label1="desktop app" label2="Mac, iPhone and work with IE and desktop app" score1="1" score2="NA"/>
+      <aspectTerm label1="save from the web" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="work with IE" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="edit notes" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="259" review-id="12230">
+    <text>This app has been exactly what I need for note taking for both school and work. I would STRONGLY request the ability to change the text color in the iPad app like the desktop software. Thanks!</text>
+    <aspectTerms>
+      <aspectTerm label1="text color" label2="text color" score1="0" score2="2.0"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="260" review-id="6102">
+    <text>Easy camera function allows for adding recipes right to notebook. Separate notebooks make keeping all pieces of a project together regardless of media. Used it for remodeling projects, and it's where I keep my collection of recipes, regardless of initial source. Have used it for about a year and unlike other apps, I'm still using it.</text>
+    <aspectTerms>
+      <aspectTerm label1="camera function" label2="camera" score1="1" score2="NA"/>
+      <aspectTerm label1="Separate notebooks" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="261" review-id="5591">
+    <text>There are some very real bugs in the updated Evernote!
+1) It's very crash-prone, even after reinstalling and restarting the device. (iPad, iPhone 5, iOS 7)
+2) When scrolling, if you're not careful, whatever file you're touching while scrolling tends to open accidentally.
+I want to like Evernote. It has potential. But after this long, if they still can't figure it out, they're hopeless. A note app shouldn't be this cumbersome.</text>
+    <aspectTerms>
+      <aspectTerm label1="crash-prone" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="scrolling" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="open file" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="262" review-id="5593">
+    <text>This app makeup so easy to take great notes and I really like being able to record audio of someone speaking wile I'm typing notes!</text>
+    <aspectTerms>
+      <aspectTerm label1="notes" label2="ake great notes" score1="1" score2="NA"/>
+      <aspectTerm label1="record audio" label2="record audio of someone speaking wile I'm typing n" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="263" review-id="7642">
+    <text>I love this ap. use it on the go but also to store travel info to easily access. Also like web integration.</text>
+    <aspectTerms>
+      <aspectTerm label1="easily access" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="web integration" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="264" review-id="12251">
+    <text>I would give this 5 stars if it had these two additional features:
+
+Ability to use a scroll bar on iPad and iPhone rather than swipe, swipe, swipe and more swipe to get to the bottom of a note. 
+
+Ability to keyword search AND GO TO THAT KEYWORD like you can on the laptop version. Having search feature for a word does me no good if I can't search within the note to find that word.
+
+Can you do these two things for iOS please?</text>
+    <aspectTerms>
+      <aspectTerm label1="scroll bar" label2="scroll bar" score1="0" score2="NA"/>
+      <aspectTerm label1="swipe" label2="swipe" score1="-1" score2="NA"/>
+      <aspectTerm label1="word search" label2="search" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="265" review-id="5596">
+    <text>Great app that I have used regularly but seems a bit jerky since the iOS 7 update and update of app itself.  A bit off putting when trying to type!</text>
+    <aspectTerms>
+      <aspectTerm label1="iOS 7 update" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="266" review-id="7134">
+    <text>Evernote is wonderful for organizing my notes! It's generally easy to use and convenient. 
+
+My only gripe is that there seems to be no simple way of deleting a note. I've had to go into the note and delete it word by word. Perhaps I'm. Missing something.</text>
+    <aspectTerms>
+      <aspectTerm label1="deleting a note" label2="no simple way of deleting a note" score1="-1" score2="NA"/>
+      <aspectTerm label1="Organizing Notes" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="267" review-id="12254">
+    <text>Scrolling through the note is very choppy. Please fix. Many seem to have same issue. iPhone like scrolling desired. What is the point of a beautiful interface if it is not smooth. Better keep animation simple but optimize scrolling. Thanks</text>
+    <aspectTerms>
+      <aspectTerm label1="scrolling" label2="scrolling" score1="-1" score2="NA"/>
+      <aspectTerm label1="animation" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="interface" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="268" review-id="4576">
+    <text>Im on an original iPad mini and so maybe that's part of he deal but it seems like there are still little thins that need some work. For example the spell check doesn't work just right and the search is slow at times. Neither of these or any others will keep from giving this app a great rating. 
+
+I also think that here are improvements I hope to see in the future. One is full screen mode. Maybe I'm missing this but the only time you get full screen is when you start a new note. I'd like this options when reading or editing too. 
+
+Keep up the good work!</text>
+    <aspectTerms>
+      <aspectTerm label1="full screen mode" label2="screen mode" score1="0" score2="NA"/>
+      <aspectTerm label1="search" label2="search" score1="0" score2="NA"/>
+      <aspectTerm label1="spell check" label2="spell check" score1="0" score2="NA"/>
+      <aspectTerm label1="editing" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="reading" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="start a new note" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="269" review-id="3555">
+    <text>Honestly, it took me some time to get used to using this application - web clipping, photo notes, sharing, etc., but now I find this app to be the &quot;deal killer&quot; - the one thing that MUST be on every device - 
+
+The note scanning is so powerful it can read my scribbles (take notes in a meeting, take pics in evernote, throw them out!) ..
+
+We are now exploring the business application - sky's the limit..</text>
+    <aspectTerms>
+      <aspectTerm label1="photo notes" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="sharing" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="web clipping" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="learning" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="note scanning" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="270" review-id="5094">
+    <text>I've been using Evernote since 2005 when I was in college. It's a wonderful service and up until the iOS7 redesign the apps have always worked great. 
+
+But the design of this app is terrible.  It's jumbled, confusing and lots of advertising for their service add ons and &quot;news&quot; get in the way of core functionality. 
+
+Please redesign the app.  Again.</text>
+    <aspectTerms>
+      <aspectTerm label1="advertising" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="design" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="iOS7" label2="NA" score1="0" score2="NA"/>
+      <aspectTerm label1="news" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="redesign" label2="NA" score1="0" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="271" review-id="3564">
+    <text>Since updating to iOS7 and latest update of Evernote the spell check feature is not there any longer.  I utilize this for work, and rely on it for reports.  I figured give it a couple of weeks and they would fix it, but it's been over two months now and no fix.  Let's get it together Evernote team so I can give a 5 star review for this app again.</text>
+    <aspectTerms>
+      <aspectTerm label1=" latest update of Evernote iOS7" label2="iOS7" score1="-1" score2="NA"/>
+      <aspectTerm label1="the spell check feature" label2=" spell check feature" score1="-1" score2="NA"/>
+      <aspectTerm label1="latest update" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="272" review-id="4078">
+    <text>I love the app for allowing me to keep my notes organized and synchrd across devices. I also love the feature of sharing stuff with mates. The only thing I long for is collaboration on notes.</text>
+    <aspectTerms>
+      <aspectTerm label1="collaboration" label2="collaboration" score1="0" score2="NA"/>
+      <aspectTerm label1="notes" label2="keep my notes organized" score1="2" score2="NA"/>
+      <aspectTerm label1="synchrd" label2="synchrd across devices" score1="0" score2="NA"/>
+      <aspectTerm label1="sharing stuff" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="273" review-id="5104">
+    <text>This version still has a marketplace  full of ads I can't hide, and the image attachment only shows me pics from September and earlier.. So it's pretty useless.
+
+Quit trying to sell me stuff and fix your bugs!!!!!</text>
+    <aspectTerms>
+      <aspectTerm label1="ads" label2="ads" score1="-1" score2="NA"/>
+      <aspectTerm label1="image attachment" label2="image attachment" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="274" review-id="7665">
+    <text>The only app I couldn't live without! Practical, easy to use, beautiful  design / user experience, use it multiple times per day.</text>
+    <aspectTerms>
+      <aspectTerm label1="design" label2="design" score1="1" score2="NA"/>
+      <aspectTerm label1="practicality" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="usability" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="user experience" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="275" review-id="9713">
+    <text>I am enjoying this app and how I can place items that I want to review at a later time.    I use it to save recipes or articles of interest to read at a later time.</text>
+    <aspectTerms>
+      <aspectTerm label1="place items that I want to review at a later time" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="save" label2="NA" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="276" review-id="3576">
+    <text>Convenient and easy to use. Great sync across several devices... BUT WISH THERE WAS A PASSCODE TO OPEN THE APP!!</text>
+    <aspectTerms>
+      <aspectTerm label1="PASSCODE" label2="PASSCODE" score1="-1" score2="NA"/>
+      <aspectTerm label1="sync" label2="sync" score1="1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="277" review-id="6649">
+    <text>Keeps track of any and everything and just keeps getting better. Whether it is a document or a picture it can be captured ether by email or snapping a photo and you then have it forever. Retrieving it is simple by tags or searching. It just makes life simpler.</text>
+    <aspectTerms>
+      <aspectTerm label1="searching" label2="searching" score1="1" score2="NA"/>
+      <aspectTerm label1="tags" label2="tags" score1="1" score2="NA"/>
+      <aspectTerm label1="Keeps track of any and everything" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="document" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="email" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="picture" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="278" review-id="11262">
+    <text>Was good until the cent updates. Now my notes vanish randomly and I keep getting a sync error. This app needs added features too.</text>
+    <aspectTerms>
+      <aspectTerm label1="features needed" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="getting a sync error" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="notes vanish randomly" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="recent updates" label2="NA" score1="-1" score2="NA"/>
+      <aspectTerm label1="Sync" label2="NA" score1="-1" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="279" review-id="8191">
+    <text>I use Evernote for work and personal use.  I was an early adopter and have found it to be an incredibly useful tool for productivity, personal reference, and as an idea-base. It is extremely reliable, intuitive, and something I use many times a day. 
+
+I love it and highly recommend it to others.</text>
+    <aspectTerms>
+      <aspectTerm label1="intuition" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="reliability" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="Tool" label2="NA" score1="1" score2="NA"/>
+      <aspectTerm label1="intuitive" label2="NA" score1="2" score2="NA"/>
+      <aspectTerm label1="reliable" label2="NA" score1="2" score2="NA"/>
+    </aspectTerms>
+  </sentence>
+</sentences>

@@ -1,0 +1,919 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="7000">
+    <text>Alles wieder ok, das Update funktioniert wieder</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="Update" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7001">
+    <text>Schönes, und vor allem einzigartiges interface, wirklich klasse. Schön wäre noch, wenn man eigene lieder als klingeltöne einstellen könnte.</text>
+    <aspectTerms>
+      <aspectTerm from="38" term="interface" to="47"/>
+      <aspectTerm from="99" term="lieder als klingeltöne" to="121"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7002">
+    <text>Ein sicherer Start in den Tag</text>
+  </sentence>
+  <sentence id="7003">
+    <text>Einfach nur top</text>
+  </sentence>
+  <sentence id="7004">
+    <text>ändert klingeltonlautstärke. Nexus S Android 4.0.3</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="klingeltonlautstärke" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7005">
+    <text>Wirklich gelungene app, tadellos!</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="app" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7006">
+    <text>Eine Bereicherung auf voller Länge... 5-Sterne ***** und daß gerne.</text>
+  </sentence>
+  <sentence id="7007">
+    <text>Wenn die app läuft dann ist der akku meines Note3 in ein paar stunden leer.</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="app" to="13"/>
+      <aspectTerm from="33" term="akku" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7008">
+    <text>Innerhalb 2 Wochen 150MB an Hintergrunddaten?! Was wird da gesendet???</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="Hintergrunddaten" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7009">
+    <text>Ist halt n Wecker</text>
+  </sentence>
+  <sentence id="7010">
+    <text>Endlich seit langem ein update für diesen coolen Wecker. Nutze ihn seit Jahren. Dann funktionierte er nicht mehr und ich musste deaktivieren. Nun endlich update und alles läuft wieder perfekt ohne Fehler. Für mich wichtig die Sprachausgabe und Wetter Ansage. Einfach super..</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="update" to="31"/>
+      <aspectTerm from="50" term="Wecker" to="56"/>
+      <aspectTerm from="86" term="funktionierte" to="99"/>
+      <aspectTerm from="155" term="update" to="161"/>
+      <aspectTerm from="172" term="läuft" to="177"/>
+      <aspectTerm from="227" term="Sprachausgabe" to="240"/>
+      <aspectTerm from="245" term="Wetter Ansage" to="258"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7011">
+    <text>Ich liebe die sprechende Uhr und Wettervorhersage!</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="Uhr" to="28"/>
+      <aspectTerm from="33" term="Wettervorhersage" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7012">
+    <text>Guter vielseitiger Wecker, aber warum weckt mich das Ding nicht, wenn mein Handy ausgeschaltet ist? Es gibt Wecker die machen das! Ich möchte nicht neben einem angeschalteten Handy schlafen und trotzdem geweckt werden.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="Wecker" to="26"/>
+      <aspectTerm from="39" term="weckt" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7013">
+    <text>Habe die App schon viele Jahre und war immer zufrieden. Plötzlich wird Werbescheiß eingeblendet, obwohl ich die AlarmDroid Donatation 1.7 gekauft installiert habe?! Was ist zu tun?</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="App" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7014">
+    <text>Der schönste Wecker den ich je gesehen habe. Tipp: Daylight einschalten! Leider lässt sich das Design des Widgets nicht anpassen und es gibt keine Einbindung für Play Music.</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="Wecker" to="20"/>
+      <aspectTerm from="96" term="Design" to="102"/>
+      <aspectTerm from="107" term="Widgets" to="114"/>
+      <aspectTerm from="148" term="Einbindung für Play Music" to="173"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7015">
+    <text>* Es gibt keine Einschrenku ngen, so das nirgendwo da steht &quot;Dafür wird die Premium Version benötigt&quot; * Es gibt kaum bis garkeine Werbung * Das Design ist wunderschön * Es hat einen Wecker, eine Uhr, einen Timer und eine Stoppuhr * Es ist ziemlich einfach es zu bedienen . So ist es 5 Sterne wert *****</text>
+    <aspectTerms>
+      <aspectTerm from="131" term="Werbung" to="138"/>
+      <aspectTerm from="145" term="Design" to="151"/>
+      <aspectTerm from="263" term="bedienen" to="271"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7016">
+    <text>Funktioniert tadellos</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Funktioniert" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7017">
+    <text>App2sd please!!!!</text>
+  </sentence>
+  <sentence id="7018">
+    <text>Habe bis jetzt keine bessere Wecker-App gefunden, top!</text>
+    <aspectTerms>
+      <aspectTerm from="30" term="Wecker-App" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7019">
+    <text>Für jeden was dabei!!!</text>
+  </sentence>
+  <sentence id="7020">
+    <text>S4 jetzt Top</text>
+  </sentence>
+  <sentence id="7021">
+    <text>Ich brauche auch keine mega Funktionen bei einem Wecker. Der Wecker, weckt mich nicht mehr!!! Samsung Galaxy Nexus und auch bei Asus Transformer Book tf300. Beide mit Slimkat 4.4.2 Bitte beheben!!!!!!!</text>
+    <aspectTerms>
+      <aspectTerm from="50" term="Wecker" to="56"/>
+      <aspectTerm from="62" term="Wecker" to="68"/>
+      <aspectTerm from="70" term="weckt" to="75"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7022">
+    <text>Lange gesucht entlich glücklich.</text>
+  </sentence>
+  <sentence id="7023">
+    <text>Ist gut und effizient.</text>
+  </sentence>
+  <sentence id="7024">
+    <text>Der auch bestimmte Wochentage annimmt. Danach habe ich lange gesucht. Und er hat Schöne, nicht nervige Melodien.</text>
+    <aspectTerms>
+      <aspectTerm from="104" term="Melodien" to="112"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7025">
+    <text>Besser wie der Standard Wecker</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="Standard Wecker" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7026">
+    <text>Bester Wecker</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="Wecker" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7027">
+    <text>Top App</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7028">
+    <text>Mal was ganz anderes! Hat nicht jeder! Angenehmes wachwerden. Eigene Musik als Weckton waere Option. Danke!</text>
+    <aspectTerms>
+      <aspectTerm from="63" term="Eigene Musik" to="75"/>
+      <aspectTerm from="80" term="Weckton" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7029">
+    <text>App als Wecker! ;)</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="App" to="4"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7030">
+    <text>ich mag die app ja, aber das design sieht voll dumm aus vllt koennt ihr es ja ein bisschen schoener gestalten und nicht so 0815</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="app" to="16"/>
+      <aspectTerm from="30" term="design" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7031">
+    <text>Super app</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7032">
+    <text>Das passt</text>
+  </sentence>
+  <sentence id="7033">
+    <text>Die app ist sehr toll, vor allem das DESIGN ist suuuper.das doofe ist das man keine eigenen wecktöne benutzen kann :( dafür bitte update .widgets wären auch toll aber trotzdem gut. →Wenn es eigene wecktöne gibt **** ←</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="app" to="8"/>
+      <aspectTerm from="38" term="DESIGN" to="44"/>
+      <aspectTerm from="85" term="eigenen wecktöne" to="101"/>
+      <aspectTerm from="139" term="widgets" to="146"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7034">
+    <text>Prima App</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7035">
+    <text>Bin wach!</text>
+  </sentence>
+  <sentence id="7036">
+    <text>man muss ihn bei erstbenutzung testen,sonst verschlaeft man weil die einstellzngen sehr zahlreich sind. sehr empfehlenswerte app!</text>
+    <aspectTerms>
+      <aspectTerm from="70" term="einstellzngen" to="83"/>
+      <aspectTerm from="126" term="app" to="129"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7037">
+    <text>Prima</text>
+  </sentence>
+  <sentence id="7038">
+    <text>!!</text>
+  </sentence>
+  <sentence id="7039">
+    <text>Endlich einer für alle meine wünsche, funktioniert und macht was er soll</text>
+    <aspectTerms>
+      <aspectTerm from="39" term="funktioniert" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7040">
+    <text>Jeden Tag meldet mir Clear Master: Bei Wecker extrem ist die CPU -Auslastung um 16% höher als normal! Kühlen, ansonsten könnte das Handy Schaden nehmen! Sehr schade, werde installieren, war ansonsten sehr zufrieden mit dem Wecker, habe ihn jahrelang benutzt!</text>
+    <aspectTerms>
+      <aspectTerm from="39" term="Wecker extrem" to="52"/>
+      <aspectTerm from="61" term="CPU -Auslastung" to="76"/>
+      <aspectTerm from="131" term="Handy" to="136"/>
+      <aspectTerm from="223" term="Wecker" to="229"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7041">
+    <text>Funktioniert einfach genau so wie es soll.</text>
+  </sentence>
+  <sentence id="7042">
+    <text>Supa</text>
+  </sentence>
+  <sentence id="7043">
+    <text>Super App</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7044">
+    <text>Super, danke! Der Fehler mit der doppelten Uhrenanzeige ist behoben. Samsung S4</text>
+    <aspectTerms>
+      <aspectTerm from="70" term="Samsung S4" to="80"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7045">
+    <text>Sehr guter Wecker Klare Empfehlung Desire 2.2</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="Wecker" to="17"/>
+      <aspectTerm from="35" term="Desire 2.2" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7046">
+    <text>Einfach super</text>
+  </sentence>
+  <sentence id="7047">
+    <text>Tiptop</text>
+  </sentence>
+  <sentence id="7048">
+    <text>Da kommt dauernd &quot;leider wurde Timely beendet&quot;</text>
+  </sentence>
+  <sentence id="7049">
+    <text>Gute Erweiterung des normalen Weckers</text>
+    <aspectTerms>
+      <aspectTerm from="30" term="Weckers" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7050">
+    <text>Top</text>
+  </sentence>
+  <sentence id="7051">
+    <text>Wecker!!!!!!!!!!!!!</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Wecker" to="7"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7052">
+    <text>HTC ONE M8 mit Abstand die App mit dem höchsten Akkuverbrauch. Es war eigentlich mein Lieblingswecker.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="HTC ONE M8" to="11"/>
+      <aspectTerm from="28" term="App" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7053">
+    <text>Hervorragend! Die beste Weckerapp die ich kenne...</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="Weckerapp" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7054">
+    <text>Definitiv Bester Wecker im store. An die die sich wegen dem Design beschwert haben: wenn ihr so oberflächlich seit, kauft euch iphones</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Wecker" to="23"/>
+      <aspectTerm from="60" term="Design" to="66"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7055">
+    <text>super weker</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="weker" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7056">
+    <text>Richtig cool aber ein bischen überttieben mit dem Licht. ;)</text>
+    <aspectTerms>
+      <aspectTerm from="51" term="Licht" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7057">
+    <text>Bin begeistert! Nie wieder ekliges Piepen am Morgen, stattdessen schöne Musik zum Start in den Tag. Leider erkennt die App nur drei meiner etwa 50 Playlists, so muß ich mich für einen Titel entscheiden und kann nicht eine ganze Playlist ablaufen lassen. Aber das ist nur ein kleines Problem, und mindert die Begeisterung nicht. 5 Sterne von mir.</text>
+    <aspectTerms>
+      <aspectTerm from="73" term="Musik" to="78"/>
+      <aspectTerm from="120" term="App" to="123"/>
+      <aspectTerm from="185" term="Titel" to="190"/>
+      <aspectTerm from="229" term="Playlist" to="237"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7058">
+    <text>Echt Geile APP</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="APP" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7059">
+    <text>Akku Probleme behoben</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Akku Probleme" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7060">
+    <text>Kann ich jedem empfehlen. Macht was Sie soll</text>
+  </sentence>
+  <sentence id="7061">
+    <text>Ist wirklich eine sehr gelungene App, Das Design top und auch die Benutzerfreundlichkeit ist super. Was mich allerdings stört ist, das in der Premium 3 neue Uhren angepriesen wurden, und leider habe ich keine 3 neuen Uhren erhalten. Ein Bug oder wie? - Deshalb nur 3 Sterne. Sobald ich die Uhren sehe ändere ich meine Bewertung ab.</text>
+    <aspectTerms>
+      <aspectTerm from="34" term="App" to="37"/>
+      <aspectTerm from="43" term="Design" to="49"/>
+      <aspectTerm from="67" term="Benutzerfreundlichkeit" to="89"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7062">
+    <text>Sync mit anderen Geräten läuft super, wecken tut we auch dann wenn er es soll.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Sync mit anderen Geräten" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7063">
+    <text>Eimfach genial</text>
+  </sentence>
+  <sentence id="7064">
+    <text>Funktioniert genauso, wie ich es erwartet habe! Leider... Klingelt genau dann, wenn ich es ihm sage ;-)</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Funktioniert" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7065">
+    <text>Das ist mein erster Wecker den ich runter geladen habe. Habe mir keine anderen bis jetzt gesaugt weil ich mit diesem hier vollstens zufrieden bin !</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="Wecker" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7066">
+    <text>Viel Erfolg mit Google! :)</text>
+  </sentence>
+  <sentence id="7067">
+    <text>Kenne keinen Wecker der besser ist als dieser. Mit jedem neuen Update wird er noch besser. Einfach top!</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="Wecker" to="20"/>
+      <aspectTerm from="64" term="Update" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7068">
+    <text>Super Nur, wenn man mehrere Wecker gespeichert hat und ändert für einen den Tag, dann wird dieser Tag leider für alle anderen Wecker übernommen</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="Wecker" to="35"/>
+      <aspectTerm from="127" term="Wecker" to="133"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7069">
+    <text>Geniale App !!!</text>
+    <aspectTerms>
+      <aspectTerm from="9" term="App" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7070">
+    <text>naja wecker ist wecker hauptsache er klingelt wen die zeit kommt</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="wecker" to="12"/>
+      <aspectTerm from="17" term="wecker" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7071">
+    <text>Funktioniert bestens.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Funktioniert" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7072">
+    <text>Ist immer mit Ton. Auch wenn Medien etc bei &quot;0&quot; sind. Bitte beheben. Android 5.0</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="Ton" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7073">
+    <text>...ich komme aus der Windows-Mobile Welt und kannte da schon einen echt guten Wecker. Doch dieser hier schießt den Vogel ab. Es gibt keine Einstellung die man vermissen könnte. Der Entwickler hat an alles gedacht. Das App ist einfach zu bedienen und ich kann es nur empfehlen! SUPER! Es macht das was ein Wecker tun soll nur besser und zuverlässig!</text>
+    <aspectTerms>
+      <aspectTerm from="79" term="Wecker" to="85"/>
+      <aspectTerm from="219" term="App" to="222"/>
+      <aspectTerm from="238" term="bedienen" to="246"/>
+      <aspectTerm from="306" term="Wecker" to="312"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7074">
+    <text>Super Programm</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Programm" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7075">
+    <text>Entspannt!</text>
+  </sentence>
+  <sentence id="7076">
+    <text>Endlich ein Wecker mit SCHLUMMERFUNKTION</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Wecker" to="19"/>
+      <aspectTerm from="24" term="SCHLUMMERFUNKTION" to="41"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7077">
+    <text>Update läuft. (Milestone 2.1, root)</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Update" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7078">
+    <text>Super</text>
+  </sentence>
+  <sentence id="7079">
+    <text>Top !!! Der beste Wecker!!!</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="Wecker" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7080">
+    <text>samsung galaxy s und bei x10 ist es auch okay</text>
+  </sentence>
+  <sentence id="7081">
+    <text>Sehr gute App, nur ein bisschen schade das man nicht eigene Lieder als Klingelton benutzen kann anstonsten tolle app</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="App" to="14"/>
+      <aspectTerm from="54" term="eigene Lieder als Klingelton" to="82"/>
+      <aspectTerm from="114" term="app" to="117"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7082">
+    <text>vielen Dank für die tolle Weckapp! Bei mir funktioniert nur leider die Schlummerfunktion nicht,sonst alles bestens! Samsung S3</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="Weckapp" to="34"/>
+      <aspectTerm from="72" term="Schlummerfunktion" to="89"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7083">
+    <text>.. kann man grade so gut wie die Standardapp brauchen. Hübsches Widget. ..nur zeigt die Uhr auf dem Display ca. 10 Min. zu spät, aber wenn ich die app aufrufe, zeigt sie die richtige Zeit. Schliesse ich wieder zeigt das Widget wieder unkorrekte Zeit.. lustig oder auch nicht..sehr menschlich auf jeden Fall</text>
+    <aspectTerms>
+      <aspectTerm from="34" term="Standardapp" to="45"/>
+      <aspectTerm from="65" term="Widget" to="71"/>
+      <aspectTerm from="89" term="Uhr auf dem Display" to="108"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7084">
+    <text>Das Update war voll unnötig. Ich war vorher mit der App schon einige Zeit sehr zufrieden, jetzt könnte ich jeden morgen kotzen wenn der Wecker klingelt. Ich werd mich nach einer neuen App umschauen. Was sehr schade ist. Ich verstehe nicht warum man etwas das toll ist verbessern muss und es hinterher dann schlechter ist. Deswegen nur ein Stern.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Update" to="11"/>
+      <aspectTerm from="53" term="App" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7085">
+    <text>Halb deutsch halb english kompleziert</text>
+  </sentence>
+  <sentence id="7086">
+    <text>Auch wenn die Funktion mich morgens um 5 aus dem Bett zu werfen hassenswert ist, klappt das tadellos.</text>
+  </sentence>
+  <sentence id="7087">
+    <text>Die App mag viele Features haben, diese sind aber schlecht erklärt. Lässt sich nur nach stundenlangem ausprobieren der Funktionen bedienen. Die von mir gesuchte Funktion habe ich aber nicht gefunden: Wecken per Lautsprecher, wenn ein Kopfhörer angeschlossen ist. Unter &quot;Sound-Einstellungen&quot; gibt es zwar den Punkt: &quot;Kopfhörer/Lautsprecher - Nutze den Musik-Stream, falls Kopfhörer oder Lautsprecher per Kabel verbunden sind&quot;. Was will mir der Autor damit sagen!? Ich habe als einfacher Nutzer keine Ahnung was</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="19" term="Features" to="27"/>
+      <aspectTerm from="162" term="Funktion" to="170"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7088">
+    <text>Funktioniert sehr gut ...</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Funktioniert" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7089">
+    <text>Habe ich seit ca. einem Jahr, hat immer verlässlich geweckt.</text>
+    <aspectTerms>
+      <aspectTerm from="53" term="geweckt" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7090">
+    <text>Benutze diesen Wecker jetzt schon bestimmt 1 jahr...gibt nichts zu.meckern...einfach zu bedienen...sehr uebersichtlich...tut was er soll ;-) lediglich das direkte anwaehlen verschiedener inet radiosender waere super...das funktioniert naemlich nicht so ohne weiteres...ansonsten top</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="Wecker" to="22"/>
+      <aspectTerm from="89" term="bedienen" to="97"/>
+      <aspectTerm from="156" term="direkte anwaehlen verschiedener inet radiosender" to="204"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7091">
+    <text>Macht was es soll und hat viele Zusatzfunktionen.</text>
+    <aspectTerms>
+      <aspectTerm from="33" term="Zusatzfunktionen" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7092">
+    <text>Die App ist relativ übersichtlich aufgebaut, und die zahlreichen Funktionen sind gut untergebracht und sehr hilfreich bzw. angenehm. Zum Beispiel das sanfte Wecken, wo die Lautstärke zunimmt, oder die Schlummertaste, die größer ist, als die zum Ausschalten. Das Update finde ich ganz gut und die neuen Hintergründe sind schön, obwohl mir die freie Farbwahl und die Benachrichtigungs-Icon-Auswahl fehlt. Sonst ist das neue Layout praktisch und die App ist auf jeden Fall weiterzuempfehlen.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="66" term="Funktionen" to="76"/>
+      <aspectTerm from="151" term="sanfte Wecken" to="164"/>
+      <aspectTerm from="202" term="Schlummertaste" to="216"/>
+      <aspectTerm from="263" term="Update" to="269"/>
+      <aspectTerm from="303" term="Hintergründe" to="315"/>
+      <aspectTerm from="343" term="freie Farbwahl" to="357"/>
+      <aspectTerm from="366" term="Benachrichtigungs-Icon-Auswahl" to="396"/>
+      <aspectTerm from="423" term="Layout" to="429"/>
+      <aspectTerm from="448" term="App" to="451"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7093">
+    <text>Ob der Ton ansteigt oder nicht weiss ich nicht so genau - ist mir auch wurscht, hauptsache er klingelt! ;)</text>
+  </sentence>
+  <sentence id="7094">
+    <text>Super einfach zu handhaben....viele Einstellmöglichkeiten.Empfehlenswert</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="handhaben" to="26"/>
+      <aspectTerm from="36" term="Einstellmöglichkeiten" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7095">
+    <text>nur leider kann man die Vorweckzeit und die Lautstärke des Vorweckers nicht ändern. Die Vorweckzeit ist immer 30min. Bitte implementieren und es gibt 5 Sterne.</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="Vorweckzeit" to="36"/>
+      <aspectTerm from="45" term="Lautstärke des Vorweckers" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7096">
+    <text>Alles super</text>
+  </sentence>
+  <sentence id="7097">
+    <text>Grundsätzlich eine gelungene App. Ein paar mehr Einstellungsmöglichkeiten in Bezug auf das Zusammenspiel von Licht und Sound wäre klasse</text>
+    <aspectTerms>
+      <aspectTerm from="30" term="App" to="33"/>
+      <aspectTerm from="49" term="Einstellungsmöglichkeiten" to="74"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7098">
+    <text>Top</text>
+  </sentence>
+  <sentence id="7099">
+    <text>Super der perfekte wecker</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="wecker" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7100">
+    <text>Sehr gut.</text>
+  </sentence>
+  <sentence id="7101">
+    <text>Geniale App! Support extrem gut. Nach 20 min schon eine Antwort mit Lösung des &quot;problems&quot; gehabt. Ist jeden cent wert. Sehr angenehmes Aufwachen</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="App" to="11"/>
+      <aspectTerm from="13" term="Support" to="20"/>
+      <aspectTerm from="135" term="Aufwachen" to="144"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7102">
+    <text>An sich nicht schlecht. Ich frage mich nur, warum das Teil bei bestehender Internetverbindung nach außen kommuniziert, wenn man einen Wecker aktiviert??</text>
+    <aspectTerms>
+      <aspectTerm from="135" term="Wecker" to="141"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7103">
+    <text>Weckt mich Immer</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Weckt" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7104">
+    <text>Super App..bin begeistert</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7105">
+    <text>Super App! Vor allem die Wetteransage ist ein tolles Zusatzangebot!</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="App" to="10"/>
+      <aspectTerm from="26" term="Wetteransage" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7106">
+    <text>Finde ich echt klasse!!!</text>
+  </sentence>
+  <sentence id="7107">
+    <text>Macht was sie soll mit netten Extras :)</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="Extras" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7108">
+    <text>Super Sache! Läutet jeden Tag zuverlässig! Unendlich viel einstellungen! Perfekt!!! Sgs</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Läutet" to="19"/>
+      <aspectTerm from="58" term="einstellungen" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7109">
+    <text>Es ist einfach, man kann es sehr genau einstellen und das aufwachen ist viel angenehmer und macht Spaß!</text>
+    <aspectTerms>
+      <aspectTerm from="40" term="einstellen" to="50"/>
+      <aspectTerm from="59" term="aufwachen" to="68"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7110">
+    <text>App ist genial, super übersichtlich und leicht zu programmieren im vergleich zu anderen weckern. Jedoch seit kurzen funktioniert die wettererstellung nicht mehr....bitte aktualisieren/ändern.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="App" to="4"/>
+      <aspectTerm from="51" term="programmieren" to="64"/>
+      <aspectTerm from="134" term="wettererstellung" to="150"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7111">
+    <text>Bei nicht funktionierendem Wecker hilft zumindest bei mir das programm load monitor (preferences/wake lock)</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="Wecker" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7112">
+    <text>Super app, sehr zum empfehlen</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="app" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7113">
+    <text>Super Wecker, kann ich jedem wirklich empfehlen</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="Wecker" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7114">
+    <text>Super Wecker vor allem wegen der Wetteransage.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="Wecker" to="13"/>
+      <aspectTerm from="34" term="Wetteransage" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7115">
+    <text>Super App &amp; sie wird immer besser. Seit dem update spitze! Eine meiner besten Apps. Weiter so &amp; danke!</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+      <aspectTerm from="44" term="update" to="50"/>
+      <aspectTerm from="78" term="Apps" to="82"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7116">
+    <text>Super</text>
+  </sentence>
+  <sentence id="7117">
+    <text>... ich als Langschläfer brauche.</text>
+  </sentence>
+  <sentence id="7118">
+    <text>Die App ist seit Jahren super, leider benötigt sie mal wieder eine Generalüberholung in Design und Technik, z.B. für die nicht funktionierenden Einstellungen der Benachrichtigungen</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="68" term="Generalüberholung in Design und Technik" to="107"/>
+      <aspectTerm from="145" term="Einstellungen der Benachrichtigungen" to="181"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7119">
+    <text>Beste Wecker ever</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Wecker" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7120">
+    <text>sehr gut</text>
+  </sentence>
+  <sentence id="7121">
+    <text>cool,cool,cool,</text>
+  </sentence>
+  <sentence id="7122">
+    <text>Finde bei meinem handy den Wecker müht deswegen die app...ist toll!!! Wegen Schule Usw...</text>
+    <aspectTerms>
+      <aspectTerm from="52" term="app" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7123">
+    <text>Geil</text>
+  </sentence>
+  <sentence id="7124">
+    <text>Da kennt sich dich keiner aus! Hat nicht einmal 1* verdient!!!</text>
+  </sentence>
+  <sentence id="7125">
+    <text>Viele Funktionen, einfach super</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Funktionen" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7126">
+    <text>Statistik ist toll aufgebaut. Weckt zuverlässig...</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Statistik" to="10"/>
+      <aspectTerm from="31" term="Weckt" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7127">
+    <text>Super app</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7128">
+    <text>Bisher noch nie im Stich gelassen. Viele Möglichkeiten und doch einfach zu bedienen. Ist das Geld wert.</text>
+    <aspectTerms>
+      <aspectTerm from="42" term="Möglichkeiten" to="55"/>
+      <aspectTerm from="76" term="bedienen" to="84"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7129">
+    <text>Ürgentwie klingelt der wecker nicht bei mir, zwar am anfang aber so nach dem dritten mal nicht mehr . Und wenn ich drauf gehe kommt nur schwarz. Habe ein samsung ace . Bitte beheben .!.</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="klingelt" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7130">
+    <text>Ein Wecker der zuverlässig ist, Weckton beliebig einzustellen und einfach zu handhaben. Noch nie irgendwelche Probleme mit gehabt!</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Wecker" to="11"/>
+      <aspectTerm from="33" term="Weckton" to="40"/>
+      <aspectTerm from="78" term="handhaben" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7131">
+    <text>Bisher mein liebstes Wecker gewesen wegen den vielen Einstellungsmöglichkeiten. Aber seit der Aktualisierung gibt es viel weniger Funktionen. Dafür kann man sich Premium kaufen.. Für das bezahlen was kostenlos war? Nein danke.</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="Wecker" to="28"/>
+      <aspectTerm from="54" term="Einstellungsmöglichkeiten" to="79"/>
+      <aspectTerm from="95" term="Aktualisierung" to="109"/>
+      <aspectTerm from="163" term="Premium" to="170"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7132">
+    <text>I Love it this is good</text>
+  </sentence>
+  <sentence id="7133">
+    <text>Sehr geiles Design, übersichtlich und anpassbar! Super!</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Design" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7134">
+    <text>Aber seit neuestem klingelt der Wecker einfach so, ohne dass eine Weckzeit eingestellt ist. Das ist etwas peinlich, wenn das Handy im Seminar losgeht.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="klingelt" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7135">
+    <text>Klingelt manchmal einfach nicht... Sehr unzuverlässig in letzter Zeit</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Klingelt" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7136">
+    <text>Nur diese Werbung nervt und das man für die eigene Musik zum wecken Geld bezahlen muss sonst aber OK !!!!</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="Werbung" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7137">
+    <text>Einfach nur gut ;-)</text>
+  </sentence>
+  <sentence id="7138">
+    <text>Ich finde es sehr toll</text>
+  </sentence>
+  <sentence id="7139">
+    <text>Man kann sich an alles Neue gewöhnen! Die App wirkte einfach zu überladen. Anders Design gewählt und es wurde besser, nach ein paar Tagen hatte ich mich schnell daran gewöhnt. Und ein Grosses Lob an den Entwickler! Wegen der Uhr. Auch daran habe ich mich gewöhnt. Anders ist nicht immer schlechter! Cool währe noch wenn die Stunde nach 60 Minuten auch eine mehr würde. Meine damit beim einstellen der Weckzeit, wenn man den Minuten Kreis öfter über die 12 bewegt. Ich muss/will meinen Wecker oft umstellen</text>
+    <aspectTerms>
+      <aspectTerm from="43" term="App" to="46"/>
+      <aspectTerm from="76" term="Anders Design" to="89"/>
+      <aspectTerm from="204" term="Entwickler" to="214"/>
+      <aspectTerm from="325" term="Stunde nach 60 Minuten auch eine mehr" to="362"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7140">
+    <text>Vol cool</text>
+  </sentence>
+  <sentence id="7141">
+    <text>vom prinzip her echt gut...aber grade was die sprachausgabe betrifft noch etwas buggy....</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="prinzip" to="12"/>
+      <aspectTerm from="47" term="sprachausgabe" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7142">
+    <text>Seit letztem Update nicht mehr zu gebrauchen</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="Update" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7143">
+    <text>ALLE die sich Fragen wozu diese App die Handynummer von euch haben möchte: sie braucht sie damit sie euch weckt beziehungsweise anruft. Wenn sie euch anruft dann klingelt es ja, deswegen</text>
+    <aspectTerms>
+      <aspectTerm from="32" term="App" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7144">
+    <text>Perfekt</text>
+  </sentence>
+  <sentence id="7145">
+    <text>Ich dachte nicht das der Wecker so gut ist!!!</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="Wecker" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7146">
+    <text>Super weckt zuverlässig.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="weckt" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7147">
+    <text>Die App funktioniert unter Android 5.0.1 auf dem HTC M8 nicht mehr richtig. Weckersymbol für Alarm wird in der Benachrichtigungsleiste nicht mehr angezeigt, Alarm auch nicht gestartet. Sehr schade, bitte mal prüfen. Ansonsten ohne die aktuellen Probleme, eine absolute Top App</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="App" to="8"/>
+      <aspectTerm from="9" term="funktioniert" to="21"/>
+      <aspectTerm from="77" term="Weckersymbol" to="89"/>
+      <aspectTerm from="158" term="Alarm" to="163"/>
+      <aspectTerm from="274" term="App" to="277"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7148">
+    <text>Thtas the only function why i want to use this clock but it doesn't work. There is no sound after enabling this function. The speaker works without problems and are set to loud. @answer Dear Team I'm also developer. Of course the option is checked. I belive it has something to do with the Xperia Z1. Other apps with this function also don't work. the only exception is the app &quot;Wecker (Alarm) Xtreme&quot;</text>
+  </sentence>
+  <sentence id="7149">
+    <text>Einfach zuverlässig top app</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="app" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7150">
+    <text>....</text>
+  </sentence>
+  <sentence id="7151">
+    <text>Cooler wecker verschlafen ist fast unmöglich xD</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="wecker" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7152">
+    <text>Endlich mal ein Wecker, der sogar live stressig wiedergibt.</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Wecker" to="23"/>
+      <aspectTerm from="35" term="live stressig" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7153">
+    <text>Sehr praktisch zum Geige Üben.</text>
+  </sentence>
+  <sentence id="7154">
+    <text>Wirklich eine super Wecker App, die mit vielen vielen Funktionen kommt. Würde ohne diese Funktionen jedes mal verschlafen.</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="Wecker App" to="31"/>
+      <aspectTerm from="55" term="Funktionen" to="65"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7155">
+    <text>Ein Wecker der nicht weckt - taugt nicht. Seit kurzem Totalausfall. Schade</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Wecker" to="11"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7156">
+    <text>Bitte integriert noch eigene musik und musik von spotify</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="eigene musik" to="35"/>
+      <aspectTerm from="50" term="spotify" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7157">
+    <text>Hilft mir echt am morgens aufzuwachen.toll finde ich das man den snooze modus abstelln kann ;) Galaxy s I9001</text>
+    <aspectTerms>
+      <aspectTerm from="66" term="snooze modus abstelln" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7158">
+    <text>Ich liebe diesen Wecker. Ich werde immer super wach, manchmal auch vor meiner eingestellten Weckzeit. Nur zu empfehlen :)</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="Wecker" to="24"/>
+      <aspectTerm from="48" term="wach" to="52"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="7159">
+    <text>Ist ein echt toller wecker kann ich nur empfehlen</text>
+    <aspectTerms>
+      <aspectTerm from="21" term="wecker" to="27"/>
+    </aspectTerms>
+  </sentence>
+</sentences>

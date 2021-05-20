@@ -1,0 +1,3633 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="1">
+    <text>If you copy text from a PDF and paste it in body of an email it puts each word on a separate line. This &quot;feature&quot; just recently started within the last week or two. Used to work perfectly before. Please fix quickly. I use this a lot.</text>
+  </sentence>
+  <sentence id="2">
+    <text>Just speak clearly,and  voila' you  understand!</text>
+  </sentence>
+  <sentence id="3">
+    <text>It immediately closes to the home screen every time I try to open the app. Boooo</text>
+  </sentence>
+  <sentence id="4">
+    <text>This is the best application that I have ever used.</text>
+  </sentence>
+  <sentence id="5">
+    <text>No veo lo elegante en ella. Adem?s ahora es m?s dif?cil acceder a tus archivos hay que seleccionar como favorito un archivo para que lo descargue y despu?s quitarlo. Estoy decepcionado.</text>
+  </sentence>
+  <sentence id="6">
+    <text>Crashes every time I'm using it</text>
+  </sentence>
+  <sentence id="7">
+    <text>my old iPod was stolen and broken but luckily all of my old pictures were on Dropbox! thanks so much!!</text>
+  </sentence>
+  <sentence id="8">
+    <text>I can no longer access the app after the update.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="16" term="access" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="9">
+    <text>Once at the unlock panel, the number pad doesn't allow input to unlock.</text>
+  </sentence>
+  <sentence id="10">
+    <text>How come it takes 10+ minutes to load a simple document? I just want to open it, edit, send, and etc.</text>
+  </sentence>
+  <sentence id="11">
+    <text>Autocomplete, autocategorizing, and checking off items make this very useful.</text>
+  </sentence>
+  <sentence id="12">
+    <text>One flaw is the fact that its almost impossible to load mp3s or WAV files over data.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="51" term="load mp3s or WAV files" to="73"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="13">
+    <text>It will play for a second or two then say its unable to load this file.</text>
+  </sentence>
+  <sentence id="14">
+    <text>Fix please!</text>
+  </sentence>
+  <sentence id="15">
+    <text>I always use dropbox with Upad, but this newest version can't open PDF files with Upad anymore.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="66" term="open PDF files" to="80"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="16">
+    <text>plz update as soon as possible.</text>
+  </sentence>
+  <sentence id="17">
+    <text>Ack! I need to do user testing with a clickable PDF this week and have ALWAYS used Dropbox because it's been awesome in the past.</text>
+  </sentence>
+  <sentence id="18">
+    <text>This is super frustrating - especially because I found nothing else that can compare to Dropbox and really rely on this feature to work!</text>
+  </sentence>
+  <sentence id="19">
+    <text>Now though, all my clickable PDFs don't work - nothing is clickable and my hotspots don't work.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="19" term="clickable PDFs" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="20">
+    <text>PLEASE FIX THIS ASAP. Right now I'm hating the app because you guys took away this core piece of functionality that I desperately need, but PLEASE add it back soon and all will be well again.</text>
+  </sentence>
+  <sentence id="21">
+    <text>For some reason in today's schools we now get virtual text books that are in PDF form or just saved on a drive. With his app I can now take my government book with me everywhere I go and never have to worry about it!!! So much easier for me to pull out my iPad in a class than my laptop to do the work really quickly. Thanks so much!!!</text>
+  </sentence>
+  <sentence id="22">
+    <text>This app is wonderful and makes doing things like typing up assignments sooo much easier because you can revise, edit, and print wherever you are whether its home or school!</text>
+  </sentence>
+  <sentence id="23">
+    <text>Has a lot of hidden charges. For each step you wish to do with you document the payment of an extra charge is requested.</text>
+  </sentence>
+  <sentence id="24">
+    <text>It's and effective link between devices but it crashes every other time you open it. Frustrating to say the least.</text>
+  </sentence>
+  <sentence id="25">
+    <text>Use it probably everyday</text>
+  </sentence>
+  <sentence id="26">
+    <text>I am depending on it!</text>
+  </sentence>
+  <sentence id="27">
+    <text>Please fix it ASAP!</text>
+  </sentence>
+  <sentence id="28">
+    <text>Just like Mentalthaker says,after upgrade I can't see my PDF!</text>
+  </sentence>
+  <sentence id="29">
+    <text>Having airdrop added to dropbox was the best thing you did!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="7" term="airdrop" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="30">
+    <text>Thanks.</text>
+  </sentence>
+  <sentence id="31">
+    <text>We need Dropbox Windows 8 app, with Modern UI design, please.</text>
+  </sentence>
+  <sentence id="32">
+    <text>That's all there is to it. It's great.</text>
+  </sentence>
+  <sentence id="33">
+    <text>I use this app every single day. You can sync all of your photos (automatically with camera upload), store all of your music and iTunes library, videos, documents, and simply everything you could possibly think of!!!
+
+Dropbox has changed the way I store and access all of my files. This is a MUST HAVE app!</text>
+  </sentence>
+  <sentence id="34">
+    <text>This is how I get files to my iPhone apps. It's indispensable and the desktop app even runs on Linux!</text>
+  </sentence>
+  <sentence id="35">
+    <text>It is like USB for me , I love it hasaaaaa and free . That all we need and I really appreciated it .   :)</text>
+  </sentence>
+  <sentence id="36">
+    <text>If can check or not check to opload camera it a best apps.</text>
+  </sentence>
+  <sentence id="37">
+    <text>The app crashes after last update please fix</text>
+  </sentence>
+  <sentence id="38">
+    <text>Miles ahead of Clear.</text>
+  </sentence>
+  <sentence id="39">
+    <text>What else to say .... Simple, beautiful and very functional. I just love it.</text>
+  </sentence>
+  <sentence id="40">
+    <text>U guys saved ma life!!!!!  when my iPod got reset because of the passcode,  It erased all my photos which I was sad,  that's when,  before my iPod got deleted,  I had the app DROPOX!!!!! It turns out that my iPod didn't erased all my photos because Dropbox saved them!!!!!!thank u so much!!!!</text>
+  </sentence>
+  <sentence id="41">
+    <text>O.o As the title states.</text>
+  </sentence>
+  <sentence id="42">
+    <text>This app won't open now!</text>
+  </sentence>
+  <sentence id="43">
+    <text>All my school and work files are on it!</text>
+  </sentence>
+  <sentence id="44">
+    <text>It is just great, and name says it all &quot;fantastical&quot;. Thinking about using this as default calendar.</text>
+  </sentence>
+  <sentence id="45">
+    <text>The latest revision (as of 10 January 2013) loops endlessly when trying to upload a 411KB file.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="4" term="latest revision" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="46">
+    <text>Had to email it to move to another device.</text>
+  </sentence>
+  <sentence id="47">
+    <text>The problem is it won't update on my iPhone.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="28" term="update" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="48">
+    <text>I love dropbox because I can get to things from any device.</text>
+  </sentence>
+  <sentence id="49">
+    <text>Especially helpful when I am on vacation.</text>
+  </sentence>
+  <sentence id="50">
+    <text>Nothing!</text>
+  </sentence>
+  <sentence id="51">
+    <text>Recent update on my iPad 2 now causes the app the not load at all... Start it, goes back to home screen.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="0" term="Recent update" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="52">
+    <text>Can't you leave well enough alone guys &amp; gals.</text>
+  </sentence>
+  <sentence id="53">
+    <text>Deleted app and reinstalled.</text>
+  </sentence>
+  <sentence id="54">
+    <text>Please fix...</text>
+  </sentence>
+  <sentence id="55">
+    <text>This must be THE most updated app in the App Store. Week after week after week: &quot;bug fixes and performance improvements&quot;. My suspicion is they rev the app just to keep reminding you it's there.
+
+Back off guys, or actually explain what you are improving.</text>
+  </sentence>
+  <sentence id="56">
+    <text>...</text>
+  </sentence>
+  <sentence id="57">
+    <text>Every little annoyance has been fixed. Full photo view. Also new look!</text>
+  </sentence>
+  <sentence id="58">
+    <text>But it's ok !!</text>
+  </sentence>
+  <sentence id="59">
+    <text>It's not able to save small video clips ...</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="21" term="save small video clips" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="60">
+    <text>The single most frustrating thing about it is that it displays only a dozen or so characters in a file name.</text>
+  </sentence>
+  <sentence id="61">
+    <text>Since I have thousands of files, some with long and descriptive names, it is impossible to find what I'm looking for unless I download the files to the iPad one by one.</text>
+  </sentence>
+  <sentence id="62">
+    <text>This is not a review of the Dropbox service (which is great) but of this app, which can use a lot of improvements.</text>
+  </sentence>
+  <sentence id="63">
+    <text>There is no way to resize the file list to make more of the files visible.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="19" term="resize the file list" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="64">
+    <text>Why not?</text>
+  </sentence>
+  <sentence id="65">
+    <text>However, please create a format for the iPad.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="25" term="format for the iPad" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="66">
+    <text>I use this many times a day and think it is wonderful.</text>
+  </sentence>
+  <sentence id="67">
+    <text>Love Dropbox.</text>
+  </sentence>
+  <sentence id="68">
+    <text>Easy to use and convenient across my iPhone iPad and MacBook.</text>
+  </sentence>
+  <sentence id="69">
+    <text>how about pricing that meets low level user needs not just 100gb or more.</text>
+  </sentence>
+  <sentence id="70">
+    <text>Only thing is they need to offer better customized pricing for upgrade plans.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="40" term="customized pricing" to="58"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="71">
+    <text>100 GB is nice but an average user may only need 25/50/60 etc.</text>
+  </sentence>
+  <sentence id="72">
+    <text>I have many folders on Dropbox, among them some 200 photos I have taken, collected, uploaded. 
+
+Every single .jpg in my dropbox has mysteriously vanished. Six months' work down the drain. 
+
+If you use this, be sure to back up your backup.</text>
+  </sentence>
+  <sentence id="73">
+    <text>I have to use WPS App to be able to read it.</text>
+  </sentence>
+  <sentence id="74">
+    <text>I wonder if this could be fixed.</text>
+  </sentence>
+  <sentence id="75">
+    <text>I am unable to use this app to open Microsoft Works files on my iPhone five.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="31" term="open Microsoft Works files" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="76">
+    <text>How am I supposed to be able to redownload or do anything while I am unable to even try downloading again or see it on my phone...</text>
+  </sentence>
+  <sentence id="77">
+    <text>Just downloaded the app in my iPhone.</text>
+  </sentence>
+  <sentence id="78">
+    <text>I hit open nothing opens.</text>
+  </sentence>
+  <sentence id="79">
+    <text>Get out of App Store and the downloaded app is nowhere to be found on my phone.</text>
+  </sentence>
+  <sentence id="80">
+    <text>Shows as downloaded.</text>
+  </sentence>
+  <sentence id="81">
+    <text>Why are they so many? It is freakin annoying update so regularly!</text>
+  </sentence>
+  <sentence id="82">
+    <text>Noooooo! :(</text>
+  </sentence>
+  <sentence id="83">
+    <text>For cloud storage, Dropbox is an excellent solution for me.</text>
+  </sentence>
+  <sentence id="84">
+    <text>I don't usually save a whole lot of files to it, so the smaller, free account has been adequate so far, but when it comes to transferring files to other machines without a USB drive or accessing from my phone, Dropbox has been a very useful tool for me.</text>
+  </sentence>
+  <sentence id="85">
+    <text>Dropbox is a great program and tool, but with the last update which included a new PDF reader, I cannot open a PDF in full screen view, only thumbnail.  Please update, or if this is user problem, please inform.  I now have to use another program to vie my PDF files.</text>
+  </sentence>
+  <sentence id="86">
+    <text>Argh!!!</text>
+  </sentence>
+  <sentence id="87">
+    <text>Cannot paste into email field at login and cannot space to use keyboard shortcuts, eg my email address!</text>
+  </sentence>
+  <sentence id="88">
+    <text>Will take up in rating when this gets implemented.</text>
+  </sentence>
+  <sentence id="89">
+    <text>Now that I updated my drop box I am very upset 
+Because I do not have an option to choose pictures to move to a folder 
+Fix this problem and I will rate a 5 
+Also I would like to export a whole folder to my gallery on my ipad</text>
+  </sentence>
+  <sentence id="90">
+    <text>Until the last update. Please fix.</text>
+  </sentence>
+  <sentence id="91">
+    <text>very beautiful:)</text>
+  </sentence>
+  <sentence id="92">
+    <text>Does anyone else have their Dropbox app, not the site, increasing in memory even without any favorite files???. Have to erase app once every 2 weeks!!!</text>
+  </sentence>
+  <sentence id="93">
+    <text>I'm deleting it.</text>
+  </sentence>
+  <sentence id="94">
+    <text>Major sync failure!</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="6" term="sync" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="95">
+    <text>Other times when they are actually synced you can't open them!</text>
+  </sentence>
+  <sentence id="96">
+    <text>You put documents at work and go home and sync again only to find none of them are there.</text>
+  </sentence>
+  <sentence id="97">
+    <text>Since the update, it won't backup to Dropbox.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="31" term="backup" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="98">
+    <text>Great option for storage!</text>
+  </sentence>
+  <sentence id="99">
+    <text>A great app.</text>
+  </sentence>
+  <sentence id="100">
+    <text>Please include editing support for ipad.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="15" term="editing support for ipad" to="39"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="101">
+    <text>I'd really like it if that brought that back. Don't know why the took it out...(?)</text>
+  </sentence>
+  <sentence id="102">
+    <text>I love Dropbox and this app is pretty great.</text>
+  </sentence>
+  <sentence id="103">
+    <text>Im on a crappy hotel wifi that goes in and out. Been trying to download a 1gb file for over 2 days now. But for some reason dropbox has not allowed favorited downloads the ability to resume  and instead restarts the download from the beginning every time it fails. It's almost 2014. We have the technology to RESUME A DOWNLOAD what's the problem here?</text>
+  </sentence>
+  <sentence id="104">
+    <text>I cannot find the share button...</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="18" term="share button" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="105">
+    <text>It should be obvious but I can't find it.</text>
+  </sentence>
+  <sentence id="106">
+    <text>What's the point of this app if I can't share anything.</text>
+  </sentence>
+  <sentence id="107">
+    <text>Great product idea.</text>
+  </sentence>
+  <sentence id="108">
+    <text>If I could access the forums, I might be able to get a response to my concern there; but Dropbox wasn't interested in answering my separate email on this matter, either.</text>
+  </sentence>
+  <sentence id="109">
+    <text>And anytime you download from the Cloud, you're transferring data, right?</text>
+  </sentence>
+  <sentence id="110">
+    <text>I would have thought this a basic concern to anyone who has to pay a carrier for their cell phone usage; but (a) I couldn't find any documentation on this, (b) I couldn't even get an answer on the internet, which shocked me, and, most egregiously (c) I couldn't get a response from Dropbox itself, despite begging them multiple times for an answer to this simple question.</text>
+  </sentence>
+  <sentence id="111">
+    <text>I'm not about to use this product if it's going to send my phone bill through the roof, and I told Dropbox so.</text>
+  </sentence>
+  <sentence id="112">
+    <text>As soon as I can get an answer to this question about data transfer from one of their competitors, I'll be going with them.</text>
+  </sentence>
+  <sentence id="113">
+    <text>Don't expect any help with it from Dropbox.</text>
+  </sentence>
+  <sentence id="114">
+    <text>Don't expect any product support with this software.</text>
+  </sentence>
+  <sentence id="115">
+    <text>When I try, I am told that my email address isn't verified -- this, despite the fact that they sent me a boilerplate email asking me why I wasn't using their product (isn't that a laugh).</text>
+  </sentence>
+  <sentence id="116">
+    <text>Incidently, I am also unable to access the Dropbox forums, despite having an account.</text>
+  </sentence>
+  <sentence id="117">
+    <text>Abysmal product support.</text>
+  </sentence>
+  <sentence id="118">
+    <text>When you send them an email asking for help, they send you back an email saying, effectively, &quot;We're terribly busy, but if you really need help send a reply to this email.&quot;</text>
+  </sentence>
+  <sentence id="119">
+    <text>I say without malice that the support for this product is about as bad as I've ever seen in nearly 30 years of working with computers.</text>
+  </sentence>
+  <sentence id="120">
+    <text>Well, don't believe it.</text>
+  </sentence>
+  <sentence id="121">
+    <text>They're downloaded from the Cloud, right?</text>
+  </sentence>
+  <sentence id="122">
+    <text>They have an automatic troubleshooter for this problem, but it doesn't work, either.</text>
+  </sentence>
+  <sentence id="123">
+    <text>So it makes sense that, if you look at your pictures frequently, just accessing Dropbox on your iPhone will explode your data transfer byte usage.</text>
+  </sentence>
+  <sentence id="124">
+    <text>I am new to this sort of software, and I was concerned whether simply accessing photos several times each month would put me at risk of running over the monthly GB alloted by by phone carrier.</text>
+  </sentence>
+  <sentence id="125">
+    <text>They couldn't care less.</text>
+  </sentence>
+  <sentence id="126">
+    <text>I've tried it twice, and after weeks of waiting not a peep.</text>
+  </sentence>
+  <sentence id="127">
+    <text>The tab and paragraphs are all messed up and overlapping.</text>
+  </sentence>
+  <sentence id="128">
+    <text>The formatting on it is terrible.</text>
+  </sentence>
+  <sentence id="129">
+    <text>I love Dropbox other than that.</text>
+  </sentence>
+  <sentence id="130">
+    <text>Hopefully this big I fixes soon.</text>
+  </sentence>
+  <sentence id="131">
+    <text>Works great until you open a word document.</text>
+  </sentence>
+  <sentence id="132">
+    <text>I was able to use Dropbox with this update only once. After that, it just keeps &quot;Loading...&quot; and after a minute it crashes. I restarted my iPad but it didn't change anything. Please correct this!!!</text>
+  </sentence>
+  <sentence id="133">
+    <text>What about the I phone 4 updates? Ridiculous........</text>
+  </sentence>
+  <sentence id="134">
+    <text>Now we have bulk uploading of photos. But we can't download in batches/multiples? 
+
+Hassle to download them one by one
+
+PDF VIEWING ALSO NOT WORKING</text>
+  </sentence>
+  <sentence id="135">
+    <text>And subcategories.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="4" term="subcategories" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="136">
+    <text>Needs a cloud sync feature.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="8" term="cloud sync" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="137">
+    <text>But why does location need to be enabled?</text>
+  </sentence>
+  <sentence id="138">
+    <text>Hi, I found a crazy bug on this app. IT WON'T STOP TELLING ME TO OPEN ITUNES!!!</text>
+  </sentence>
+  <sentence id="139">
+    <text>I have found both SkyDrive and Google Drive problematic and finicky, especially the Mac OS X application for Google Drive.</text>
+  </sentence>
+  <sentence id="140">
+    <text>Dropbox for iPhone and iPad both work exactly as expected.</text>
+  </sentence>
+  <sentence id="141">
+    <text>Any document that I place in the Dropbox folder on the desktop of my MacBook is automatically and almost instantaneously, depending on the size of the file, synced to my iPhone 4S and third-generation iPad.</text>
+  </sentence>
+  <sentence id="142">
+    <text>Third-party support with services such as CloudOn in particular makes iOS functionality even more excellent.</text>
+  </sentence>
+  <sentence id="143">
+    <text>Dropbox is by far the best personal cloud file service out there, and I certainly recommend Dropbox over SkyDrive and Google Drive.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="27" term="personal cloud file service" to="54"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="144">
+    <text>Dropbox is always flawless, and this iPhone and iPad Dropbox application certainly illustrates this reliability.</text>
+  </sentence>
+  <sentence id="145">
+    <text>I uploaded all camera pics on my iPad when downloaded this app and I have found that there is no easy way to move the photos into folders so that I can only share pictures from a recent vacation.  I have iOS7.  Why is there no move function on this app or am I missing something????  I do not want to share one photo at a time.  Not impressed.</text>
+  </sentence>
+  <sentence id="146">
+    <text>Before no update the upload of picture was so fast but now after update it's so slow. For just 1 picture cannot upload. What happened?</text>
+  </sentence>
+  <sentence id="147">
+    <text>This App is great.</text>
+  </sentence>
+  <sentence id="148">
+    <text>I have to Sign in in the Desktop version and rename my files.</text>
+  </sentence>
+  <sentence id="149">
+    <text>The only issue is that in the IPad version I can't Rename my files.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="55" term="Rename my files" to="70"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="150">
+    <text>The app drains your battery cause it uses your gps all the time.</text>
+  </sentence>
+  <sentence id="151">
+    <text>When I open the app the little blue bubble pops up and says something about connecting to itunes to use push notifications and it won't go away.  I have tried reseting my ipad etc.  Nothing seems to work.  Really frustrating as this is the only app I have this issue with.  Any suggestions on how to fix?</text>
+  </sentence>
+  <sentence id="152">
+    <text>About time!! I always hating going into chrome or safari and sharing links. Great app. Definitely one of the best services out there.</text>
+  </sentence>
+  <sentence id="153">
+    <text>Since the last update, the app no longer opens on my iPad ??.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="41" term="opens" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="154">
+    <text>Please fix this??. Thx</text>
+  </sentence>
+  <sentence id="155">
+    <text>Why is this for iOS 7 only now? Not very fair for people wanting to run this on older devices or don't wish to downgrade to cruddy iOS 7.</text>
+  </sentence>
+  <sentence id="156">
+    <text>Great app, just do not understand fact be using my location all day even with the application closed</text>
+  </sentence>
+  <sentence id="157">
+    <text>Great visual app!!!</text>
+  </sentence>
+  <sentence id="158">
+    <text>With drop box I am able to open office documents, making my iPad more useful!!! Not to mention using Dropbox on my iPad allows my iPad to have a file management system able to share documents with any computer/smartphone/tablet with out iTunes.</text>
+  </sentence>
+  <sentence id="159">
+    <text>Really?)</text>
+  </sentence>
+  <sentence id="160">
+    <text>Please fix.</text>
+  </sentence>
+  <sentence id="161">
+    <text>Could be a winner of fixed.</text>
+  </sentence>
+  <sentence id="162">
+    <text>Can't choose which files to NOT upload, so it just uploads everything from EVERY app (Vine videos?</text>
+  </sentence>
+  <sentence id="163">
+    <text>Since the latest update , Dropbox is not loading on my iPad.</text>
+  </sentence>
+  <sentence id="164">
+    <text>I hope an update will solve the problem because Dropbox is great.</text>
+  </sentence>
+  <sentence id="165">
+    <text>I?ve tried several times on my iMac running Mavericks.</text>
+  </sentence>
+  <sentence id="166">
+    <text>I don?t hate it.</text>
+  </sentence>
+  <sentence id="167">
+    <text>I can?t complete the download.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="8" term="complete the download" to="29"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="168">
+    <text>Decent app but it's probably the slowest loading/performing app I have.</text>
+  </sentence>
+  <sentence id="169">
+    <text>Also occasionally just goes black for no reason and I have to restart.</text>
+  </sentence>
+  <sentence id="170">
+    <text>They need to quit updating every two or three days and actually take time to make a version that works properly</text>
+  </sentence>
+  <sentence id="171">
+    <text>Also needs the ability to select and download multiple files at one time.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="26" term="select and download multiple files at one time" to="72"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="172">
+    <text>Otherwise the app works well.</text>
+  </sentence>
+  <sentence id="173">
+    <text>This app needs the ability to search the files by title or by words and phrases in the documents.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="30" term="search the files by title or by words and phrases" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="174">
+    <text>Do not use dropbox with iOS7! It crashes my ipad (iPad 3) and doesn't let me open files. The top menu bar sports a hybrid iOS6/7 look on the left and right sides too, it's very strange. I hope they update it soon. I think you can get away with using the dropbox site through safari to get through this in the meantime. I had no problems with dropbox on iOS6.</text>
+  </sentence>
+  <sentence id="175">
+    <text>No customer service. No phone. Never reply to attempts to contact. Lost all my files. They say they keep an image for 30 days but good luck getting a hold of them. Deleting.</text>
+  </sentence>
+  <sentence id="176">
+    <text>Really nice app, very nice interface.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="27" term="interface" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="177">
+    <text>Improved PDF viewer.</text>
+  </sentence>
+  <sentence id="178">
+    <text>Ability to delete photos from Dropbox while viewing individual photos instead of having to delete them from the multi viewer screen.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="11" term="delete photos from Dropbox while viewing individual photos" to="69"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="179">
+    <text>So we can slide through photos and delete ones we don't want</text>
+  </sentence>
+  <sentence id="181">
+    <text>I love the app, but I'd love to have the option to rename folders and files.</text>
+  </sentence>
+  <sentence id="182">
+    <text>Current version is NOT compatible with updated Apple iPad OIS 7.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="0" term="Current version" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="183">
+    <text>Great companion to the service.</text>
+  </sentence>
+  <sentence id="184">
+    <text>I wait two months for Ukrainian translation, but still nothing! Hey, wake up!</text>
+  </sentence>
+  <sentence id="185">
+    <text>Just updated to the new version on iPhone 4 and now PDF viewer seems to be broken. Most PDFs display blank. I have found that opening a PDF, quitting DropBox, and then restarting sometimes helps. Please fix this!!!</text>
+  </sentence>
+  <sentence id="186">
+    <text>Otherwise A+</text>
+  </sentence>
+  <sentence id="187">
+    <text>Needs the ability to link folders and not just files, though.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="21" term="link folders" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="188">
+    <text>I've never troubled myself to write a review before, but Dropbox deserves a great review!</text>
+  </sentence>
+  <sentence id="189">
+    <text>All of the sudden the audio streams in background again. Hope it continues to work. 
+
+Back to five stars.</text>
+  </sentence>
+  <sentence id="190">
+    <text>Downloaded the latest update and now my app has disappeared, and the App Store won't let me download it again.</text>
+  </sentence>
+  <sentence id="191">
+    <text>If you want to store some apps in here will Dropbox let you store your apps on your IPhone into Dropbox or not? Say I have a lot of apps on my IPhone, can I store some of them in Dropbox?</text>
+  </sentence>
+  <sentence id="192">
+    <text>I really like this app but but for an app that is supposed to automatically sync this one has a big hole. I was using this to do some testing of an ePub file I found that syncing didn't work.
+
+I selected the ebook and sent it to an app. So far so good. I found some errors which I fixed on my PC and reloaded the file on Dropbox. I then went back to Dropbox on my iPad and used the pull down which showed it to be my latest. I pushed the file to my test reader but it was still the old file!
+
+My work around is to select some other file on Dropbox and then reselected the real file and pushed it again. This time it worked.
+
+Hopefully this will get fixed.</text>
+  </sentence>
+  <sentence id="193">
+    <text>I gotta say, overall I like this app, although the logic behind the 15 min cap on streaming alludes me. I thought they may have imposed it to reduce bandwidth, but with the limit it actually increases bandwidth. The reason is because I start downloading the whole file, then start streaming it. Once the 15 min is up, I then switch to the downloaded file. To me, this uses more data. Why can't I just stream the whole thing? Overall, though, I like everything else about this app.</text>
+  </sentence>
+  <sentence id="194">
+    <text>It's a lifesaver!</text>
+  </sentence>
+  <sentence id="195">
+    <text>This is easy to use on all my devices!</text>
+  </sentence>
+  <sentence id="196">
+    <text>I always struggle to transfer pictures from my iPhone to computer and have lost pictures in the process.</text>
+  </sentence>
+  <sentence id="197">
+    <text>Dropbox is fantastic!</text>
+  </sentence>
+  <sentence id="198">
+    <text>Before the old the update everything was running fine. But now with the new update the pictures takes a long time to load. Very slow . Just fix it</text>
+  </sentence>
+  <sentence id="199">
+    <text>That moment I figured out I could transfer photos from my iPhone to laptop faster via dropbox than plugging my phone into the USB port.</text>
+  </sentence>
+  <sentence id="200">
+    <text>Easy to use.</text>
+  </sentence>
+  <sentence id="201">
+    <text>I am a fan.</text>
+  </sentence>
+  <sentence id="202">
+    <text>Fast transfer.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="5" term="transfer" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="203">
+    <text>I would want to do this all here in the app and not go to the site anymore.</text>
+  </sentence>
+  <sentence id="204">
+    <text>:)</text>
+  </sentence>
+  <sentence id="205">
+    <text>If you do this, I'd go for five stars.</text>
+  </sentence>
+  <sentence id="206">
+    <text>What I like to see is a way to share a folder and not just a file.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="31" term="share a folder" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="207">
+    <text>Eventho im reading about a bug in my case so far so good.</text>
+  </sentence>
+  <sentence id="208">
+    <text>I tried reloading but it still asks to connect to iTunes and will not work on my Ipad</text>
+  </sentence>
+  <sentence id="209">
+    <text>P?sima aplicaci?n. No habre ningun archivo</text>
+  </sentence>
+  <sentence id="210">
+    <text>WOW. It doesent let you upload videos it just starts to upload and then BAM it FREEZES!!</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="24" term="upload videos" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="211">
+    <text>THE REST IS FINE.</text>
+  </sentence>
+  <sentence id="212">
+    <text>!</text>
+  </sentence>
+  <sentence id="213">
+    <text>JUST FOR THAT IM GIVING IT 2Stars.</text>
+  </sentence>
+  <sentence id="214">
+    <text>So I can't upload any more SH/7.</text>
+  </sentence>
+  <sentence id="215">
+    <text>PLZ FIX</text>
+  </sentence>
+  <sentence id="216">
+    <text>I can't see the files anymore.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="12" term="see the files" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="217">
+    <text>Where did the file viewer go?</text>
+  </sentence>
+  <sentence id="218">
+    <text>Excel is not showing up.</text>
+  </sentence>
+  <sentence id="219">
+    <text>Since the last update the app crashes and says there's a problem when I try to delete files. I love this app but it needs to be fixed-I use it all the time!</text>
+  </sentence>
+  <sentence id="220">
+    <text>Was a great app until ios6.</text>
+  </sentence>
+  <sentence id="221">
+    <text>Very disappointing.</text>
+  </sentence>
+  <sentence id="222">
+    <text>Now I can not prioritize uploads.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="14" term="prioritize uploads" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="223">
+    <text>I really love how Dropbox update design.</text>
+  </sentence>
+  <sentence id="224">
+    <text>Always thinking out in space without the upload number decreasing.  For days.  :(. Last successful upload was 3/31 and it's 4/20.</text>
+  </sentence>
+  <sentence id="225">
+    <text>Crashes on launch after the splash screen. Please fix!</text>
+  </sentence>
+  <sentence id="226">
+    <text>Cool app! and now sync to desktop app</text>
+  </sentence>
+  <sentence id="227">
+    <text>The only problem by now is that it is not sincronized the loading bar in the Favorites tab (when you download something on your tab) with that in Files tab, but overall 5 stars.</text>
+  </sentence>
+  <sentence id="228">
+    <text>I like the new upgrade :) it looks very good.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="11" term="new upgrade" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="229">
+    <text>Nice and smooth photo streaming from device to device</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="16" term="photo streaming" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="230">
+    <text>One of the biggest problems I have is that the outline and search buttons seem to disappear after I use them once.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="47" term="outline" to="54"/>
+      <aspectTerm class="B" from="59" term="search buttons" to="73"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="231">
+    <text>After that I have to exit the file to use those buttons again because that's the only way to make the buttons re-appear.</text>
+  </sentence>
+  <sentence id="232">
+    <text>This is a useful tool</text>
+  </sentence>
+  <sentence id="233">
+    <text>Worked great before the last update, now it won t open.</text>
+  </sentence>
+  <sentence id="234">
+    <text>Good app</text>
+  </sentence>
+  <sentence id="235">
+    <text>Closes all the time</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="0" term="Closes" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="236">
+    <text>How to add voice memo from the iPhone?!</text>
+  </sentence>
+  <sentence id="237">
+    <text>Can you please fix that??</text>
+  </sentence>
+  <sentence id="238">
+    <text>Thanks!</text>
+  </sentence>
+  <sentence id="239">
+    <text>Also, can you please add the option to copy and move files?</text>
+  </sentence>
+  <sentence id="240">
+    <text>It would be a very useful feature!!</text>
+  </sentence>
+  <sentence id="241">
+    <text>I generally love Dropbox, but since I upgraded to iOS 7 I can no longer view html files properly (I am referring to files saved on my Dropbox as .html).</text>
+  </sentence>
+  <sentence id="242">
+    <text>I used to view them displayed nicely as web pages, but now I just see the source code instead!</text>
+  </sentence>
+  <sentence id="243">
+    <text>Used to work great but since the last update it's crashing and not opening simple PDF documents.
+
+PLEASE FIX</text>
+  </sentence>
+  <sentence id="244">
+    <text>I</text>
+  </sentence>
+  <sentence id="245">
+    <text>The left hand menu/sidebar no longer minimizes so that you can expand the view of the document you are viewing - please fix!!!!</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="4" term="left hand menu/sidebar" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="246">
+    <text>Does what it claims &amp;amp; does it well.</text>
+  </sentence>
+  <sentence id="247">
+    <text>Really appreciate the UI.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="22" term="UI" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="248">
+    <text>Latest update says they improved video streaming. What they did is now they convert video to crap quality and only let you stream 15 min. You have to fav them and have them saved on your device. Lame!</text>
+  </sentence>
+  <sentence id="249">
+    <text>This app was great until the update :(  Since the update, I can't view my files because of the push notification message popping up over and over. If this isn't fixed soon I will have to stop using Dropbox altogether. :(</text>
+  </sentence>
+  <sentence id="250">
+    <text>I wish it would stop telling me if I connect it to iTunes, I can get push notifications blah blah.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="37" term="connect it to iTunes" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="251">
+    <text>It's annoying, I'm hoping maybe an update will fix the pop up.</text>
+  </sentence>
+  <sentence id="252">
+    <text>Dropbox used to be among one of my favorite apps - fast, easy to use, and pretty.</text>
+  </sentence>
+  <sentence id="253">
+    <text>If this isn't what Dropbox intended with this update and/or I am actually at fault, they've certainly made it more difficult to accomplish the task of uploading single photos at a time.</text>
+  </sentence>
+  <sentence id="254">
+    <text>Upon this update, I have been forced to switch to a different service.</text>
+  </sentence>
+  <sentence id="255">
+    <text>I do not wish to share every photo with those I share folders with.</text>
+  </sentence>
+  <sentence id="256">
+    <text>Now, I am no longer presented with the ability to upload photos one at a time from my ios photos albums, and must instead upload EVERY photo.</text>
+  </sentence>
+  <sentence id="257">
+    <text>I do not use my cellular network for camera upload.</text>
+  </sentence>
+  <sentence id="258">
+    <text>If i want to enable background camera upload, it asks for the location.</text>
+  </sentence>
+  <sentence id="259">
+    <text>Other than that, the app is great, fast and easy to use.</text>
+  </sentence>
+  <sentence id="260">
+    <text>So the only option is the WiFi.</text>
+  </sentence>
+  <sentence id="261">
+    <text>But the major reason for me to use the dropbox mobile app is camera upload.</text>
+  </sentence>
+  <sentence id="262">
+    <text>So, three stars till this location thing changes.</text>
+  </sentence>
+  <sentence id="263">
+    <text>Just check if it is connected to a wifi access point or not?</text>
+  </sentence>
+  <sentence id="264">
+    <text>Keep coding!</text>
+  </sentence>
+  <sentence id="265">
+    <text>Why would an app asks for location if it only uses the wifi.</text>
+  </sentence>
+  <sentence id="266">
+    <text>You should put the folders first... And then the files!
+I would put a folder as favorite, thus putting all the files inside this as favorite too.</text>
+  </sentence>
+  <sentence id="267">
+    <text>Best way I know to keep all my important files in one place so I can access them from anywhere on any device!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="19" term="keep all my important files in one place" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="268">
+    <text>Not sure how I lived without it.</text>
+  </sentence>
+  <sentence id="269">
+    <text>Can't see my files. Guessing it'd bc this doesn't support ios 7. Please update!!!</text>
+  </sentence>
+  <sentence id="270">
+    <text>Well, it seems that this app will no longer work with any IOS prior to IOS7.  I can't even get it to load on my iPhone.  Is there some way to go back to a previous version and use that?</text>
+  </sentence>
+  <sentence id="271">
+    <text>Es una de las mejores aplicaciones que existe en general, su belleza y simplicidad hacen que el usuario no se complique mas... Yo ya ni USB uso, prefiero tener todo en internet y accesible desde cualquier dispositivo o cualquier parte del mundo sin depender de nada mas que acceso a internet...
+
+100% o mejor dicho 1000% recomendada!!!
+Me ha salvado muchas veces la vida...</text>
+  </sentence>
+  <sentence id="272">
+    <text>This app is useless it doesn't</text>
+  </sentence>
+  <sentence id="273">
+    <text>let me load anything !!!!! :(</text>
+  </sentence>
+  <sentence id="274">
+    <text>Videos dont work with ios 7, update please</text>
+  </sentence>
+  <sentence id="275">
+    <text>It runs great and my files open very quickly!</text>
+  </sentence>
+  <sentence id="276">
+    <text>It looks very clean and smooth.</text>
+  </sentence>
+  <sentence id="277">
+    <text>Some people are just complaining about the new icon just to jump on the bandwagon...</text>
+  </sentence>
+  <sentence id="278">
+    <text>get
+Over yourselves ...</text>
+  </sentence>
+  <sentence id="279">
+    <text>I like the new app!</text>
+  </sentence>
+  <sentence id="280">
+    <text>??</text>
+  </sentence>
+  <sentence id="281">
+    <text>So it wouldn't be showing EVERY PHOTO You have in Dropbox.</text>
+  </sentence>
+  <sentence id="282">
+    <text>It show every photo, Regardless of what folder it's in</text>
+  </sentence>
+  <sentence id="283">
+    <text>It should've had way to disable the photo tab, (Tab #2)</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="28" term="disable the photo tab" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="284">
+    <text>After the update the app will not even open on my iPad.  Otherwise Dropbox is the best.</text>
+  </sentence>
+  <sentence id="285">
+    <text>In word documents, headers and footer are not well placed as well as tables don't appear ...</text>
+  </sentence>
+  <sentence id="286">
+    <text>Please help and fix it.. I need it urgently in my work
+Thanks in advance.. :D</text>
+  </sentence>
+  <sentence id="287">
+    <text>In excel too.. Cells are not separated and conditional formatting doesn't appear...</text>
+  </sentence>
+  <sentence id="288">
+    <text>Same issues on iOS 6</text>
+  </sentence>
+  <sentence id="289">
+    <text>Music takes 15 seconds to load after you have selected a song ( doesn't matter if I'm on Verizon LTE or Wifi) also, it doesn't play the next song automatically instead you have to open the app, go back and pick the next song in the folder.</text>
+  </sentence>
+  <sentence id="290">
+    <text>Running iOS7.</text>
+  </sentence>
+  <sentence id="291">
+    <text>Please fix these in the next update!</text>
+  </sentence>
+  <sentence id="292">
+    <text>You can't even hit the &quot;next&quot; button to skip tracks.</text>
+  </sentence>
+  <sentence id="293">
+    <text>Kindly add rename function for folders and fils.</text>
+  </sentence>
+  <sentence id="294">
+    <text>Cheers</text>
+  </sentence>
+  <sentence id="295">
+    <text>Just simply by adding extra option icon where we slide for more actions.</text>
+  </sentence>
+  <sentence id="296">
+    <text>Keep up the great job.</text>
+  </sentence>
+  <sentence id="297">
+    <text>After last update for iOS it stopped working properly.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="37" term="working properly" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="298">
+    <text>A lot of issues!</text>
+  </sentence>
+  <sentence id="299">
+    <text>You have to fix this.</text>
+  </sentence>
+  <sentence id="300">
+    <text>Takes forever to load medium sized to large files.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="17" term="load medium sized to large files" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="301">
+    <text>It works well for very small files.</text>
+  </sentence>
+  <sentence id="302">
+    <text>A simple pdf can't even load! Inconvenient.</text>
+  </sentence>
+  <sentence id="303">
+    <text>I love being able to have access anytime to my Dropbox files!</text>
+  </sentence>
+  <sentence id="304">
+    <text>If only I could edit my excel files!</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="16" term="edit my excel files" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="305">
+    <text>Still the best out there!</text>
+  </sentence>
+  <sentence id="306">
+    <text>If you have a lifetime to wait for files to download and transfer to your camera role this may be the app for you.  It's much faster to take the time to sync your iPad 2 and transfer your files through iTunes.  I'm disgusted!</text>
+  </sentence>
+  <sentence id="307">
+    <text>great apps!! i use it every time i want to share file to all my friend!!</text>
+  </sentence>
+  <sentence id="308">
+    <text>Would love to be able to print right from the app instead of having to go through the browser or open it in another app.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="25" term="print right from the app" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="309">
+    <text>Otherwise very convenient.</text>
+  </sentence>
+  <sentence id="310">
+    <text>I wish it had basic photo editing features like cropping since any image cropped by iPhone, will upload w/o the cropping.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="48" term="cropping" to="56"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="311">
+    <text>The most recent files on my phone are all 1 month old yet there are many more current files that I have loaded in Dropbox desktop folder for syncing.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="-9" term="syncing" to="-2"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="312">
+    <text>Help!</text>
+  </sentence>
+  <sentence id="313">
+    <text>Sometime in the last month Dropbox stopped syncing.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="43" term="syncing" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="314">
+    <text>New update doesn't detail what's changed. Now the app doesn't work. Just a black screen with a gray bar at the bottom. Please fix soon.</text>
+  </sentence>
+  <sentence id="315">
+    <text>Dropbox....always the best!!!</text>
+  </sentence>
+  <sentence id="316">
+    <text>App is ok for accessing files.</text>
+  </sentence>
+  <sentence id="317">
+    <text>I really want to be able to edit documents and attach docs to emails like one can do on a computer.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="47" term="attach docs to emails" to="68"/>
+      <aspectTerm class="R" from="28" term="edit documents" to="42"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="318">
+    <text>Also, any chance that the ability to open and read .zip files could be added.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="37" term="open and read .zip files" to="61"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="319">
+    <text>I love Dropbox because its a perfect tool for keeping your files with you whenever.</text>
+  </sentence>
+  <sentence id="320">
+    <text>I just wish that photos wouldn't show as a list and you could change it so you see all your photos as a grid, much like the photo library on the iPhone.</text>
+  </sentence>
+  <sentence id="321">
+    <text>I want the old version , this don't have the option to share my files via Facebook message ,please bring back the previous version or fix that !!!!</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="59" term="share my files via Facebook message" to="94"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="322">
+    <text>it's horrible , it's slow !!!</text>
+  </sentence>
+  <sentence id="323">
+    <text>Since last update unable to use app, just get splash screen and then it crashes and closes.</text>
+  </sentence>
+  <sentence id="324">
+    <text>Also before adding new features lets clean up the interface and stop classifying videos as photos.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="69" term="classifying videos as photos" to="97"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="325">
+    <text>Ever since the new interface it's taken more steps to find and upload my videos.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="58" term="find and upload my videos" to="83"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="326">
+    <text>Hope fix in on the way soon.</text>
+  </sentence>
+  <sentence id="327">
+    <text>As the camera resolution increases, so does the need for more storage since DropBox only allows photos to be uploaded in their original, full size.</text>
+  </sentence>
+  <sentence id="328">
+    <text>My other complaint is that you can no longer adjust the size of a photo when uploading.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="45" term="adjust the size of a photo" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="329">
+    <text>I am a big fan of DropBox in general but the recent upgrade for the iPad version cannot view excel files... which is an obvious and very basic problem to miss.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="88" term="view excel files" to="104"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="330">
+    <text>But still no iWork support when viewing Pages and Numbers documents?</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="13" term="iWork support" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="331">
+    <text>Please add an &quot;open with&quot; option to use before viewing the file so a document editor can be used to modify it and then save it right back to Dropbox.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="19" term="open with" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="332">
+    <text>The open with option doesn't work for encrypted documents since the has a built in document reader that can't edit files.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="4" term="open with" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="333">
+    <text>Great App. Need alerts and then 5 stars</text>
+  </sentence>
+  <sentence id="334">
+    <text>You guys seriously need to have the tool to rename a file and copy a file.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="62" term="copy" to="66"/>
+      <aspectTerm class="R" from="44" term="rename" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="335">
+    <text>It is driving me insane!!!!!!! ??</text>
+  </sentence>
+  <sentence id="336">
+    <text>I'd love to be able to share a folder via the app and I've needed to so this before while I was out, but unfortunately, this app as of 3/1/13 doesn't have that feature.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="27" term="share a folder" to="41"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="337">
+    <text>The one big thing I think it lacks is a way to share folders while you're using the app.</text>
+  </sentence>
+  <sentence id="338">
+    <text>It would be really useful to have!</text>
+  </sentence>
+  <sentence id="339">
+    <text>This app is really useful for having access to documents while I'm out.</text>
+  </sentence>
+  <sentence id="340">
+    <text>I like evrything except you cannot able to upload back the videos to the camera rolls to free some space.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="43" term="upload back the videos to the camera rolls" to="85"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="341">
+    <text>Thanks</text>
+  </sentence>
+  <sentence id="342">
+    <text>Please fix it!!!!</text>
+  </sentence>
+  <sentence id="343">
+    <text>This app is good.</text>
+  </sentence>
+  <sentence id="344">
+    <text>I love it but I mainly want to extract my files and I don't know how if u can PLZ tell if not PLZ update for extract! ^_^</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="31" term="extract my files" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="345">
+    <text>HOWEVER,after updating it the other day to a newer version,it is CONSTANTLY transmitting location data and WILL NOT SHUT OFF.i know i can simply turn off the location services for this app under &quot;settings&quot;,but</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="76" term="transmitting location data" to="102"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="346">
+    <text>I SHOULDN'T HAVE TO.its worked fine with them turned on for years,and i shouldn't have to change MY settings just for a faulty program.this is very annoying,and I hope someone will please fix this as soon as possible.</text>
+  </sentence>
+  <sentence id="347">
+    <text>I've never had an issue with Dropbox before,so I don't know what all these people are complaining about.its a great app that has truly streamlined my life with its convenience.</text>
+  </sentence>
+  <sentence id="348">
+    <text>Best app ever</text>
+  </sentence>
+  <sentence id="349">
+    <text>Other than that, the app is perfect.</text>
+  </sentence>
+  <sentence id="350">
+    <text>I'd love to be able to share folders and create custom links from inside the app.</text>
+  </sentence>
+  <sentence id="351">
+    <text>Currently I have to do it by logging in my account in safari.</text>
+  </sentence>
+  <sentence id="352">
+    <text>DropBox easily exceeds other options of cloud service (except for free space offered).</text>
+  </sentence>
+  <sentence id="353">
+    <text>The &quot;Open In&quot; option is available in some iWorks documents, but not all.</text>
+  </sentence>
+  <sentence id="354">
+    <text>Looks nice, but for some reason I can't open some files in Pages and Numbers.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="44" term="open some files in Pages and Numbers" to="80"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="355">
+    <text>There doesn't seem to be any consistency about which files can be opened.</text>
+  </sentence>
+  <sentence id="356">
+    <text>Very good program</text>
+  </sentence>
+  <sentence id="357">
+    <text>can u add a multiple transfer photos  &quot;drop box to phone&quot; .,cause it hard to save or copy one by one</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="12" term="multiple transfer photos" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="358">
+    <text>Please help Dropbox.</text>
+  </sentence>
+  <sentence id="359">
+    <text>!</text>
+  </sentence>
+  <sentence id="360">
+    <text>I love this app, BUT it is not working with iOS7!!!!</text>
+  </sentence>
+  <sentence id="361">
+    <text>I also love the new look.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="16" term="new look" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="362">
+    <text>I love Dropbox!</text>
+  </sentence>
+  <sentence id="363">
+    <text>I do wish there was a way to view the full file names of files and edit file names.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="29" term="view the full file names" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="364">
+    <text>There is a reason that Windows went away from 8.3.</text>
+  </sentence>
+  <sentence id="365">
+    <text>This update makes it harder and slower to use.</text>
+  </sentence>
+  <sentence id="366">
+    <text>The old version used colors, which made it much faster to use.</text>
+  </sentence>
+  <sentence id="367">
+    <text>The icons for different file types all look very similar, which makes it slower to scan through and find the desired file.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="icons" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="368">
+    <text>I use this app for all my classes. Having access to textbooks and slides via PDF  is key in college!</text>
+  </sentence>
+  <sentence id="369">
+    <text>What happened to &quot;open in&quot; option? I need to be able to view Dropbox items in other apps. Why the heck would you guys disable your most useful feature???</text>
+  </sentence>
+  <sentence id="370">
+    <text>Can't access my files with the recent update the app just closes.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="10" term="access my files" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="371">
+    <text>Can you change that?</text>
+  </sentence>
+  <sentence id="372">
+    <text>But I mostly use Dropbox for music and it gets kind of annoying that the music doesn't go in a playlist like in the music app.</text>
+  </sentence>
+  <sentence id="373">
+    <text>I think this app is awesome and this whole program altogether!</text>
+  </sentence>
+  <sentence id="374">
+    <text>What's with all the white? This isn't the settings app, give it a little life!</text>
+  </sentence>
+  <sentence id="375">
+    <text>The App is good but needs a few improvements.
+
+1.  Allow users to rename files.
+
+2.  Allow users to select multiple files to save to camera roll</text>
+  </sentence>
+  <sentence id="376">
+    <text>Works well, especially for saving files for offline use.</text>
+  </sentence>
+  <sentence id="377">
+    <text>Latest version now can no longer be opened on iPad mini.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="36" term="opened on iPad mini" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="378">
+    <text>It crashes as soon as I open it.</text>
+  </sentence>
+  <sentence id="379">
+    <text>Previous version was fine.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="0" term="Previous version" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="380">
+    <text>Open the app</text>
+  </sentence>
+  <sentence id="381">
+    <text>I'm not sure how I got along prior to Dropbox.  I use it for sharing and collaboration with my coworkers, my dealer force and my dad and brother on the farm.  It is so simple to use.  This is a no-brainer!!</text>
+  </sentence>
+  <sentence id="382">
+    <text>Good app but ever since the last update I can no longer open PDFs from using DropBox. The option is there but pressing open in Dropbox doesn't do anything.</text>
+  </sentence>
+  <sentence id="383">
+    <text>good job!!</text>
+  </sentence>
+  <sentence id="384">
+    <text>most of the times.</text>
+  </sentence>
+  <sentence id="385">
+    <text>visually pleasing.</text>
+  </sentence>
+  <sentence id="386">
+    <text>This app is really neat.</text>
+  </sentence>
+  <sentence id="387">
+    <text>and the new task by voice on this thing is really work.</text>
+  </sentence>
+  <sentence id="388">
+    <text>The new UI is beautiful and functional.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="new UI" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="389">
+    <text>However, it's still missing some important management features such as renaming, or using file versions.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="88" term="using file versions" to="107"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="390">
+    <text>I have some videos on my phone and they take too much space; I've wanted to put them into Dropbox so I can get that space back. It's taking forever though. I took those videos last year and the first one is still downloading. Please fix it!!!</text>
+  </sentence>
+  <sentence id="391">
+    <text>Why do I did to back my mail up its Soo stupid!</text>
+  </sentence>
+  <sentence id="392">
+    <text>But, I hate carrying around a USB and tend to loose them and this us better than emailing it.</text>
+  </sentence>
+  <sentence id="393">
+    <text>I wanted to do this with iCloud but I'm out if memory cause of mail!</text>
+  </sentence>
+  <sentence id="394">
+    <text>I don't have pages and</text>
+  </sentence>
+  <sentence id="395">
+    <text>won't pay for that so iCloud is useless to me!</text>
+  </sentence>
+  <sentence id="396">
+    <text>It is annoying that it adds all your pictures without warning (I take a lot of useless photos that I end up deleting but it's still in the cloud and having to redelete them in annoying).</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="23" term="adds all your pictures" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="397">
+    <text>All my docs are synced so I can get to it on my iPod touch, my laptop, and the schools iMac after I used the site to sign into my account.</text>
+  </sentence>
+  <sentence id="398">
+    <text>The app was working perfectly and I loved it. But I don't know why it stopped working!  It says that I had downloaded it but when I tried to open it it doesn't work!! Please fix it !!</text>
+  </sentence>
+  <sentence id="399">
+    <text>Great for simple file storage and organization.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="17" term="file storage" to="29"/>
+      <aspectTerm class="E" from="34" term="organization" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="400">
+    <text>Simple to use; keeps important doc's handy and portable wherever you are.</text>
+  </sentence>
+  <sentence id="401">
+    <text>Great</text>
+  </sentence>
+  <sentence id="402">
+    <text>Easy to organize.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="8" term="organize" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="403">
+    <text>app!</text>
+  </sentence>
+  <sentence id="404">
+    <text>Once I play with it, I will assess whether it deserves more stars...</text>
+  </sentence>
+  <sentence id="405">
+    <text>help!</text>
+  </sentence>
+  <sentence id="406">
+    <text>Updated: I see the suggestion is to delete and reinstall--HOW ARE YOU SUPPOSED TO DELETE WHAT ISN'T ON THE PHONE, despite the fact that the App Store says to open the app, but will NOT open when you press the button?</text>
+  </sentence>
+  <sentence id="407">
+    <text>I can't delete it--but it is not on my phone.</text>
+  </sentence>
+  <sentence id="408">
+    <text>FURTHER UPDATE--version 2.1.1 brought back dropbox to my phone.</text>
+  </sentence>
+  <sentence id="409">
+    <text>Upgraded to 3 stars.</text>
+  </sentence>
+  <sentence id="410">
+    <text>I can't open Dropbox.</text>
+  </sentence>
+  <sentence id="411">
+    <text>And I can't redownload it....</text>
+  </sentence>
+  <sentence id="412">
+    <text>As soon as i updated to version 2.1.</text>
+  </sentence>
+  <sentence id="413">
+    <text>All my pictures and files from my ipad are now saved on to Dropbox and I don't have to worry that I'll ever lose them.</text>
+  </sentence>
+  <sentence id="414">
+    <text>This app is a must.</text>
+  </sentence>
+  <sentence id="415">
+    <text>The new version looks awful and only runs on an awful looking OS. I'll pass, thanks.</text>
+  </sentence>
+  <sentence id="416">
+    <text>So, the version I use gets 4 stars with only minor hiccups.</text>
+  </sentence>
+  <sentence id="417">
+    <text>apps.</text>
+  </sentence>
+  <sentence id="418">
+    <text>I will not be updating Dropbox on my other devices because I refuse to update to the hideous ios7 or ios7 &quot;look and feel&quot;</text>
+  </sentence>
+  <sentence id="419">
+    <text>Similarly every single app that gets updated to a &quot;beautiful&quot; ios7 look is one I will not update.</text>
+  </sentence>
+  <sentence id="420">
+    <text>Did Johny Ive really think that replacing all of the grays and blacks in an OS he thought was too dark wouldn't go too far in the other direction?</text>
+  </sentence>
+  <sentence id="421">
+    <text>The only exception to this is Steam which looks great still.</text>
+  </sentence>
+  <sentence id="422">
+    <text>$W@G</text>
+  </sentence>
+  <sentence id="423">
+    <text>Argh. Crashes all the time. This service, and this app, would be great if the app didn't crash when reading PDFs.
+
+Great when it works.</text>
+  </sentence>
+  <sentence id="424">
+    <text>The app is like a 2nd photo stream that stores than pics.</text>
+  </sentence>
+  <sentence id="425">
+    <text>I have issue with that but otherwise it's a cool app.</text>
+  </sentence>
+  <sentence id="426">
+    <text>In order for me to watch the MY videos I must favorite it?!</text>
+  </sentence>
+  <sentence id="427">
+    <text>The 15 limit on watching my videos becomes a bit of an issue.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="15 limit on watching my videos" to="34"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="428">
+    <text>Dropbox is great, although i wish this app had a better way to listen to music!</text>
+  </sentence>
+  <sentence id="429">
+    <text>If you could actually move from one song to the next automatically, that would be great.</text>
+  </sentence>
+  <sentence id="430">
+    <text>Or be able to browse the app while listening to music on your dropbox</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="14" term="browse the app while listening to music" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="431">
+    <text>I found the app very handy..should add on the features end</text>
+  </sentence>
+  <sentence id="432">
+    <text>Quits immediately I see the main screen! A bug definitely. I use iPad 4, 32gb wifi+4g, latest iOS. I'm on the fast WiFi right now.</text>
+  </sentence>
+  <sentence id="433">
+    <text>It allows me to share individual photos but not entire folders!</text>
+  </sentence>
+  <sentence id="434">
+    <text>That's pretty cool.</text>
+  </sentence>
+  <sentence id="435">
+    <text>On the other hand I do like that I can view and share excel documents.</text>
+  </sentence>
+  <sentence id="436">
+    <text>WTH ?</text>
+  </sentence>
+  <sentence id="437">
+    <text>I want to be able to send a link to people of an entire folder with many pics in it from my mobile.</text>
+  </sentence>
+  <sentence id="438">
+    <text>Although it does take quite a while to load it seems.</text>
+  </sentence>
+  <sentence id="439">
+    <text>I can easily text someone a single photo ...</text>
+  </sentence>
+  <sentence id="440">
+    <text>What good is that??</text>
+  </sentence>
+  <sentence id="441">
+    <text>Seems useless now.</text>
+  </sentence>
+  <sentence id="442">
+    <text>Also an improvement in the media player would also help.</text>
+  </sentence>
+  <sentence id="443">
+    <text>It's very convenient to use, however not being able to switch between accounts without</text>
+  </sentence>
+  <sentence id="444">
+    <text>un-linking the phone would be great.</text>
+  </sentence>
+  <sentence id="445">
+    <text>It gets old, real fast, scrolling through a 50+ page document, multiple times.</text>
+  </sentence>
+  <sentence id="446">
+    <text>Also does it if you leave the app to do something and then go back to the document.</text>
+  </sentence>
+  <sentence id="447">
+    <text>A user friendly app would hold the place of whatever you are reviewing.</text>
+  </sentence>
+  <sentence id="448">
+    <text>Really annoying when you are reviewing a document and you change orientation and the document reloads and takes you back to the beginning every time.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="85" term="document reloads and takes you back to the beginning" to="137"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="449">
+    <text>This is just silly.</text>
+  </sentence>
+  <sentence id="450">
+    <text>Please, dropbox business managers and developers; demonstrate that you listen to reasonable requests for sensible GUI improvements and FIX THIS.</text>
+  </sentence>
+  <sentence id="451">
+    <text>For this reason that I have given a 2 star rating.</text>
+  </sentence>
+  <sentence id="452">
+    <text>As far as I can see the files are always listed alphabetically.</text>
+  </sentence>
+  <sentence id="453">
+    <text>Also,  I cannot believe that it is not possible to sort files by upload date or some other field.</text>
+  </sentence>
+  <sentence id="454">
+    <text>It is mind bending as to why such glaring deficiencies in an otherwise awesome platform are not corrected.</text>
+  </sentence>
+  <sentence id="455">
+    <text>I was shocked to find out today that users have been asking for the ability to view long untruncated long filenames for 2 YEARS.  
+
+Why can I view a long filename on the iPhone app yet NOT on the iPad app?</text>
+  </sentence>
+  <sentence id="456">
+    <text>I am a programmer so I know these are relatively easy fixes to implement.</text>
+  </sentence>
+  <sentence id="457">
+    <text>This app is great but the only thing I don't like is that that it freezes a lot and doesn't load all of my pictures</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="100" term="load all of my pictures" to="123"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="458">
+    <text>With the iWorks update I can no longer open my iWorks docs, rendering Dropbox totally useless.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="39" term="open my iWorks docs" to="58"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="459">
+    <text>Then I cave give you the 5 star rating you deserve.</text>
+  </sentence>
+  <sentence id="460">
+    <text>Please restore the functionality we count on.</text>
+  </sentence>
+  <sentence id="461">
+    <text>Dropbox went from the best app to the worst.</text>
+  </sentence>
+  <sentence id="462">
+    <text>Great app but you should add the option of change folder and files names</text>
+  </sentence>
+  <sentence id="463">
+    <text>I use DropBox frequently until the latest upgrade. The DropBox app no longer communicates with DropBox on my iMac.</text>
+  </sentence>
+  <sentence id="464">
+    <text>Since the last update, Dropbox says I have no installed apps to open PDF files when I actually do. I am unable to open them in Adobe Reader or ifile.</text>
+  </sentence>
+  <sentence id="465">
+    <text>Ever since iOS 7 update, Dropbox has not worked; constantly crashes, when it does run it is EXTREMELY slow, and there are problems with camera uploading.</text>
+  </sentence>
+  <sentence id="466">
+    <text>PLEASE FIX ASAP.</text>
+  </sentence>
+  <sentence id="467">
+    <text>Maybe it's just me, but I really loved it.</text>
+  </sentence>
+  <sentence id="468">
+    <text>No but really good design, works very smoothly and shows many potentials of growth.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="19" term="design" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="469">
+    <text>I save important documents on my Dropbox and after these last two updates I can't access them. I'm really disappointed with the IOS 7 version of this app</text>
+  </sentence>
+  <sentence id="470">
+    <text>Please fix.</text>
+  </sentence>
+  <sentence id="471">
+    <text>I'm running iOS 6.1.1 on a iPhone 4S -- just updated the app and it keeps crashing upon opening.</text>
+  </sentence>
+  <sentence id="472">
+    <text>My videos aren't loading into my Dropbox. Once the load all the way up, and should go in and move on to the the next instead it jus starts over. Can you please help? Otherwise it's great. Thanks for fixing the uploading vids bak into phone problem.</text>
+  </sentence>
+  <sentence id="473">
+    <text>Everything is like you have to buy to fully enjoy</text>
+  </sentence>
+  <sentence id="474">
+    <text>The latest update freezes on Apple 4 phone.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="4" term="latest update" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="475">
+    <text>Thank you for your great work Dropbox!!</text>
+  </sentence>
+  <sentence id="476">
+    <text>Was not able to gett it to work for me -- computer???? and ipad [ok].
+
+wish thre were better directions. I will keep looking for an app that I can inderstand. Sorry.</text>
+  </sentence>
+  <sentence id="477">
+    <text>The last update fixed nothing. Still can't view 90% or my PDFs.
+
+Deleting and reinstalling the app did fix it though.</text>
+  </sentence>
+  <sentence id="478">
+    <text>I (and many other Dropbox users) have been waiting months for DB to fix the Dropbox/iPad file browser bug that only shows the first few characters in the filename.</text>
+  </sentence>
+  <sentence id="479">
+    <text>Other than this glaring error, a great product.</text>
+  </sentence>
+  <sentence id="480">
+    <text>Now I have to just guess when transferring files with similar long filenames to my iPad.</text>
+  </sentence>
+  <sentence id="481">
+    <text>Such a simple problem, but ignored by developers (after many requests by users!)</text>
+  </sentence>
+  <sentence id="482">
+    <text>It works great in iPhone (landscape mode) which has much less screen real estate, but not iPad.</text>
+  </sentence>
+  <sentence id="483">
+    <text>Why can't they repair this?</text>
+  </sentence>
+  <sentence id="484">
+    <text>Beware of update.</text>
+  </sentence>
+  <sentence id="485">
+    <text>Just because it is all white doesn't make it &quot;beautiful.&quot; I liked the look of the old app more.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="82" term="look of the old app" to="101"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="486">
+    <text>Can't upload anything but photos.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="10" term="upload anything but photos" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="487">
+    <text>No text.</text>
+  </sentence>
+  <sentence id="488">
+    <text>No memos.</text>
+  </sentence>
+  <sentence id="489">
+    <text>Se nota que es m?s fluida.
+Me gustar?a que los dem?s aprendieran hacer asi sus apps, ya que ios7 ha ralentizado mucho mis igadgets.
+Se agradece la velocidad.</text>
+  </sentence>
+  <sentence id="490">
+    <text>Dropbox is good but it takes too long to upload videos</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="41" term="upload videos" to="54"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="491">
+    <text>I use this app every day for school. It's reliable and super handy.</text>
+  </sentence>
+  <sentence id="492">
+    <text>Title says it all.</text>
+  </sentence>
+  <sentence id="493">
+    <text>Old UI was much better in this regard.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="0" term="Old UI" to="6"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="494">
+    <text>It's not.</text>
+  </sentence>
+  <sentence id="495">
+    <text>I have no idea why all these UI designers think having everything the same color (white!) is better.</text>
+  </sentence>
+  <sentence id="496">
+    <text>Flat style is fine, but apps need visible separation between content and control functions.</text>
+  </sentence>
+  <sentence id="497">
+    <text>New features and functionality are great, but the updated iOS 7 interface is horrible.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="50" term="updated iOS 7 interface" to="73"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="498">
+    <text>They show they haven't been modified in months when I modified it five minutes ago and all my other devices and computers not on iOS7 show the update.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="-9" term="update" to="-3"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="499">
+    <text>If these problems get fixed I'll change my rating until then it will remain a 1 star.</text>
+  </sentence>
+  <sentence id="500">
+    <text>Can't open files, files won't update.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="38" term="update" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="501">
+    <text>The latest update broke the application.  Before the update 5 stars after the update 1 star.  Please fix.  iPhone 4S 6.1</text>
+  </sentence>
+  <sentence id="502">
+    <text>Cant get my files. It will not open. Please fix.</text>
+  </sentence>
+  <sentence id="503">
+    <text>Mine has been stuck in the update mode for 3 days now</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="27" term="update mode" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="504">
+    <text>I used to be able to view .xls files on my iPad AND iPhone.  I can still view them on my iPhone but they no longer open on the iPad. 
+
+Sometimes the files will open for a few seconds and then a gray screen comes up. Most of the time I just get the gray screen.  The gray screen has the file name, &quot;Office Open XML Spreadsheet&quot;' and the file size.
+
+My spreadsheets are simple (no macros) and small in size.  I've tried creating new spreadsheets and have the same issue.  Web research shows others have same issue but no fixes have worked for me. 
+
+I'm on the latest IOS 7.0.4 and the most recent version of Dropbox 3.0.1.
+
+Chat with Apple Support says it is a DropBox issue.</text>
+  </sentence>
+  <sentence id="505">
+    <text>It keeps crashing every time I open the app????</text>
+  </sentence>
+  <sentence id="506">
+    <text>app used to work wonderful except recent update.. unable to open most of our PDF files .. DROPBOX help!!! need fix ASAP!!</text>
+  </sentence>
+  <sentence id="507">
+    <text>The app greatly enhances the capability of the iPad by making it truly portable.  You are able to access your materials on all of your devices &amp; share with others either for the purpose of collaboration or simply dispersing information.  Both are very useful in the world of education!</text>
+  </sentence>
+  <sentence id="508">
+    <text>!</text>
+  </sentence>
+  <sentence id="509">
+    <text>However with the implementation of the ability to share links to files and folders in the most recent update, Dropbox has my 5 stars!!</text>
+  </sentence>
+  <sentence id="510">
+    <text>I had decided to write a review and give Dropbox 4 stars.</text>
+  </sentence>
+  <sentence id="511">
+    <text>Just yesterday, I was thinking about how incredibly useful Dropbox is.</text>
+  </sentence>
+  <sentence id="512">
+    <text>I have never written a review about any app thus far.</text>
+  </sentence>
+  <sentence id="513">
+    <text>I don't really know how to created the file like a word document or something.</text>
+  </sentence>
+  <sentence id="514">
+    <text>Not a huge deal, but I liked the old version better.</text>
+  </sentence>
+  <sentence id="515">
+    <text>Still very easy to share files, but why lose the in-app control for AirPlay?</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="19" term="share files" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="516">
+    <text>Great for sending and sharing large files. Wish they'd allow you to send and share the folders and files from the app.</text>
+  </sentence>
+  <sentence id="517">
+    <text>There are many ways to transfer photos between devises so I don't know what good is one more app to do that! I thought that this would be good enough to transfer acrobat reader o PDF files -NOT!!</text>
+  </sentence>
+  <sentence id="518">
+    <text>This would easily be a 5 star app. Best idea ever.  But it loses 2 stars just because I have to download one photo at a time. This is a huge inconvenience.</text>
+  </sentence>
+  <sentence id="519">
+    <text>None of the files will open after update of iOS 7.</text>
+  </sentence>
+  <sentence id="520">
+    <text>Can't open numbers files</text>
+  </sentence>
+  <sentence id="521">
+    <text>Beautiful app!!</text>
+  </sentence>
+  <sentence id="522">
+    <text>HAHAHAH jk!</text>
+  </sentence>
+  <sentence id="523">
+    <text>Thanks Dropbox for keeping my porn safe.</text>
+  </sentence>
+  <sentence id="524">
+    <text>It says I've downloaded the app but it won't let me open it from the App Store. The icon isn't even on my phone!! Please fix for iOS 7!!</text>
+  </sentence>
+  <sentence id="525">
+    <text>That makes this once-essential app virtually useless to me.</text>
+  </sentence>
+  <sentence id="526">
+    <text>Since the update, I can no longer open pdf files.</text>
+  </sentence>
+  <sentence id="527">
+    <text>In fact, my iPad would be useless without it.</text>
+  </sentence>
+  <sentence id="528">
+    <text>Like over an hour.</text>
+  </sentence>
+  <sentence id="529">
+    <text>I love this app, just wish it had a few more setting options or resolved the uploading video issue.</text>
+  </sentence>
+  <sentence id="530">
+    <text>I do not blame Dropbox for this, because it easily uploads in the background on my Droid.</text>
+  </sentence>
+  <sentence id="531">
+    <text>I need THAT much space.</text>
+  </sentence>
+  <sentence id="532">
+    <text>My only issue is that it still is taking FOREVER to upload videos I recorded.</text>
+  </sentence>
+  <sentence id="533">
+    <text>I LOVE Dropbox.</text>
+  </sentence>
+  <sentence id="534">
+    <text>Not Go To Sleep&quot; setting for this app) AND you have to keep it in Dropbox because it cannot upload in the background.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="96" term="upload in the background" to="120"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="535">
+    <text>Once it even got 65% of the way there, but then 15 mins later, it said &quot;couldn't connect to Dropbox.&quot; And all the time that it is uploading I have to keep tapping to keep my iPad awake (because there is no &quot;Do</text>
+  </sentence>
+  <sentence id="536">
+    <text>Useless for mobile users. Can't get a share link without first downloading the actual file to your mobile device over your cellar connection.</text>
+  </sentence>
+  <sentence id="537">
+    <text>I've been a user and fan of Dropbox for two years.  Wonderful service for MacBook Air with SSD memory.  The iPad app now continuously crashes - usually when opened or a few seconds later.  Using an iPad mini with latest operating system and 64GB memory.  I hope they patch this issue quickly.  
+
+RC</text>
+  </sentence>
+  <sentence id="538">
+    <text>The app's new look is aesthetically elegant.</text>
+  </sentence>
+  <sentence id="539">
+    <text>I noticed that location service is on all the time next to my battery indicator. Stopping the app and resetting my phone didn't help. Ended up turning it off under privacy settings. It was eating up my battery with location services stuck on. Please fix!</text>
+  </sentence>
+  <sentence id="540">
+    <text>Digitally!</text>
+  </sentence>
+  <sentence id="541">
+    <text>Need to be able to search and find words or phrases, electronically!</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="19" term="search" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="542">
+    <text>Please create a search function that works within and among files.</text>
+  </sentence>
+  <sentence id="543">
+    <text>Not by having to open and tediously read doc after doc, file after file, to find what I need.</text>
+  </sentence>
+  <sentence id="544">
+    <text>I use Dropbox all the time.</text>
+  </sentence>
+  <sentence id="545">
+    <text>Updating to 5 stars!</text>
+  </sentence>
+  <sentence id="546">
+    <text>It's great.</text>
+  </sentence>
+  <sentence id="547">
+    <text>I need to switch frequently between work and personal accounts.</text>
+  </sentence>
+  <sentence id="548">
+    <text>Thanks
+
+UPDATE: autocomplete seems to be working now.</text>
+  </sentence>
+  <sentence id="549">
+    <text>Please don't disable the auto fill in email sign in tho.</text>
+  </sentence>
+  <sentence id="550">
+    <text>I guess my device was being quirky.</text>
+  </sentence>
+  <sentence id="551">
+    <text>Typing my full email in without my auto-fill is a massive pain.</text>
+  </sentence>
+  <sentence id="552">
+    <text>Fix gifs and you get 5 starts.</text>
+  </sentence>
+  <sentence id="553">
+    <text>Not working crash when open. IOS:6.1.2</text>
+  </sentence>
+  <sentence id="554">
+    <text>Just that one word, wow!!!!</text>
+  </sentence>
+  <sentence id="555">
+    <text>I have no way to recover them and they were very important to me.</text>
+  </sentence>
+  <sentence id="556">
+    <text>The last update deleted all my saved videos!!!</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="4" term="last update" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="557">
+    <text>Flat out will not open on a new iPad Air</text>
+  </sentence>
+  <sentence id="558">
+    <text>Ever since IOS 7, it has been crashing. 
+Can we expect a fix?</text>
+  </sentence>
+  <sentence id="559">
+    <text>can't share a folder
+can't accept a shared folder
+can't download or upload anything but photos
+
+i just use a file management app that integrates with DropBox, such as Files Pro</text>
+  </sentence>
+  <sentence id="560">
+    <text>I should have read the reviews first!!!  I can't stand the all white...agree with one of the other reviews...I don't want to open it up!</text>
+  </sentence>
+  <sentence id="561">
+    <text>I can't get a shared folder through the app b/c I need to click on a verification email which I never received.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="73" term="verification email" to="91"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="562">
+    <text>What's the purpose of a password to open the app, then?</text>
+  </sentence>
+  <sentence id="563">
+    <text>What is the point of having the option of background upload...</text>
+  </sentence>
+  <sentence id="564">
+    <text>When it doesn't upload in the background?</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="20" term="upload in the background" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="565">
+    <text>But instead I have to make sure the app is running...</text>
+  </sentence>
+  <sentence id="566">
+    <text>I would love for it to backup my photos and what not while I'm asleep and on wifi and charging...</text>
+  </sentence>
+  <sentence id="567">
+    <text>The video I'm trying to upload is taking very long</text>
+  </sentence>
+  <sentence id="568">
+    <text>Update from several days ago is still trying to install. Looks like I will have to remove and reinstall app.</text>
+  </sentence>
+  <sentence id="569">
+    <text>Dropbox is always very reliable for me.</text>
+  </sentence>
+  <sentence id="570">
+    <text>This app is great.</text>
+  </sentence>
+  <sentence id="571">
+    <text>The last upgrade just got stuck 1/3rd through the download, so I can't eve use this anymore! Disappointed.</text>
+  </sentence>
+  <sentence id="572">
+    <text>Videos are just too large to be worth syncing.</text>
+  </sentence>
+  <sentence id="573">
+    <text>But please add the ability to only sync photos.</text>
+  </sentence>
+  <sentence id="574">
+    <text>...</text>
+  </sentence>
+  <sentence id="575">
+    <text>Currently you can only set it to sync photos AND videos.</text>
+  </sentence>
+  <sentence id="576">
+    <text>??????????????</text>
+  </sentence>
+  <sentence id="577">
+    <text>The app that I use the most</text>
+  </sentence>
+  <sentence id="578">
+    <text>woh woh woh
+getting worse buddy
+make a change i know you're mind opens but your app really don't</text>
+  </sentence>
+  <sentence id="579">
+    <text>I would like the ability to share a complete folder not just one file at a time. I'm not sure if I'm just not seeing this feature? It seems like a basic function at this point, since you can do basically everything else within the app platform. Other than that, I am very happy with the experience.</text>
+  </sentence>
+  <sentence id="580">
+    <text>I also wish that you could invite other to folders from the app versus just sharing a link with them ...</text>
+  </sentence>
+  <sentence id="581">
+    <text>I wish that the app would send push notifications when new files have been added just like a desktop computer would notify you.</text>
+  </sentence>
+  <sentence id="582">
+    <text>Other than that, I love Dropbox!</text>
+  </sentence>
+  <sentence id="583">
+    <text>The app will not let me apply downloads to minecraft pe</text>
+  </sentence>
+  <sentence id="584">
+    <text>Ok</text>
+  </sentence>
+  <sentence id="585">
+    <text>The update rendered dropbox useless to me. I export audio from my lectures to mp4 from Microsoft word. It used to play flawlessly on my iPhone using dropbox app. Now it says &quot;unable to load photo.&quot; This is really really annoying. Ill change my star when this gets fixed. Why update something that worked fine before?</text>
+  </sentence>
+  <sentence id="586">
+    <text>I have used this app for a long time and it has always worked well.</text>
+  </sentence>
+  <sentence id="587">
+    <text>Annoying glitch though- Dropbox has stopped translating date code in Excel spreadsheet.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="44" term="translating date code" to="65"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="588">
+    <text>Other than that, app performs well.</text>
+  </sentence>
+  <sentence id="589">
+    <text>Did up to six months ago- now only displays the code (not the actual date) in my spreadsheets and I really need to see the dates.</text>
+  </sentence>
+  <sentence id="590">
+    <text>Please fix the crashes , bugs and if its possible ,make the App faster</text>
+  </sentence>
+  <sentence id="591">
+    <text>A+++++</text>
+  </sentence>
+  <sentence id="592">
+    <text>Awesome</text>
+  </sentence>
+  <sentence id="593">
+    <text>The app continues to freeze at 32 pictures. I have deleted and reinstalled it, and it still continues to do the same. When I close the app and reopen it, it freezes completely and will not let me access anything. I have not reached my maximum storage either.</text>
+  </sentence>
+  <sentence id="594">
+    <text>Can't rename or edit files</text>
+  </sentence>
+  <sentence id="595">
+    <text>It crashes every time I try to open the app</text>
+  </sentence>
+  <sentence id="596">
+    <text>This is a terrific ( and terrifically priced) app!!!</text>
+  </sentence>
+  <sentence id="597">
+    <text>My iPad air and iPhone 4 on iOS 7 still will not open any pages documents, all they show is the document name and size</text>
+  </sentence>
+  <sentence id="598">
+    <text>I can't open my dropbox app on my iPad 4! Please FIX this issue Asap!</text>
+  </sentence>
+  <sentence id="599">
+    <text>Please fix!</text>
+  </sentence>
+  <sentence id="600">
+    <text>Newest update lost many of my documents and other I can no longer open.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="0" term="Newest update" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="601">
+    <text>Keeps docs &amp; pics synced between my desktop, laptop &amp; cell phone.</text>
+  </sentence>
+  <sentence id="602">
+    <text>I use it EVERYDAY!</text>
+  </sentence>
+  <sentence id="603">
+    <text>It's a must have app</text>
+  </sentence>
+  <sentence id="604">
+    <text>I would love it even more if you could send documents by email and not by generating a link. sending the email with an attachment.</text>
+  </sentence>
+  <sentence id="605">
+    <text>Love it :)</text>
+  </sentence>
+  <sentence id="606">
+    <text>I love this app is super useful.</text>
+  </sentence>
+  <sentence id="607">
+    <text>I just got my new 5s. Used to work with 4s very well but the weird thing is I could never download it on my new 5s!! It just says &quot;open&quot;, how could I open without even download?</text>
+  </sentence>
+  <sentence id="608">
+    <text>After I entering my ID and pass, when I do log in button, the app crashes no matter what I try.  Help...?</text>
+  </sentence>
+  <sentence id="609">
+    <text>Won't download</text>
+  </sentence>
+  <sentence id="610">
+    <text>I would really like to be able to rename files and folders. It would help out a lot.</text>
+  </sentence>
+  <sentence id="611">
+    <text>When you need some way to store electronic debate information... This app is a perfect way to do so</text>
+  </sentence>
+  <sentence id="612">
+    <text>White white white!</text>
+  </sentence>
+  <sentence id="613">
+    <text>Why can't I open my folders without getting online from my IPad ?  What's a pass code ? I did not gave any codes when I installed the app in my iPad.
+
+Thank you</text>
+  </sentence>
+  <sentence id="614">
+    <text>Easy to access on any device or on their website.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="8" term="access" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="615">
+    <text>I've never had any issues with it and have been a user for years.</text>
+  </sentence>
+  <sentence id="616">
+    <text>Dropbox is extremely  useful.</text>
+  </sentence>
+  <sentence id="617">
+    <text>Even when connected via wifi, uploading 10 photos took over an hour, synced via Mac sync to dropbox took less than a minute.</text>
+  </sentence>
+  <sentence id="618">
+    <text>whenever i establish a relationship with a vendor who requires an email address from me, i give them an email address unique to just them.  i give that email address to no-one else and, in most circumstances, i will never send an email _from_ that email address.  
+
+that is exactly what i did with dropbox.
+
+i signed up for a dropbox account almost a year ago, on march 21, 2012.  i immediately received the standard &quot;welcome&quot; email.  over the course of the next nine months i received exactly three additional marketing-type emails from them.
+
+then i started getting spam/phishing emails.  on 19-feb-2013 i received an email saying my direct deposit had been disallowed; on 26-feb-2013 i received an email indicating new security was being put in place for ACH and EFT transactions; and on both 27-feb and 28-feb-2013 i received an email asking me to join a linkedin account.  all four emails were phishing emails.
+
+since i have never shared that email address with anyone, since i had never sent any email _from_ that address, and since the emails were all phishing emails, then one of three things has happened:
+
+- dropbox sold, gave away, or otherwise shared my information with one or more dubious with parties.
+
+- someone hacked dropbox's systems and stole my information.
+
+- dropbox has one or more rogue employees who is using customer information for their own benefit.
+
+i used dropbox's web form to contact two different departments about the security breach, and i also sent two email messages about the security breach from the email address i had given them but to date i haven't heard a single thing.  
+
+dropbox has a legal obligation to inform all impacted customers about any security breach.  a security breach is what happened here and they are nowhere near fulfilling that obligation.</text>
+  </sentence>
+  <sentence id="619">
+    <text>Wouldn't it make more sense to make a &quot;clear cache&quot; button?!</text>
+  </sentence>
+  <sentence id="620">
+    <text>=)</text>
+  </sentence>
+  <sentence id="621">
+    <text>Weird?</text>
+  </sentence>
+  <sentence id="622">
+    <text>To clear cache, you have to unlink your account and re-link it.</text>
+  </sentence>
+  <sentence id="623">
+    <text>Also, there seems to be a bug now where entering my PIN kinda freezes up the app.</text>
+  </sentence>
+  <sentence id="624">
+    <text>Fix please!</text>
+  </sentence>
+  <sentence id="625">
+    <text>Keeps crashing!! Need a fix fast!!!!</text>
+  </sentence>
+  <sentence id="626">
+    <text>HOW CAN I CAN MAXIMIZE THE SLIDE SHOW ?! IT DISAPPEARED .. BAD UPDATE</text>
+  </sentence>
+  <sentence id="627">
+    <text>Population: Dropbox</text>
+  </sentence>
+  <sentence id="628">
+    <text>Not sure why people are complaining. Clearly Dropbox limits its features due to the Apple developer license agreement. If they wanted more indepth file system features it would have been added. Don't blame Dropbox.</text>
+  </sentence>
+  <sentence id="629">
+    <text>Seriously? I can't do anything. The app won't load. It just keeps foreclosing. What a shame.</text>
+  </sentence>
+  <sentence id="630">
+    <text>My location icon is constantly on now and when I look in Settings -&gt; Privacy -&gt; Location, Dropbox is the only app showing it accessed this function.</text>
+  </sentence>
+  <sentence id="631">
+    <text>Love dropbox, but it looks like the last update has messed up the location service.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="66" term="location service" to="82"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="632">
+    <text>:)</text>
+  </sentence>
+  <sentence id="633">
+    <text>I can't see the whole screen.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="12" term="see the whole screen" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="634">
+    <text>Now I will wait to go home to my desktop to add a share of a folder.</text>
+  </sentence>
+  <sentence id="635">
+    <text>not impressed.</text>
+  </sentence>
+  <sentence id="636">
+    <text>So then I go to to safari and the dropbox website -- total jumbled mess.</text>
+  </sentence>
+  <sentence id="637">
+    <text>just got an ipad 3.</text>
+  </sentence>
+  <sentence id="638">
+    <text>from the app how do i share a folder?</text>
+  </sentence>
+  <sentence id="639">
+    <text>Portrait</text>
+  </sentence>
+  <sentence id="640">
+    <text>working in landscape the keyboard obscures the form for adding an email recipient.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="25" term="keyboard" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="641">
+    <text>The best app ever!</text>
+  </sentence>
+  <sentence id="642">
+    <text>Dropbox is a great platform ? until you have a problem.  I've been a premium paying customer for over a year -- not because I needed the extra space, but because I've used it as my backup and sharing platform for a major project.  Last month I had a problem where the app was using up all available CPU on my mac.  Emailed support, and they gave me various random solutions to try which required repeatedly syncing all 5 gig of files and losing all the 'last modified' info which is essential for version control.  After 3 random &quot;try this&quot; tech solutions they simply stopped responding to emails, and never provided any other recourse or even answered my question whether phone support was available -- a question I asked them 5 times.
+
+Useful for file sharing a la Yousendit but DO NOT ENTRUST DROPBOX WITH IMPORTANT FILES!!!!</text>
+  </sentence>
+  <sentence id="643">
+    <text>It's kind of pathetic that iOS Messages supports animated GIF and this app does not.</text>
+  </sentence>
+  <sentence id="644">
+    <text>PS.</text>
+  </sentence>
+  <sentence id="645">
+    <text>The app keeps getting better and faster with each update, but GIF support is nowhere to be seen.</text>
+  </sentence>
+  <sentence id="646">
+    <text>Could the new icon be any lamer?</text>
+  </sentence>
+  <sentence id="647">
+    <text>It does not show your stuff at times. I'd open it and say I click on a folder that has files in it and I wouldn't find anything. I know they are there. It's great except for this problem.</text>
+  </sentence>
+  <sentence id="648">
+    <text>Latest version won't even update. :-(</text>
+  </sentence>
+  <sentence id="649">
+    <text>After last update I had to uninstall. It crashes my iPhone5. This was a great app until this update. PLEASE FIX!! I miss it.</text>
+  </sentence>
+  <sentence id="650">
+    <text>The app in iPhone needs important issue &quot;share via email&quot;</text>
+  </sentence>
+  <sentence id="651">
+    <text>How can I contact Dropbox to let them no that the app no longer opens on my iPad? 
+Tom James</text>
+  </sentence>
+  <sentence id="652">
+    <text>I like it a lot</text>
+  </sentence>
+  <sentence id="653">
+    <text>La aplicacion se cierra nomas al empezarla.</text>
+  </sentence>
+  <sentence id="654">
+    <text>Now the app completely refreshes at start up, which gets annoying sometimes.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="23" term="refreshes at start up" to="44"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="655">
+    <text>Also its more cumbersome to swipe through images since it's only responsive on the top half of the screen instead of the whole screen.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="28" term="swipe through images" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="656">
+    <text>In a previous version, if the user was looking at pictures and suspended the app it would leave it right where they were upon restarting the app.</text>
+  </sentence>
+  <sentence id="657">
+    <text>Works ok on my 2 laptops and IPhone.  Won't fully load on IPad 1st Gen shows 3/4 loaded and stops.</text>
+  </sentence>
+  <sentence id="658">
+    <text>Please improve your photo viewing experience and provide full screen option to see photos, videos and documents.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="57" term="full screen" to="68"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="659">
+    <text>This app is why I prefer Dropbox to Google drive.</text>
+  </sentence>
+  <sentence id="660">
+    <text>I love this app and think it's great but with one of the latest updates I seem to be having some issues with previously downloaded video playbacks? I use guitar practice mini-videos and in the past the videos I saved as my favorites played instantaneously but now, every now and then I have to re-download them all over again? 
+
+I want to keep them in my Dropbox because I use the mini-videos for guitar practice while overseas where often I have no or limited wi-fi (don't use network as it's very expensive to roam overseas). Not sure why I have to re-download those videos every now and then?  Often they'll work fine for weeks at a time and then all of a sudden I have to download them again?  Otherwise it's a great app and this is just a small glitch.</text>
+  </sentence>
+  <sentence id="661">
+    <text>App crashes by having dialog repeat &quot;Connect to iTunes to enable Push Notifications&quot;. Had to delete, breaks app switching and breaks main menu button</text>
+  </sentence>
+  <sentence id="662">
+    <text>I use Dropbox every day. This app is how I backup my notes, transfer them between all my devices, and access them to study. My issue is that all my notes are large PDFs. For some reason, when I load a file, the file seems to get stored in the app data for dropbox. And it seems like more than that gets stored in there because after a while I end up with a dropbox app taking up 1+GB of space on my iPad. This is difficult because I have a 16GB iPad and have lots of other apps on here for studying and need to conserve space. The only way I have found to clear this memory is to uninstall the app every time it balloons, which, as you can probably guess, is extremely annoying. If someone can tell me an easier way to clear this space or if Dropbox can fix this issue, this would be a five star app for me.</text>
+  </sentence>
+  <sentence id="663">
+    <text>I had two .mov files that I marked as favorite, thinking that they would be available offline. Tried to play them later only to be greeted with &quot;file not available, no Internet connection.&quot;
+
+Conveniently, dropbox let's me upload my files over to Google Drive. Done. Offline capabilities on Google Drive are actually real. Goodbye dropbox, have fun competing with google.</text>
+  </sentence>
+  <sentence id="664">
+    <text>why does everything constantly have to be updated?? There was nothing wrong with Dropbox. The &quot;enhanced&quot; PDF-viewer isn't working on my Ipad</text>
+  </sentence>
+  <sentence id="665">
+    <text>It helped me alot thanks</text>
+  </sentence>
+  <sentence id="666">
+    <text>But I have been trying to upload my 500 pictures for about 4 days now,when it usually only takes less than an hour.</text>
+  </sentence>
+  <sentence id="667">
+    <text>I run out of space and my phone frequently and all I do it upload everything to dropbox and clear my space up.</text>
+  </sentence>
+  <sentence id="668">
+    <text>I have my internet connected and then nothing will upload.</text>
+  </sentence>
+  <sentence id="669">
+    <text>This really needs to my fixed.</text>
+  </sentence>
+  <sentence id="670">
+    <text>But this update has ruined everything.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="this update" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="671">
+    <text>Dropbox has been my go to for everything ever since 2009.</text>
+  </sentence>
+  <sentence id="672">
+    <text>And I've been stuck on 25 pics for about 2 of these days.</text>
+  </sentence>
+  <sentence id="673">
+    <text>After the last update, dropbox crashes every time safari attempts to open anything with it... Haven't tried with other apps, but this is a major problem with me since I've been using the two together, also it now will not open the last few .jpgs I've created on my Mac...</text>
+  </sentence>
+  <sentence id="674">
+    <text>Love it!!!</text>
+  </sentence>
+  <sentence id="675">
+    <text>This is the best most helpful app I have ever used.</text>
+  </sentence>
+  <sentence id="676">
+    <text>!</text>
+  </sentence>
+  <sentence id="677">
+    <text>It makes my life so much easier.</text>
+  </sentence>
+  <sentence id="678">
+    <text>I am newer to the iPhone.</text>
+  </sentence>
+  <sentence id="679">
+    <text>Converted from the blackberry and I was nervous I wouldn't like it, but this app alone has confirmed how great it is to have an iPhone / iPad and it even sync with my personal laptop.</text>
+  </sentence>
+  <sentence id="680">
+    <text>Get it!</text>
+  </sentence>
+  <sentence id="681">
+    <text>Saving documents and being able to send them to email, share and even open in iCloud and edit.</text>
+  </sentence>
+  <sentence id="682">
+    <text>Finally we can share links to folders!</text>
+  </sentence>
+  <sentence id="683">
+    <text>With the new update I cannot upload a video!! I already went through all the settings and cant find out why it is not uploading, and it doesnt let me cancel either.</text>
+  </sentence>
+  <sentence id="684">
+    <text>This is going to save me so much time!</text>
+  </sentence>
+  <sentence id="685">
+    <text>I can't live without my Dropbox!</text>
+  </sentence>
+  <sentence id="686">
+    <text>According to your upload meter I upload a picture repeatedly until I either force close the app or take a new photo and then it uploads that continuously. 
+
+Worse than that, when I try uploading a file from my phone it gets stuck behind the never ending queue. Come on Dropbox, you screwed the pooch on this. Prioritize uploads as manual uploads top priority and camera uploads as last priority. 
+
+I'm grateful for Dropbox and what they have given us...but now if it doesn't work it doesn't matter if it was free or not.</text>
+  </sentence>
+  <sentence id="687">
+    <text>Best PDF reader I've used on iOS. I mean, much better than safari or iBooks.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="5" term="PDF reader" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="688">
+    <text>Haven't tried very many I guess</text>
+  </sentence>
+  <sentence id="689">
+    <text>.... But lately the app doesn't let me open pdf files. I hope that gets fixed soon.</text>
+  </sentence>
+  <sentence id="690">
+    <text>Need to be able to share folders.</text>
+  </sentence>
+  <sentence id="691">
+    <text>This is no biggie for people with short names but our company has some longer descriptives in the names.</text>
+  </sentence>
+  <sentence id="692">
+    <text>Please fix so we can resize the column boundaries, as with many other apps.</text>
+  </sentence>
+  <sentence id="693">
+    <text>I am not finding a way to read the longer, truncated file names in the left column.</text>
+  </sentence>
+  <sentence id="694">
+    <text>I can only hide it, not adjust it.</text>
+  </sentence>
+  <sentence id="695">
+    <text>I love our Dropbox functionality and speed.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="19" term="functionality" to="32"/>
+      <aspectTerm class="E" from="37" term="speed" to="42"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="696">
+    <text>BUT the iPad app is broken.</text>
+  </sentence>
+  <sentence id="697">
+    <text>I love everything in Dropbox. It keeps your pictures and videos safe and keeps all of your stuff in there safe.</text>
+  </sentence>
+  <sentence id="698">
+    <text>I'm not sure why anyone would rate this app less than five stars. It is a must-have application for all iPhones.</text>
+  </sentence>
+  <sentence id="699">
+    <text>C'mon, seriously.</text>
+  </sentence>
+  <sentence id="700">
+    <text>While you don't need the full feature set provided by Evernote, you should at least allow the ability to create and edit text documents.</text>
+  </sentence>
+  <sentence id="701">
+    <text>The idea you don't have this simple feature is very strange.</text>
+  </sentence>
+  <sentence id="702">
+    <text>Provide the rudimentary ability to create editable text documents and you'll take a giant leap forward.</text>
+  </sentence>
+  <sentence id="703">
+    <text>I use this to share documents between all of my devices (iPhone, iPad, MacBook, PC Laptop etc... It does exactly what I need it to.</text>
+  </sentence>
+  <sentence id="704">
+    <text>It all went downhill when Adam left.</text>
+  </sentence>
+  <sentence id="705">
+    <text>I want to watch it all,but I can't
+
+Bad update, from a company that used to do so well.</text>
+  </sentence>
+  <sentence id="706">
+    <text>hey guys, why do you think I favorited the video?</text>
+  </sentence>
+  <sentence id="707">
+    <text>Instead the geniuses in San Francisco let you stream 15 minutes off their network servers.</text>
+  </sentence>
+  <sentence id="708">
+    <text>So for example that episode of downton abbey or glee that you put in Dropbox, and then favorited on your iPad will not be viewable</text>
+  </sentence>
+  <sentence id="709">
+    <text>With the latest version Dropbox has removed the ability to save favorited video files locally and play them.</text>
+  </sentence>
+  <sentence id="710">
+    <text>This is a bad update, if you have not updated, don't!</text>
+  </sentence>
+  <sentence id="711">
+    <text>The last update deleted everything I had.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="4" term="last update" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="712">
+    <text>I had a lot of stuff.</text>
+  </sentence>
+  <sentence id="713">
+    <text>How do we get it all back?</text>
+  </sentence>
+  <sentence id="714">
+    <text>hello I've Ben using this app for a while now and I got the iPhone 5s and it keeps on crashing on me and having trouble? please help me</text>
+  </sentence>
+  <sentence id="715">
+    <text>I have my information whenever I go.</text>
+  </sentence>
+  <sentence id="716">
+    <text>Very useful to save files.</text>
+  </sentence>
+  <sentence id="717">
+    <text>Love that I can view PDF's in mi iPod touch without having wifi.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="16" term="view PDF" to="24"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="718">
+    <text>Great for school!</text>
+  </sentence>
+  <sentence id="719">
+    <text>Since the iOS 7 update the app is useless.  I have been using the app for sharing files while I travel but it know longer works. 
+Is there going to be a fix or do I just start deleting it off all my devices?  On the iPad it just crashes.</text>
+  </sentence>
+  <sentence id="720">
+    <text>Realmente la mejor App que puede existir en lo que a manejo y respaldo de archivos se refiere, toda aquella aplicaci?n que no tenga compatibilidad con Dropbox ya no es ?til o simplemente se descarta, gracias a esta Aplicaci?n me olvido de pasar las fotos de mi iPhone o iPad a la Pc ya que se hace autom?ticamente, me despreocupo por andar (como antes lo hac?a) con un Pen drive con la informaci?n del trabajo o archivos de importancia, todo se resuelve con mis dispositivos o en cualquier PC con internet, y si por seguridad de acceso se trata tambi?n es muy segura, felicito a sus programadores y dise?adores por tan valiosa App, si me dieran a elegir para quedarme con tan s?lo una App sin dudarlo ser?a Dropbox...</text>
+  </sentence>
+  <sentence id="721">
+    <text>A new, fun, and interactive approach to to-do lists.</text>
+  </sentence>
+  <sentence id="722">
+    <text>Since they did a new update almost all my JPEG take too much time to open or even don't open. I need to save the file to see the photo on my iPhone. 
+
+How can I have the old version?????</text>
+  </sentence>
+  <sentence id="723">
+    <text>Problems with geolocation !!!</text>
+  </sentence>
+  <sentence id="724">
+    <text>What is taking so long to fix the crashing?  This used to be a great app.  So upset!</text>
+  </sentence>
+  <sentence id="725">
+    <text>All these updates, and I still can't rename things? That's really important...</text>
+  </sentence>
+  <sentence id="726">
+    <text>The notification box (I call it the nag box) that says Dropbox has notifications, Alerts, etc.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="4" term="notification box" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="727">
+    <text>The latest upgrade is crap.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="latest upgrade" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="728">
+    <text>2.1.2.</text>
+  </sentence>
+  <sentence id="729">
+    <text>Worked perfectly and loved it until this last upgrade.</text>
+  </sentence>
+  <sentence id="730">
+    <text>I see a LOT of other people are complaining about the last update.</text>
+  </sentence>
+  <sentence id="731">
+    <text>click and comes back.</text>
+  </sentence>
+  <sentence id="732">
+    <text>on startup.... is in an INFINITE loop.</text>
+  </sentence>
+  <sentence id="733">
+    <text>Iphone 4 running 5.1.1.</text>
+  </sentence>
+  <sentence id="734">
+    <text>And comparatively storage pricing could be more competitive.</text>
+  </sentence>
+  <sentence id="735">
+    <text>Please fix this !!!!!</text>
+  </sentence>
+  <sentence id="736">
+    <text>I am no longer given the option to &quot;open in&quot;.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="40" term="open in" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="737">
+    <text>There are some major bugs/problems with the update!!!!</text>
+  </sentence>
+  <sentence id="738">
+    <text>It makes dropbox completely useless for me.</text>
+  </sentence>
+  <sentence id="739">
+    <text>Major issue!!!</text>
+  </sentence>
+  <sentence id="740">
+    <text>I care more about the functionality than the looks, so this review will say nothing about the updated look.</text>
+  </sentence>
+  <sentence id="741">
+    <text>This means, I can look at my Numbers spreadsheets, but I can't &quot;open in&quot; Numbers, so I can't work with those spreadsheets or enter any info on them.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="67" term="&quot;open in&quot; Numbers" to="92"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="742">
+    <text>Please add the ability to rename files, as well as the ability for gifs to play.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="67" term="gifs to play" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="743">
+    <text>Hey Dropbox team!</text>
+  </sentence>
+  <sentence id="744">
+    <text>I know you can do it!!</text>
+  </sentence>
+  <sentence id="745">
+    <text>A multi-million dollars company so useless, don't know how to create rename file or folder feature in this app.
+
+Close up and go home!!!</text>
+  </sentence>
+  <sentence id="746">
+    <text>Dropbox app is bug ridden and they have no desire to fix basic things. It may work for a while, but eventually it will break and there will be no recourse from Dropbox to fix it. Support will ignore you. Dropbox is extremely arrogant about. Competition is now catching up. Finally and thankfully.</text>
+  </sentence>
+  <sentence id="747">
+    <text>It would be nice to access my files!!!!!! Crashing repeatedly!!!</text>
+  </sentence>
+  <sentence id="748">
+    <text>This seems like an unstable app.</text>
+  </sentence>
+  <sentence id="749">
+    <text>Dropbox will not open on I pad.</text>
+  </sentence>
+  <sentence id="750">
+    <text>Did yesterday.</text>
+  </sentence>
+  <sentence id="751">
+    <text>I'm very disappointed that I can't open most excel files anymore! Repeated tries works occasionally but it should work every time!</text>
+  </sentence>
+  <sentence id="752">
+    <text>UPDATED REVIEW - EASY TO DO THIS REVIEW - STILL ... THE BEST!!! 
+
+I love this App. I must use it 20 times per day!
+
+I don't know how anyone who wishes to be productive as a Executive can live without it. I'm able to access everything from archived/stored documents for pinpoint accuracy to a Hi-Def Video on demand. 
+
+Furthermore, my personal life is not put 'on hold' for a moment. Just having the ability to share captured moments with loved ones makes this invaluable. 
+
+essential part</text>
+  </sentence>
+  <sentence id="753">
+    <text>Please fix the bug that won't allow me to play video's!!!</text>
+  </sentence>
+  <sentence id="754">
+    <text>What happened?</text>
+  </sentence>
+  <sentence id="755">
+    <text>Have two issues, first there is no way that I've seen to rename items/folders?</text>
+  </sentence>
+  <sentence id="756">
+    <text>This was working wonderfully!?</text>
+  </sentence>
+  <sentence id="757">
+    <text>Item two is the auto image upload in the background hasn't worked right since iOS 7 release.</text>
+  </sentence>
+  <sentence id="758">
+    <text>In order for the images and videos to sync I have to open the app for it to notice and additions.</text>
+  </sentence>
+  <sentence id="759">
+    <text>...are needed. Thanks</text>
+  </sentence>
+  <sentence id="760">
+    <text>The recent update crashes every time when I tried to view a file on my iPad. It is no longer use able.</text>
+  </sentence>
+  <sentence id="761">
+    <text>I had too much videos and pictures and this solved my problem</text>
+  </sentence>
+  <sentence id="762">
+    <text>The latest update caused the program to not back up or update changes to my data.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="44" term="back up" to="51"/>
+      <aspectTerm class="B" from="55" term="update" to="61"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="763">
+    <text>Fix this , or the app is useless!!</text>
+  </sentence>
+  <sentence id="764">
+    <text>I can log in through safari fine, but when I use the app I keep getting a pop up which won't go away that says &quot;connect to itunes to use push notifications&quot; the weird thing is, I have all notifications for Dropbox turned off!</text>
+  </sentence>
+  <sentence id="765">
+    <text>I can reinstall the app and then it works for a while, until I switch to a different app or go to the home screen, then I have the same problem.</text>
+  </sentence>
+  <sentence id="766">
+    <text>Hopefully there will be an update soon to fix this.</text>
+  </sentence>
+  <sentence id="767">
+    <text>I love dropbox, but lately I have had trouble with the app.</text>
+  </sentence>
+  <sentence id="768">
+    <text>:(</text>
+  </sentence>
+  <sentence id="769">
+    <text>Needs iOS 7 layout though</text>
+  </sentence>
+  <sentence id="770">
+    <text>No need to use flash drive or sync with iTunes.</text>
+  </sentence>
+  <sentence id="771">
+    <text>It does a great job at transferring files from my computer to iphone.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="23" term="transferring files" to="41"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="772">
+    <text>Landscape or not, the scroll pane on the left is always visible</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="22" term="scroll pane" to="33"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="773">
+    <text>no the screen.</text>
+  </sentence>
+  <sentence id="774">
+    <text>Really hope it's user error, else this is a weak update.</text>
+  </sentence>
+  <sentence id="775">
+    <text>Very annoying as I enjoyed displaying my docs in full screen on previous version.</text>
+  </sentence>
+  <sentence id="776">
+    <text>It's annoying as all get-out.</text>
+  </sentence>
+  <sentence id="777">
+    <text>Yeah on my phone all day.</text>
+  </sentence>
+  <sentence id="778">
+    <text>I like having my photos in one place.</text>
+  </sentence>
+  <sentence id="779">
+    <text>I question WHO thought it was a good idea to put the data wipe on 10 Code fails here too. Who will use it? it's seriously a dirty prank waiting to happen to someone. If you don't like it you don't have to use it, but its existence just bodes ill.
+Pointless rant end.</text>
+  </sentence>
+  <sentence id="780">
+    <text>This is a great app, however, to move apps into a folder I have to go online. I have to overwrite in the app to update a file and then I have to use the web version to move updates files into a folder.
+I may be doing something wrong so I'm giving 4 stars for now. If you or anyone can explain that would be great. I've looked over the directions and can't find how to do it all within the app. I want to use the app for its full purpose.</text>
+  </sentence>
+  <sentence id="781">
+    <text>Then I'll give you 5 stars!</text>
+  </sentence>
+  <sentence id="782">
+    <text>It is a good app, very stable and useful, but please, half of the world population wants a function for file renaming.</text>
+  </sentence>
+  <sentence id="783">
+    <text>Listen to your customers!</text>
+  </sentence>
+  <sentence id="784">
+    <text>How many lines-of-code takes to include a renaming feature in your App???</text>
+  </sentence>
+  <sentence id="785">
+    <text>and then crash again...useless when I really need it.</text>
+  </sentence>
+  <sentence id="786">
+    <text>I am so mad that you guys bought Audiogalaxy only to shut it down. That app was the best app ever. If this issue is not resolved I am canceling my Dropbox account entirely. I will also be recommending to everyone I know a boycott of your company until this issue is resolved.</text>
+  </sentence>
+  <sentence id="787">
+    <text>Nice major update, overall the app works great.</text>
+  </sentence>
+  <sentence id="788">
+    <text>You can a) select multiple files and b) download files from Dropbox to your phone, but you cannot do both at once.</text>
+  </sentence>
+  <sentence id="789">
+    <text>But, one thing that's still missing is bulk downloads.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="43" term="bulk downloads" to="57"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="790">
+    <text>Seems pretty basic a feature to overlook.</text>
+  </sentence>
+  <sentence id="791">
+    <text>This is a sad little update that has obviously been designed by people who never use Dropbox.</text>
+  </sentence>
+  <sentence id="792">
+    <text>It now a bare bones app that just lets you view your files, but now has a constant and annoying sidebar that steals screen real estate.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="96" term="sidebar" to="103"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="793">
+    <text>I tried the &quot;Open In Another App&quot; and Dropbox does not come up as an option.  I have documents saved on my iPad Pages, Numbers applications.  And Dropbox was not able to upload any files from these productivity apps.  So I guess I'll have to email everything to my main computer to upload into Dropbox.  I use my iPad for a lot of school work and I even access the school online discussion tool so this Dropbox app will not work for me.</text>
+  </sentence>
+  <sentence id="794">
+    <text>Every time. So can't use it at all.  But other than that - fantastic!</text>
+  </sentence>
+  <sentence id="795">
+    <text>PDFs, Jpegs and Word Documents not opening properly.  Everything works on my iPad which I didn't do the update on, but  not on the iPhone, where I did.  Hope its fixed soon.</text>
+  </sentence>
+  <sentence id="796">
+    <text>Drains battery crazy.</text>
+  </sentence>
+  <sentence id="797">
+    <text>Won't open... Total freeze then shuts down.</text>
+  </sentence>
+  <sentence id="798">
+    <text>The only reason I'm giving even a second star is because on occasion, when all of the stars align, or God is smiling down in me,  a file actually plays back.</text>
+  </sentence>
+  <sentence id="799">
+    <text>Even on my home wifi network I am only able to get a file to play perhaps 1 out of every 10 tries.</text>
+  </sentence>
+  <sentence id="800">
+    <text>This has been a very frustrating app to use.</text>
+  </sentence>
+  <sentence id="801">
+    <text>A taste of the way this app should work all of the time.</text>
+  </sentence>
+  <sentence id="802">
+    <text>That excitement quickly turned to disappointment as I found that this app does a horrible job of playing back .wav files.</text>
+  </sentence>
+  <sentence id="803">
+    <text>I realize .wav files are huge.</text>
+  </sentence>
+  <sentence id="804">
+    <text>I've tried pausing playback to wait for the whole file to load but the app freezes and eventually I receive a message that says 'Unable to View File'.</text>
+  </sentence>
+  <sentence id="805">
+    <text>I was excited when I first got this app because of the prospect of being able to quickly listen to demos that I and my band mates had uploaded as we work on a new project.</text>
+  </sentence>
+  <sentence id="806">
+    <text>The app showed its installed in the App Store but it doesn't show up anywhere on my device.</text>
+  </sentence>
+  <sentence id="807">
+    <text>They worked fine under the old built in pdf reader</text>
+  </sentence>
+  <sentence id="808">
+    <text>This app is great! The only thing I would say is there should be a way to edit and crop photos.</text>
+  </sentence>
+  <sentence id="809">
+    <text>Please add and I will reward you greatly (with 5 stars) ; )</text>
+  </sentence>
+  <sentence id="810">
+    <text>The main issue I have with this app is that there isn't a &quot;keep me logged in&quot; feature.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="67" term="keep me logged in" to="84"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="811">
+    <text>I don't always have time to backup my photos on my iPhone. Love how DropBox will do this automatically whenever I have a Wifi connection. Just have to remember to delete the ones I don't want to keep.</text>
+  </sentence>
+  <sentence id="812">
+    <text>When dropbox comes up, I see the welcome, learn about dropbox and sign in icons.  I am blind and use voiceover.  Nothing happens! I don't know who to contact about this.  Dropbox works great on my 2 IPods.
+
+Thanks
+
+Jim</text>
+  </sentence>
+  <sentence id="813">
+    <text>Love Dropbox.</text>
+  </sentence>
+  <sentence id="814">
+    <text>app!</text>
+  </sentence>
+  <sentence id="815">
+    <text>Great</text>
+  </sentence>
+  <sentence id="816">
+    <text>Works find with iOS 7.</text>
+  </sentence>
+  <sentence id="817">
+    <text>Great service.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="6" term="service" to="13"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="818">
+    <text>???? ?????? ???????</text>
+  </sentence>
+  <sentence id="819">
+    <text>Just an awesome app! With 58Gb thanks to my college :)</text>
+  </sentence>
+  <sentence id="820">
+    <text>You can't download any videos into your phone.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="14" term="download any videos into your phone" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="821">
+    <text>Like come on I don't know why yahoo would do this to me making a deal with Dropbox.</text>
+  </sentence>
+  <sentence id="822">
+    <text>Any file size past 15MB has trouble being opened in this app...even on wifi. I'm losing hope that Dropbox will finally make an efficient mobile app for their service.</text>
+  </sentence>
+  <sentence id="823">
+    <text>I have no way to change it and they have yet to respond to the multiple emails I have sent.</text>
+  </sentence>
+  <sentence id="824">
+    <text>Over a month and can't log into my account because of an 'expired' password that they neglected to inform me was a out to expire.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="27" term="log into my account" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="825">
+    <text>I have not been able to use. Please fix.</text>
+  </sentence>
+  <sentence id="826">
+    <text>It used to be awesome! Something changed with the updates. It has become a pain. Disappointed. With updates, it's supposed to be better not worse.</text>
+  </sentence>
+  <sentence id="827">
+    <text>After the latest iOS update I cannot get in to Dropbox. It crashes every time.  Please fix!</text>
+  </sentence>
+  <sentence id="828">
+    <text>Please include the ability to share (all types of sharing) from within the app and it will be a total win.</text>
+  </sentence>
+  <sentence id="829">
+    <text>I can't access my files in dropbox on my iPad. I hasn't loaded for a month! I use dropbox for PDF files for my college classes! Fix this ASAP</text>
+  </sentence>
+  <sentence id="830">
+    <text>And thirdly, you can't move photos from dropbox to the appropriate album in your photo library.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="27" term="move photos from dropbox to the appropriate album" to="76"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="831">
+    <text>First of all you can't move dropbox files to another dropbox folder even if it is public.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="27" term="move dropbox files to another dropbox folder" to="71"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="832">
+    <text>Then you have to open Photos and go into Camera Roll and move them into the right album.</text>
+  </sentence>
+  <sentence id="833">
+    <text>You can only move them and they get dumped into Camera Roll.</text>
+  </sentence>
+  <sentence id="834">
+    <text>The desktop version is great so it's mind-boggling how bad this app is.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="desktop version" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="835">
+    <text>You get an error message and you're asked to try again.</text>
+  </sentence>
+  <sentence id="836">
+    <text>So that's three steps that should be one!</text>
+  </sentence>
+  <sentence id="837">
+    <text>Then it wants to upload your entire photo library to the dropbox cloud but you can't pick and choose which ones.</text>
+  </sentence>
+  <sentence id="838">
+    <text>Sharing with friends is easy.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="0" term="Sharing" to="7"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="839">
+    <text>Really convenient way of sharing files between 3 devices i have.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="25" term="sharing" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="840">
+    <text>Thank you for Russian language update.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="14" term="Russian language update" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="841">
+    <text>It's come in handy for me a few times now.</text>
+  </sentence>
+  <sentence id="842">
+    <text>It has a simple and sleek interface and allows you to do a lot of the stuff you can on the desktop version.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="26" term="interface" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="843">
+    <text>This app is definitely a must have if you use Dropbox.</text>
+  </sentence>
+  <sentence id="844">
+    <text>Seriously recommend this app.</text>
+  </sentence>
+  <sentence id="845">
+    <text>The best thing about it is you can download images onto your device and also upload images from your device onto Dropbox.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="35" term="download images" to="50"/>
+      <aspectTerm class="E" from="77" term="upload images" to="90"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="846">
+    <text>Please make renaming files and downloading videos to iPad an option in the APP!!</text>
+  </sentence>
+  <sentence id="847">
+    <text>I really NEED to be able to change file names of uploaded pics and vids in the app and download videos to iPad.</text>
+  </sentence>
+  <sentence id="848">
+    <text>I will give 5 stars once that is changed.</text>
+  </sentence>
+  <sentence id="849">
+    <text>In order to change a file name I have to upload from the iPad then open safari and after I sign in I can finally navigate to the location of the file and change it's name.</text>
+  </sentence>
+  <sentence id="850">
+    <text>It really jams me up when I upload a video and have to wait to send a link off because I can't change the file name in the app.</text>
+  </sentence>
+  <sentence id="851">
+    <text>Downloaded app and it just doesn't open. Dropbox not all that great!</text>
+  </sentence>
+  <sentence id="852">
+    <text>It's ok but u guys need to make a better GUI.</text>
+  </sentence>
+  <sentence id="853">
+    <text>Did I spill whiteout on my screen?</text>
+  </sentence>
+  <sentence id="854">
+    <text>I have no clue why there are so many haters, this is a really good app.</text>
+  </sentence>
+  <sentence id="855">
+    <text>I love that I can play a video, exit the app, and still continue to play the audio from that video!</text>
+  </sentence>
+  <sentence id="856">
+    <text>They release feature updates sometimes, too.</text>
+  </sentence>
+  <sentence id="857">
+    <text>The app works just as described, and I've never noticed any bugs in any of the releases.</text>
+  </sentence>
+  <sentence id="858">
+    <text>Recommended! ?</text>
+  </sentence>
+  <sentence id="859">
+    <text>Dropbox is an awesome service, and having it my iPhone is icing on the cake.</text>
+  </sentence>
+  <sentence id="860">
+    <text>One star until they add share button for folders.</text>
+  </sentence>
+  <sentence id="861">
+    <text>Its a good app i like how it tells the date of the photo the only problem is that the videos take long to load and the quality is terrible! if they can fix that then ill give this app 5 stars :)</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="39" term="date of the photo" to="56"/>
+      <aspectTerm class="E" from="106" term="load" to="110"/>
+      <aspectTerm class="E" from="119" term="quality" to="126"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="862">
+    <text>Works just as advertised, easy to get used to.</text>
+  </sentence>
+  <sentence id="863">
+    <text>A great concept with flawless execution. I could not be happier with this app and service.</text>
+  </sentence>
+  <sentence id="864">
+    <text>This app doesn't handle shared folder settings, which is critical to my use of Dropbox. Otherwise it's pretty solid.</text>
+  </sentence>
+  <sentence id="865">
+    <text>It would be great if you could add one more button which greatly helps sharing folders... It would be next to the delete and move key when you edit folders and it could be a share button that instead of having to click on every single file to share you can do it by folder... Otherwise I have to go to the website and that is a pain on safari.
+Thanks</text>
+  </sentence>
+  <sentence id="866">
+    <text>Thanks for nothing dropbox</text>
+  </sentence>
+  <sentence id="867">
+    <text>very convientent</text>
+  </sentence>
+  <sentence id="868">
+    <text>help - I see no where to contact for tech support.  I am trying to upload videos from my iphone 5 Movie Pro app to my Dropbox account.  I keep receiving error that reads &quot;the operation couldn't be completed.  (NSURLErrorDomain) error 1005.  Is this a Dropbox issue or Movie Pro?</text>
+  </sentence>
+  <sentence id="869">
+    <text>This app could take it to the next level if the audio playback had a REPEAT option.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="48" term="audio playback had a REPEAT" to="75"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="870">
+    <text>Simple &amp; easy. Helps me in school</text>
+  </sentence>
+  <sentence id="871">
+    <text>You don't HAVE to make your app look like apple's stock apps.</text>
+  </sentence>
+  <sentence id="872">
+    <text>The new design is so bland.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="new design" to="14"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="873">
+    <text>You can put your own band in it too.</text>
+  </sentence>
+  <sentence id="874">
+    <text>Since the iOS 7 update the files don't upload to Dropbox even when connected to wifi</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="43" term="upload" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="875">
+    <text>This app requires you to have location services turned on to run in the background. I don't see why the app needs to know from what geographical location I am located to run in the background. It's a stinking marketing ploy.</text>
+  </sentence>
+  <sentence id="876">
+    <text>The automatic sync with my camera roll is great too.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="automatic sync" to="18"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="877">
+    <text>Great for clearing up space on my phone.</text>
+  </sentence>
+  <sentence id="878">
+    <text>Love this app.</text>
+  </sentence>
+  <sentence id="879">
+    <text>Wish more apps would integrate the SDK</text>
+  </sentence>
+  <sentence id="880">
+    <text>Please make an update to where you can play an mp3 then it automatically plays the next mp3.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="59" term="automatically plays the next mp3" to="91"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="881">
+    <text>Get DropBox. It is an essential part of every device strategy.</text>
+  </sentence>
+  <sentence id="882">
+    <text>Love it</text>
+  </sentence>
+  <sentence id="883">
+    <text>Where is the beauty in an extremely white design?   It's painful to the eye!</text>
+  </sentence>
+  <sentence id="884">
+    <text>Really? Location services to be able to upload camera. Whatever. It would be helpful if the app SHOWED UP in location services. For once do an update that improves.</text>
+  </sentence>
+  <sentence id="885">
+    <text>The update is fantastic! Everything is easier to find, looks prettier, and is easy to access. Great job guys!</text>
+  </sentence>
+  <sentence id="886">
+    <text>I've been using Dropbox for years for school work and</text>
+  </sentence>
+  <sentence id="887">
+    <text>Perhaps make an option to only play certain folders and/or play all sub folders.</text>
+  </sentence>
+  <sentence id="888">
+    <text>it's saved me plenty of times when I forgot to pick up my papers from my printer.</text>
+  </sentence>
+  <sentence id="889">
+    <text>I was running out of space on my iPad so I had to delete all my music.</text>
+  </sentence>
+  <sentence id="890">
+    <text>The music player right now isn't best.</text>
+  </sentence>
+  <sentence id="891">
+    <text>It doesn't have loop, loop one, shuffle, etc.</text>
+  </sentence>
+  <sentence id="892">
+    <text>It also takes a lot of time to load each song before they actually play.</text>
+  </sentence>
+  <sentence id="893">
+    <text>I was hoping to use Dropbox or an app that plays music off of Dropbox but none of those work.</text>
+  </sentence>
+  <sentence id="894">
+    <text>Great design and all-around service.</text>
+  </sentence>
+  <sentence id="895">
+    <text>I really wish you could improve the music player though.</text>
+  </sentence>
+  <sentence id="896">
+    <text>If you do consider improving the player, also think about how some people organize their music in a folder called Music and sub folders by artists and albums.</text>
+  </sentence>
+  <sentence id="897">
+    <text>Love it, and the new update is awesome.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="17" term="new update" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="898">
+    <text>Also, can we tag people and automatically share?</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="13" term="tag people and automatically share" to="47"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="899">
+    <text>Can't wait till I get search in all my documents and music and photos.</text>
+  </sentence>
+  <sentence id="900">
+    <text>Very good!</text>
+  </sentence>
+  <sentence id="901">
+    <text>It was an awesome app and then it crashes EVERY thine I launch the app. Open crash open crash open crash. Fix please!</text>
+  </sentence>
+  <sentence id="902">
+    <text>I have used other sharing apps but this is the only one I am using for my business and personal. Stop reading and start using drop box now....it's the best and only one you will use. I give A+ to those who worked so hard to make our lives easier every day. May God bless you all.</text>
+  </sentence>
+  <sentence id="903">
+    <text>It looks so awkward and ugly to be honest.</text>
+  </sentence>
+  <sentence id="904">
+    <text>But the new icon is just unbearable.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="8" term="new icon" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="905">
+    <text>I am a true Dropbox fan and all, I recommend to all my friends to use Dropbox service.</text>
+  </sentence>
+  <sentence id="906">
+    <text>please please, stop using this uncomfortable icon and bring back the old one!!!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="45" term="icon" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="907">
+    <text>And based from what I have read, it's not just me who thinks that, many others feel the same way.</text>
+  </sentence>
+  <sentence id="908">
+    <text>Please give people what they want,</text>
+  </sentence>
+  <sentence id="909">
+    <text>Thumbs up if u used this for survival craft</text>
+  </sentence>
+  <sentence id="910">
+    <text>Basic functionality like file rename or access to previous versions of a file are missing.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="40" term="access to previous versions of a file" to="77"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="911">
+    <text>App is not at all opening... Straight aways crashes upon opening... Please fix this.</text>
+  </sentence>
+  <sentence id="912">
+    <text>Excellent app.  It does exactly what the developers say it does and could not be simpler to use.  It is stable, super fast, and a joy to use.  Infinitely better than sending attachments via email.  Love it.</text>
+  </sentence>
+  <sentence id="913">
+    <text>Also, I can't download videos on other devices?</text>
+  </sentence>
+  <sentence id="914">
+    <text>I really like the app and use it a lot.</text>
+  </sentence>
+  <sentence id="915">
+    <text>Can you make it so that I can?</text>
+  </sentence>
+  <sentence id="916">
+    <text>However, can you make it so that you can delete multiple photos/videos at the same time?</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="41" term="delete multiple photos/videos at the same time" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="917">
+    <text>Did not work on my new iPhone 5s. Only showed sliding logo's</text>
+  </sentence>
+  <sentence id="918">
+    <text>It would be awesome if I could use my Dropbox picture file as a slide show or &quot;picture show&quot;
+
+Thanks!</text>
+  </sentence>
+  <sentence id="919">
+    <text>Lanny</text>
+  </sentence>
+  <sentence id="920">
+    <text>Dropbox support, would there ever be a way to sync the photo folders with the camera roll on the iPad?</text>
+  </sentence>
+  <sentence id="921">
+    <text>Love the features it offers...</text>
+  </sentence>
+  <sentence id="922">
+    <text>Great app!!</text>
+  </sentence>
+  <sentence id="923">
+    <text>its great and for all the people who don't like it cuz it does something to ur iPhone then ur iPhone it jacket  up</text>
+  </sentence>
+  <sentence id="924">
+    <text>Recent iOS7 update cause files inside folders to disappear when SORT BY DATE is selected.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="25" term="files inside folders" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="925">
+    <text>Frustrating bug.</text>
+  </sentence>
+  <sentence id="926">
+    <text>Thought my files were deleted, just can't see them.</text>
+  </sentence>
+  <sentence id="927">
+    <text>They reappear after you close the folder by going to root directory and selecting SORT BY NAME then return to folder view.</text>
+  </sentence>
+  <sentence id="928">
+    <text>ALL 1,300 photos were deleted.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="10" term="photos" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="929">
+    <text>Never will I ever use them again.</text>
+  </sentence>
+  <sentence id="930">
+    <text>The only kind of response I've gotten from them is a generic response saying they can't get back to me because there are so many inquires.</text>
+  </sentence>
+  <sentence id="931">
+    <text>I trusted Dropbox as a back up for my photos.</text>
+  </sentence>
+  <sentence id="932">
+    <text>I have no way of ever getting those photos back.</text>
+  </sentence>
+  <sentence id="933">
+    <text>DO NOT TRUST THIS APP!</text>
+  </sentence>
+  <sentence id="934">
+    <text>Has problems uploading when not on wifi. When you turn on &quot;use cellular data&quot; you can plainly see a message underneath saying &quot;Dropbox will not use your cellular data.&quot; 
+
+*face palm*  Are you serious?
+
+Other users mentioned the slow uploading and lack of auto upload options. Cannot save videos to iPhone either. Ugh, come on Dropbox.  You can make a good app, we believe!</text>
+  </sentence>
+  <sentence id="935">
+    <text>I like dropbox cuz it's easy to use and syncs among all devices you are using.</text>
+  </sentence>
+  <sentence id="936">
+    <text>I like it more since it enables a sharing folder to share darta with whoever you like securely</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="34" term="sharing folder" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="937">
+    <text>Disgusting appearance but useful</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="11" term="appearance" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="938">
+    <text>Why?</text>
+  </sentence>
+  <sentence id="939">
+    <text>Every time  I try to create an account it says an unexpected error has occurred. So I didn't even get a chance to use app before it malfunctioned and I had to delete it. I'm just glad I didn't have to pay for the app.</text>
+  </sentence>
+  <sentence id="940">
+    <text>&gt;&gt; Delete and reinstall, works now &lt;&lt;
+
+App now crashes when opening. I have 853 photos pending due to updating to 6.1 by iTunes restore feature. 
+
+Please fix.  iPhone 4S 6.1
+Works on iPad 2 6.1</text>
+  </sentence>
+  <sentence id="941">
+    <text>This bug needs to be squished.</text>
+  </sentence>
+  <sentence id="942">
+    <text>One of the main things I need Dropbox for opening Pages files. 3.0 simply opens them to a gray screen that says &quot;Pages Document&quot; and doesn't give me the option I used to have to open the file in Pages.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="190" term="open the file in Pages" to="212"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="943">
+    <text>Every time I try to open it, it crashes. Y u do this to me.</text>
+  </sentence>
+  <sentence id="944">
+    <text>Charges made without any request and no approval</text>
+  </sentence>
+  <sentence id="945">
+    <text>How do I get MCPE maps and mods? Without iexplorer or any other fake website to get your money</text>
+  </sentence>
+  <sentence id="946">
+    <text>I really love this app!!!</text>
+  </sentence>
+  <sentence id="947">
+    <text>Prevents access to exams in a paperless classroom.</text>
+  </sentence>
+  <sentence id="948">
+    <text>Worked fine last week.</text>
+  </sentence>
+  <sentence id="949">
+    <text>Today the app is crashing on all my classroom iPads.</text>
+  </sentence>
+  <sentence id="950">
+    <text>I can tolerate the in-app design, but the icon is hideous.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="42" term="icon" to="46"/>
+      <aspectTerm class="E" from="26" term="design" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="951">
+    <text>I've had to hide it in a second page folder to keep it from screaming at my eyes every time I look at my phone.</text>
+  </sentence>
+  <sentence id="952">
+    <text>Please?</text>
+  </sentence>
+  <sentence id="953">
+    <text>I'm not a fan if the new design.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="25" term="new design" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="954">
+    <text>Think of the retinas!</text>
+  </sentence>
+  <sentence id="955">
+    <text>Please change it back.</text>
+  </sentence>
+  <sentence id="956">
+    <text>This app uses 8GB of space on my iphone. Yet on my computer used only 3GB? Why is it using so much more on my iphone?! Ridiculous!!! Please fix. Or let me choose things I want downloaded to my phone.</text>
+  </sentence>
+  <sentence id="957">
+    <text>Helps to transfer files from me iphone to pc easily</text>
+  </sentence>
+  <sentence id="958">
+    <text>It will not install update and now I cannot use app on my phone.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="12" term="install update" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="959">
+    <text>I love Dropbox, but the latest update crashed on my iPhone 5.</text>
+  </sentence>
+  <sentence id="960">
+    <text>Help!</text>
+  </sentence>
+  <sentence id="961">
+    <text>There is a bug with manual uploading of photos from camera roll.</text>
+  </sentence>
+  <sentence id="962">
+    <text>It would be cool if it was possible to edit the name of documents on mobile devices like Iphone or ipad.</text>
+  </sentence>
+  <sentence id="963">
+    <text>This update would be a step up if you could actually see PDF's with it....</text>
+  </sentence>
+  <sentence id="964">
+    <text>I love it, they payed attention to details that you would never appreciate unless you try this use them for some time and suddenly loose them.</text>
+  </sentence>
+  <sentence id="965">
+    <text>It now only works on iOS 7, so it doesn?t work on my iPod Touch anymore.  Stupid, stupid, stupid.</text>
+  </sentence>
+  <sentence id="966">
+    <text>I loaded 314 documents in about five seconds.</text>
+  </sentence>
+  <sentence id="967">
+    <text>Now I can read and work on documents no matter where I am.</text>
+  </sentence>
+  <sentence id="968">
+    <text>I love it.</text>
+  </sentence>
+  <sentence id="969">
+    <text>Dropbox rocks.</text>
+  </sentence>
+  <sentence id="970">
+    <text>So easy even a cave man can  use it.</text>
+  </sentence>
+  <sentence id="971">
+    <text>The cloud's got nothing on this.</text>
+  </sentence>
+  <sentence id="972">
+    <text>It's great but it crashes every time I go on it I can't even last 5 seconds can you guys pleas fix this</text>
+  </sentence>
+  <sentence id="973">
+    <text>A must have app for college student!</text>
+  </sentence>
+  <sentence id="974">
+    <text>Also the features (like sliding right on a item to pull up the sharing menu, delete, etc) are awesome!!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="77" term="delete" to="83"/>
+      <aspectTerm class="E" from="51" term="pull up the sharing menu" to="75"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="975">
+    <text>Very powerful app and I absolutely love it.</text>
+  </sentence>
+  <sentence id="976">
+    <text>I have an iPhone 4S and on the previous version took 4-5 seconds to start up but now it's around 1-2 seconds!</text>
+  </sentence>
+  <sentence id="977">
+    <text>Doesn't work for those of us still on iOS 6.1.4 so I can no longer use Dropbox on my iDevices. Please bring back the older one and have both. Perhaps the iOS 7 version could be named Dropbox 7+ and the iOS 6 version Dropbox 6.</text>
+  </sentence>
+  <sentence id="978">
+    <text>DOES NOT LOAD ANY FILES</text>
+  </sentence>
+  <sentence id="979">
+    <text>I miss you Dropbox!!</text>
+  </sentence>
+  <sentence id="980">
+    <text>My company made is stop using Dropbox because the files aren't password protected.</text>
+    <aspectTerms>
+      <aspectTerm class="M" from="67" term="password protected" to="85"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="981">
+    <text>Make an option for password protection so I can start using you again.</text>
+    <aspectTerms>
+      <aspectTerm class="R" from="19" term="password protection" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="982">
+    <text>I now have to use Wulah, and its slow and clunky.</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="18" term="Wulah" to="23"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="983">
+    <text>After the supposed iOS 7 update, the app isn't working on any of my iOS devices like they used to.</text>
+  </sentence>
+  <sentence id="984">
+    <text>Crashes on iOS 7, and I can't even use the search feature on any of my devices, neither iOS 6 nor iOS 7.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="47" term="search" to="53"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="985">
+    <text>I try searching and it crashes.</text>
+  </sentence>
+  <sentence id="986">
+    <text>....</text>
+  </sentence>
+  <sentence id="987">
+    <text>but I don't seem to just zoom in with multitouch or pinch zoom in or out.</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="29" term="zoom in" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="988">
+    <text>It's hard and frustrated to say the least.</text>
+  </sentence>
+  <sentence id="989">
+    <text>The new look is okay</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="new look" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="990">
+    <text>why cant i print but i can air print on any other program</text>
+    <aspectTerms>
+      <aspectTerm class="B" from="11" term="print" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="991">
+    <text>Why is the option gone to hide the menu and dedicate that screen real estate to full screen viewing of content?? Thank goodness this semester is basically finished. Please prioritize this fix; it was a stupid omission.</text>
+  </sentence>
+  <sentence id="992">
+    <text>I have uploads stuck in limbo apparently.</text>
+  </sentence>
+  <sentence id="993">
+    <text>Dropbox tends to be unresponsive.</text>
+  </sentence>
+  <sentence id="994">
+    <text>The new UI looks and feels great, right alongside iOS7!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="4" term="new UI" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="995">
+    <text>I work in the field and always need access to my data.</text>
+  </sentence>
+  <sentence id="996">
+    <text>It opens every file flawless!!</text>
+    <aspectTerms>
+      <aspectTerm class="E" from="3" term="opens every file" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="997">
+    <text>I can also backup my note taking app automatically to DropBox.</text>
+  </sentence>
+  <sentence id="998">
+    <text>This app is awesome!!</text>
+  </sentence>
+  <sentence id="999">
+    <text>Ever since iOS 7, the &quot;Open in&quot; option no longer works. No matter which app you choose to open it in, it does nothing, just sits there.
+
+Almost useless now.</text>
+  </sentence>
+</sentences>

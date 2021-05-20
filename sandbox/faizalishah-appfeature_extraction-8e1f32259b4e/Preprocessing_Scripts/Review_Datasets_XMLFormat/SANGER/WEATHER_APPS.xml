@@ -1,0 +1,874 @@
+<?xml version="1.0" ?>
+<sentences>
+  <sentence id="3000">
+    <text>Auch nach dem Update läuft das von links herausziehbare Menü nicht flüssig. Das Design ist mittlerweile recht ansehnlich und nicht zu überladen.</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="Update" to="21"/>
+      <aspectTerm from="81" term="Design" to="87"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3001">
+    <text>Ist zuverlässig so gut es geht</text>
+  </sentence>
+  <sentence id="3002">
+    <text>Sehr zuverlässig</text>
+  </sentence>
+  <sentence id="3003">
+    <text>Mit dieser APP kann man Radtouren besser planen .</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="APP" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3004">
+    <text>OK</text>
+  </sentence>
+  <sentence id="3005">
+    <text>Ich finde das Wetter App sehr gut</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="Wetter App" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3006">
+    <text>Super app</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3007">
+    <text>Empfehlenswert. Gute Prognosen .</text>
+  </sentence>
+  <sentence id="3008">
+    <text>Super.....schnell und und immer richtig.</text>
+  </sentence>
+  <sentence id="3009">
+    <text>Immer wieder überrascht wegen der sehr genauen Vorhersagen.</text>
+    <aspectTerms>
+      <aspectTerm from="48" term="Vorhersagen" to="59"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3010">
+    <text>Bislang war ich sehr zufrieden mit der App, Vorhersagen stimmten meistens. Jetzt funktioniert das Widget leider nicht mehr, es wird nichts angezeigt. Mehrfaches Neuinstallieren half leider nicht. Bitte Fehler schnell beheben.</text>
+    <aspectTerms>
+      <aspectTerm from="40" term="App" to="43"/>
+      <aspectTerm from="45" term="Vorhersagen" to="56"/>
+      <aspectTerm from="99" term="Widget" to="105"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3011">
+    <text>Sehr zuverlässig, hat in 2014 gute Dienste für die Wassersport-Veranstaltungen in Berlin geleistet. 😊 Auch für den Winter (14/15) Super mit dem farblichen Unterschied für Schneefall 😎</text>
+  </sentence>
+  <sentence id="3012">
+    <text>Sehr gut</text>
+  </sentence>
+  <sentence id="3013">
+    <text>Temperatur passt immer! Super AP!</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Temperatur" to="10"/>
+      <aspectTerm from="30" term="AP" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3014">
+    <text>Relativ zuverlässige Werte</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="Werte" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3015">
+    <text>Ohne worte</text>
+  </sentence>
+  <sentence id="3016">
+    <text>Super</text>
+  </sentence>
+  <sentence id="3017">
+    <text>Infos sind schnell und zuverlässig, besonders der Regenradar. Wäre toll, wenn man die Infos weltweit nutzen könnte.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Infos" to="6"/>
+      <aspectTerm from="51" term="Regenradar" to="61"/>
+      <aspectTerm from="87" term="Infos weltweit nutzen" to="108"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3018">
+    <text>Macht genau was es soll.</text>
+  </sentence>
+  <sentence id="3019">
+    <text>Beim Hisense funktioniert alles einwandfrei. Sehr schicke Darstellungen. Auch die Voraussagen sind fast treffend. Aber darüber kann man sich streiten. Da hab ich noch keine app gehabt, welche hundertprozentig perfekt ist. Aber wer ist das schon.</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="funktioniert" to="26"/>
+      <aspectTerm from="59" term="Darstellungen" to="72"/>
+      <aspectTerm from="83" term="Voraussagen" to="94"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3020">
+    <text>Eine Wetter App ohne unnötiges Schnick-Schnack. Tut was es soll. Gefällt mir.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Wetter App" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3021">
+    <text>Seit dem Update ist die App unbrauchbar geworden. PopUps, Banner, ein Zoomfaktor, der viel zu groß gewählt ist. Schade.</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Update" to="16"/>
+      <aspectTerm from="25" term="App" to="28"/>
+      <aspectTerm from="51" term="PopUps" to="57"/>
+      <aspectTerm from="59" term="Banner" to="65"/>
+      <aspectTerm from="71" term="Zoomfaktor" to="81"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3022">
+    <text>Super</text>
+  </sentence>
+  <sentence id="3023">
+    <text>Ich habe folgende Antwort vom WeatherPro-Support erhalten: Sehr geehrte/r ..., vielen Dank für Ihre Anfrage. Da dies ein spezifischer Google Fehler ist und mit dem Lollipop Update auftritt, können wir Ihnen nicht helfen. Bitte kontaktieren Sie den Play Store Support. Viele Grüße, Ihr WeatherPro-Team</text>
+  </sentence>
+  <sentence id="3024">
+    <text>Nach meiner Meinung ist diese widget der beste in seine klasse.</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="widget" to="37"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3025">
+    <text>Es ist sehr genau und geht schnell</text>
+  </sentence>
+  <sentence id="3026">
+    <text>Mit einem Klick alles im Blick</text>
+  </sentence>
+  <sentence id="3027">
+    <text>perfekt</text>
+  </sentence>
+  <sentence id="3028">
+    <text>Ich verwende diese APP seit ca. 6 Wochen und ich finde sie prima. Die Darstellung gefällt mir ganz gut und die Vorhersage trifft relativ oft.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="APP" to="23"/>
+      <aspectTerm from="71" term="Darstellung" to="82"/>
+      <aspectTerm from="112" term="Vorhersage" to="122"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3029">
+    <text>Die APP ist wirklich gut und nützlich. Funktioniert sehr gut.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="APP" to="7"/>
+      <aspectTerm from="39" term="Funktioniert" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3030">
+    <text>Schlechte Funktion ohne Einstellmöglichkeiten</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Funktion" to="18"/>
+      <aspectTerm from="24" term="Einstellmöglichkeiten" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3031">
+    <text>Ich hab am Sonntag die Aktualisierung der App auf meinem Galaxy S5 durchgeführt. Seitdem aktualisiert sich die Vorschau im Widget nicht mehr. Auch wenn ich das Wetter aufrufe steht oben als erster Tag immernoch der Sonntag. Nicht gut, daher nur 3 Sterne. Vorher wären es 5 gewesen.</text>
+    <aspectTerms>
+      <aspectTerm from="43" term="App" to="46"/>
+      <aspectTerm from="124" term="Widget" to="130"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3032">
+    <text>Ziemlich genaue</text>
+  </sentence>
+  <sentence id="3033">
+    <text>Die Wettervorhersage ist leider nicht immer zufrieden stellend,gute Übersicht..</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Wettervorhersage" to="21"/>
+      <aspectTerm from="69" term="Übersicht" to="78"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3034">
+    <text>Die Wetterdaten sind selten auf dem aktuellen Stand.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="Wetterdaten" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3035">
+    <text>Übersichtlich.Schnelle Information.Regenradar.Unwetterwarnung.Was will man mehr?</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="Information" to="35"/>
+      <aspectTerm from="36" term="Regenradar" to="46"/>
+      <aspectTerm from="47" term="Unwetterwarnung" to="62"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3036">
+    <text>Ich habe aber inzwischen meteoswiss schätzen gelern. Das hat noch eine Wetteekarte.</text>
+    <aspectTerms>
+      <aspectTerm from="26" term="meteoswiss" to="36"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3037">
+    <text>Die App hilft sehr gut weiter</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="App" to="7"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3038">
+    <text>Updates still not working properly (both tablet &amp; mobile phone, both weather data provider). Please fix this!</text>
+  </sentence>
+  <sentence id="3039">
+    <text>Quer format der alten version konnte man als wetterstation nutzen ohne zu scrollen diese nicht daher für mich jetzt unbrauchbar</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Quer format" to="12"/>
+      <aspectTerm from="17" term="alten version" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3040">
+    <text>Prognose stimmt zu 95% - Wetter ist auch bei guter App nicht immer vorhersehbar</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Prognose" to="9"/>
+      <aspectTerm from="52" term="App" to="55"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3041">
+    <text>Kennt jemand eine bessere APP für's Wetter.</text>
+    <aspectTerms>
+      <aspectTerm from="27" term="APP" to="30"/>
+      <aspectTerm from="37" term="Wetter" to="43"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3042">
+    <text>Man kauft eine App und soll dann noch für eine 14 Tägige voraus schau zahlen, Sorry geht nicht, deswegen 1 Stern</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="App" to="19"/>
+      <aspectTerm from="48" term="14 Tägige voraus schau zahlen" to="77"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3043">
+    <text>Die Videos sind überflüssig. Ein Regenradar wäre sinnvoller.Ein dunkler Hintergrund optional zu begrüßen. Die Angaben sind zutreffend. Findet selbst kleine Nester.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Videos" to="11"/>
+      <aspectTerm from="34" term="Regenradar" to="44"/>
+      <aspectTerm from="65" term="dunkler Hintergrund" to="84"/>
+      <aspectTerm from="111" term="Angaben" to="118"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3044">
+    <text>Sehr genau ,genauer wie die sandart app von androit</text>
+    <aspectTerms>
+      <aspectTerm from="29" term="sandart app" to="40"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3045">
+    <text>Ist meist sehr genau und man kann sich fast immer darauf verlassen</text>
+    <aspectTerms>
+      <aspectTerm from="58" term="verlassen" to="67"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3046">
+    <text>Ist gut könnte aber noch etwas besser werden</text>
+  </sentence>
+  <sentence id="3047">
+    <text>Finde ich toll bevor ich mit den Hunden spazieren gehe sehe ich wann es regnet</text>
+    <aspectTerms>
+      <aspectTerm from="55" term="sehe ich wann es regnet" to="78"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3048">
+    <text>Super</text>
+  </sentence>
+  <sentence id="3049">
+    <text>Super App kann ich jeden Empfehlen</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3050">
+    <text>Der Punktabzug ist leider da Basics wie ein großes Niederschlagsradar nochmal zusätzlich Geld kosten sollen... Schade. Ansonsten super App mit genauen Vorhersagen.</text>
+    <aspectTerms>
+      <aspectTerm from="52" term="Niederschlagsradar" to="70"/>
+      <aspectTerm from="79" term="zusätzlich Geld kosten" to="101"/>
+      <aspectTerm from="136" term="App" to="139"/>
+      <aspectTerm from="152" term="Vorhersagen" to="163"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3051">
+    <text>Hab sie erst mal runter geschmissen, funktioniert seit Wochen nicht richtig, und anstatt besser wird es immer schlimmer.</text>
+    <aspectTerms>
+      <aspectTerm from="38" term="funktioniert" to="50"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3052">
+    <text>Gut</text>
+  </sentence>
+  <sentence id="3053">
+    <text>Gute Info für die nächsten 90 min</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Info" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3054">
+    <text>weiter so!!!</text>
+  </sentence>
+  <sentence id="3055">
+    <text>Sonst toll</text>
+  </sentence>
+  <sentence id="3056">
+    <text>Die Wetterdaten entsprechen selten dem Wetter, doch die Aufbereitung ist toll</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Wetterdaten" to="16"/>
+      <aspectTerm from="57" term="Aufbereitung" to="69"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3057">
+    <text>Sher gute Wetter App</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="Wetter App" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3058">
+    <text>Dienst und Service sind ausgezeichnet. Gut zu konfigurieren und mit allen nötigen Informationen ausgestattet. Sehr empfehlenswert.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Dienst" to="7"/>
+      <aspectTerm from="12" term="Service" to="19"/>
+      <aspectTerm from="47" term="konfigurieren" to="60"/>
+      <aspectTerm from="83" term="Informationen" to="96"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3059">
+    <text>Ist gut die Wetterprognosen stimmen eigentlich immer.</text>
+    <aspectTerms>
+      <aspectTerm from="13" term="Wetterprognosen" to="28"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3060">
+    <text>Einfache bedinung. Klasse APP.</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="bedinung" to="18"/>
+      <aspectTerm from="27" term="APP" to="30"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3061">
+    <text>Übersichtlich aber widget fehlt.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="widget" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3062">
+    <text>App ist nützlich. Prognosen sind brauchbar. Darstellung der Niederschlagsarten ok. 👍</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="App" to="4"/>
+      <aspectTerm from="19" term="Prognosen" to="28"/>
+      <aspectTerm from="45" term="Darstellung der Niederschlagsarten" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3063">
+    <text>Gar nicht so schlecht</text>
+  </sentence>
+  <sentence id="3064">
+    <text>Die beste Wetter App die es gibt</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="Wetter App" to="21"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3065">
+    <text>Top.App</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="App" to="7"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3066">
+    <text>Warum kann man die Bilder nicht mehr drehen und im Seitenformat sehen? Das War vorher besser.</text>
+    <aspectTerms>
+      <aspectTerm from="20" term="Bilder" to="26"/>
+      <aspectTerm from="52" term="Seitenformat" to="64"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3067">
+    <text>Super wetterapp</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="wetterapp" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3068">
+    <text>Immer Top aktuell</text>
+  </sentence>
+  <sentence id="3069">
+    <text>Jute app.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="app" to="8"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3070">
+    <text>Ziemlich ungenau daher nur 4* ansonsten Top</text>
+  </sentence>
+  <sentence id="3071">
+    <text>gute und zuverlässige App</text>
+    <aspectTerms>
+      <aspectTerm from="22" term="App" to="25"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3072">
+    <text>Richtig schlechte app, findet riesen orte wie zb. Kreta nicht, noch santorin (meistbesuchter Urlaubsort 2012 mit 8000 menschen pro tag). Deutschland wetter brauch ich nicht da schau ich aus dem Fenster. Aber dass man Urlaubsorte nicht findet is unterste schublade dafür dass die app so hochgeredet wird.</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="app" to="22"/>
+      <aspectTerm from="280" term="app" to="283"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3073">
+    <text>Bin relativ zufrieden damit</text>
+  </sentence>
+  <sentence id="3074">
+    <text>Aktuelle Regengebiete und Schätzung der Entwicklung der Regengebiete</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Regengebiete" to="22"/>
+      <aspectTerm from="57" term="Regengebiete" to="69"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3075">
+    <text>Sehr gute wetterapp mit Uhr. Ich würde nur gerne einen anderen Wetterdienst auswählen können dann fünf Sterne</text>
+    <aspectTerms>
+      <aspectTerm from="11" term="wetterapp" to="20"/>
+      <aspectTerm from="25" term="Uhr" to="28"/>
+      <aspectTerm from="64" term="Wetterdienst" to="76"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3076">
+    <text>Hoffentlich bleibt das so.</text>
+  </sentence>
+  <sentence id="3077">
+    <text>Schöne app</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="app" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3078">
+    <text>Die APP gibt an dem aktuellen Tag das Wetter pro Stunde an. Dies sollte auch für die nächsten Tage ermöglicht werden.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="APP" to="8"/>
+      <aspectTerm from="39" term="Wetter" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3079">
+    <text>Jetzt hat man mir auch geraten denn Wetteranbieter zu wechseln! Open weather map aktualisiert zwar, ist aber komplett unbrauchbar! Sonnenauf- und Untergang eine Stunde zu spät, die Temperaturen für die nächsten Tage völlig gaga!!! Bin kurz davor, die App endgültig runterzuschmeißen</text>
+    <aspectTerms>
+      <aspectTerm from="37" term="Wetteranbieter" to="51"/>
+      <aspectTerm from="65" term="Open weather map" to="81"/>
+      <aspectTerm from="82" term="aktualisiert" to="94"/>
+      <aspectTerm from="182" term="Temperaturen" to="194"/>
+      <aspectTerm from="252" term="App" to="255"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3080">
+    <text>Tolle App</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3081">
+    <text>Fantastisches Design und präzise!</text>
+    <aspectTerms>
+      <aspectTerm from="14" term="Design" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3082">
+    <text>Die app zeigt zwar nicht immer das richtige Wetter an, ist aber bisher immer nahe der gewesen.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="app" to="8"/>
+      <aspectTerm from="45" term="Wetter" to="51"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3083">
+    <text>Habe meine alte App nicht mehr installiert bekommen und bin mit dem Ersatz mehr als zufrieden.</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="App" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3084">
+    <text>Alles bestens</text>
+  </sentence>
+  <sentence id="3085">
+    <text>Gut.</text>
+  </sentence>
+  <sentence id="3086">
+    <text>super app, wirklich alles toll brauchst nicht mehr wetter im fernsehen schauen ;-)</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3087">
+    <text>auch nach neuinstallation</text>
+  </sentence>
+  <sentence id="3088">
+    <text>Keine sehr gute app. Tut mir leid ist aber so.... :( ich dachte echt sie ist besser😁</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="app" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3089">
+    <text>Zeigt alle wichtigen Daten an, die man brauchet. Auch das Wiget, mit Uhr, find ich klasse.</text>
+    <aspectTerms>
+      <aspectTerm from="59" term="Wiget" to="64"/>
+      <aspectTerm from="70" term="Uhr" to="73"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3090">
+    <text>Sehr gut</text>
+  </sentence>
+  <sentence id="3091">
+    <text>Beste Wetterapp die ich jeh hatte !!</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Wetterapp" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3092">
+    <text>Eine sehr gute App</text>
+    <aspectTerms>
+      <aspectTerm from="16" term="App" to="19"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3093">
+    <text>4,8 Sterne. Die Zeitspanne könnte größer sein. Sonst richtig gut</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="Zeitspanne" to="27"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3094">
+    <text>Top App!</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="App" to="7"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3095">
+    <text>Diese Wetter ist im Vergleich mit etlichen anderen mit Abstand die beste!</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Wetter" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3096">
+    <text>Sehr zuverlässig , sehr genau und einfach</text>
+  </sentence>
+  <sentence id="3097">
+    <text>Leider nicht möglich, nachdem man dafür bezahlt hat.</text>
+  </sentence>
+  <sentence id="3098">
+    <text>Kurzfristige Wettervorhersagen sind absolut zuverlässig. Längerfristige Vorhersagen sind meistens wie ausgewürfelt.</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Kurzfristige Wettervorhersagen" to="31"/>
+      <aspectTerm from="58" term="Längerfristige Vorhersagen" to="84"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3099">
+    <text>Ich bin sehr zufrieden mit der App.</text>
+    <aspectTerms>
+      <aspectTerm from="32" term="App" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3100">
+    <text>Hier hat man einen guten Überblick über das aktuelle Wetter.</text>
+    <aspectTerms>
+      <aspectTerm from="45" term="aktuelle Wetter" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3101">
+    <text>Ok</text>
+  </sentence>
+  <sentence id="3102">
+    <text>Sehr empfehlenswert! !!!</text>
+  </sentence>
+  <sentence id="3103">
+    <text>Super app aber was soll ich mit einer wetterapp die keine wetter daten bekommt? Nur endloooos aktualisieren</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="app" to="9"/>
+      <aspectTerm from="38" term="wetterapp" to="47"/>
+      <aspectTerm from="94" term="aktualisieren" to="107"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3104">
+    <text>Liefert genau was es verspricht.</text>
+  </sentence>
+  <sentence id="3105">
+    <text>Daumen hoch!!!!</text>
+  </sentence>
+  <sentence id="3106">
+    <text>Heute mittag wurde das Gewitter nicht vorhergesagt und wir sind angefangen zu zelten und mussten mitten in der Nacht ins Haus</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="Gewitter" to="32"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3107">
+    <text>Der Regenradar funktioniert aufgrund des angeblichen Netzwerkvetbindungsfehlers nicht.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Regenradar" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3108">
+    <text>Behebt endlich den Widget-Fehler!!!</text>
+  </sentence>
+  <sentence id="3109">
+    <text>Geil</text>
+  </sentence>
+  <sentence id="3110">
+    <text>Funktioniert auf Samsung SDuo Problemlos</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="Funktioniert" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3111">
+    <text>Perfekt</text>
+  </sentence>
+  <sentence id="3112">
+    <text>Die Vorhersagen stimmen zwar, jedoch habe ich ein paar Updates früher innerhalb München noch stadtteilgenaue Anzeige des Wetters gehabt. Das war super! Jetzt bekomme ich nur noch das allgemeine Wetter für die Stadt München angezeigt - trotz GPS-Ortung!</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="Vorhersagen" to="16"/>
+      <aspectTerm from="94" term="stadtteilgenaue Anzeige des Wetters" to="129"/>
+      <aspectTerm from="184" term="allgemeine Wetter" to="201"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3113">
+    <text>Man kann es gebrauchen aber nicht sehr verlässlich.</text>
+  </sentence>
+  <sentence id="3114">
+    <text>Ok</text>
+  </sentence>
+  <sentence id="3115">
+    <text>Ort eingestellt jedoch wird im Widget nur Berlin angezeigt. Daher für mich unbrauchbar</text>
+    <aspectTerms>
+      <aspectTerm from="1" term="Ort" to="4"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3116">
+    <text>Nur die Werbung nervt</text>
+    <aspectTerms>
+      <aspectTerm from="8" term="Werbung" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3117">
+    <text>IST ECHT EINE GUTE APP,ECHT GUT</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="APP" to="22"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3118">
+    <text>Zu jeder Zeit richtiges Wetter. Besser geht nicht!</text>
+    <aspectTerms>
+      <aspectTerm from="25" term="Wetter" to="31"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3119">
+    <text>Aber ungenau. Regenradar nutzte ich häufig. Nicht immer zuverlässig bei der Ortsbestimmung.</text>
+    <aspectTerms>
+      <aspectTerm from="15" term="Regenradar" to="25"/>
+      <aspectTerm from="77" term="Ortsbestimmung" to="91"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3120">
+    <text>Hübsch!</text>
+  </sentence>
+  <sentence id="3121">
+    <text>Super Bilder</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="Bilder" to="12"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3122">
+    <text>Habe viele Wetter Apps schon ausprobiert aber diese ist echt SUPER kann man nur empfehlen. Super Grafik, Wetterdaten stimmen überein, auf einem Blick alles zu sehen. Dank an die Entwickler weiter so</text>
+    <aspectTerms>
+      <aspectTerm from="98" term="Grafik" to="104"/>
+      <aspectTerm from="106" term="Wetterdaten" to="117"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3123">
+    <text>Die App ist gut aufgestellt und die wechselnden Fotos sind immer toll. Auch das man immer den aktuellen Standort hat is super.</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="App" to="7"/>
+      <aspectTerm from="48" term="Fotos" to="53"/>
+      <aspectTerm from="104" term="Standort" to="112"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3124">
+    <text>Top</text>
+  </sentence>
+  <sentence id="3125">
+    <text>Bis jetzt habe ich keine Probleme,alles ist sehr übersichtlich gestaltet</text>
+    <aspectTerms>
+      <aspectTerm from="64" term="gestaltet" to="73"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3126">
+    <text>Gayet güzel bir uygulama</text>
+  </sentence>
+  <sentence id="3127">
+    <text>Cool</text>
+  </sentence>
+  <sentence id="3128">
+    <text>An sich war es mal eine super App allerdings aktualisiert sich die Uhr im Widget nicht mehr. Total nervig</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="App" to="34"/>
+      <aspectTerm from="46" term="aktualisiert" to="58"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3129">
+    <text>Als Hundebesitzer nutze ich es regelmäßig. Hat uns schon so manchen Starkregen erspart, da geht man eben einige Minuten später. ;-)</text>
+    <aspectTerms>
+      <aspectTerm from="69" term="Starkregen" to="79"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3130">
+    <text>Ich weiß, dass die Übersicht welche Anwendung wieviel Strom braucht ungenau ist. Allerdings erscheinen mir 5% sehr hoch wenn ich nur ein Widget verwende.</text>
+    <aspectTerms>
+      <aspectTerm from="55" term="Strom" to="60"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3131">
+    <text>Was, wer auch immer, über das aktuelle Wetter über seinen Standort wissen will, hier bekommt er es geliefert!</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="aktuelle Wetter" to="46"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3132">
+    <text>Alles O.K.sehr genau !</text>
+  </sentence>
+  <sentence id="3133">
+    <text>Es läuft garnichts mehr. Bitte schnell beheben</text>
+    <aspectTerms>
+      <aspectTerm from="4" term="läuft" to="9"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3134">
+    <text>Schön anzusehen</text>
+  </sentence>
+  <sentence id="3135">
+    <text>Schön, einfach und informativ Angaben sind recht zuverlässig.</text>
+    <aspectTerms>
+      <aspectTerm from="31" term="Angaben" to="38"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3136">
+    <text>App läuft stabil und perfekt. Sehr nützlich und ziemlich genau.</text>
+    <aspectTerms>
+      <aspectTerm from="5" term="läuft" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3137">
+    <text>EINE TOLLE APP,</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="APP" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3138">
+    <text>Grossartige App.</text>
+    <aspectTerms>
+      <aspectTerm from="12" term="App" to="15"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3139">
+    <text>Beste Wetter app wo ich bis jetzt getestet hab</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="Wetter app" to="17"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3140">
+    <text>Super App. Gute Darstellung und tolle Funktionen.</text>
+    <aspectTerms>
+      <aspectTerm from="6" term="App" to="9"/>
+      <aspectTerm from="16" term="Darstellung" to="27"/>
+      <aspectTerm from="38" term="Funktionen" to="48"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3141">
+    <text>Super gut diese App</text>
+    <aspectTerms>
+      <aspectTerm from="17" term="App" to="20"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3142">
+    <text>Gut</text>
+  </sentence>
+  <sentence id="3143">
+    <text>Genau das, was wir brauchen.</text>
+  </sentence>
+  <sentence id="3144">
+    <text>Eine von den genausten Wettervorhersage Apps die ich bis jetzt getestet habe.</text>
+    <aspectTerms>
+      <aspectTerm from="24" term="Wettervorhersage Apps" to="45"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3145">
+    <text>Soweit ok aber zeigt mir den ganzen tag Unwetter an und kommt nix.. und darum ganze we Zuhause geblieben</text>
+    <aspectTerms>
+      <aspectTerm from="41" term="Unwetter" to="49"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3146">
+    <text>Sehr zufrieden mit der App 👍</text>
+    <aspectTerms>
+      <aspectTerm from="23" term="App" to="26"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3147">
+    <text>Bin sehr zu frieden.</text>
+  </sentence>
+  <sentence id="3148">
+    <text>Ok</text>
+  </sentence>
+  <sentence id="3149">
+    <text>Gefällt mir.</text>
+  </sentence>
+  <sentence id="3150">
+    <text>Nur zu empfehlen. Auf jeden fall TOP.</text>
+  </sentence>
+  <sentence id="3151">
+    <text>Es fehlen mir die Sattelitenbilder z.b. von Südosteuropa dann gibt es 5sterne</text>
+    <aspectTerms>
+      <aspectTerm from="19" term="Sattelitenbilder" to="35"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3152">
+    <text>Diese Wetter-App nutze ich nun schon Jahre. Sie ist besser u genauer als jeder TV-Wetterbericht.</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="Wetter-App" to="17"/>
+      <aspectTerm from="80" term="TV-Wetterbericht" to="96"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3153">
+    <text>Nach den letzten Updates ist diese App leider nicht mehr zu gebrauchen. Aktualisierung dauert &quot;ewig und drei Tage&quot;, angezeigte Wetterdaten für den eigenen Standort haben nichts mit der Realität gemeinsam. Die App war früher richtig gut aber jetzt ist diese nur noch SCHROTT.</text>
+    <aspectTerms>
+      <aspectTerm from="18" term="Updates" to="25"/>
+      <aspectTerm from="36" term="App" to="39"/>
+      <aspectTerm from="73" term="Aktualisierung" to="87"/>
+      <aspectTerm from="128" term="Wetterdaten" to="139"/>
+      <aspectTerm from="210" term="App" to="213"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3154">
+    <text>aber die Standortbestimmung geht mal gar nicht. Ich kann eingeben was ich will und hinzufügen als Favorit, aber die App stellt mir immer wieder Hanau ein und zeigt dies als an. Ich lass doch nicht als GPS wegen der App an. Absolut nervig.</text>
+    <aspectTerms>
+      <aspectTerm from="10" term="Standortbestimmung" to="28"/>
+      <aspectTerm from="117" term="App" to="120"/>
+      <aspectTerm from="202" term="GPS" to="205"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3155">
+    <text>APP funktioniert bestens</text>
+    <aspectTerms>
+      <aspectTerm from="0" term="APP" to="3"/>
+      <aspectTerm from="4" term="funktioniert" to="16"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3156">
+    <text>ABSOLUT genial zur Ernte gerade beim Heuen. Ganz vereinzelt passt der gesamt Tagesüberblick in der&quot; Wetterfunktion&quot; nicht zur Stundenansicht.</text>
+  </sentence>
+  <sentence id="3157">
+    <text>Beste app</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="app" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3158">
+    <text>Hammer app!</text>
+    <aspectTerms>
+      <aspectTerm from="7" term="app" to="10"/>
+    </aspectTerms>
+  </sentence>
+  <sentence id="3159">
+    <text>Hallo, ursprünglich, vor ca. 1 Jahr war dies eine sehr gute App. Sie ist schnell gestartet, hatte keine aufdringliche Werbung und war sehr schnell. Heute: Quasi nutzlos. Sehr lange Startzeit (klar, die Werbung muss geladen werden), aufdringliche Werbebanner oben und unten, eine nette Animation beim Umschalten zwischen den Orten wurde, vermutlich wegen der Werbung geopfert. Die app ist sowas von langsam, dass sie praktisch unbenutzbar ist und zwar nicht auf einem schwachen Smartphone, sondern einem halbwegs aktuellen Dualcore Smartphone. Fazit: Wird sofort wieder gelöscht, es gibt bessere Wetter-Apps!</text>
+    <aspectTerms>
+      <aspectTerm from="61" term="App" to="64"/>
+      <aspectTerm from="82" term="gestartet" to="91"/>
+      <aspectTerm from="119" term="Werbung" to="126"/>
+      <aspectTerm from="182" term="Startzeit" to="191"/>
+      <aspectTerm from="247" term="Werbebanner" to="258"/>
+      <aspectTerm from="286" term="Animation" to="295"/>
+      <aspectTerm from="381" term="app" to="384"/>
+      <aspectTerm from="596" term="Wetter-Apps" to="607"/>
+    </aspectTerms>
+  </sentence>
+</sentences>
