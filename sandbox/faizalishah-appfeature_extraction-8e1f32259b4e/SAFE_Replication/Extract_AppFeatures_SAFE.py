@@ -280,6 +280,7 @@ if __name__ == '__main__':
         with open(data_path) as json_data:
             data = json.load(json_data)
             evaluation_mode = CONFIGURATION.ALL_FEATURES
+            evaluation_type = EvaluationType.EXACT_TOKEN
             for app_data in data:
                 #if app_data["id"] == "507874739":
                 print('*' * 5, app_data['app_name'],'*' * 5)
@@ -289,7 +290,8 @@ if __name__ == '__main__':
                 #print(extracted_features)
                 dict_true_features = obj_safe.CleanFeatures(true_features_dict)
                 #print(dict_true_features)
-                obj_Evaluation = Evaluate(app_data['app_name'],dict_true_features,extracted_features,evaluation_mode)
+                # obj_Evaluation = Evaluate(app_data['app_name'],dict_true_features,extracted_features,evaluation_mode)
+                obj_Evaluation = Evaluate(app_data['app_name'],dict_true_features,extracted_features,evaluation_mode,evaluation_type)
                 dict_features_evaluated,token_eval_results= obj_Evaluation.PerformEvaluation()
                 
                 lst_precision.append(float(token_eval_results['precision']))
