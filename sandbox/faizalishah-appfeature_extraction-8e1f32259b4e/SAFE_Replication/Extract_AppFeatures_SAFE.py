@@ -23,6 +23,7 @@ import math
 import re
 import argparse
 
+nltk.download('universal_tagset')
 
 importlib.reload(SAFE_Evaluation)
 importlib.reload(SAFE_Patterns)
@@ -53,12 +54,18 @@ class ENGLISH_APPS(Enum):
     WHATSAPP=310633997
 
 class ENGLISH_APPCATS(Enum):
-    GAME = 1
-    PRODUCTIVITY= 2
-    TRAVEL = 3
-    PHOTOGRAPHY= 4
-    SOCIAL = 5
-    COMMUNICATION= 6
+    ANGRY_BIRD = 1
+    EVERNOTE= 2
+    TRIP_ADVISOR = 3
+    PIC_ART= 4
+    PINTEREST = 5
+    WHATSAPP= 6
+    # GAME = 1
+    # PRODUCTIVITY= 2
+    # TRAVEL = 3
+    # PHOTOGRAPHY= 4
+    # SOCIAL = 5
+    # COMMUNICATION= 6
 
 class DATASETS(Enum):
     GUZMAN=1
