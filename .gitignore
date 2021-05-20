@@ -20,3 +20,5 @@ sandbox/duyunshu-bert-sentiment-analysis/data/metacritic/train.tsv
 sandbox/duyunshu-bert-sentiment-analysis/test.tsv
 sandbox/faizalishah-appfeature_extraction-8e1f32259b4e/AG_Impact_Supervised_Learning_Model/__pycache__/
 sandbox/faizalishah-appfeature_extraction-8e1f32259b4e/AG_Impact_Supervised_Learning_Model/embeddings/wikipedia_de/embeddings
+
+sandbox/faizalishah-appfeature_extraction-8e1f32259b4e/SAFE_Replication/__pycache__/

@@ -1,15 +1,15 @@
 
 import pandas as pd
 import numpy as np
-#from spacy.en import English
-from sklearn.feature_extraction.stop_words import ENGLISH_STOP_WORDS
+from spacy.lang.en import English
+# from sklearn.feature_extraction.stop_words import ENGLISH_STOP_WORDS
 from nltk.corpus import stopwords
 import re
 import collections
 import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
 import statistics
-#from spacy.en import English
+# from spacy.en import English
 import nltk
 import math
 from xml.etree import ElementTree
@@ -25,7 +25,8 @@ parser = argparse.ArgumentParser(description='Optional app description')
 parser.add_argument('-r','--dataset', type=str,
 					help='name of review dataset')
 
-nlp = spacy.load('en_core_web_sm')
+# nlp = spacy.load('en_core_web_sm')
+nlp = spacy.load('en')
 
 
 from enum import Enum
