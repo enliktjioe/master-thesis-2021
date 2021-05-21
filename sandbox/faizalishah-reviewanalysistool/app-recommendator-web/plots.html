@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>plots</title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+
+        <script type="text/javascript">
+            function ShowChart() {
+            var ctx = document.getElementById('myChart').getContext('2d');
+            var myChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: ["DropBox","EverNote","Goolge Drive"],
+                    datasets: [
+                        { label : 'Evaluation', data:[70,20,50], backgroundColor: '#2E8B57'},
+                        { label : 'Requests', data:[20,15,25], backgroundColor: '#4169E1 '},
+                        { label : 'Bugs', data:[40,10,25], backgroundColor: '#FF0000'}
+                    ]
+                },
+                options: {
+                    scales: {
+                        xAxes: [{ stacked: true }],
+                        yAxes: [{ stacked: true }]
+            }
+            }
+                
+            });
+
+  var ctx = document.getElementById('EvaluationSummary').getContext('2d');
+            var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ["DropBox","EverNote","Goolge Drive"],
+        datasets: [
+            { label : 'Sentiment score', data:[-1,1,2], backgroundColor: '#2E8B57'},
+        ]
+    }    
+});
+    }
+        </script>
+
+
+    </head>
+    <body onload="ShowChart();">
+        <div style="width:500px;height: 300px;float:left;">
+            <canvas id="myChart"></canvas>
+        </div>
+        <div style="width:500px;height: 200px;float:left">
+                <canvas id="EvaluationSummary"></canvas>
+        </div>
+    </body>
+</html>

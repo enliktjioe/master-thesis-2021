@@ -1,0 +1,657 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 10; /* Sit on top */
+  padding-top: 50px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+.modal_reviewSummary {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 10; /* Sit on top */
+  padding-top: 50px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+.modal_sentTypePlot
+{
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 10; /* Sit on top */
+  padding-top: 50px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+
+
+#myModal_reviewSummary .modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 1250px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+#myModal_sentTypePlot .modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 700px;
+  height :400px; 
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+#myModal_sentTypePlot .modal-body
+{
+  
+}
+
+#myModal_reviewSummary .modal-body
+{
+  max-height:550px;
+  overflow: auto;
+}
+
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 90%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+  from {top:-300px; opacity:0} 
+  to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:0; opacity:1}
+}
+
+
+
+.modal-header {
+  padding: 2px 10px;
+  background-color: #ededed;
+  color: black;
+  margin-bottom: 10px;
+}
+
+#myModal_reviewSummary	.modal-header {
+  padding: 3px 6px;
+  background-color: #ededed;
+  color: black;
+  margin-bottom: 0px;
+}
+
+#myModal_sentTypePlot .modal-header {
+  padding: 3px 6px;
+  background-color: #ededed;
+  color: black;
+  margin-bottom: 0px;
+}
+
+
+#reviews_winTitle
+{
+   font-weight : bold;
+   font-size : 16px;
+  
+}
+
+#sentTypePlot_winTitle
+{
+   font-weight : bold;
+   font-size : 16px;
+}
+
+.FeatureExtractionApproach {
+  padding: 4px 16px;
+  display : none;
+}
+
+#divbtnManual
+{
+  float : left;
+  margin-left:250px;
+}
+
+#divbtnSemiAutomatic
+{
+  float : left;
+  margin-left : 250px;
+}
+
+.ApproachTitle {
+  font-size : 14px;
+}
+
+.modal-body {padding: 10px 16px;display:none;}
+
+#myModal_reviewSummary .modal-body {padding: 2px 2px;display:block;overflow: auto;overflow-x:scroll;overflow-y:scroll;}
+
+myModal_sentTypePlot .modal-body {padding: 2px 2px;display:block;overflow: auto;overflow-x:scroll;overflow-y:scroll;}
+
+
+.modal-footer {
+  padding: 2px 5px;
+  background-color: #ededed;
+  color: black;
+  height: 40px;
+}
+
+#myModal_reviewSummary .modal-footer {
+  padding: 2px 5px;
+  background-color: #ededed;
+  color: black;
+  height: 20px;
+}
+
+#myModal_sentTypePlot .modal-footer {
+  padding: 2px 5px;
+  background-color: #ededed;
+  color: black;
+  height: 20px;
+}
+
+#divback
+{
+  float:left;margin-top:5px;display:none;margin-left:50px; color : black; height: 20px;
+}
+
+#divNext
+{
+  float:right;margin-top:5px;margin-right:50px;display:none; color : black; height : 20px;
+}
+
+.collapsible_simple {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-top: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.content {
+  padding: 0 10px;
+  max-height: 0px;
+  /* overflow: hidden; */
+  /* transition: max-height 0.2s ease-out; */
+  background-color: #f1f1f1;
+  overflow-y: scroll;
+  margin-top : 10px;
+}
+
+.descSentence
+{
+  float:left;
+  width:70%;
+  font-size: 12px;
+  margin: 2px !important;
+}
+
+.head_contents_con
+{
+  font-size: 13px;
+  font-weight: bold;
+  width : 70%;
+  text-align: left;
+  background-color: lightgrey;
+  float:left;
+  margin: 1px !important;
+  padding : 2px;
+}
+
+.head_contents_non_con
+{
+  float:left;
+  width:25%;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: left;
+  background-color: lightgrey;
+  margin: 1px !important;
+  padding : 2px;
+}
+
+.non_cont_features{
+  float : left;
+  margin: 2px !important;
+}
+
+.editButton{
+  float : left;
+  margin: 2px !important;
+}
+
+.featureList {
+  margin-top : 10px;
+  padding: 0 18px;
+  max-height: 400px;
+  overflow-y: scroll;
+  word-wrap: break-word;
+  /* overflow: hidden; */
+  /* transition: max-height 0.2s ease-out; */
+  /* background-color: #f1f1f1; */
+}
+
+.feature-wrap{
+  background-color:#ffe184;
+  font-weight: bold;
+  font-size : 12px;
+  padding-left : 10px;
+  cursor: pointer;
+  position : relative;
+}
+
+.feature-wrap-v1{
+  font-size : 14px;
+  padding-left : 3px;
+  font-weight: bold;
+  font-family: "serif";
+}
+
+.feature-wrap .close {
+  position: absolute;
+  z-index: 100; 
+  color: #000;
+  font-weight: bold;
+  opacity: 0;
+  text-align: center;
+  font-size: 18px;
+  line-height: 10px;
+  border-radius: 50%;
+  margin-left : -10px;
+}
+
+.wrap_non_cont_feature .close {
+  position: absolute;
+  z-index: 100; 
+  color: #000;
+  font-weight: bold;
+  opacity: 0;
+  text-align: center;
+  font-size: 18px;
+  line-height: 10px;
+  border-radius: 50%;
+  margin-left : -5px;
+}
+
+.wrap_non_cont_feature:hover .close{
+  opacity: 1;
+}
+
+.feature-wrap:hover .close{
+  opacity: 1;
+}
+
+/* The Close Button */
+.close {
+  color: white;
+  /* float: right; */
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* The Close Button */
+.close_popup{
+  color: white;
+  float: right; 
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.close_popup:hover,
+.close_popup:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close_reviews_popup{
+  color: white;
+  float: right; 
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.close_reviews_popup:hover,
+.close_reviews_popup:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.close_sentTypePlot_popup{
+  color: white;
+  float: right; 
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.close_sentTypePlot_popup:hover,
+.close_sentTypePlot_popup:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.wrap_non_cont_feature
+{
+  font-size: 12px;
+  font-weight: bold;
+  background-color: lightskyblue;
+  margin-left :5px;
+}
+
+
+.feature-wrap-clear{
+
+}
+
+.feature-wrap-clear .close {
+
+}
+
+.selectedText { font-weight: bold; }
+
+
+.non_consecutive_terms_head
+{
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.lst_non_consecutive_terms
+{
+  font-size: 12px;
+  font-weight: bold;
+}
+
+
+#containerAppFeatureTerms
+{
+  display : none;
+  margin-top : 20px;
+  width : 100%;
+}
+
+#containerPlots
+{
+  display : None;
+  margin-top : 20px;
+  width : 100%;
+}
+
+#containerPlots_sentTypes
+{
+  display : block;
+  margin-top : 5px;
+  width : 100%;
+}
+
+#Plots_sentType_head
+{
+  font-size : 14px;
+  font-weight: bold;
+  cursor: pointer;
+  background-color:     #F8F8F8;
+  padding : 2px 2px;
+  color: black;
+  margin-bottom: 30px;
+}
+
+#containerPlots #Plots_head 
+{
+  font-size : 14px;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: 		#F8F8F8;
+  padding : 2px 2px;
+  color: black;
+}
+
+#containerAppFeatureTerms #appFeatureshead
+{
+  font-size : 14px;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: #F8F8F8;
+  padding : 2px 2px;
+  color: black;
+}
+
+#containerAppFeatureTerms #appFeatureshead label
+{
+  font-size : 12px;
+  white-space: nowrap;
+}
+
+.set_feature_terms
+{
+  margin-top : 50px;
+  display : block;
+  text-align: center;
+  margin-bottom : 50px;
+}
+
+.Manual_AppFeatureTerms
+{
+  display : none;
+}
+
+#containerAppFeatureTerms  #FilterbyFeatureTerms label{
+  font-size : 12px;
+  padding-right: 5px;
+  font-weight: initial;
+}
+
+.showFeatures
+{
+  padding: 5px;
+  /* background-color: #fff6f6; */
+  display : block;
+}
+
+.hideFeatures
+{
+  padding: 5px;
+  background-color: #f6f6f6;
+  content: "\002B";
+  display : none;
+}
+
+.showPlots
+{
+  padding: 5px;
+  /* background-color: #fff6f6; */
+  display : block;
+}
+
+.hidePlots
+{
+  padding: 5px;
+  background-color: #f6f6f6;
+  content: "\002B";
+  display : none;
+}
+
+.showSentTypePlots
+{
+  padding: 5px;
+  /* background-color: #fff6f6; */
+  display : block;
+}
+
+.hideSentTypePlots
+{
+  padding: 5px;
+  background-color: #f6f6f6;
+  content: "\002B";
+  display : none;
+}
+
+.feature_active:after {
+  content: "\2212";
+  float: right;
+  margin-right: 15px;
+}
+
+
+.feature_inactive:after {
+  content: "\002B";
+  float: right;
+  margin-right: 15px;
+}
+
+.SummmaryPlots_active:after {
+  content: "\2212";
+  float: right;
+  margin-right: 15px;
+}
+
+.SentTypesPlots_active:after {
+  content: "\2212";
+  float: right;
+  margin-right: 15px;
+}
+
+.SentTypesPlots_inactive:after {
+  content: "\002B";
+  float: right;
+  margin-right: 15px;
+}
+
+.SummmaryPlots_inactive:after {
+  content: "\002B";
+  float: right;
+  margin-right: 15px;
+}
+
+
+#plotSentimentSummary
+{ 
+  margin-left:150px;
+  width:450px;
+  height: 250px;
+  float:left;
+  text-align: center;
+}
+
+#plot_feature_level
+{
+  width:100%;
+  height:475px;
+  margin-top : -40px;
+}
+
+#plot_feature_level_bugs
+{
+  width:100%;
+  height:475px;
+  margin-top : -40px;
+}
+
+#plot_feature_level_requests
+{
+  width:100%;
+  height:475px;
+  margin-top : -40px;
+}
+
+.eval_pieChart
+{
+  width : 600px;
+  height : 300px;
+  text-align: center;
+  margin-top : -45px; 
+  margin-left: 325px;
+  margin-bottom : -25px;
+}
+
+

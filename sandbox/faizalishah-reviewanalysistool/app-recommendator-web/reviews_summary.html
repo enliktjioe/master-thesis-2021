@@ -1,0 +1,335 @@
+<html>
+    <head>
+        <title>REVSUM: Review summary of selected apps</title>
+        <link rel="stylesheet" href="src/assets/css/lib/bootstrap.min.css"></link>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+        <script type="text/javascript" src="src/app/js/lib/jquery-3.2.1.min.js"></script>
+        <script type="text/javascript" src="src/app/js/lib/bootstrap.min.js"></script>
+        <script type="text/javascript" src="dist/bundle.js" defer=true></script>
+        <script type="text/javascript" src="src/app/Main.js"></script>
+        <script src="src/app/js/lib/chart.min.js"></script>
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+        <link rel="stylesheet" href="/resources/demos/style.css">
+        <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+        <link href="faiz.css" rel="stylesheet" type="text/css" />
+        <script type="text/javascript" src="faiz.js"></script>
+        <script src="https://www.amcharts.com/lib/3/amcharts.js"></script>
+        <script src="https://www.amcharts.com/lib/3/xy.js"></script>
+        <script src="https://www.amcharts.com/lib/3/serial.js"></script>
+        <script src="https://www.amcharts.com/lib/3/pie.js"></script>
+        <script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+        <style>
+    
+        .slider {
+        -webkit-appearance: none;
+        width: 100%;
+        height: 12px;
+        background: #d3d3d3;
+        outline: none;
+        opacity: 0.7;
+        -webkit-transition: .2s;
+        transition: opacity .2s;
+        float : left;
+        }
+
+        .slider:hover {
+        opacity: 1;
+        }
+
+        .slider::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        appearance: none;
+        width: 18px;
+        height: 18px;
+        background: #4CAF50;
+        /* background: black; */
+        cursor: pointer;
+        }
+
+        #appSelection,#sentenceType {
+            width: 165px;
+            float : left;
+            margin-left:-10px;
+        }
+
+        #frequency_value
+        {
+            font-weight: bold;
+            font-size: 14px;
+        }
+    
+        #frequency_slidecontainer
+        {
+            width: 300px;
+            float : left;
+            /* margin-left: -55px; */
+            margin-top : 5px;
+            margin-left: 5px;
+        }
+
+        #freqValue
+        {
+            margin-left:3px;
+            float : left;
+            margin-top : 1px;
+        }
+
+
+        #clear {
+            clear: both;
+        }
+
+        #summaryHeading
+        {
+            font-size: 14px;
+            margin-top:25px;
+            font-weight: bold;
+            font-style:italic'
+        }
+
+        .appIcon{
+            width : 20px;
+            height : 20px;
+            margin-right:5px;
+        }
+        
+        .triangle-up {
+            float:left;
+            width: 0;
+            height: 0;
+            border-left: 5px solid transparent;
+            border-right: 5px solid transparent;
+            border-bottom: 10px solid #555;
+            margin-left : 30px;
+        }
+
+        .triangle-down {
+            float:left;
+            width: 0;
+            height: 0;
+            border-left: 5px solid transparent;
+            border-right: 5px solid transparent;
+            border-top: 10px solid #555;
+            margin-left : 30px;
+        }
+
+        #sentTypeIcon {
+            width : 22px;
+            height : 22px;
+            /* margin-left : 5px; */
+        }
+        
+
+        </style>
+
+        <script  type="text/javascript">
+
+            $(function () {
+                    $("#frequency_range").slider({
+                        value: $("#frequency_value").text(),
+                    });  
+                });
+
+                function sliderChanged(elem) {
+                            var output = document.getElementById("frequency_value");
+                            output.innerHTML = elem.value;
+                            updateSummaryInfo();
+                            
+                }
+
+            
+        </script>
+
+    </head>
+    <body onload="getReviewsSummary();"> 
+    <!-- <body> -->
+        <div id="container" class="container"> 
+            <span><h3 class = 'text-center' style="font-weight:bold;float:left;margin-left:180px;">REVSUM: Automatic Summarization of App Reviews</h3> <h5 style="float:left;margin-left:70px;margin-top:30px;"><a href="index.html" onclick="return logout()">Log out</a></h5></span>
+            <!-- <h2 id = 'page-title' class ="text-center"> Sentiments </h2> -->
+            <div style='width:1400px;margin:auto;float:left;margin-top:25px'>
+                <!-- <div style='width:125px;float:left;font-weight:bold'>Sentiment range: </div><div id="slider-range"></div> 
+                <div style='width:125px;float:left;font-weight:bold;margin-left:40px'>Filter by frequency: </div> -->
+              
+                    <!-- <select id="filterbyApp" onchange='AppChanged()'>
+                        <option selected="selected" value="A">All apps</option>    
+                    </select> -->
+                
+                <div style='width:215px;float:left;font-weight:bold;margin-left:2px'>Show plot by sentence type: </div>
+                <div id="sentenceType"> 
+                    <select id="filterbySentType" onchange='SentTypeChanged()' style="height:20px;"> -->
+                        <option value='E' selected>feature evaluation</option>
+                        <option value='B'>bug report</option>
+                        <option value='R'>feature request</option>
+                        <!-- <input  type="checkbox" id="E" value="E" onclick="SentTypeChanged(this)" checked>feature evaluation
+                        <input type="checkbox" id="B" value="B" onclick="SentTypeChanged(this)" checked>bug report   
+                        <input type="checkbox" id="R" value="R" onclick="SentTypeChanged(this)">feature request -->
+
+                    </select> 
+                </div>
+                <div> 
+                    <div style="float:left;font-weight:bold;margin-left:-15px;"> Filter by app feature frequency: </div>
+                    <div id="frequency_slidecontainer">
+                            <input type="range" min="1" max="200" value="2" class="slider" id="frequency_range" oninput="sliderChanged(this);">
+                    </div>
+                    <div id="freqValue">
+                        <span id="frequency_value">5</span>
+                    </div>
+                </div>
+                <div style="font-size:12px;margin-left:10px;float:left;margin-top:4px;"><a onclick='ShowAppWiseSentTypeDist();'>Show distribution of sentence types</a></div>
+
+                <div style='float:left;margin-left:30px;height: 10px; font-size:12px;display:none;'><button id="bntFilterByDesc" onclick='OpenFilterWindow()'>Revise app feature terms</button></div>
+                <!-- <div style='float:left;margin-left:30px'> <button onclick="ClearTermSearch()" style='height:25px'>Clear search</button></div> -->
+                <div id="clear"></div>
+                <!-- <input type="text" id="sentiment_range" readonly style="border:0; color:#f6931f; font-weight:bold;"> -->
+            </div>   
+            <div id="clear"></div>
+
+            <div style="margin-top:10px;">
+                <div style="font-weight:bold;float:left;" id='filterModeTitle'><span>App feature frequency filter mode: </span>
+                    <span style="font-weight:normal;font-size:13px;"><input type="radio" onchange="FilterModeChanged(this)"  name="frequency_mode" id="frequencyMode" value="overall" checked> Overall apps</span>
+                    <span style="font-weight:normal;font-size:13px;"><input type="radio" onchange="FilterModeChanged(this)" name="frequency_mode" id="frequencyMode" value="indiviual"> Indiviual app</span>
+                </div>
+                <div style="font-weight:bold;float:left;margin-left:145px;" id='AppFeaturesSourceTitle'><span>Extract app features from: </span>
+                    <span style="font-weight:normal;font-size:13px;"><input type="radio" onchange="FeatureSourceChanged(this)"  name="AppFeature_Source" id="AppFeatureSource" value="reviews" checked> user reviews</span>
+                    <span style="font-weight:normal;font-size:13px;"><input type="radio" onchange="FeatureSourceChanged(this)" name="AppFeature_Source" id="AppFeatureSource" value="description"> app description</span>
+                </div>
+                <div id="clear"></div>
+            </div>
+
+            <div id="containerAppFeatureTerms">
+                <div id="appFeatureshead" onclick="showHide()" class="feature_active"><span style="margin-right:2px;">List of app feature terms</span>(<a style="font-size:13px;" onclick='OpenFilterWindow();' id='lnkModify'>Modify</a>)</div>
+                <div id="FilterbyFeatureTerms" class="showFeatures">
+                </div>
+            </div>
+
+            <!-- <div id="containerPlots" style="display:block;">
+                <div id="Plots_head" onclick="showHidePlots()" class="SummmaryPlots_active">Distribution of review sentence types in the selected apps</div>
+                <div id="SummaryPlots" class="showPlots">
+                    <div id="plotReviewSummary">
+                            <canvas id="pltReviewSummary"></canvas>
+                    </div>
+                    <div id="plotSentimentSummary">
+                        <canvas id="pltSentimentSummary"></canvas>
+                    </div> -->
+                    <!-- <div style="clear:left;"></div>
+                </div>
+            </div> --> 
+
+
+            <div id="myModal_sentTypePlot" class="modal_sentTypePlot">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <span class="close_sentTypePlot_popup" onclick="ClosesentTypePlotWindow()">&times;</span>
+                        <span id='sentTypePlot_winTitle' >Distribution of sentence types in each app</span>
+                    </div>
+
+                    <div class="modal-body" id="sentTypePlot_modalBody">      
+                        <canvas id="pltsentTypeDistribution"></canvas>    
+                    </div>
+                    <div class="modal-footer">
+                    </div>
+                </div>
+            </div>
+    
+            <div id="containerPlots_sentTypes">
+                <div id="Plots_sentType_head" onclick="showHideSentTypePlots()" class="SentTypesPlots_active">App feature wise summary of the selected apps</div> 
+                <div id="SummaryPlot_sentTypes" class="showSentTypePlots"> 
+                    <div id="plot_feature_level"></div>
+                </div> 
+            </div>
+            
+                <!-- Model box to select app feature terms from app description -->
+            <div id="myModal" class="modal">
+                <!-- Modal content -->
+                <div class="modal-content" id='step1'>
+                    <div class="modal-header">
+                      <span class="close_popup" onclick="CloseFilterWindow()">&times;</span>
+                      <h4 id='winTitle'>Set/select app feature terms</h4>
+                    </div>
+                    <!-- Manual or Semi-automatic feature term extraction -->
+                    <div id="div_set_feature_terms" class="set_feature_terms">
+                        <div id="divbtnManual"><button id="btnManual" onclick='GotoManual()'> Manually setting app feature terms </button></div>
+                        <div id="divbtnSemiAutomatic"><button id="btnSemiAutomatic" onclick='GotoSemiAutomatic()'>Automatic selection of app feature terms from app description</button> </div> 
+                        <div style="clear:left"></div>
+                    </div>
+                    <div id="div_Manual_AppFeatureTerms" class="Manual_AppFeatureTerms">
+                        <p style="float:left;margin-left:50px;margin-top:15px;">
+                            <span style="float:left;font-weight: bold;font-size: 13px;">Enter list of app feature terms (one feature per line) -> </span>
+                            <span style="float:left;margin-left:10px;font-size:13px;"><textarea id="manual_lstAppFeatureTerms" rows="15" cols="40"></textarea></span>
+                        </p>
+                        <p style="clear:left"></p>
+                    </div>
+                    <div class="FeatureExtractionApproach" id="div_featureExtractionApproach">
+                      <span class="ApproachTitle">Choose feature extraction approach</span>: 
+                      <select onchange="changeExtractionApproach()" id="lstExtractionApproach">
+                        <option value="ONE_WORD_NOUN">One word feature terms (Noun)</option>
+                        <option value="SAFE" selected>Multi-Word feature terms (SAFE Approach)</option>
+                        <!-- <option value="LIU">Multi-Word feature terms (LIU approach)</option>  -->
+                      </select>
+                    </div>
+                    <div class="modal-body" id="modalBody">
+                    </div>
+                    <div class="modal-footer">
+                      <div id='divback'>
+                          <button id="btnback" onclick='GotoBackScreen()'>Back</button>
+                      </div>
+                      <div id='divNext'>
+                          <button id="btnNext" onclick='GotoNextScreen()'>Next</button>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- model window to show review sentences against selected app feature -->
+
+            <div id="myModal_reviewSummary" class="modal_reviewSummary">
+                    <!-- Modal content -->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <span class="close_reviews_popup" onclick="CloseReviewsWindow()">&times;</span>
+                        <span id='reviews_winTitle' ></span>
+                    </div>
+                    
+                    <div class="modal-body" id="reviews_modalBody"> 
+                        <div id="divFeatureDetails">
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                    </div>
+                </div>
+            </div>
+            
+            <!-- <div style="float:left;margin-top:10px;margin-left:2px;display:none;" id="divSort"><b>Sort by sentiment score</b><div class="triangle-up" onclick="sort();" id="btnSort"></div></div>
+            <div id="clear"></div> -->
+            <!-- <div id="note" style='font-size: 10px;margin-top:5px;display:none'> <b>Note: </b> The word(s) underline in a review sentence shows their match with the noun terms extracted from the app description.</div> -->
+            
+        </div>
+        <div id="wait" style="display:none;width:69px;height:89px;border:1px solid black;position:absolute;top:40%;left:45%;padding:2px;"><img src='src/assets/images/demo_wait.gif' width="64" height="64" /><br>Loading..</div>
+        <div class="footer" style="margin-top:50px;margin-left:600px;">:
+            <div class="col-sm-4">
+                <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
+                    <img alt="Creative Commons License" class="center-block" style="border-width:0" src="src/assets/images/cc88x31.png" />
+                </a>
+                <br />
+                <small>
+                    <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">
+                        <i>REVSUM: Automatic Summarization of App Reviews</i>
+                    </span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Faiz Ali Shah, Kairit Sirts, and Dietmar Pfahl </span> is licensed under a 
+                    <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>
+                </small>.
+            </div>
+            <div class="col-sm-4" style="margin-left:0px;">
+                <a href="http://www.ut.ee/en">
+                    <img class="pull-left" width="85" height="85"  alt="University of Tartu" src="src/assets/images/utLogo.png">
+                </a>
+            </div> 
+            <!-- <div class="col-sm-4" style="margin-left:100px;">
+                <a href="http://studyitin.ee/">
+                    <img class="pull-right" width="250" height="140" alt="StudyIT" src="src/assets/images/studyit-logo.svg">
+                </a>
+            </div>  -->
+        </div>
+    </body>
+</html>

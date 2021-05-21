@@ -1,0 +1,67 @@
+<html>
+    <head>
+        <title>REVSUM: Choosing apps for app review analysis </title>
+        <link rel="stylesheet" href="src/assets/css/lib/bootstrap.min.css"></link>
+
+          <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+        <script type="text/javascript" src="src/app/js/lib/jquery-3.2.1.min.js"></script> 
+        <script type="text/javascript" src="src/app/js/lib/bootstrap.min.js"></script>
+        <script type="text/javascript" src="dist/bundle.js" defer=true></script>
+        <script type="text/javascript" src="src/app/Main.js"></script>
+    </head>
+    <!-- <body onload = 'loadCategories()'> -->
+    <body onload="loadOfflineApps()">
+        <div id="container" class="container" style="width:800px;"> 
+            <span><h3 class = 'text-center' style="font-weight:bold;float:left;">REVSUM: Automatic Summarization of App Reviews</h3> <h5 style="float:left;margin-left:80px;margin-top:30px;"><a href="index.html" onclick="return logout()">Log out</a></h5></span>
+            <!-- <div style="margin-top:20px;margin-bottom:10px;">
+                <span id='review_mode_title' style="font-size:14px;"> Please choose the mode for review analysis:</span>
+                <input type="radio" name="mode" value="offline" style="margin-left:10px;" checked="checked" onclick="handleReviewMode(this);"> Offline  <input type="radio" name="mode" value="live" style="margin-left:10px" onclick="handleReviewMode(this);"> Live
+            </div>
+            <div id="lst_offline_apps" style="display:block;"> -->
+
+            <!-- </div> -->
+            <h5 id= 'page-title' style="display:inline-block;margin-right:20px;margin-left:10px;"> Please select your app:</h5>
+            <!-- <div id= 'radio-container' style="display:block;">  -->
+            <!-- <div id= 'search-container' class="input-group add-on"> -->
+            <select id="main_apps" onchange='MainAppChanged()' class="form-control">
+                <!-- <option value="1291898086" select>Toggl</option>
+                <option value="675033630">Taxify</option>
+                <option value="612261027">TransferWise</option> -->
+            </select>
+              <!-- <input class="form-control" placeholder="Search desired app" name="srch-term" id="srch-term" type="text"> -->
+              <!-- <div class="input-group-btn">
+                <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+              </div> -->
+            <!-- </div> -->
+            <!-- <div id="main-apps-div"></div> -->
+            <div id="similar-apps-div" style="text-align: justify;text-justify: inter-word;"></div>
+            <!-- <h5 id="NumReviews" style='display:none;margin-bottom: 20px;'>Number of reviews to fetch (per each app) for analysis: <input type="text" id="txtNumReviews" size="4" style='font-size:12px;text-align: center;'></h5>             -->
+        </div>  
+        <div style='text-align: right; margin-top:30px;width:300px;margin-left:500px;'><button id='next-button' type="button" class="btn btn-success"  data-loading-text="Loading..." onclick="NextClick()">Next</button></div>
+        <div></div>
+        <div class="footer" style="margin-top:50px;margin-left:600px;">:
+                <div class="col-sm-4">
+                    <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
+                        <img alt="Creative Commons License" class="center-block" style="border-width:0" src="src/assets/images/cc88x31.png" />
+                    </a>
+                    <br />
+                    <small>
+                        <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">
+                            <i>REVSUM: Automatic Summarization of App Reviews</i>
+                        </span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Faiz Ali Shah, Kairit Sirts, and Dietmar Pfahl </span> is licensed under a 
+                        <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>
+                    </small>.
+                </div>
+                <div class="col-sm-4" style="margin-left:0px;">
+                    <a href="http://www.ut.ee/en">
+                        <img class="pull-left" width="85" height="85"  alt="University of Tartu" src="src/assets/images/utLogo.png">
+                    </a>
+                </div> 
+                <!-- <div class="col-sm-4" style="margin-left:100px;">
+                    <a href="http://studyitin.ee/">
+                        <img class="pull-right" width="250" height="140" alt="StudyIT" src="src/assets/images/studyit-logo.svg">
+                    </a>
+                </div>  -->
+            </div>
+    </body>
+</html>

@@ -1,0 +1,113 @@
+<html>
+    <head>
+        <title>test script</title>
+        <script type="text/javascript">
+        
+        function FillFeatures()
+        {
+            var lst_appFeatures=["image","storage","sync","payment"];
+
+            var featureTermsSentCount={};
+        
+            var divFilterByFeatureTerms = document.getElementById('FilterbyFeatureTerms');
+            var initialTxt="<input type='checkbox' onclick='checkAll(this)' name='chk[]' value='all' checked/>"
+            initialTxt += "<label> all</label> <br/>";
+
+            for(var i=0;i<lst_appFeatures.length;i++)
+            {
+                var app_feature = lst_appFeatures[i];
+
+                // var lblcheckbox = document.createElement('label'); 
+                // lblcheckbox.innerHTML= app_feature;
+
+                // var checkbox = document.createElement('input'); 
+                // checkbox.type= 'checkbox';
+                // checkbox.id = app_feature;
+                // checkbox.name = app_feature;
+                // checkbox.value = app_feature;
+                // checkbox.checked = true;
+                //checkbox.onchange = AppFeatureValueChanged(app_feature);
+                
+                // divFilterByFeatureTerms.appendChild(checkbox);
+                // divFilterByFeatureTerms.appendChild(lblcheckbox);
+
+                initialTxt +="<input type='checkbox' onclick='AppFeatureValueChanged(this)' id='" + app_feature + "' value='" + app_feature + "' checked/>";
+                initialTxt += "<label>" +  app_feature +  "</label>";	
+
+                featureTermsSentCount[app_feature] = 0;
+            }
+
+            divFilterByFeatureTerms.innerHTML = initialTxt;
+        }
+
+        function AppFeatureValueChanged(ele)
+        {
+            alert(ele.value + ", " + ele.checked);
+            CheckAllorNot();
+        }
+
+        function CheckAllorNot()
+        {
+            var checkboxes = document.getElementsByTagName('input');
+
+            var checkAll = true;
+
+            if (checkboxes!= undefined)
+            {
+            
+                for (var i = 0; i < checkboxes.length; i++) {
+                    
+                    if (checkboxes[i].type == 'checkbox' && checkboxes[i].checked == false && checkboxes[i].value!="all") 
+                    {
+                        checkAll = false;
+                        break;
+                    }
+                    
+                    if (checkboxes[i].type == 'checkbox' && checkboxes[i].value=="all")
+                    {
+                        ele = checkboxes[i];
+                    }
+                }
+
+                
+                if(checkAll==false && ele.checked)
+                    ele.checked = false;
+                else if(checkAll==true && ele.checked==false)
+                    ele.checked = true;
+                else if(checkAll==true && ele.checked==true)
+                    ele.checked = true;
+            
+        }
+    }
+
+        function checkAll(ele) {
+            alert(ele.value);
+            var checkboxes = document.getElementsByTagName('input');
+            if (ele.checked) {
+                for (var i = 0; i < checkboxes.length; i++) {
+                    if (checkboxes[i].type == 'checkbox') {
+                        checkboxes[i].checked = true;
+                    }
+                }
+            
+                //filter review senetences based on this selection
+            } 
+            else {
+                for (var i = 0; i < checkboxes.length; i++) {
+                    if (checkboxes[i].type == 'checkbox') {
+                        checkboxes[i].checked = false;
+                    }
+                
+        }
+    }
+}
+
+
+        
+        </script>
+    </head>
+    <body onload="FillFeatures();">
+        <div id="FilterbyFeatureTerms">
+        </div>
+    </body>
+</html>

@@ -1,0 +1,29 @@
+{
+  "name": "app_recommendator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "dependencies": {
+    "app-store-scraper": "git+https://github.com/bbbuka/app-store-scraper.git",
+    "better-sqlite3": "^5.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.2",
+    "express-fileupload": "^0.4.0",
+    "google-play-scraper": "^6.2.2",
+    "mathjs": "^3.20.2",
+    "multer": "^1.3.1",
+    "nodemon": "^1.18.8",
+    "python-shell": "^0.4.0",
+    "request": "^2.83.0",
+    "sqlite3": "^4.0.6",
+    "vectorious": "^4.8.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script type="text/javascript" src="faiz.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> 
+<link href="faiz.css" rel="stylesheet" type="text/css" />
+</head>
+<body onload="getReviewsSummary();">
+<!-- Trigger/Open The Modal -->
+<button id="bntFilterByDesc" onclick='OpenFilterWindow()'>Filter by terms in app description</button>
+<div id="containerAppFeatureTerms">
+  <div id="appFeatureshead" onclick="showHide()" class="feature_active">Filter by App Features </div>
+  <div id="FilterbyFeatureTerms" class="showFeatures">
+  </div>
+</div>
+<div id="wait" style="display:none;width:69px;height:89px;border:1px solid black;position:absolute;top:40%;left:45%;padding:2px;"><img src='src/assets/images/demo_wait.gif' width="64" height="64" /><br>Loading..</div>
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <!-- Modal content -->
+  <div class="modal-content" id='step1'>
+      <div class="modal-header">
+        <span class="close_popup" onclick="CloseFilterWindow()">&times;</span>
+        <h3 id='winTitle'>Select features terms from app description:</h3>
+      </div>
+      <div class="FeatureExtractionApproach">
+        <span class="ApproachTitle">Choose feature extraction approach</span>: 
+        <select onchange="changeExtractionApproach()" id="lstExtractionApproach">
+          <option value="ONE_WORD_NOUN" selected>One word noun</option>
+          <option value="SAFE">SAFE approach</option>
+          <option value="LIU">LIU + SAFE approach</option>
+        </select>
+      </div>
+      <div class="modal-body" id="modalBody">
+      </div>
+      <div class="modal-footer">
+        <div id='divback' style='float:left;margin-top:10px;display:none;margin-left:50px;'>
+            <button id="btnback" onclick='GotoBackScreen()'>Back</button>
+        </div>
+        <div id='divNext' style='float:right;margin-top:10px;margin-right:50px;display:block'>
+            <button id="btnNext" onclick='GotoNextScreen()'>Next</button>
+        </div>
+      </div>
+  </div>
+  
+
+</div>
+</body>
+</html>
