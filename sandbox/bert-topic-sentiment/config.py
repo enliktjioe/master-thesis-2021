@@ -21,3 +21,5 @@ class Settings(BaseSettings):
     MODEL_NAME_COLAB: str = "bert-topic-sentiment-colab-final.bin"  # Pre trained final model
 
     LOSS_FUN: str = "BCE"  # 'BCE' or 'focal'
+
+    CSV_INPUT: str = "bolt_apple_appstore_review.csv"
