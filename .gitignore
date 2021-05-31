@@ -1,5 +1,6 @@
 *.xlsx
 *.csv
+*.bin
 .idea
 references/
 review_mining/xls_output/
