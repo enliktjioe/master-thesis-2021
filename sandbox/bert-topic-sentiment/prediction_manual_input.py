@@ -19,11 +19,16 @@ with open(os.path.join(config.MODEL_DIR, 'label_encoder.pkl'), 'rb') as f:
     label_encoder = pickle.load(f)
     f.close()
 
-def get_input(csvInput):
+def get_df_and_length(csvInput):
     df = pd.read_csv(csvInput)
     df = df['review']
     # inputText = df[0]
-    inputText = df.iloc[1]
+    # inputText = df.iloc[50]
+    length = len(df)
+    return df, length
+
+def get_input(df, row):
+    inputText = df.iloc[row]
     return inputText
 
 def get_prediction(inputText):
@@ -58,7 +63,12 @@ def get_prediction(inputText):
         raise RuntimeError()
 
 if __name__ == "__main__":
-    inputText = get_input(csvInput = config.CSV_INPUT)
-    print(inputText)
+    df, length = get_df_and_length(csvInput = config.CSV_INPUT)
+    print('length = ' + str(length))
+    print('\n')
 
-    get_prediction(inputText)
+    for i in range(0,2+1):
+        inputText = get_input(df, i)
+        print(inputText)
+        get_prediction(inputText)
+        print('\n')

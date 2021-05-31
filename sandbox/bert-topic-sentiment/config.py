@@ -16,7 +16,7 @@ class Settings(BaseSettings):
     PRE_TRAINED_MODEL: str = "bert-base-uncased"  # Bert pre trained model name
     DEVICE: str = "cpu"
 
-    MODEL_DIR: str = "model_files"  # Folder name to store all files
+    MODEL_DIR: str = "model_files/original"  # Folder name to store all files
     MODEL_NAME: str = "bert-topic-sentiment.bin"  # Output model name
     MODEL_NAME_COLAB: str = "bert-topic-sentiment-colab-final.bin"  # Pre trained final model
 
