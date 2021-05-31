@@ -26,3 +26,5 @@ sandbox/faizalishah-appfeature_extraction-8e1f32259b4e/SAFE_Replication/__pycach
 sandbox/faizalishah-reviewanalysistool/app-recommendator-api/node_modules/
 
 sandbox/faizalishah-reviewanalysistool/app-recommendator-web/node_modules/
+
+sandbox/bert-topic-sentiment/model_files/original/bert-topic-sentiment-colab-final.bin
