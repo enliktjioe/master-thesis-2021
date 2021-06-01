@@ -22,4 +22,8 @@ class Settings(BaseSettings):
 
     LOSS_FUN: str = "BCE"  # 'BCE' or 'focal'
 
-    CSV_INPUT: str = "bolt_apple_appstore_review.csv"
+    # CSV_INPUT: str = "bolt_apple_appstore_review.csv"
+    
+    # bolt_google_playstore_review.csv 17MB (21 Dec 2020)
+    CSV_INPUT: str = "https://drive.google.com/file/d/1qWuyf3UrpaU5xnxLmO3GMFa6zybSFYQh/view?usp=sharing"
+    USE_COLS: list = ['content','at']

@@ -6,6 +6,7 @@ import pickle
 import numpy as np
 import os
 import pandas as pd
+import re
 
 config = config.Settings()
 
@@ -19,13 +20,25 @@ with open(os.path.join(config.MODEL_DIR, 'label_encoder.pkl'), 'rb') as f:
     label_encoder = pickle.load(f)
     f.close()
 
-def get_df_and_length(csvInput):
-    df = pd.read_csv(csvInput)
-    df = df['review']
-    # inputText = df[0]
-    # inputText = df.iloc[50]
+def get_df_and_length(csvInput, columnToUsed):
+    url='https://drive.google.com/uc?id=' + csvInput.split('/')[-2]
+    df = pd.read_csv(url, usecols=columnToUsed)
+
+    # preprocessing csv input 
+
+
+    # decode all emoji characters
+    # https://stackoverflow.com/a/57514515/2670476
+    df = df.astype(str).apply(lambda x: x.str.encode('ascii', 'ignore').str.decode('ascii'))
+
+    # Replace all non-letters with space
+    df.content = df.apply(lambda row: " ".join(re.sub("[^a-zA-Z]+", " ", row.content).split()), 1)
+
+    # remove all review with total characters less than 10 (such as only emoji)
+    df = df[df.content.str.len()>=7]
+
     length = len(df)
-    return df, length
+    return df, length,
 
 def get_input(df, row):
     inputText = df.iloc[row]
@@ -58,17 +71,41 @@ def get_prediction(inputText):
 
         print("prediction = ")
         print(label)
-        return {"prediction": label}
+        # return {"prediction": label}
+        return label
     except Exception as err:
         raise RuntimeError()
 
 if __name__ == "__main__":
-    df, length = get_df_and_length(csvInput = config.CSV_INPUT)
+    df, length = get_df_and_length(csvInput = config.CSV_INPUT, columnToUsed = config.USE_COLS)
     print('length = ' + str(length))
     print('\n')
+    # print(df)
+
+    # df_result = pd.DataFrame(columns=['content', 'at', 'l1', 'l2', 'l3', 'l4', 'l5', 'l6', 'l7', 'l8', 'l9', 'l10'])
+    # df_result = pd.DataFrame(columns=['content', 'at', 'labels'])
+    df_result = pd.DataFrame(columns=['labels'])
+    list_result = []
 
     for i in range(0,2+1):
-        inputText = get_input(df, i)
+        inputText = get_input(df.content, i)
         print(inputText)
-        get_prediction(inputText)
+        label = get_prediction(inputText)
         print('\n')
+        print(label)
+        
+        list_result.append(label)
+        # df_result = df_result.append
+    
+    print(list_result)
+
+    df_list_result = pd.DataFrame(list_result)
+    
+    df_result = df[0:3]
+    df_result = pd.merge(df_result, df_list_result,  how='inner', left_index=True, right_index=True )
+
+    print(df_list_result)
+    print(df_result)
+
+    # create csv output
+    df_result.to_csv('test.csv', index=False)
