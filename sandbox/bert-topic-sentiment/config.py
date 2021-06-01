@@ -26,4 +26,5 @@ class Settings(BaseSettings):
     
     # bolt_google_playstore_review.csv 17MB (21 Dec 2020)
     CSV_INPUT: str = "https://drive.google.com/file/d/1qWuyf3UrpaU5xnxLmO3GMFa6zybSFYQh/view?usp=sharing"
-    USE_COLS: list = ['content','at']
+    # USE_COLS: list = ['content','at']
+    USE_COLS: list = ['content']

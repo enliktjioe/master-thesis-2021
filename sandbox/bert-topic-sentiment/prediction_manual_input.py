@@ -37,8 +37,10 @@ def get_df_and_length(csvInput, columnToUsed):
     # remove all review with total characters less than 20 (such as only emoji)
     df = df[df.content.str.len()>=20]
 
+    df = df[0:200]
+
     length = len(df)
-    return df, length,
+    return df, length
 
 def get_input(df, row):
     inputText = df.iloc[row]
@@ -80,14 +82,10 @@ if __name__ == "__main__":
     df, length = get_df_and_length(csvInput = config.CSV_INPUT, columnToUsed = config.USE_COLS)
     print('length = ' + str(length))
     print('\n')
-    # print(df)
 
-    # df_result = pd.DataFrame(columns=['content', 'at', 'l1', 'l2', 'l3', 'l4', 'l5', 'l6', 'l7', 'l8', 'l9', 'l10'])
-    # df_result = pd.DataFrame(columns=['content', 'at', 'labels'])
-    df_result = pd.DataFrame(columns=['labels'])
     list_result = []
 
-    for i in range(0,length+1):
+    for i in range(0,length):
         inputText = get_input(df.content, i)
         print(inputText)
         label = get_prediction(inputText)
@@ -101,11 +99,9 @@ if __name__ == "__main__":
 
     df_list_result = pd.DataFrame(list_result)
     
-    # df_result = df[0:3]
-    df_result = pd.merge(df_result, df_list_result,  how='inner', left_index=True, right_index=True )
+    df_result = pd.merge(df, df_list_result,  how='inner', left_index=True, right_index=True )
 
     print(df_list_result)
-    print(df_result)
 
     # create csv output
     df_result.to_csv('test.csv', index=False)
