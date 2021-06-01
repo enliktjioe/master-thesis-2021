@@ -34,8 +34,8 @@ def get_df_and_length(csvInput, columnToUsed):
     # Replace all non-letters with space
     df.content = df.apply(lambda row: " ".join(re.sub("[^a-zA-Z]+", " ", row.content).split()), 1)
 
-    # remove all review with total characters less than 10 (such as only emoji)
-    df = df[df.content.str.len()>=7]
+    # remove all review with total characters less than 20 (such as only emoji)
+    df = df[df.content.str.len()>=20]
 
     length = len(df)
     return df, length,
@@ -87,7 +87,7 @@ if __name__ == "__main__":
     df_result = pd.DataFrame(columns=['labels'])
     list_result = []
 
-    for i in range(0,2+1):
+    for i in range(0,length+1):
         inputText = get_input(df.content, i)
         print(inputText)
         label = get_prediction(inputText)
@@ -101,7 +101,7 @@ if __name__ == "__main__":
 
     df_list_result = pd.DataFrame(list_result)
     
-    df_result = df[0:3]
+    # df_result = df[0:3]
     df_result = pd.merge(df_result, df_list_result,  how='inner', left_index=True, right_index=True )
 
     print(df_list_result)
