@@ -5,8 +5,8 @@ bert-master/__pychache__/
 
 # temporary
 temp/
-features.txt
-key_features.txt
+# features.txt
+# key_features.txt
 
 # large resource and model files
 zips/
