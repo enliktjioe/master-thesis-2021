@@ -46,12 +46,13 @@ class CandidatePhraseExtractor:
     self.output_file = output_file
     self.raw_data = []
     self.sentence_cutted = []             # 分词后list，每一个子元素为一个app描述分词后的list
-    self.postagger = Postagger()          # 初始化词性标注实例
-    self.postagger.load(pos_model_path)   # 加载词性标注模型
-    self.parser = Parser()                # 初始化句法分析实例
-    self.parser.load(par_model_path)      # 加载句法分析模型
-    self.segmentor = Segmentor()
-    self.segmentor.load_with_lexicon(cws_model_path, cut_text_path)
+    # self.postagger = Postagger()          # 初始化词性标注实例
+    self.postagger = Postagger(pos_model_path) # 初始化词性标注实例
+    # self.postagger.load(pos_model_path)   # 加载词性标注模型
+    self.parser = Parser(par_model_path)  # 初始化句法分析实例
+    # self.parser.load(par_model_path)      # 加载句法分析模型
+    self.segmentor = Segmentor(cws_model_path, cut_text_path)
+    # self.segmentor.load_with_lexicon(cws_model_path, cut_text_path)
 
   @staticmethod
   def remove_serial_number(text):
@@ -76,8 +77,9 @@ class CandidatePhraseExtractor:
   def get_seg_sentence_from_pyltp(self):
     for sentence in self.raw_data:
       # 去除作为编号的字符
-      sent_temp = self.remove_serial_number(sentence[content_index])
-      sent_temp_2 = self.remove_exce_punc(sent_temp)
+      # sent_temp = self.remove_serial_number(sentence[content_index])
+      # sent_temp_2 = self.remove_exce_punc(sent_temp)
+      sent_temp_2 = self.remove_exce_punc(sentence[content_index])
       sents = SentenceSplitter.split(sent_temp_2)
       temp_list = []  # 保存一个app描述的处理结果
       for sent in sents:  # 一个app描述中分句后的所有句子
@@ -108,10 +110,12 @@ class CandidatePhraseExtractor:
         S = set()
         sent_phrase = []
         VOB_exist = False
+
         for i in range(len(arcs)):
           # if arcs[i].relation == 'ATT':
           #   ATT_exist = True
-          if arcs[i].relation == 'VOB':
+          # if arcs[i].relation == 'VOB':
+          if 'VOB' in arcs[i]:
             VOB_exist = True
         # ATT_object_index_max = 0
         # if ATT_exist:
@@ -127,14 +131,18 @@ class CandidatePhraseExtractor:
             app_phrase.append(sentence[i])
           if postage_list[i] == 'wp':
             continue
-          temp = arcs[i].head - 1
+          # print(arcs[i][0])
+          # temp = arcs[i].head - 1
+          temp = arcs[i][0] - 1
           str1 = sentence[i]
           str2 = sentence[temp]
-          temp2 = arcs[temp].head - 1
+          # temp2 = arcs[temp].head - 1
+          temp2 = arcs[temp][0] - 1
           str3 = sentence[temp2]
 
           if not VOB_exist:  # and not COO_exist
-            if arcs[i].relation == 'ATT':
+            # if arcs[i].relation == 'ATT':
+            if 'ATT' in arcs[i]:
               if sentence[temp] not in S:  # 控制每个句子中被ATT修饰的, 相同sentence[temp]只输出一次
                 S.add(sentence[temp])
               else:
@@ -148,31 +156,39 @@ class CandidatePhraseExtractor:
               for j in range(len(arcs)):
                 if j < i:
                   continue
-                elif arcs[j].relation == 'ATT' and arcs[j].head - 1 == temp:
+                # elif arcs[j].relation == 'ATT' and arcs[j].head - 1 == temp:
+                elif 'ATT' in arcs[j] and arcs[j][0] - 1 == temp:
                   # 修饰当前 ATT 的 ATT
-                  if arcs[j - 2].relation == 'ATT' and arcs[j - 2].head - 1 == j:
+                  # if arcs[j - 2].relation == 'ATT' and arcs[j - 2].head - 1 == j:
+                  if 'ATT' in arcs[j - 2] and arcs[j - 2][0] - 1 == j:
                     sent_phrase.append(sentence[j - 2])
-                  if arcs[j - 1].relation == 'ATT' and arcs[j - 1].head - 1 == j:
+                  # if arcs[j - 1].relation == 'ATT' and arcs[j - 1].head - 1 == j:
+                  if 'ATT' in arcs[j - 1] and arcs[j - 1][0] - 1 == j:
                     sent_phrase.append(sentence[j - 1])
                   sent_phrase.append(sentence[j])  # 当前ATT
               sent_phrase.append(str2)
-              if arcs[temp].relation == 'ATT' or arcs[
-                temp].relation == 'ADV':  # 安全 管理 企业 数据 ，安全管理为指向 企业ATT，而企业指向 数据
+              # if arcs[temp].relation == 'ATT' or arcs[
+                # temp].relation == 'ADV':  # 安全 管理 企业 数据 ，安全管理为指向 企业ATT，而企业指向 数据
+              if 'ATT' in arcs[temp] or 'ADV' in arcs[temp]:  # 安全 管理 企业 数据 ，安全管理为指向 企业ATT，而企业指向 数据
                 sent_phrase.append(str3)
               app_phrase.append(sent_phrase)
               sent_phrase = []
 
           # pattern 1 and pattern 3
           # different patterns can be extracted in the same way
-          if arcs[i].relation == 'VOB':  # 输出语法依存分析中 动宾 关系
+          # if arcs[i].relation == 'VOB':  # 输出语法依存分析中 动宾 关系
+          if 'VOB' in arcs[i]:  # 输出语法依存分析中 动宾 关系
             if str2 in VOB_SBV_COO_str_list:
               continue
             sent_phrase.append(str2)
             for j in range(len(arcs)):
-              if arcs[j].relation == 'ATT' and arcs[j].head - 1 == i:  # 该词用以修饰宾语，如 发文字消息 中的文字
-                if arcs[j - 2].relation == 'ATT' and arcs[j - 2].head - 1 == j:
+              # if arcs[j].relation == 'ATT' and arcs[j].head - 1 == i:  # 该词用以修饰宾语，如 发文字消息 中的文字
+              if 'ATT' in arcs[j] and arcs[j][0] - 1 == i:  # 该词用以修饰宾语，如 发文字消息 中的文字
+                # if arcs[j - 2].relation == 'ATT' and arcs[j - 2].head - 1 == j:
+                if 'ATT' in arcs[j - 2] and arcs[j - 2][0] - 1 == j:
                   sent_phrase.append(sentence[j - 2])
-                if arcs[j - 1].relation == 'ATT' and arcs[j - 1].head - 1 == j:
+                # if arcs[j - 1].relation == 'ATT' and arcs[j - 1].head - 1 == j:
+                if 'ATT' in arcs[j - 1] and arcs[j - 1][0] - 1 == j:
                   sent_phrase.append(sentence[j - 1])
                 sent_phrase.append(sentence[j])
             sent_phrase.append(str1)
@@ -181,14 +197,18 @@ class CandidatePhraseExtractor:
 
           # supplement for pattern 1 and pattern 3
           # different patterns can be extracted in the same way
-          elif arcs[i].relation == 'SBV':  # 输出语法依存分析中 主谓 关系， 由于分词、词性标注、句法分析的错误而必须考虑
+          # elif arcs[i].relation == 'SBV':  # 输出语法依存分析中 主谓 关系， 由于分词、词性标注、句法分析的错误而必须考虑
+          elif 'SBV' in arcs[i]:  # 输出语法依存分析中 主谓 关系， 由于分词、词性标注、句法分析的错误而必须考虑
             if str2 in VOB_SBV_COO_str_list:
               continue
             for j in range(len(arcs)):
-              if arcs[j].relation == 'ATT' and arcs[j].head - 1 == i:  # 该词用以修饰 谓语
-                if arcs[j - 2].relation == 'ATT' and arcs[j - 2].head - 1 == j:
+              # if arcs[j].relation == 'ATT' and arcs[j].head - 1 == i:  # 该词用以修饰 谓语
+              if 'ATT' in arcs[j] and arcs[j][0] - 1 == i:  # 该词用以修饰 谓语
+                # if arcs[j - 2].relation == 'ATT' and arcs[j - 2].head - 1 == j:
+                if 'ATT' in arcs[j - 2] and arcs[j - 2][0] - 1 == j:
                   sent_phrase.append(sentence[j - 2])
-                if arcs[j - 1].relation == 'ATT' and arcs[j - 1].head - 1 == j:
+                # if arcs[j - 1].relation == 'ATT' and arcs[j - 1].head - 1 == j:
+                if 'ATT' in arcs[j - 1] and arcs[j - 1][0] - 1 == j:
                   sent_phrase.append(sentence[j - 1])
                 sent_phrase.append(sentence[j])
             for k in range(i, temp + 1):  # 输出i到temp之间的所有词
@@ -197,25 +217,25 @@ class CandidatePhraseExtractor:
 
           # pattern 5 and pattern 6 and pattern 8 and pattern 9
           # different patterns can be extracted in the same way
-          elif arcs[i].relation == 'COO':  # 输出语法依存分析中 并列 关系
-            if arcs[temp].relation == 'VOB':
+          elif 'COO' in arcs[i]:  # 输出语法依存分析中 并列 关系
+            if 'VOB' in arcs[temp]:
               if sentence[temp2] in VOB_SBV_COO_str_list:
                 continue
               sent_phrase.append(sentence[temp2])
               for j in range(len(arcs)):
-                if arcs[j].relation == 'ATT' and arcs[j].head - 1 == i:
+                if 'ATT' in arcs[j] and arcs[j][0] - 1 == i:
                   sent_phrase.append(sentence[j])
               sent_phrase.append(sentence[i])
               app_phrase.append(sent_phrase)
               sent_phrase = []
 
           # pattern 4
-          elif arcs[i].relation == 'FOB':  # 输出语法依存分析中 前置宾语 关系
+          elif 'FOB' in arcs[i]:  # 输出语法依存分析中 前置宾语 关系
             sent_phrase.append(str2)
             for j in range(len(arcs)):
-              if arcs[j].relation == 'ATT' and arcs[j].head - 1 == i:
+              if 'ATT' in arcs[j] and arcs[j][0] - 1 == i:
                 sent_phrase.append(sentence[j])
-              if arcs[j].relation == 'ATT' and arcs[j].head - 1 == temp:
+              if 'ATT' in arcs[j] and arcs[j][0] - 1 == temp:
                 sent_phrase.append(sentence[j])
             sent_phrase.append(str1)
             app_phrase.append(sent_phrase)
@@ -223,29 +243,29 @@ class CandidatePhraseExtractor:
 
           else: # DBL、RAD、HED ...
             for j in range(len(arcs)):
-              if arcs[j].relation == 'FOB' and arcs[j].head - 1 == i:
+              if 'FOB' in arcs[j] and arcs[j][0] - 1 == i:
                 sent_phrase.append(sentence[temp])
                 for k in range(len(arcs)):
-                  if arcs[k].relation == 'ATT' and arcs[k].head - 1 == j:  # 该词用以修饰宾语，如 发文字消息 中的文字
+                  if 'ATT' in arcs[k] and arcs[k][0] - 1 == j:  # 该词用以修饰宾语，如 发文字消息 中的文字
                     sent_phrase.append(sentence[k])
                 sent_phrase.append(sentence[j])
                 app_phrase.append(sent_phrase)
                 sent_phrase = []
 
               # pattern 7
-              elif arcs[j].relation == 'VOB' and arcs[j].head - 1 == i:
-                if arcs[i - 1].relation == ('WP' or 'ADV'):
+              elif 'VOB' in arcs[j] and arcs[j][0] - 1 == i:
+                if ('WP' or 'ADV') in arcs[i - 1]:
                   continue
                 sent_phrase.append(sentence[i])
                 for k in range(len(arcs)):
-                  if arcs[k].relation == 'ATT' and arcs[k].head - 1 == j:  # 该词用以修饰宾语
+                  if 'ATT' in arcs[k] and arcs[k][0] - 1 == j:  # 该词用以修饰宾语
                     sent_phrase.append(sentence[k])
                 sent_phrase.append(sentence[j])
                 app_phrase.append(sent_phrase)
                 sent_phrase = []
-          if arcs[i - 1].relation == 'ATT' and arcs[i - 1].head == i + 1:
+          if 'ATT' in arcs[i - 1] and arcs[i - 1][0] == i + 1:
             for j in range(len(arcs)):
-              if arcs[j].relation == 'ATT' and arcs[j].head - 1 == i - 1:  # 该词用以修饰当前词
+              if 'ATT' in arcs[j] and arcs[j][0] - 1 == i - 1:  # 该词用以修饰当前词
                 sent_phrase.append(sentence[j])
             sent_phrase.append(sentence[i - 1])
             sent_phrase.append(str1)

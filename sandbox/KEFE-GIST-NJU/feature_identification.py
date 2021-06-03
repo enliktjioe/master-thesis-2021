@@ -46,7 +46,7 @@ def produce_matching_file(feature_path, review_path):
                  ' --max_seq_length=128'
                  ' --output_dir={}'.format(bert_path, test_file, bert_path, bert_path, bert_path, temp_dir),
                  shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-  os.remove(temp_dir + '/predict.tf_record')
+  # os.remove(temp_dir + '/predict.tf_record')
   print('[INFO] prediction result of classifier: {}/test_results.tsv'.format(temp_dir))
   
   predicted = []

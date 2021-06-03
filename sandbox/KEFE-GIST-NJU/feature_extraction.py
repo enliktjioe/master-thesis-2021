@@ -50,7 +50,7 @@ if __name__ == '__main__':
                  ' --max_seq_length=128'
                  ' --output_dir={}'.format(bert_path, phrase_file, bert_path, bert_path, bert_path, temp_dir),
                  shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-  os.remove(temp_dir + '/predict.tf_record')
+  # os.remove(temp_dir + '/predict.tf_record')
   print('[INFO] prediction result of classifier: {}/test_results.tsv'.format(temp_dir))
   
   # get the final feature describing phrases
