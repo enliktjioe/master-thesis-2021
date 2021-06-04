@@ -286,7 +286,8 @@ class CandidatePhraseExtractor:
           final_function_phrase.append(sent_phrase)
 
     # 结果写入tsv文件中
-    train_set_file = open(self.output_file, 'w', newline='')
+    # train_set_file = open(self.output_file, 'w', newline='')
+    train_set_file = open(self.output_file, 'w', newline='', encoding='utf-8')
     csv.register_dialect('tsv_dialect', delimiter='\t')
     writer = csv.writer(train_set_file, dialect='tsv_dialect')
     for final_app_phrase in final_function_phrase:
