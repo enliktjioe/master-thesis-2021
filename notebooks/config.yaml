@@ -5,33 +5,23 @@ csv_input:
   bolt_google: 'https://drive.google.com/file/d/1qWuyf3UrpaU5xnxLmO3GMFa6zybSFYQh/view?usp=sharing'
   uber_apple: 'https://drive.google.com/file/d/1zfCAvmAFK5lKzYOCB8PaBL34j6xGLqPo/view?usp=sharing'
   uber_google: 'https://drive.google.com/file/d/19_kdh0vM_qtnoEPjBdjKOWipZg7J4Xy1/view?usp=sharing'
-  blablacar_apple: 'blablacar-carpooling-and-bus'
-  blablacar_google: 'com.comuto'
-  cabify_apple: 'cabify'
-  cabify_google: 'com.cabify.rider'
-  via_apple: 'via-low-cost-ride-sharing'
-  via_google: 'via.rider'
-  getaround_apple: 'getaround-europe-ex-drivy'
-  getaround_google: 'com.c4mprod.voiturelib'
-  olacabs_apple: 'ola-cabs'
-  olacabs_google: 'com.olacabs.customer'
-  taxieu_apple: 'taxi-eu'
-  taxieu_google: 'at.austrosoft.t4me.MB_BerlinTZBEU'
-  freenow_apple: 'free-now-mytaxi'
-  freenow_google: 'taxi.android.client'
-  yandexgo_apple: 'yandex-go-taxi-and-delivery'
-  yandexgo_google: 'ru.yandex.taxi'
-
-# Only used for App Store
-# Top 5 European Countries with highest number of Apple Store + Estonia
-# https://www.statista.com/statistics/1041526/apple-store-numbers-european-countries/
-
-# List of Apple iTunes Store Country Codes
-# https://gist.github.com/daFish/5990634
-country_code: ['gb','fr','it','de','es','ee']
-# country_code: ['it']
+  blablacar_apple: 'https://drive.google.com/file/d/13WNVRZOFwfnr2sEvlORHkg14zYVxx5FR/view?usp=sharing'
+  blablacar_google: 'https://drive.google.com/file/d/1R9Te8-S_6Z63lODerATNk3KdW3ZGaCZe/view?usp=sharing'
+  cabify_apple: 'https://drive.google.com/file/d/1_vmrWtfJ1SinWXjQ7vviluvsikfMIkzL/view?usp=sharing'
+  cabify_google: 'https://drive.google.com/file/d/13VHXSZfMwBIFtPQLtQy5Ru68MToFai7G/view?usp=sharing'
+  via_apple: 'https://drive.google.com/file/d/1u0fQKw09NscUjO0rMI-xu0y1BwcniWMF/view?usp=sharing'
+  via_google: 'https://drive.google.com/file/d/1Xp3eHFbR1343W2kz9fKN8VgW4t3Q8zBh/view?usp=sharing'
+  getaround_apple: 'https://drive.google.com/file/d/1PvEUSSJuV2WT4lL6gyVpBTVzh7iYfRLm/view?usp=sharing'
+  getaround_google: 'https://drive.google.com/file/d/1d5zSjphrhQeSqOfpP8BEveFwU0jlU5Vb/view?usp=sharing'
+  olacabs_apple: 'https://drive.google.com/file/d/1euK2rbrXRywErJcZqGCmgrYGk-2YAGER/view?usp=sharing'
+  olacabs_google: 'https://drive.google.com/file/d/184iFueF3tU3NJtN32_P12xj_pDAYbyf8/view?usp=sharing'
+  taxieu_apple: 'https://drive.google.com/file/d/1zMYgA50NyRO6TJFxxkrJpbUAVYTw_f7E/view?usp=sharing'
+  taxieu_google: 'https://drive.google.com/file/d/1obs1MvvkYJKkRKWvoxooLO5HR1wFRYXl/view?usp=sharing'
+  freenow_apple: 'https://drive.google.com/file/d/1MiqzLjPibGeuBLY595hQUqsfw_blWj23/view?usp=sharing'
+  freenow_google: 'https://drive.google.com/file/d/1KKwtGrGHJGFKdXaKKg-Gpl7rjkXtSfYL/view?usp=sharing'
+  yandexgo_apple: 'https://drive.google.com/file/d/1Zz0CXVDifnBw3T1mpPKgMW_b4XLXlJIy/view?usp=sharing'
+  yandexgo_google: 'https://drive.google.com/file/d/1A2vCy3S6nhqgXBvrlxPBcoIBK58TmFtp/view?usp=sharing'
 
 
-
-review_colname: ['review']
-output_path: 'csv_output/'
+use_cols: None
+output_path: 'pre_processed_csv/'
