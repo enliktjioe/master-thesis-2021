@@ -15,9 +15,9 @@ par_model_path = os.path.join(LTP_DATA_DIR, 'ltp-model/parser.model')
 cut_text_path = os.path.join(LTP_DATA_DIR, 'word_segmentation.txt')
 stop_text_path = os.path.join(LTP_DATA_DIR, 'stop_words.txt')
 
-segmentor = Segmentor()
-segmentor.load_with_lexicon(cws_model_path, cut_text_path)
-
+# segmentor = Segmentor()
+segmentor = Segmentor(cws_model_path, cut_text_path)
+# segmentor.load_with_lexicon(cws_model_path, cut_text_path)
 
 def get_stopwords_list(filepath=stop_text_path):
   stopwords = [x.strip() for x in open(filepath, 'r').readlines()]
@@ -88,3 +88,9 @@ def process(input_file, output_file):
       file.write(line)
       file.write('\n')
 
+
+
+# testing the pre-processing
+# print(get_stopwords_list(stop_text_path))
+# print(review_process("test english review", get_stopwords_list(stop_text_path)))
+process("/Users/enlik/GitRepo/master-thesis-2021/sandbox/KEFE-GIST-NJU/example/description_english_for_preprocessing.csv", "/Users/enlik/GitRepo/master-thesis-2021/sandbox/KEFE-GIST-NJU/example/test_output.csv")
