@@ -1,10 +1,10 @@
-APP: ReviewMining
+APP: EDA_Top10_European_RideSharingApps
 
-app_id:
-  bolt_apple: 'bolt-fast-affordable-rides'
-  bolt_google: 'ee.mtakso.client'
-  uber_apple: 'uber'
-  uber_google: 'com.ubercab'
+csv_input:
+  bolt_apple: 'https://drive.google.com/file/d/1oUJU4T3NdvT6_ggEsUC73JWLF6_eXne9/view?usp=sharing'
+  bolt_google: 'https://drive.google.com/file/d/1qWuyf3UrpaU5xnxLmO3GMFa6zybSFYQh/view?usp=sharing'
+  uber_apple: 'https://drive.google.com/file/d/1zfCAvmAFK5lKzYOCB8PaBL34j6xGLqPo/view?usp=sharing'
+  uber_google: 'https://drive.google.com/file/d/19_kdh0vM_qtnoEPjBdjKOWipZg7J4Xy1/view?usp=sharing'
   blablacar_apple: 'blablacar-carpooling-and-bus'
   blablacar_google: 'com.comuto'
   cabify_apple: 'cabify'
