@@ -15,3 +15,8 @@ ssh enlik@rocket.hpc.ut.ee
 
 - Use `jupyter_contrib_nbextensions` from [source](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 - To be able export HTML with toc, run `conda install "nbconvert=5.6.1"` [source](https://stackoverflow.com/questions/65376052/how-to-solve-error-with-downloading-jupyter-notebook-as-html-with-toc)
+
+
+# Export UT HPC Server specification
+
+- run `lshw -html > server_specs.html` [source](https://ourcodeworld.com/articles/read/768/how-to-check-system-specifications-in-ubuntu-server-16-04-with-the-cli)
