@@ -39,7 +39,6 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 import warnings
 warnings.filterwarnings("ignore",category=DeprecationWarning)
 
-
 def get_config(filePath):
     config_file = open(filePath)
     config = yaml.load(config_file, Loader=yaml.FullLoader) # only newer PYYAML version
@@ -60,8 +59,13 @@ def create_dictionary(texts):
 def lemmatize(texts, allowed_postags=['NOUN']):
     print(f"Lemmatizing...")
     """https://spacy.io/api/annotation"""
-    nlp = spacy.load('en', disable=['parser',
-                                    'ner'])  # Initialize spacy 'en' model, keeping only tagger component (for efficiency)
+    
+    # Notes -> obsolote way to load
+    # nlp = spacy.load('en', disable=['parser',
+    #                                 'ner'])  # Initialize spacy 'en' model, keeping only tagger component (for efficiency)
+    
+    # new way to load english model from spacy
+    nlp = spacy.load("en_core_web_sm")
     texts_out = []
     for sent in texts:
         doc = nlp(" ".join(sent))
@@ -109,11 +113,49 @@ def preprocess(documents):
     Break sentences into words, remove punctuations and stopmake words, make bigrams, and lemmatize the documents
     """
     cleaned_docs = remove_things(documents)
-    lists_of_words = list(self.sentences_to_words(cleaned_docs))
-    lists_of_words_no_stops = self.remove_stopwords(lists_of_words)
-    if self.bigram:
-        ngrams = self.make_bigrams(lists_of_words_no_stops, self.min_count, self.threshold, self.scoring)
+    lists_of_words = list(sentences_to_words(cleaned_docs))
+    lists_of_words_no_stops = remove_stopwords(lists_of_words)
+    if bigram:
+        ngrams = make_bigrams(lists_of_words_no_stops, min_count, threshold, scoring)
     else:
-        ngrams = self.make_trigrams(lists_of_words_no_stops, self.threshold, self.scoring)  # Need to fix parameters
-    data_lemmatized = self.lemmatize(ngrams, allowed_postags=['NOUN'])
+        ngrams = make_trigrams(lists_of_words_no_stops, threshold, scoring)  # Need to fix parameters
+    data_lemmatized = lemmatize(ngrams, allowed_postags=['NOUN'])
     return data_lemmatized
+
+def fit(text, min_count=None, threshold=None, scoring=None):
+    """
+    Create a dictionary after preprocessing.
+    """
+    if min_count is not None: min_count = min_count
+    if threshold is not None: threshold = threshold
+    if scoring is not None: scoring = scoring
+
+    clean_text = preprocess(text)
+    dictionary = corpora.Dictionary(clean_text)
+
+def transform(self, text, tf_idf=False):
+    """
+    Return a term-doc matrix using the fit dictionary
+    """
+    clean_text = preprocess(text)
+    term_doc = [dictionary.doc2bow(text) for text in clean_text]
+    if tf_idf:
+        return models.TfidfModel(term_doc, smartirs='ntc')[term_doc]
+    else:
+        return term_doc
+
+def fit_transform(self, text, tf_idf=False, min_count=None, threshold=None, scoring=None):
+    """
+    Create a dictionary after preprocessing and return a term-doc matrix using the dictionary.
+    """
+    if min_count is not None: min_count = min_count
+    if threshold is not None: threshold = threshold
+    if scoring is not None: scoring = scoring
+
+    clean_text = preprocess(text)
+    dictionary = corpora.Dictionary(clean_text)
+    term_doc = [dictionary.doc2bow(text) for text in clean_text]
+    if tf_idf:
+        return models.TfidfModel(term_doc, smartirs='ntc')[term_doc]
+    else:
+        return term_doc
