@@ -1,7 +1,10 @@
 *.xlsx
 *.csv
 *.bin
+*.DS_Store
 .idea
+__pycache__/
+
 references/
 review_mining/xls_output/
 
@@ -19,7 +22,6 @@ sandbox/bert-topic-sentiment/model_files/tokenizer_config.json
 sandbox/bert-topic-sentiment/model_files/vocab.txt
 sandbox/duyunshu-bert-sentiment-analysis/data/metacritic/train.tsv
 sandbox/duyunshu-bert-sentiment-analysis/test.tsv
-sandbox/faizalishah-appfeature_extraction-8e1f32259b4e/AG_Impact_Supervised_Learning_Model/__pycache__/
 sandbox/faizalishah-appfeature_extraction-8e1f32259b4e/AG_Impact_Supervised_Learning_Model/embeddings/wikipedia_de/embeddings
 
 sandbox/faizalishah-appfeature_extraction-8e1f32259b4e/SAFE_Replication/__pycache__/
@@ -30,19 +32,3 @@ sandbox/faizalishah-reviewanalysistool/app-recommendator-web/node_modules/
 
 sandbox/bert-topic-sentiment/model_files/original/bert-topic-sentiment-colab-final.bin
 notebooks/stanford-postagger-full-2016-10-31/*
-review_mining/csv_output/.DS_Store
-review_mining/csv_output/10_yandexgo/.DS_Store
-review_mining/csv_output/1_bolt/.DS_Store
-review_mining/csv_output/2_uber/.DS_Store
-review_mining/csv_output/3_blablacar/.DS_Store
-review_mining/csv_output/4_cabify/.DS_Store
-review_mining/csv_output/5_via/.DS_Store
-review_mining/csv_output/6_getaround/.DS_Store
-review_mining/csv_output/7_olacabs/.DS_Store
-review_mining/csv_output/8_taxieu/.DS_Store
-review_mining/csv_output/9_freenow/.DS_Store
-sandbox/netflix_app-jung-akim/__pycache__/pipeline.cpython-37.pyc
-sandbox/netflix_app-jung-akim/__pycache__/predictor_api.cpython-37.pyc
-sandbox/netflix_app-jung-akim/__pycache__/predictor_api.cpython-37.pyc.140594828770480
-sandbox/netflix_app-jung-akim/__pycache__/utils.cpython-37.pyc
-notebooks/__pycache__/pl_utils.cpython-36.pyc
