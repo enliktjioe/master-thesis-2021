@@ -50,6 +50,50 @@ def read_csv_from_gdrive(csvInput, columnToUsed = None):
     df = pd.read_csv(url, usecols=columnToUsed, index_col=0)
     return df
 
+### Pipeline functions
+# *Based on the Example from https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#11createthedictionaryandcorpusneededfortopicmodeling*
+
+def create_dictionary(texts):
+    id2word = corpora.Dictionary(texts)
+    return id2word
+
+def lemmatize(texts, allowed_postags=['NOUN']):
+    print(f"Lemmatizing...")
+    """https://spacy.io/api/annotation"""
+    nlp = spacy.load('en', disable=['parser',
+                                    'ner'])  # Initialize spacy 'en' model, keeping only tagger component (for efficiency)
+    texts_out = []
+    for sent in texts:
+        doc = nlp(" ".join(sent))
+        texts_out.append([token.lemma_ for token in doc if token.pos_ in allowed_postags])
+    return texts_out
+
+def make_trigrams(lists_of_words_no_stops, m1=5, t1=.2, s1='npmi', m2=5, t2=.2, s2='npmi'):
+    bigram = gensim.models.Phrases(lists_of_words_no_stops, min_count=m1, threshold=t1, scoring=s1)
+    trigram = gensim.models.Phrases(bigram[lists_of_words_no_stops], min_count=m2, threshold=t2, scoring=s2)
+    bigram_mod = gensim.models.phrases.Phraser(bigram)
+    trigram_mod = gensim.models.phrases.Phraser(trigram)
+    return [trigram_mod[bigram_mod[doc]] for doc in lists_of_words_no_stops]
+
+
+def make_bigrams(lists_of_words_no_stops, min_count=5, threshold=.2, scoring='npmi'):
+    print(f"Making bigrams...")
+    # Build the bigram models
+    bigram = gensim.models.Phrases(lists_of_words_no_stops, min_count=min_count, threshold=threshold,
+                                   scoring=scoring)  # higher threshold fewer phrases(bigrams).
+    # Faster way to get a sentence clubbed as a bigram
+    bigram_mod = gensim.models.phrases.Phraser(bigram)
+    return [bigram_mod[doc] for doc in lists_of_words_no_stops]
+
+def remove_stopwords(lists_of_words):
+    stop_words = stopwords.words('english')
+    stop_words.extend(['five_star', 'five', 'star', 'stars', 'netflix'])
+    return [[word for word in simple_preprocess(str(doc)) if word not in stop_words] for doc in lists_of_words]
+
+def sentences_to_words(sentences):
+    for sentence in sentences:
+        yield (gensim.utils.simple_preprocess(str(sentence), deacc=True))  # deacc=True removes punctuations
+
 def remove_things(text):
     """
     Lowercase, remove punctuation, and remove repeats of more than 2.
@@ -60,13 +104,12 @@ def remove_things(text):
     remove_repeats = lambda x: re.sub(r'(.)\1+', r'\1\1', x)
     return text.map(remove_digits_lower).map(remove_punc).map(remove_repeats)
 
-
 def preprocess(documents):
     """
     Break sentences into words, remove punctuations and stopmake words, make bigrams, and lemmatize the documents
     """
     cleaned_docs = remove_things(documents)
-    lists_of_words = list(self.sent_to_words(cleaned_docs))
+    lists_of_words = list(self.sentences_to_words(cleaned_docs))
     lists_of_words_no_stops = self.remove_stopwords(lists_of_words)
     if self.bigram:
         ngrams = self.make_bigrams(lists_of_words_no_stops, self.min_count, self.threshold, self.scoring)
