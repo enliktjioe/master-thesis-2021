@@ -1,4 +1,10 @@
+import numpy as np
 import pandas as pd
+
+# SSL error prevention
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+
 import yaml
 import re
 
@@ -33,9 +39,6 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 import warnings
 warnings.filterwarnings("ignore",category=DeprecationWarning)
 
-import numpy as np
-import pandas as pd
-
 
 def get_config(filePath):
     config_file = open(filePath)
@@ -57,8 +60,17 @@ def remove_things(text):
     remove_repeats = lambda x: re.sub(r'(.)\1+', r'\1\1', x)
     return text.map(remove_digits_lower).map(remove_punc).map(remove_repeats)
 
-def preprocess_review(df_input, colname):
-    content = df_input[colname].strip()
-    # for i in range(0, len(df_input)):
-    #     content = df_input[colname][i].strip()
-    return content
+
+def preprocess(documents):
+    """
+    Break sentences into words, remove punctuations and stopmake words, make bigrams, and lemmatize the documents
+    """
+    cleaned_docs = remove_things(documents)
+    lists_of_words = list(self.sent_to_words(cleaned_docs))
+    lists_of_words_no_stops = self.remove_stopwords(lists_of_words)
+    if self.bigram:
+        ngrams = self.make_bigrams(lists_of_words_no_stops, self.min_count, self.threshold, self.scoring)
+    else:
+        ngrams = self.make_trigrams(lists_of_words_no_stops, self.threshold, self.scoring)  # Need to fix parameters
+    data_lemmatized = self.lemmatize(ngrams, allowed_postags=['NOUN'])
+    return data_lemmatized

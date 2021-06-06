@@ -1,4 +1,4 @@
-APP: EDA_Top10_European_RideSharingApps
+APP: pipeline
 
 csv_input:
   bolt_apple: 'https://drive.google.com/file/d/1oUJU4T3NdvT6_ggEsUC73JWLF6_eXne9/view?usp=sharing'
