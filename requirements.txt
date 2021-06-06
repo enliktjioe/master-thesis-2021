@@ -9,7 +9,7 @@ pandas==1.0.5
 PyYAML==5.4.1
 regex==2021.4.4
 scikit-learn==0.23.1
-spacy==3.0.6
+spacy==2.3.5
 streamlit==0.64.0
 tokenizers==0.8.1rc1
 torch==1.8.1
