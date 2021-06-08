@@ -128,8 +128,9 @@ with open(output_path + 'term_doc.pkl', 'wb') as f:
 
 # ## tf_idf
 
-with open(output_path + 'tf_idf.pkl', 'wb') as f:
-    pickle.dump(tf_idf, f)
+# ## Save DF Merged
+
+df_merged.to_csv(output_path + 'bolt_apple_google.csv')
 
 
 
