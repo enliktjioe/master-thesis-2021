@@ -22,6 +22,28 @@ csv_input:
   yandexgo_apple: 'https://drive.google.com/file/d/1Zz0CXVDifnBw3T1mpPKgMW_b4XLXlJIy/view?usp=sharing'
   yandexgo_google: 'https://drive.google.com/file/d/1A2vCy3S6nhqgXBvrlxPBcoIBK58TmFtp/view?usp=sharing'
 
+csv_input_local:
+  bolt_apple: '../review_mining/csv_output/1_bolt/bolt_apple_appstore_review.csv'
+  bolt_google: '../review_mining/csv_output/1_bolt/bolt_google_playstore_review.csv'
+  uber_apple: '../review_mining/csv_output/2_uber/uber_apple_appstore_review.csv'
+  uber_google: '../review_mining/csv_output/2_uber/uber_google_playstore_review.csv'
+  blablacar_apple: '../review_mining/csv_output/3_blablacar/blablacar-carpooling-and-bus_apple_appstore_review.csv'
+  blablacar_google: '../review_mining/csv_output/3_blablacar/blablacar_google_playstore_review.csv'
+  cabify_apple: '../review_mining/csv_output/4_cabify/cabify_apple_appstore_review.csv'
+  cabify_google: '../review_mining/csv_output/4_cabify/cabify_google_playstore_review.csv'
+  via_apple: '../review_mining/csv_output/5_via/via_us_apple_appstore_review.csv'
+  via_google: '../review_mining/csv_output/5_via/via_google_playstore_review.csv'
+  getaround_apple: '../review_mining/csv_output/6_getaround/getaround-europe-ex-drivy_apple_appstore_review.csv'
+  getaround_google: '../review_mining/csv_output/6_getaround/getaround_google_playstore_review.csv'
+  olacabs_apple: '../review_mining/csv_output/7_olacabs/olacabs_apple_appstore_review.csv'
+  olacabs_google: '../review_mining/csv_output/7_olacabs/olacabs_google_playstore_review.csv'
+  taxieu_apple: '../review_mining/csv_output/8_taxieu/taxieu_apple_appstore_review.csv'
+  taxieu_google: '../review_mining/csv_output/8_taxieu/taxieu_google_playstore_review.csv'
+  freenow_apple: '../review_mining/csv_output/9_freenow/freenow_apple_appstore_review.csv'
+  freenow_google: '../review_mining/csv_output/9_freenow/freenow_google_playstore_review.csv'
+  yandexgo_apple: '../review_mining/csv_output/10_yandexgo/yandexgo_apple_appstore_review.csv'
+  yandexgo_google: '../review_mining/csv_output/10_yandexgo/yandexgo_google_playstore_review.csv'
+
 
 use_cols: None
 output_path: 'pre_processed_csv/'
