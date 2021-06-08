@@ -50,7 +50,8 @@ def read_csv_from_gdrive(csvInput, columnToUsed = None):
     return df
 
 ### Pipeline functions
-# *Based on the Example from https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#11createthedictionaryandcorpusneededfortopicmodeling*
+# Based on the Example from https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#11createthedictionaryandcorpusneededfortopicmodeling*
+# Credits to: https://github.com/jung-akim/netflix_app/blob/master/utils.py
 
 def create_dictionary(texts):
     id2word = corpora.Dictionary(texts)
@@ -91,7 +92,7 @@ def make_bigrams(lists_of_words_no_stops, min_count=5, threshold=.2, scoring='np
 
 def remove_stopwords(lists_of_words):
     stop_words = stopwords.words('english')
-    stop_words.extend(['five_star', 'five', 'star', 'stars', 'netflix'])
+    stop_words.extend(['bolt','uber','blablacar'])
     return [[word for word in simple_preprocess(str(doc)) if word not in stop_words] for doc in lists_of_words]
 
 def sentences_to_words(sentences):
@@ -101,7 +102,6 @@ def sentences_to_words(sentences):
 def remove_things(text):
     """
     Lowercase, remove punctuation, and remove repeats of more than 2.
-    Credits to: https://github.com/jung-akim/netflix_app/blob/master/utils.py
     """
     remove_digits_lower = lambda x: re.sub('\w*\d\w*', ' ', x.lower())
     remove_punc = lambda x: re.sub('[%s]' % re.escape(string.punctuation), ' ', x)
