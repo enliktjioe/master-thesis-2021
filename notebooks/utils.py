@@ -105,7 +105,7 @@ def remove_things(text):
     """
     remove_digits_lower = lambda x: re.sub('\w*\d\w*', ' ', x.lower())
     remove_punc = lambda x: re.sub('[%s]' % re.escape(string.punctuation), ' ', x)
-    remove_repeats = lambda x: re.sub(r'(.)\1+', r'\1\1', x)
+    remove_repeats = lambda x: re.sub(r'(.)\1+', r'\1\1', x) # check the repeated word
     return text.map(remove_digits_lower).map(remove_punc).map(remove_repeats)
 
 def preprocess(documents):

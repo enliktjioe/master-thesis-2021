@@ -120,13 +120,36 @@ with open(output_path + 'dictionary.pkl', 'wb') as f:
     pickle.dump(id2word, f)
 
 
+import pandas as pd
+id2word = pd.read_pickle(output_path + 'dictionary.pkl')
+
+[[(id2word[id], freq) for id, freq in cp] for cp in term_doc[:3]]
+
+
 # ## term_doc
 
 with open(output_path + 'term_doc.pkl', 'wb') as f:
     pickle.dump(term_doc, f)
 
 
+import pandas as pd
+term_doc = pd.read_pickle(output_path + 'term_doc.pkl')
+term_doc
+
+
 # ## tf_idf
+
+with open(output_path + 'tf_idf.pkl', 'wb') as f:
+    pickle.dump(tf_idf, f)
+
+
+import pandas as pd
+tf_idf = pd.read_pickle(output_path + 'tf_idf.pkl')
+tf_idf
+
+
+[[(id2word[id], freq) for id, freq in cp] for cp in tf_idf[:1]]
+
 
 # ## Save DF Merged
 
