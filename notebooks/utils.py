@@ -126,9 +126,9 @@ def remove_things(text):
     """
     Lowercase, remove punctuation, and remove repeats of more than 2.
     """
-    remove_digits_lower = lambda x: re.sub('\w*\d\w*', ' ', x.lower())
-    remove_punc = lambda x: re.sub('[%s]' % re.escape(string.punctuation), ' ', x)
-    remove_repeats = lambda x: re.sub(r'(.)\1+', r'\1\1', x) # check the repeated word
+    remove_digits_lower = lambda x: re.sub('\w*\d\w*', ' ', x.lower()) # lower case all words
+    remove_punc = lambda x: re.sub('[%s]' % re.escape(string.punctuation), ' ', x) # remove punctuation in text such as .,?! and so on
+    remove_repeats = lambda x: re.sub(r'(.)\1+', r'\1\1', x) # remove the repeated characters with more than two characters, for example: "happpyyy birthdayyyy" became "happyy birthdayy"
     return text.map(remove_digits_lower).map(remove_punc).map(remove_repeats)
 
 def preprocess(documents):
