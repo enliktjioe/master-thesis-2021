@@ -5,7 +5,9 @@
 .idea
 __pycache__/
 
-references/
+references/re_2017_johann_et-al/
+references/app_review_analysis/ICSME18-replication-package/
+references/SentiStrengthCom.jar
 review_mining/xls_output/
 
 notebooks/.ipynb_checkpoints/
