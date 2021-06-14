@@ -1,5 +1,6 @@
 fastapi==0.59.0
 gensim==3.8.3
+langdetect==1.0.8
 matplotlib==3.2.2
 matplotlib-inline==0.1.2
 nbconvert==5.6.1

@@ -22,6 +22,9 @@ from nltk.corpus import stopwords
 import re
 import string
 
+# Remove non-English reviews
+from langdetect import detect_langs
+
 # Gensim
 import gensim
 import gensim.corpora as corpora
@@ -48,6 +51,26 @@ def read_csv_from_gdrive(csvInput, columnToUsed = None):
     url='https://drive.google.com/uc?id=' + csvInput.split('/')[-2]
     df = pd.read_csv(url, usecols=columnToUsed, index_col=0)
     return df
+
+def isEnglishReview(textInput):
+#     check after and before string
+#     https://stackoverflow.com/questions/12572362/how-to-get-a-string-after-a-specific-substring
+#     https://stackoverflow.com/questions/27387415/how-would-i-get-everything-before-a-in-a-string-python
+    try:
+        a = detect_langs(textInput)
+        listToStr = ','.join(map(str, a))
+        english_score = float((listToStr.partition('en:')[2]).partition(',')[0])
+    except:
+        a = None
+        listToStr = None
+        english_score = 0
+    
+    if english_score > 0.1:
+        isEnglish = True
+    else:
+        isEnglish = False
+    
+    return isEnglish, listToStr, english_score
 
 ### Pipeline functions
 # Based on the Example from https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#11createthedictionaryandcorpusneededfortopicmodeling*
