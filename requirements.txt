@@ -11,6 +11,7 @@ pyLDAvis==3.2.2
 PyYAML==5.4.1
 regex==2021.4.4
 scikit-learn==0.23.1
+sentistrength==0.0.9
 spacy==2.3.5
 streamlit==0.64.0
 tokenizers==0.8.1rc1
