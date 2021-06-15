@@ -6,8 +6,6 @@
 from langdetect import detect, detect_langs
 from utils import *
 
-from utils import *
-
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
