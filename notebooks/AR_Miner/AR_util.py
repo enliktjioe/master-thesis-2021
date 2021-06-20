@@ -10,6 +10,7 @@
 
 # python imports
 import os, glob, sys, re, json, math
+import pandas as pd
 import numpy as np
 try:
 	from sklearn.feature_extraction import DictVectorizer, FeatureHasher
@@ -73,6 +74,10 @@ def representsInt(s):
 # @return: train, test and unlabeled data after stemming and case-folding
 def AR_parse(datasetName, rmStopWords, rmRareWords):
 
+	# fileTrain = os.path.join( "./datasets", datasetName, "trainL")
+	# fileUnlabel = os.path.join("./datasets", datasetName, "trainU")
+	# fileTest = os.path.join("./datasets", datasetName, "test")
+
 	fileTrain = os.path.join( "./datasets", datasetName, "trainL")
 	fileUnlabel = os.path.join("./datasets", datasetName, "trainU")
 	fileTest = os.path.join("./datasets", datasetName, "test")
@@ -88,24 +93,29 @@ def AR_parse(datasetName, rmStopWords, rmRareWords):
 	wcounter = {}
 	# 1. Read the dataset and form a vocabulary
 	# for training set:
-	info = os.path.join(fileTrain, "info.txt")
-	cnt = readFile(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
+	# info = os.path.join(fileTrain, "info.txt")
+	info = os.path.join(fileTrain, "info.csv")
+	cnt = readFileCSV(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
 
-	non_info = os.path.join(fileTrain, "non-info.txt")
-	cnt = readFile(non_info, train, -1, vocabulary, wcounter, cnt, rmStopWords)
+	# non_info = os.path.join(fileTrain, "non-info.txt")
+	non_info = os.path.join(fileTrain, "non-info.csv")
+	cnt = readFileCSV(non_info, train, -1, vocabulary, wcounter, cnt, rmStopWords)
 
 	# for testing set:
 
-	info = os.path.join(fileTest, "info.txt")
-	cnt = readFile(info, test, 1, vocabulary, wcounter, cnt, rmStopWords)
+	# info = os.path.join(fileTest, "info.txt")
+	info = os.path.join(fileTest, "info.csv")
+	cnt = readFileCSV(info, test, 1, vocabulary, wcounter, cnt, rmStopWords)
 
-	non_info = os.path.join(fileTest, "non-info.txt")
-	cnt = readFile(non_info, test, -1, vocabulary, wcounter, cnt, rmStopWords)
+	# non_info = os.path.join(fileTest, "non-info.txt")
+	non_info = os.path.join(fileTest, "non-info.csv")
+	cnt = readFileCSV(non_info, test, -1, vocabulary, wcounter, cnt, rmStopWords)
 
 
 	# for unlabeled set:
-	info = os.path.join(fileUnlabel, "unlabeled.txt")
-	cnt = readFile(info, unlabel, 0, vocabulary, wcounter, cnt, rmStopWords)
+	# info = os.path.join(fileUnlabel, "unlabeled.txt")
+	info = os.path.join(fileUnlabel, "unlabeled.csv")
+	cnt = readFileCSV(info, unlabel, 0, vocabulary, wcounter, cnt, rmStopWords)
 
 	# 2. Remove the rare words (occur only once) and integer 
 	if(rmRareWords == True):
@@ -237,13 +247,123 @@ def readFile(filename, dataset, label, voc, wcounter, cnt, rmStopWords):
 
 			review = Review()
 			review.fromText(cnt, content, ntokens, rating, label, raw_text)
+			
 			# For debugging:
-			#review.printSelf()
+			if(label == 0):
+				review.printSelf()
+				print('\n')
+			
 			dataset.append(review)
 			cnt += 1
 
 	return cnt
 
+def readFileCSV(filename, dataset, label, voc, wcounter, cnt, rmStopWords):
+	if not os.path.isfile(filename):
+		print('Given dataset not found: {}'.format(filename))
+		return
+
+	df = pd.read_csv(filename, index_col=0)
+	df = df.reset_index()
+	# print(df)
+
+	for i in range(0, len(df)):
+		rating = df['rating'][i].astype(int)
+
+		# text = " ".join(parts[2:]) # like: blabla blabla...
+		text = df['review'][i]
+		# print(text)
+		
+		# case-folding
+
+		text = text.lower()
+		# remove the non-alpha-number words
+		tokens = re.findall(r'\w+', text)
+		raw_text = " ".join(tokens)
+
+		content = []
+		# stem the content and remove stop words:
+		for t in tokens:
+			if(rmStopWords == True and t in stopWords):
+				continue
+
+			t = stem_cached(t)
+			content.append(t)
+			# build the vocabulary
+			# if(not voc.has_key(t)): # python 2
+			if(t not in voc):
+				voc[t] = len(voc)
+			# if(not wcounter.has_key(t)): # python 2
+			if(t not in wcounter):
+				wcounter[t] = 0
+			wcounter[t] += 1
+
+		ntokens = len(content)
+
+		review = Review()
+		review.fromText(cnt, content, ntokens, rating, label, raw_text)
+		
+		# For debugging:
+		# if(label == 0):
+		# 	review.printSelf()
+		# 	print('\n')
+		
+		dataset.append(review)
+		cnt += 1
+
+	
+
+	# with open(filename, 'r', encoding='utf-8') as f:
+	# 	# read each review instance line by line:
+	# 	for instance in f:
+	# 		# break each line into three parts, ignore the first segment:
+	# 		parts = instance.split(',')
+	# 		print(parts)
+	# 		# r = parts[1] # like: ratingone
+	# 		# rating = rating2int[r[6:]]
+	# 		rating = parts[4]
+			
+	# 		# text = " ".join(parts[2:]) # like: blabla blabla...
+	# 		text = parts[3]
+			
+	# 		# case-folding
+
+	# 		text = text.lower()
+	# 		# remove the non-alpha-number words
+	# 		tokens = re.findall(r'\w+', text)
+	# 		raw_text = " ".join(tokens)
+
+	# 		content = []
+	# 		# stem the content and remove stop words:
+	# 		for t in tokens:
+	# 			if(rmStopWords == True and t in stopWords):
+	# 				continue
+
+	# 			t = stem_cached(t)
+	# 			content.append(t)
+	# 			# build the vocabulary
+	# 			# if(not voc.has_key(t)): # python 2
+	# 			if(t not in voc):
+	# 				voc[t] = len(voc)
+	# 			# if(not wcounter.has_key(t)): # python 2
+	# 			if(t not in wcounter):
+	# 				wcounter[t] = 0
+	# 			wcounter[t] += 1
+
+	# 		ntokens = len(content)
+
+	# 		review = Review()
+	# 		review.fromText(cnt, content, ntokens, rating, label, raw_text)
+			
+	# 		# For debugging:
+	# 		if(label == 0):
+	# 			review.printSelf()
+	# 			print('\n')
+			
+	# 		dataset.append(review)
+	# 		cnt += 1
+
+	return cnt
 
 # Transform the review instances into document term matrix:
 # Input: @reviews: a list of review instances
