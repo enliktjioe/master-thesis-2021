@@ -47,7 +47,7 @@ def main():
 			informRev, informMat = AR_emnb(trainSet, testSet, unlabelSet, vocabulary, datasetName)
 		else:
 			informRev, informMat = AR_svm(trainSet, testSet, unlabelSet, vocabulary, datasetName)
-		print time.clock() - start_time , "seconds"
+		print(time.clock() - start_time , "seconds")
 		# write the result back to the file (optional)
 		# AR_writeReviews(informRev, datasetName)
 	else:

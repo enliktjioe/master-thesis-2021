@@ -322,12 +322,12 @@ class SemiNB(object):
 			lik = lik_new
 
 			if lik_diff < eps:
-				print "No more progress, stopping EM at iteration", iteration
+				print("No more progress, stopping EM at iteration", iteration)
 				break
 
 			if self.debug:
-				print "Iteration", iteration
-				print "L += %f" % lik_diff
+				print("Iteration", iteration)
+				print("L += %f" % lik_diff)
 
 		return self.get_model()
 
