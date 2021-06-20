@@ -89,7 +89,8 @@ class Review:
 	def removeRareTerm(self, vocabulary):
 		newcontent = []
 		for term in self.content:
-			if(vocabulary.has_key(term)):
+			# if(vocabulary.has_key(term)):
+			if term in vocabulary:
 				newcontent.append(term)
 
 		self.content = newcontent
@@ -107,7 +108,8 @@ class Review:
 	def formDictVector(self):
 		v_dict = {}
 		for term in self.content:
-			if(not v_dict.has_key(term)):
+			# if(not v_dict.has_key(term)):
+			if(term not in v_dict):
 				v_dict[term] = 0
 			v_dict[term] += 1
 		self.vdict = v_dict
@@ -117,9 +119,11 @@ class Review:
 	def formFullDictVector(self, vocabulary):
 		v_dict = {}
 		for term in self.content:
-			if(not vocabulary.has_key(term)):
+			# if(not vocabulary.has_key(term)):
+			if(term not in vocabulary):
 				continue
-			if(not v_dict.has_key(term)):
+			# if(not v_dict.has_key(term)):
+			if(term not in v_dict):
 				v_dict[term] = 0
 			v_dict[term] += 1
 

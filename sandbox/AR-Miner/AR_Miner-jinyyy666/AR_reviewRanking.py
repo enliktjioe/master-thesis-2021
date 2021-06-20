@@ -57,8 +57,10 @@ def cachedSim(r1, r2):
 	x_id = r1.id
 	y_id = r2.id
 	ret = -1
-	if(cache_sim.has_key(x_id)):
-		if(cache_sim[x_id].has_key(y_id)):
+	# if(cache_sim.has_key(x_id)):
+	if(x_id in cache_sim):
+		# if(cache_sim[x_id].has_key(y_id)):
+		if(y_id in cache_sim[x_id]):
 			ret =  cache_sim[x_id][y_id]
 	else:
 		cache_sim[x_id][y_id] = sim(r1, r2)
@@ -67,8 +69,10 @@ def cachedSim(r1, r2):
 
 # cached jaccard, seems to be very  slow
 def JaccardSimilarity(x, y, x_id, y_id):   
-	if(cache_sim.has_key(x_id)):
-		if(cache_sim[x_id].has_key(y_id)):
+	# if(cache_sim.has_key(x_id)):
+	if(x_id in cache_sim):
+		# if(cache_sim[x_id].has_key(y_id)):
+		if(y_id in cache_sim[x_id]):
 			return cache_sim[x_id][y_id]
 	intersection_cardinality = len(set.intersection(*[set(x), set(y)]))
 	

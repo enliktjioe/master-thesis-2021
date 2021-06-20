@@ -153,7 +153,8 @@ def AR_loadReviews(datasetName):
 			review = Review()
 			review.fromJson(jsonDict)
 			for term in review.content:
-				if(not vocabulary.has_key(term)):
+				# if(not vocabulary.has_key(term)):
+				if(term not in vocabulary):
 					vocabulary[term] = len(vocabulary)
 
 			informRev.append(review)
@@ -224,9 +225,11 @@ def readFile(filename, dataset, label, voc, wcounter, cnt, rmStopWords):
 				t = stem_cached(t)
 				content.append(t)
 				# build the vocabulary
-				if(not voc.has_key(t)):
+				# if(not voc.has_key(t)): # python 2
+				if(t not in voc):
 					voc[t] = len(voc)
-				if(not wcounter.has_key(t)):
+				# if(not wcounter.has_key(t)): # python 2
+				if(t not in wcounter):
 					wcounter[t] = 0
 				wcounter[t] += 1
 
@@ -354,14 +357,16 @@ def AR_tfIdf(reviews):
 		for term in r.content:
 
 			# record the # of doc that contain the word first for idf
-			if(not idf.has_key(term)):
+			# if(not idf.has_key(term)):
+			if(term not in idf):
 				idf[term] = 0
 			if(term not in s):
 				idf[term] += 1
 				s.add(term)
 
 			# record the the term frequency for each doc
-			if(not tf[i].has_key(term)):
+			# if(not tf[i].has_key(term)):
+			if(term not in tf[i]):
 				tf[i][term] = 0
 			tf[i][term] += 1
 
@@ -396,7 +401,8 @@ def sim(ri, rj, thresh = 0.3):
 	vj = rj.tf_idf
 	score = 0.0
 	for term, value in vi.iteritems():
-		if(vj.has_key(term)):
+		# if(vj.has_key(term)):
+		if(term in vj):
 			score += vj[term]*value
 
 	if(score > thresh):

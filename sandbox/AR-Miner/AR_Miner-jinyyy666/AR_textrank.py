@@ -34,7 +34,8 @@ def AR_textrank(doc_topic, informRev):
 	reviewGInd = {}
 	for i in range(n):
 		topic = doc_topic[i].argmax()
-		if(not reviewG.has_key(topic)):
+		# if(not reviewG.has_key(topic)):
+		if(topic not in reviewG):
 			reviewG[topic] = []
 			reviewGInd[topic] = []
 
