@@ -107,7 +107,7 @@ def plot_group_ranking(group_scores, sorted_group_indices, top_words_list, group
 
     columns = ('Rank', 'Group index', 'Score', 'Key words')
     cell_text = []
-    for i in xrange(group_count):
+    for i in range(group_count):
         cell_text.append([i + 1, sorted_group_indices[i], group_scores[i], key_words_list[sorted_group_indices[i]]])
 
     fig = plt.figure()
@@ -132,7 +132,7 @@ def plot_instance_ranking(group_index, reviews, review_scores, instance_count):
     """
 
     cell_text = []
-    for i in xrange(instance_count):
+    for i in range(instance_count):
         cell_text.append([i + 1, reviews[review_scores[group_index][i][0]].text, review_scores[group_index][i][1]])
 
     fig = plt.figure()

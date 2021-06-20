@@ -134,7 +134,7 @@ def pageRank(G, s = .85, maxerr = .0001):
 	while np.sum(np.abs(r-ro)) > maxerr:
 		ro = r.copy()
 		# calculate each pagerank at a time
-		for i in xrange(0,n):
+		for i in range(0,n):
 			# inlinks of state i
 			Ai = np.array(A[:,i].todense())[:,0]
 			# account for sink states
