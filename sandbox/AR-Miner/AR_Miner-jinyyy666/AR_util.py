@@ -371,14 +371,14 @@ def AR_tfIdf(reviews):
 			tf[i][term] += 1
 
 	# 2. Calculate the tf-idf
-	for rid, terms in tf.iteritems():
+	for rid, terms in tf.items():
 		summation = 0.0
-		for word, freq in terms.iteritems():
+		for word, freq in terms.items():
 			tf[rid][word] = (1 + np.log10(freq))*(np.log10(total_docs/float(idf[word])))                
 			summation += tf[rid][word]*tf[rid][word]
 
 		# normalize the tf-idf here:
-		for word, freq in terms.iteritems():
+		for word, freq in terms.items():
 			tf[rid][word] = tf[rid][word]/math.sqrt(summation)
 
 		reviews[rid].tf_idf = tf[rid] # directly modify the review here
@@ -400,7 +400,7 @@ def sim(ri, rj, thresh = 0.3):
 	vi = ri.tf_idf
 	vj = rj.tf_idf
 	score = 0.0
-	for term, value in vi.iteritems():
+	for term, value in vi.items():
 		# if(vj.has_key(term)):
 		if(term in vj):
 			score += vj[term]*value

@@ -125,9 +125,9 @@ def rev_duplic(doc_topic, informRev):
 			dupli_prop_dict = dict((rev_dupli, topic_revs_prop[topic][rev_dupli]) for rev_dupli in rev_simRevs[rev_key])
 			dupli_rating_dict = dict((rev_dupli, 1/float(informRev[rev_dupli].rating)) for rev_dupli in rev_simRevs[rev_key])
 			dupli_probab_dict = dict((rev_dupli, topic_revs_probab[topic][rev_dupli]) for rev_dupli in rev_simRevs[rev_key])
-			maxKeyProp = max(dupli_prop_dict.iteritems(), key=operator.itemgetter(1))[0]
-			maxKeyRating = max(dupli_rating_dict.iteritems(), key=operator.itemgetter(1))[0]
-			maxKeyProbab = max(dupli_probab_dict.iteritems(), key=operator.itemgetter(1))[0]
+			maxKeyProp = max(dupli_prop_dict.items(), key=operator.itemgetter(1))[0]
+			maxKeyRating = max(dupli_rating_dict.items(), key=operator.itemgetter(1))[0]
+			maxKeyProbab = max(dupli_probab_dict.items(), key=operator.itemgetter(1))[0]
 			updated_topic_revs_prop[topic][rev_key] = dupli_prop_dict[maxKeyProp]
 			updated_topic_revs_rating[topic][rev_key] = dupli_rating_dict[maxKeyRating]
 			updated_topic_revs_probab[topic][rev_key] = dupli_probab_dict[maxKeyProbab]
