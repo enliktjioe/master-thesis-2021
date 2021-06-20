@@ -68,7 +68,8 @@ def textRankGroup(topic,rankedInstance, reviews, reviewInds):
 
 	# 3. prepare the indices for return
 	inds = zip(reviewInds, score)
-	inds.sort(key = lambda x : x[1], reverse = True)
+	# inds.sort(key = lambda x : x[1], reverse = True)
+	sorted(zip(reviewInds, score), key = lambda x : x[1], reverse = True)
 
 	for i in range(len(inds)):
 		rankedInstance[topic].append(inds[i])
