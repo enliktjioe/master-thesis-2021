@@ -7,6 +7,8 @@ nbconvert==5.6.1
 nltk==3.6.2
 numpy==1.19.5
 pandas==1.0.5
+pyenchant==3.2.1
+pyspellchecker==0.6.2
 pyLDAvis==3.2.2
 PyYAML==5.4.1
 regex==2021.4.4

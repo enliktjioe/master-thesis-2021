@@ -92,30 +92,46 @@ def AR_parse(datasetName, rmStopWords, rmRareWords):
 	vocabulary = {}
 	wcounter = {}
 	# 1. Read the dataset and form a vocabulary
-	# for training set:
-	# info = os.path.join(fileTrain, "info.txt")
-	info = os.path.join(fileTrain, "info.csv")
-	cnt = readFileCSV(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
+	
+	if datasetName == 'bolt':
+		# for training set:
+		info = os.path.join(fileTrain, "info.csv")
+		cnt = readFileCSV(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
+		
+		non_info = os.path.join(fileTrain, "non-info.csv")
+		cnt = readFileCSV(non_info, train, -1, vocabulary, wcounter, cnt, rmStopWords)
 
-	# non_info = os.path.join(fileTrain, "non-info.txt")
-	non_info = os.path.join(fileTrain, "non-info.csv")
-	cnt = readFileCSV(non_info, train, -1, vocabulary, wcounter, cnt, rmStopWords)
+		# for testing set:
+		info = os.path.join(fileTest, "info.csv")
+		cnt = readFileCSV(info, test, 1, vocabulary, wcounter, cnt, rmStopWords)
 
-	# for testing set:
-
-	# info = os.path.join(fileTest, "info.txt")
-	info = os.path.join(fileTest, "info.csv")
-	cnt = readFileCSV(info, test, 1, vocabulary, wcounter, cnt, rmStopWords)
-
-	# non_info = os.path.join(fileTest, "non-info.txt")
-	non_info = os.path.join(fileTest, "non-info.csv")
-	cnt = readFileCSV(non_info, test, -1, vocabulary, wcounter, cnt, rmStopWords)
+		non_info = os.path.join(fileTest, "non-info.csv")
+		cnt = readFileCSV(non_info, test, -1, vocabulary, wcounter, cnt, rmStopWords)
 
 
-	# for unlabeled set:
-	# info = os.path.join(fileUnlabel, "unlabeled.txt")
-	info = os.path.join(fileUnlabel, "unlabeled.csv")
-	cnt = readFileCSV(info, unlabel, 0, vocabulary, wcounter, cnt, rmStopWords)
+		# for unlabeled set:
+		info = os.path.join(fileUnlabel, "unlabeled.csv")
+		cnt = readFileCSV(info, unlabel, 0, vocabulary, wcounter, cnt, rmStopWords)
+
+	else:
+		# for training set:
+		info = os.path.join(fileTrain, "info.txt")
+		cnt = readFile(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
+
+		non_info = os.path.join(fileTrain, "non-info.txt")
+		cnt = readFile(non_info, train, -1, vocabulary, wcounter, cnt, rmStopWords)
+
+
+		# for testing set:
+		info = os.path.join(fileTest, "info.txt")
+		cnt = readFile(info, test, 1, vocabulary, wcounter, cnt, rmStopWords)
+
+		non_info = os.path.join(fileTest, "non-info.txt")
+		cnt = readFile(non_info, test, -1, vocabulary, wcounter, cnt, rmStopWords)
+
+		# for unlabeled set:
+		info = os.path.join(fileUnlabel, "unlabeled.txt")
+		cnt = readFile(info, unlabel, 0, vocabulary, wcounter, cnt, rmStopWords)
 
 	# 2. Remove the rare words (occur only once) and integer 
 	if(rmRareWords == True):
@@ -248,10 +264,10 @@ def readFile(filename, dataset, label, voc, wcounter, cnt, rmStopWords):
 			review = Review()
 			review.fromText(cnt, content, ntokens, rating, label, raw_text)
 			
-			# For debugging:
-			if(label == 0):
-				review.printSelf()
-				print('\n')
+			# # For debugging:
+			# if(label == 0):
+			# 	review.printSelf()
+			# 	print('\n')
 			
 			dataset.append(review)
 			cnt += 1
