@@ -72,6 +72,37 @@ def isEnglishReview(textInput):
     
     return isEnglish, listToStr, english_score
 
+def checkConsistency(sentimentScore, star_rating):
+    negativeSentiment = [-5,-4,-3,-2]
+    negativeRating = [1,2]
+    neutralSentiment = [-1,0,1]
+    neutralRating = [3]
+    positiveSentiment = [2,3,4,5]
+    positiveRating = [4,5]
+
+    try:
+        if star_rating in negativeRating:
+            if sentimentScore in negativeSentiment:
+                isInconsistent = False
+            else:
+                isInconsistent = True
+        elif star_rating in neutralRating:
+            if sentimentScore in neutralSentiment:
+                isInconsistent = False
+            else:
+                isInconsistent = True
+        elif star_rating in positiveRating:
+            if sentimentScore in positiveSentiment:
+                isInconsistent = False
+            else:
+                isInconsistent = True
+    except:
+        print('EXCEPTION HANDLER')
+        isInconsistent = False
+
+            
+    return isInconsistent
+
 ### Pipeline functions
 # Based on the Example from https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#11createthedictionaryandcorpusneededfortopicmodeling*
 # Credits to: https://github.com/jung-akim/netflix_app/blob/master/utils.py

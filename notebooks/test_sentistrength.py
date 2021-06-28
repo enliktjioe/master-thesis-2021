@@ -13,16 +13,16 @@ senti = PySentiStr()
 senti.setSentiStrengthPath('/gpfs/space/home/enlik/GitRepo/master-thesis-2021/references/SentiStrengthCom.jar') # Note: Provide absolute path instead of relative path
 senti.setSentiStrengthLanguageFolderPath('/gpfs/space/home/enlik/GitRepo/master-thesis-2021/references/SentiStrengthData/') # Note: Provide absolute path instead of relative path
 
-result = senti.getSentiment('What a bad day')
-print(result)
+# # testing purpose
+# result = senti.getSentiment('What a bad day')
+# print(result)
+
+# str_arr = ['What a lovely day', 'What a bad day']
+# result = senti.getSentiment(str_arr, score='binary')
+# print(result)
 
 
-str_arr = ['What a lovely day', 'What a bad day']
-result = senti.getSentiment(str_arr, score='binary')
-print(result)
-
-
-df_p1 = pd.read_csv(config['csv_input_local']['bolt_apple'], index_col=0)
+df_p1 = pd.read_csv(config['csv_input_local']['bolt_apple_p1'], index_col=0)
 df_p1 = df_p1.reset_index(drop=True)
 total_reviews = len(df_p1)
 unique_users  = len(df_p1['userName'].unique())
@@ -37,7 +37,7 @@ df_p1.review = df_p1.review.astype(str)
 
 listOfRemovedIndex = []
 for i in range(0, int(len(df_p1))):
-# for i in range(0, 5): # testing purpose
+# for i in range(0, 50): # testing purpose
     text_input = df_p1.review[i]
     star_rating = df_p1.rating[i]
     result = senti.getSentiment(text_input)
@@ -46,34 +46,20 @@ for i in range(0, int(len(df_p1))):
     strings = [str(integer) for integer in result]
     a_string = "".join(strings)
     result_int = int(a_string)
-    
-    print(text_input)
-    print(result_int)
-    print(star_rating)
-    print('\n')
-    
-    
-    if star_rating < 3:
-        if result_int <= -2 :
-            isInconsistent = False
-        else:
-            isInconsistent = True
-    elif star_rating > 3:
-        if result_int >= 2:
-            isInconsistent = False
-        else:
-            isInconsistent = True
-    else:
-        if result_int >= -1 and result_int <= 1:
-            isInconsistent = False
-        else:
-            isInconsistent = True
+
+    isInconsistent = checkConsistency(result_int, star_rating)
     
     if isInconsistent == True:
         listOfRemovedIndex.append(i)
     
+    if(result_int > 2):
+        print(text_input)
+        print(f'Sentiment Score: {result_int}')
+        print(f'Star Rating: {star_rating}')
+        print(f'isInconsistent: {isInconsistent}')
+        print('\n')
     
-
+    
 df_p2 = df_p1.drop(df_p1.index[listOfRemovedIndex])
 total_reviews_before = len(df_p1)
 total_reviews_after = len(df_p2)
@@ -82,3 +68,5 @@ total_removed_reviews = len(listOfRemovedIndex)
 print(f'Total reviews (BEFORE): {total_reviews_before} \n')
 print(f'Total reviews (AFTER): {total_reviews_after} \n')
 print(f'Total Removed reviews: {total_removed_reviews} \n')
+
+df_p2.to_csv(config['csv_input_local']['bolt_apple_p2'])
