@@ -26,6 +26,7 @@ csv_input_local:
   bolt_apple: '../review_mining/csv_output/1_bolt/bolt_apple_appstore_review.csv'
   bolt_apple_p1: '../review_mining/csv_output/1_bolt/bolt_apple_appstore_review_p1.csv'
   bolt_apple_p2: '../review_mining/csv_output/1_bolt/bolt_apple_appstore_review_p2.csv'
+  bolt_apple_p3: '../review_mining/csv_output/1_bolt/bolt_apple_appstore_review_p3.csv'
   bolt_google: '../review_mining/csv_output/1_bolt/bolt_google_playstore_review.csv'
   uber_apple: '../review_mining/csv_output/2_uber/uber_apple_appstore_review.csv'
   uber_google: '../review_mining/csv_output/2_uber/uber_google_playstore_review.csv'
