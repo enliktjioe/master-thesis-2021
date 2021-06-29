@@ -97,7 +97,7 @@ def AR_parse(datasetName, rmStopWords, rmRareWords):
 		# for training set:
 		info = os.path.join(fileTrain, "info.csv")
 		cnt = readFileCSV(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
-		
+
 		non_info = os.path.join(fileTrain, "non-info.csv")
 		cnt = readFileCSV(non_info, train, -1, vocabulary, wcounter, cnt, rmStopWords)
 
@@ -108,9 +108,26 @@ def AR_parse(datasetName, rmStopWords, rmRareWords):
 		non_info = os.path.join(fileTest, "non-info.csv")
 		cnt = readFileCSV(non_info, test, -1, vocabulary, wcounter, cnt, rmStopWords)
 
+		
+		# # for training set:
+		# info = os.path.join(fileTrain, "info.txt")
+		# cnt = readFile(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
+
+		# non_info = os.path.join(fileTrain, "non-info.txt")
+		# cnt = readFile(non_info, train, -1, vocabulary, wcounter, cnt, rmStopWords)
+
+
+		# # for testing set:
+		# info = os.path.join(fileTest, "info.txt")
+		# cnt = readFile(info, test, 1, vocabulary, wcounter, cnt, rmStopWords)
+
+		# non_info = os.path.join(fileTest, "non-info.txt")
+		# cnt = readFile(non_info, test, -1, vocabulary, wcounter, cnt, rmStopWords)
+
 
 		# for unlabeled set:
-		info = os.path.join(fileUnlabel, "unlabeled.csv")
+		# info = os.path.join(fileUnlabel, "unlabeled.csv")
+		info = os.path.join(fileUnlabel, "bolt_apple_appstore_review_p2.csv")
 		cnt = readFileCSV(info, unlabel, 0, vocabulary, wcounter, cnt, rmStopWords)
 
 	else:
@@ -284,6 +301,7 @@ def readFileCSV(filename, dataset, label, voc, wcounter, cnt, rmStopWords):
 	# print(df)
 
 	for i in range(0, len(df)):
+	# for i in range(0, 10):
 		rating = df['rating'][i].astype(int)
 
 		# text = " ".join(parts[2:]) # like: blabla blabla...
