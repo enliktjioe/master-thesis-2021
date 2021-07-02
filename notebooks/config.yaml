@@ -24,6 +24,11 @@ csv_input:
 
 csv_input_local:
   all_reviews: '../review_mining/csv_output/_all_reviews/all_reviews.csv'
+  all_reviews_p1: '../review_mining/csv_output/_all_reviews/all_reviews_p1.csv'
+  all_reviews_p2: '../review_mining/csv_output/_all_reviews/all_reviews_p2.csv'
+  all_reviews_p3: '../review_mining/csv_output/_all_reviews/all_reviews_p3.csv'
+  all_reviews_p4: '../review_mining/csv_output/_all_reviews/all_reviews_p4.csv'
+  all_reviews_p5: '../review_mining/csv_output/_all_reviews/all_reviews_p5.csv'
   bolt_apple_google: '../review_mining/csv_output/1_bolt/bolt_apple_google.csv'
   uber_apple_google: '../review_mining/csv_output/2_uber/uber_apple_google.csv'
   blablacar_apple_google: '../review_mining/csv_output/3_blablacar/blablacar_apple_google.csv'
