@@ -23,6 +23,17 @@ csv_input:
   yandexgo_google: 'https://drive.google.com/file/d/1A2vCy3S6nhqgXBvrlxPBcoIBK58TmFtp/view?usp=sharing'
 
 csv_input_local:
+  all_reviews: '../review_mining/csv_output/_all_reviews/all_reviews.csv'
+  bolt_apple_google: '../review_mining/csv_output/1_bolt/bolt_apple_google.csv'
+  uber_apple_google: '../review_mining/csv_output/2_uber/uber_apple_google.csv'
+  blablacar_apple_google: '../review_mining/csv_output/3_blablacar/blablacar_apple_google.csv'
+  cabify_apple_google: '../review_mining/csv_output/4_cabify/cabify_apple_google.csv'
+  via_apple_google: '../review_mining/csv_output/5_via/via_apple_google.csv'
+  getaround_apple_google: '../review_mining/csv_output/6_getaround/getaround_apple_google.csv'
+  olacabs_apple_google: '../review_mining/csv_output/7_olacabs/olacabs_apple_google.csv'
+  taxieu_apple_google: '../review_mining/csv_output/8_taxieu/taxieu_apple_google.csv'
+  freenow_apple_google: '../review_mining/csv_output/9_freenow/freenow_apple_google.csv'
+  yandexgo_apple_google: '../review_mining/csv_output/10_yandexgo/yandexgo_apple_google.csv'
   bolt_apple: '../review_mining/csv_output/1_bolt/bolt_apple_appstore_review.csv'
   bolt_apple_p1: '../review_mining/csv_output/1_bolt/bolt_apple_appstore_review_p1.csv'
   bolt_apple_p2: '../review_mining/csv_output/1_bolt/bolt_apple_appstore_review_p2.csv'
