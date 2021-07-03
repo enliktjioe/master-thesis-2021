@@ -130,6 +130,26 @@ def AR_parse(datasetName, rmStopWords, rmRareWords):
 		info = os.path.join(fileUnlabel, "bolt_apple_appstore_review_p2.csv")
 		cnt = readFileCSV(info, unlabel, 0, vocabulary, wcounter, cnt, rmStopWords)
 
+	elif datasetName == 'all':
+		# for training set:
+		info = os.path.join(fileTrain, "info.csv")
+		cnt = readFileCSV(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
+
+		non_info = os.path.join(fileTrain, "non-info.csv")
+		cnt = readFileCSV(non_info, train, -1, vocabulary, wcounter, cnt, rmStopWords)
+
+		# for testing set:
+		info = os.path.join(fileTest, "info.csv")
+		cnt = readFileCSV(info, test, 1, vocabulary, wcounter, cnt, rmStopWords)
+
+		non_info = os.path.join(fileTest, "non-info.csv")
+		cnt = readFileCSV(non_info, test, -1, vocabulary, wcounter, cnt, rmStopWords)
+		
+		# for unlabeled set:
+		info = os.path.join(fileUnlabel, "all_reviews_p2.csv")
+		# info = os.path.join(fileUnlabel, "bolt_apple_appstore_review_p2.csv")
+		cnt = readFileCSV(info, unlabel, 0, vocabulary, wcounter, cnt, rmStopWords)
+	
 	else:
 		# for training set:
 		info = os.path.join(fileTrain, "info.txt")
@@ -242,7 +262,7 @@ def readFile(filename, dataset, label, voc, wcounter, cnt, rmStopWords):
 		return
 
 
-	with open(filename, 'r', encoding='utf-8') as f:
+	with open(filename, 'r') as f:
 		# read each review instance line by line:
 		for instance in f:
 			# break each line into three parts, ignore the first segment:
