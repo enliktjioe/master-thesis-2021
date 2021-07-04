@@ -22,24 +22,28 @@ senti.setSentiStrengthLanguageFolderPath('/gpfs/space/home/enlik/GitRepo/master-
 # print(result)
 
 
-df_p1 = pd.read_csv(config['csv_input_local']['bolt_apple_p1'], index_col=0)
-df_p1 = df_p1.reset_index(drop=True)
-total_reviews = len(df_p1)
-unique_users  = len(df_p1['userName'].unique())
-mean = df_p1['rating'].mean()
+df_p1_2 = pd.read_csv(config['csv_input_local']['uber_apple_google_p1'], index_col=0)
+# df_p1_2 = pd.read_csv(config['csv_input_local']['cabify_apple_google_p1'], index_col=0)
+# df_p1_2 = pd.read_csv(config['csv_input_local']['getaround_apple_google_p1'], index_col=0)
+# df_p1_2 = pd.read_csv(config['csv_input_local']['taxieu_apple_google_p1'], index_col=0)
+# df_p1_2 = pd.read_csv(config['csv_input_local']['yandexgo_apple_google_p1'], index_col=0)
+df_p1_2 = df_p1_2.reset_index(drop=True)
+total_reviews = len(df_p1_2)
+unique_users  = len(df_p1_2['userName'].unique())
+mean = df_p1_2['rating'].mean()
 
 print(f'Total English reviews: {total_reviews} \n')
 print(f'Total unique users : {unique_users}')
 print(f'Total users who gave multiple reviews: {total_reviews - unique_users}\n')
 print(f'Average rating for this app based on the textual reviews: {round(mean,2)} \n')
 
-df_p1.review = df_p1.review.astype(str)
+df_p1_2.review = df_p1_2.review.astype(str)
 
 listOfRemovedIndex = []
-for i in range(0, int(len(df_p1))):
+for i in range(0, int(len(df_p1_2))):
 # for i in range(0, 50): # testing purpose
-    text_input = df_p1.review[i]
-    star_rating = df_p1.rating[i]
+    text_input = df_p1_2.review[i]
+    star_rating = df_p1_2.rating[i]
     result = senti.getSentiment(text_input)
     
     # https://www.kite.com/python/answers/how-to-convert-a-list-of-integers-into-a-single-integer-in-python
@@ -52,21 +56,26 @@ for i in range(0, int(len(df_p1))):
     if isInconsistent == True:
         listOfRemovedIndex.append(i)
     
-    if(result_int > 2):
-        print(text_input)
-        print(f'Sentiment Score: {result_int}')
-        print(f'Star Rating: {star_rating}')
-        print(f'isInconsistent: {isInconsistent}')
-        print('\n')
+    # if(result_int > 2):
+    #     print(text_input)
+    #     print(f'Sentiment Score: {result_int}')
+    #     print(f'Star Rating: {star_rating}')
+    #     print(f'isInconsistent: {isInconsistent}')
+    #     print('\n')
     
+    print(i)
     
-df_p2 = df_p1.drop(df_p1.index[listOfRemovedIndex])
-total_reviews_before = len(df_p1)
-total_reviews_after = len(df_p2)
+df_p2_2 = df_p1_2.drop(df_p1_2.index[listOfRemovedIndex])
+total_reviews_before = len(df_p1_2)
+total_reviews_after = len(df_p2_2)
 total_removed_reviews = len(listOfRemovedIndex)
 
 print(f'Total reviews (BEFORE): {total_reviews_before} \n')
 print(f'Total reviews (AFTER): {total_reviews_after} \n')
 print(f'Total Removed reviews: {total_removed_reviews} \n')
 
-df_p2.to_csv(config['csv_input_local']['bolt_apple_p2'])
+df_p2_2.to_csv(config['csv_input_local']['uber_apple_google_p2'])
+# df_p2_2.to_csv(config['csv_input_local']['cabify_apple_google_p2'])
+# df_p2_2.to_csv(config['csv_input_local']['getaround_apple_google_p2'])
+# df_p2_2.to_csv(config['csv_input_local']['taxieu_apple_google_p2'])
+# df_p2_2.to_csv(config['csv_input_local']['yandexgo_apple_google_p2'])
