@@ -93,64 +93,67 @@ def AR_parse(datasetName, rmStopWords, rmRareWords):
 	wcounter = {}
 	# 1. Read the dataset and form a vocabulary
 	
-	if datasetName == 'bolt':
-		# for training set:
-		info = os.path.join(fileTrain, "info.csv")
-		cnt = readFileCSV(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
+	# if datasetName == 'bolt':
+	# 	# for training set:
+	# 	info = os.path.join(fileTrain, "info.csv")
+	# 	cnt = readFileCSV(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
 
-		non_info = os.path.join(fileTrain, "non-info.csv")
-		cnt = readFileCSV(non_info, train, -1, vocabulary, wcounter, cnt, rmStopWords)
+	# 	non_info = os.path.join(fileTrain, "non-info.csv")
+	# 	cnt = readFileCSV(non_info, train, -1, vocabulary, wcounter, cnt, rmStopWords)
 
-		# for testing set:
-		info = os.path.join(fileTest, "info.csv")
-		cnt = readFileCSV(info, test, 1, vocabulary, wcounter, cnt, rmStopWords)
+	# 	# for testing set:
+	# 	info = os.path.join(fileTest, "info.csv")
+	# 	cnt = readFileCSV(info, test, 1, vocabulary, wcounter, cnt, rmStopWords)
 
-		non_info = os.path.join(fileTest, "non-info.csv")
-		cnt = readFileCSV(non_info, test, -1, vocabulary, wcounter, cnt, rmStopWords)
+	# 	non_info = os.path.join(fileTest, "non-info.csv")
+	# 	cnt = readFileCSV(non_info, test, -1, vocabulary, wcounter, cnt, rmStopWords)
 
 		
-		# # for training set:
-		# info = os.path.join(fileTrain, "info.txt")
-		# cnt = readFile(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
+	# 	# # for training set:
+	# 	# info = os.path.join(fileTrain, "info.txt")
+	# 	# cnt = readFile(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
 
-		# non_info = os.path.join(fileTrain, "non-info.txt")
-		# cnt = readFile(non_info, train, -1, vocabulary, wcounter, cnt, rmStopWords)
-
-
-		# # for testing set:
-		# info = os.path.join(fileTest, "info.txt")
-		# cnt = readFile(info, test, 1, vocabulary, wcounter, cnt, rmStopWords)
-
-		# non_info = os.path.join(fileTest, "non-info.txt")
-		# cnt = readFile(non_info, test, -1, vocabulary, wcounter, cnt, rmStopWords)
+	# 	# non_info = os.path.join(fileTrain, "non-info.txt")
+	# 	# cnt = readFile(non_info, train, -1, vocabulary, wcounter, cnt, rmStopWords)
 
 
-		# for unlabeled set:
-		# info = os.path.join(fileUnlabel, "unlabeled.csv")
-		info = os.path.join(fileUnlabel, "bolt_apple_appstore_review_p2.csv")
-		cnt = readFileCSV(info, unlabel, 0, vocabulary, wcounter, cnt, rmStopWords)
+	# 	# # for testing set:
+	# 	# info = os.path.join(fileTest, "info.txt")
+	# 	# cnt = readFile(info, test, 1, vocabulary, wcounter, cnt, rmStopWords)
 
-	elif datasetName == 'all':
-		# for training set:
-		info = os.path.join(fileTrain, "info.csv")
-		cnt = readFileCSV(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
+	# 	# non_info = os.path.join(fileTest, "non-info.txt")
+	# 	# cnt = readFile(non_info, test, -1, vocabulary, wcounter, cnt, rmStopWords)
 
-		non_info = os.path.join(fileTrain, "non-info.csv")
-		cnt = readFileCSV(non_info, train, -1, vocabulary, wcounter, cnt, rmStopWords)
 
-		# for testing set:
-		info = os.path.join(fileTest, "info.csv")
-		cnt = readFileCSV(info, test, 1, vocabulary, wcounter, cnt, rmStopWords)
+	# 	# for unlabeled set:
+	# 	# info = os.path.join(fileUnlabel, "unlabeled.csv")
+	# 	info = os.path.join(fileUnlabel, "bolt_apple_appstore_review_p2.csv")
+	# 	cnt = readFileCSV(info, unlabel, 0, vocabulary, wcounter, cnt, rmStopWords)
 
-		non_info = os.path.join(fileTest, "non-info.csv")
-		cnt = readFileCSV(non_info, test, -1, vocabulary, wcounter, cnt, rmStopWords)
+	# elif datasetName == 'all':
+	# 	# for training set:
+	# 	info = os.path.join(fileTrain, "info.csv")
+	# 	cnt = readFileCSV(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
+
+	# 	non_info = os.path.join(fileTrain, "non-info.csv")
+	# 	cnt = readFileCSV(non_info, train, -1, vocabulary, wcounter, cnt, rmStopWords)
+
+	# 	# for testing set:
+	# 	info = os.path.join(fileTest, "info.csv")
+	# 	cnt = readFileCSV(info, test, 1, vocabulary, wcounter, cnt, rmStopWords)
+
+	# 	non_info = os.path.join(fileTest, "non-info.csv")
+	# 	cnt = readFileCSV(non_info, test, -1, vocabulary, wcounter, cnt, rmStopWords)
 		
-		# for unlabeled set:
-		info = os.path.join(fileUnlabel, "all_reviews_p2.csv")
-		# info = os.path.join(fileUnlabel, "bolt_apple_appstore_review_p2.csv")
-		cnt = readFileCSV(info, unlabel, 0, vocabulary, wcounter, cnt, rmStopWords)
+	# 	# for unlabeled set:
+	# 	info = os.path.join(fileUnlabel, "unlabeled.csv")
+	# 	cnt = readFileCSV(info, unlabel, 0, vocabulary, wcounter, cnt, rmStopWords)
 	
-	else:
+	if datasetName in ['facebook','swiftkey','tapfish','templerun2']:
+		fileTrain = os.path.join( "./datasets", datasetName, "trainL")
+		fileUnlabel = os.path.join("./datasets", datasetName, "trainU")
+		fileTest = os.path.join("./datasets", datasetName, "test")
+
 		# for training set:
 		info = os.path.join(fileTrain, "info.txt")
 		cnt = readFile(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
@@ -169,6 +172,31 @@ def AR_parse(datasetName, rmStopWords, rmRareWords):
 		# for unlabeled set:
 		info = os.path.join(fileUnlabel, "unlabeled.txt")
 		cnt = readFile(info, unlabel, 0, vocabulary, wcounter, cnt, rmStopWords)
+
+	else:
+		fileTrain = os.path.join( "./datasets/_thesis/", "trainL")
+		fileUnlabel = os.path.join("./datasets/_thesis/", "trainU")
+		fileTest = os.path.join("./datasets/_thesis/", "test")
+
+		# for training set:
+		info = os.path.join(fileTrain, "info.csv")
+		cnt = readFileCSV(info, train, 1, vocabulary, wcounter, cnt, rmStopWords)
+
+		non_info = os.path.join(fileTrain, "non-info.csv")
+		cnt = readFileCSV(non_info, train, -1, vocabulary, wcounter, cnt, rmStopWords)
+
+		# for testing set:
+		info = os.path.join(fileTest, "info.csv")
+		cnt = readFileCSV(info, test, 1, vocabulary, wcounter, cnt, rmStopWords)
+
+		non_info = os.path.join(fileTest, "non-info.csv")
+		cnt = readFileCSV(non_info, test, -1, vocabulary, wcounter, cnt, rmStopWords)
+		
+		# for unlabeled set:
+		# info = os.path.join(fileUnlabel, "unlabeled.csv")
+		info = os.path.join(fileUnlabel, datasetName + ".csv")
+		print(info)
+		cnt = readFileCSV(info, unlabel, 0, vocabulary, wcounter, cnt, rmStopWords)
 
 	# 2. Remove the rare words (occur only once) and integer 
 	if(rmRareWords == True):
