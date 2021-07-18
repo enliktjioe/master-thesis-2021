@@ -1,6 +1,9 @@
+adjustText==0.7.3
+bert-embedding==1.0.1
 bertopic==0.8.1
 fastapi==0.59.0
 gensim==3.8.3
+ktrain==0.26.5
 langdetect==1.0.8
 matplotlib==3.2.2
 matplotlib-inline==0.1.2
@@ -19,8 +22,11 @@ scikit-learn==0.23.1
 sentistrength==0.0.9
 spacy==2.3.5
 streamlit==0.64.0
+tensorflow==2.5.0
 tokenizers==0.8.1rc1
 torch==1.8.1
 tqdm==4.61.0
 transformers==3.0.2
+umap-learn==0.5.1
 uvicorn==0.11.7
+wordcloud==1.8.1
