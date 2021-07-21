@@ -159,7 +159,8 @@ class NLPpipe:
 
 #### Functions for Interpretation
 
-def format_topics_sentences(ldamodel, corpus, texts, df):
+# def format_topics_sentences(ldamodel, corpus, texts, df):
+def format_topics_sentences(ldamodel, corpus, texts):
     # Init output
     sent_topics_df = pd.DataFrame()
     print("Getting main topic for document...")
@@ -185,7 +186,8 @@ def format_topics_sentences(ldamodel, corpus, texts, df):
     return (sent_topics_df)
 
 
-def find_dominant_topic_in_each_doc(df_topic_sents_keywords, df):
+# def find_dominant_topic_in_each_doc(df_topic_sents_keywords, df):
+def find_dominant_topic_in_each_doc(df_topic_sents_keywords):
     # Format
     df_dominant_topic = df_topic_sents_keywords
     df_dominant_topic.columns = ['Dominant_Topic', 'Perc_Contribution', 'Keywords', 'Text']
