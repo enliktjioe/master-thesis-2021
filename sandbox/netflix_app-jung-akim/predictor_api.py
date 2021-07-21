@@ -7,8 +7,8 @@ term_doc_train = pd.read_pickle('preprocessed_data/term_doc.pkl')
 dictionary = pd.read_pickle('preprocessed_data/dictionary.pkl')
 
 # Import ldamallet model
-# ldamallet = gensim.models.wrappers.LdaMallet.load(datapath('model'))
-# ldamallet = gensim.models.wrappers.ldamallet.malletmodel2ldamodel(ldamallet)
+ldamallet = gensim.models.wrappers.LdaMallet.load(datapath('model'))
+ldamallet = gensim.models.wrappers.ldamallet.malletmodel2ldamodel(ldamallet)
 
 # Import bert model
 bert_model = ktrain.load_predictor('bert_model').model
@@ -17,19 +17,19 @@ bert_predictor = ktrain.get_predictor(bert_model, bert_preproc)
 
 topics = ["Platform/Device", "User Experience", "Value", "Service", "Trouble-shooting", "Shows"]
 
-# def make_prediction_ldamallet(input):
-#     """
-#     Output:
-#     Returns (list of topics, list of probs) in a descending order of probabilities
-#     """
-#     clean_text = NLPpipe().preprocess(pd.Series(input))
-#     term_doc_new = [dictionary.doc2bow(text) for text in clean_text]
-#     if input is not None:
-#         percentages = [perc for topic, perc in ldamallet[term_doc_new][0]]
-#         indices = np.argsort(percentages)[::-1]
-#         return list(zip([topics[index] for index in indices], [100*np.round(percentages[index], 3) for index in indices]))
+def make_prediction_ldamallet(input):
+    """
+    Output:
+    Returns (list of topics, list of probs) in a descending order of probabilities
+    """
+    clean_text = NLPpipe().preprocess(pd.Series(input))
+    term_doc_new = [dictionary.doc2bow(text) for text in clean_text]
+    if input is not None:
+        percentages = [perc for topic, perc in ldamallet[term_doc_new][0]]
+        indices = np.argsort(percentages)[::-1]
+        return list(zip([topics[index] for index in indices], [100*np.round(percentages[index], 3) for index in indices]))
 
-#     return None
+    return None
 
 def make_prediction_bert(input):
     """
