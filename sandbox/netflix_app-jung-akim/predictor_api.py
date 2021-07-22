@@ -11,6 +11,7 @@ ldamallet = gensim.models.wrappers.LdaMallet.load(datapath('model'))
 ldamallet = gensim.models.wrappers.ldamallet.malletmodel2ldamodel(ldamallet)
 
 # Import bert model
+# https://stackoverflow.com/questions/62678035/can-i-resume-training-from-checkpoints-using-the-ktrain-library
 bert_model = ktrain.load_predictor('bert_model').model
 bert_preproc = ktrain.load_predictor('bert_model').preproc
 bert_predictor = ktrain.get_predictor(bert_model, bert_preproc)
