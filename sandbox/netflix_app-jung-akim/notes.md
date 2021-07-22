@@ -27,3 +27,7 @@ p = ktrain.load_predictor('/tmp/arabic_predictor')
 # still works as expected after reloading from disk
 p.predict("الغرفة كانت نظيفة ، الطعام ممتاز ، وأنا أحب المنظر من غرفتي.")
 ```
+
+
+## Saving big model file from ktrain from google colab to google drive
+https://stackoverflow.com/questions/49428332/how-to-download-large-files-like-weights-of-a-model-from-colaboratory
