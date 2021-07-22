@@ -213,3 +213,94 @@ def fit_transform(self, text, tf_idf=False, min_count=None, threshold=None, scor
         return models.TfidfModel(term_doc, smartirs='ntc')[term_doc]
     else:
         return term_doc
+
+
+
+
+#### Functions for Interpretation
+
+def format_topics_sentences(ldamodel, corpus, texts, df):
+# def format_topics_sentences(ldamodel, corpus, texts):
+    # Init output
+    sent_topics_df = pd.DataFrame()
+    print("Getting main topic for document...")
+    for i, row in enumerate(ldamodel[corpus]):
+        if i % 1000 == 0: print(i, end='  ')
+        if type(row) == tuple: row = row[0]
+        row = sorted(row, key=lambda x: (x[1]), reverse=True)
+        # Get the Dominant topic, Perc Contribution and Keywords for each document
+        for j, (topic_num, prop_topic) in enumerate(row):
+            if j == 0:  # => dominant topic
+                wp = ldamodel.show_topic(topic_num)
+                topic_keywords = ", ".join([word for word, prop in wp])
+                sent_topics_df = sent_topics_df.append(
+                    pd.Series([int(topic_num), round(prop_topic, 4), topic_keywords]), ignore_index=True)
+            else:
+                break
+    sent_topics_df.columns = ['Dominant_Topic', 'Perc_Contribution', 'Keywords']
+
+    # Add original text to the end of the output
+    contents = pd.Series(texts)
+    sent_topics_df = pd.concat([sent_topics_df, contents], axis=1)
+
+    return (sent_topics_df)
+
+
+def find_dominant_topic_in_each_doc(df_topic_sents_keywords, df):
+# def find_dominant_topic_in_each_doc(df_topic_sents_keywords):
+    # Format
+    df_dominant_topic = df_topic_sents_keywords
+    df_dominant_topic.columns = ['Dominant_Topic', 'Perc_Contribution', 'Keywords', 'Text']
+    # df_dominant_topic = pd.concat([df_dominant_topic.reset_index(drop=True),
+    #                                df.loc[:, ['star_rating', 'helpful_votes', 'total_votes', 'review']].reset_index(
+    #                                    drop=True)], axis=1)
+    df_dominant_topic = pd.concat([df_dominant_topic.reset_index(drop=True),
+                                   df.loc[:, ['rating', 'review']].reset_index(
+                                       drop=True)], axis=1)
+    return df_dominant_topic
+
+
+def find_most_representative_doc_for_each_doc(df_topic_sents_keywords, df):
+    num_topics = df_topic_sents_keywords.Dominant_Topic.nunique()
+    max_percs = df_topic_sents_keywords.groupby(['Dominant_Topic']).max().Perc_Contribution
+    mask = df_topic_sents_keywords.apply(
+        lambda x: (x.Dominant_Topic, x.Perc_Contribution) in zip(range(num_topics), max_percs), axis=1)
+    sent_topics_sorteddf = df_topic_sents_keywords.loc[mask, :].sort_values('Dominant_Topic')
+    indices = df_topic_sents_keywords.loc[mask, :].sort_values('Dominant_Topic').index.values
+    # sent_topics_sorteddf = pd.concat([sent_topics_sorteddf.reset_index(drop=True), df.iloc[indices, :].loc[:,
+    #                                                                                ['star_rating', 'helpful_votes',
+    #                                                                                 'total_votes',
+    #                                                                                 'review']].reset_index(drop=True)],
+    #                                  axis=1)
+
+    sent_topics_sorteddf = pd.concat([sent_topics_sorteddf.reset_index(drop=True), df.iloc[indices, :].loc[:,
+                                                                                   ['rating',
+                                                                                    'review']].reset_index(drop=True)],
+                                     axis=1)
+
+    sent_topics_sorteddf.columns = ['Dominant_Topic', 'Perc_Contribution', 'Topic_Keywords', 'bag_of_words',
+                                    'star_rating', 'review']
+    # Show
+    return sent_topics_sorteddf.drop('bag_of_words', axis=1)
+
+
+def topic_distribution_across_docs(df_topic_sents_keywords):
+    # Number of Documents for Each Topic
+    topic_counts = df_topic_sents_keywords['Dominant_Topic'].value_counts()
+
+    # Percentage of Documents for Each Topic
+    topic_contribution = round(topic_counts / topic_counts.sum(), 4)
+
+    # Topic Number and Keywords
+    topic_num_keywords = df_topic_sents_keywords.groupby('Dominant_Topic').max().reset_index()[
+        ['Dominant_Topic', 'Keywords']]
+
+    # Concatenate Column wise
+    df_dominant_topic = pd.concat([topic_num_keywords.reset_index(drop=True),
+                                   topic_counts.reset_index(drop=True),
+                                   topic_contribution.reset_index(drop=True)], axis=1)
+
+    # Change Column names
+    df_dominant_topic.columns = ['Dominant_Topic', 'Keywords', 'Num_Documents', 'Perc_Documents']
+
+    return df_dominant_topic
