@@ -44,7 +44,8 @@ def predict():
 
 # For local development:
 if __name__ == '__main__':
-    app.run(debug=True)
+    # app.run(debug=True)
+    app.run(debug=False)
 
     # For public web serving:
     # app.run(host='0.0.0.0')
