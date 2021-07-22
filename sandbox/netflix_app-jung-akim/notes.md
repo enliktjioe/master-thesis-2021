@@ -31,3 +31,6 @@ p.predict("الغرفة كانت نظيفة ، الطعام ممتاز ، وأن
 
 ## Saving big model file from ktrain from google colab to google drive
 https://stackoverflow.com/questions/49428332/how-to-download-large-files-like-weights-of-a-model-from-colaboratory
+
+## Python Flask not working properly when predict the text
+https://stackoverflow.com/questions/28241989/flask-app-restarting-with-stat
