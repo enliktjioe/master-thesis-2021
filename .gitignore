@@ -38,3 +38,5 @@ notebooks/libs/
 
 mallet-2.0.8/
 sandbox/netflix_app-jung-akim/bert_model/
+
+notebooks/bert_model_all/
