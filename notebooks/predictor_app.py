@@ -1,3 +1,5 @@
+# Credits to: https://github.com/jung-akim/netflix_app/blob/master/predictor_app.py
+
 import flask
 from flask import request
 from predictor_api import make_prediction_ldamallet, make_prediction_bert, make_suggestion

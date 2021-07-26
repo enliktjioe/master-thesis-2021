@@ -1,3 +1,5 @@
+# Credits to: https://github.com/jung-akim/netflix_app/blob/master/predictor_api.py
+
 from gensim.test.utils import datapath
 import ktrain
 from utils import *
