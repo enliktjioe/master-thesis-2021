@@ -2,7 +2,7 @@ adjustText==0.7.3
 bert-embedding==1.0.1
 fastapi==0.59.0
 gensim==3.8.3
-ktrain==0.20.2
+ktrain==0.27.1
 langdetect==1.0.8
 matplotlib==3.2.2
 matplotlib-inline==0.1.2
