@@ -20,3 +20,7 @@ ssh enlik@rocket.hpc.ut.ee
 # Export UT HPC Server specification
 
 - run `lshw -html > server_specs.html` [source](https://ourcodeworld.com/articles/read/768/how-to-check-system-specifications-in-ubuntu-server-16-04-with-the-cli)
+
+# Trouble Shooting LDA Mallet Path on Windows 10
+
+- https://stackoverflow.com/questions/24126187/error-when-implementing-gensim-ldamallet
