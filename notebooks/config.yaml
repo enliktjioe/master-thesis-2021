@@ -32,6 +32,7 @@ csv_input_local:
   bolt_apple_google: '../review_mining/csv_output/1_bolt/bolt_apple_google.csv'
   bolt_apple_google_p1: '../review_mining/csv_output/1_bolt/bolt_apple_google_p1.csv'
   bolt_apple_google_p2: '../review_mining/csv_output/1_bolt/bolt_apple_google_p2.csv'
+  bolt_apple_google_p2_v2: '../review_mining/csv_output/1_bolt/bolt_apple_google_p2_v2.csv'
   bolt_apple_google_p3: '../review_mining/csv_output/1_bolt/bolt_apple_google_p3.csv'
   bolt_apple_google_p4: '../review_mining/csv_output/1_bolt/bolt_apple_google_p4.csv'
   bolt_apple_google_p5: '../review_mining/csv_output/1_bolt/bolt_apple_google_p5.csv'
