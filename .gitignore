@@ -54,3 +54,5 @@ notebooks/bert_model_all_p4/
 notebooks/bert_topic_model/
 
 sandbox/AR-Miner/~$AR-Miner.pptx
+
+*.pt
