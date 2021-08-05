@@ -25,6 +25,7 @@ csv_input:
 csv_input_local:
   all_reviews: '../review_mining/csv_output/_all_reviews/all_reviews.csv'
   all_reviews_p1: '../review_mining/csv_output/_all_reviews/all_reviews_p1.csv'
+  all_reviews_p1_sentiment: '../review_mining/csv_output/_all_reviews/all_reviews_p1_sentiment.csv'
   all_reviews_p2: '../review_mining/csv_output/_all_reviews/all_reviews_p2.csv'
   all_reviews_p3: '../review_mining/csv_output/_all_reviews/all_reviews_p3.csv'
   all_reviews_p4: '../review_mining/csv_output/_all_reviews/all_reviews_p4.csv'
