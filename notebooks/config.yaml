@@ -28,6 +28,8 @@ csv_input_local:
   all_reviews_p1_sentiment: '../review_mining/csv_output/_all_reviews/all_reviews_p1_sentiment.csv'
   all_reviews_p2: '../review_mining/csv_output/_all_reviews/all_reviews_p2.csv'
   all_reviews_p3: '../review_mining/csv_output/_all_reviews/all_reviews_p3.csv'
+  all_reviews_p3_topic: '../review_mining/csv_output/_all_reviews/all_reviews_p3_dominant_topic_m.csv'
+  all_reviews_p3_topic_sentiment: '../review_mining/csv_output/_all_reviews/all_reviews_p3_topic_sentiment.csv'
   all_reviews_p4: '../review_mining/csv_output/_all_reviews/all_reviews_p4.csv'
   all_reviews_p5: '../review_mining/csv_output/_all_reviews/all_reviews_p5.csv'
   bolt_apple_google: '../review_mining/csv_output/1_bolt/bolt_apple_google.csv'
