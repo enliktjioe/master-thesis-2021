@@ -1,10 +1,9 @@
-# Latex Personal Notes
+# Overleaf Latex for Thesis Document
+
+Accessible via:
+
+https://www.overleaf.com/read/gmhkvhfhdfgf
 
 
 
-## special formatting
-
- ```latex
-\textsc{Whitespace} % for UPPERCASE in special format
- ```
 
