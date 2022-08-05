@@ -277,7 +277,7 @@ Master's Thesis (30 ECTS)
 \noindent\textbf{Abstract:}
 
 \noindent
-Research in AI technology has become more popular today, helped by the rising of data volumes, powerful algorithms, and easier access to high-performance computing. Natural Language Processing (NLP) as a subset of AI technology playing a vital role in the future of conversational AI with its capability to understand our natural language. The ridesharing app industry is growing exponentially, helped by the rise of mobile device technology and the need for faster and cheaper mobility options. Our aim is to find out the current practices in the industry regarding the development of NLP in order to analyze app reviews and to understand the difference with the state-of-the-art practices in the field of NLP. This thesis presents the methodology to extract information from the app reviews, with the goal to help ridesharing app developers to identify which features are most needed and which are not. The proposed methodology will be compared with the current state-of-the-art methodology. This contribution will help the ridesharing app developers to determine the requirements for their future app development.
+Research in AI technology has become more popular today, helped by the rising of data volumes, powerful algorithms, and easier access to high-performance computing. Natural Language Processing (NLP) as a subset of AI technology plays an important role in the future of conversational AI because of its capability to interpret our natural language. On the other hand, ridesharing app industry is growing exponentially, helped by the rise of mobile device technology and the need for faster and cheaper mobility options. In the current thesis, we provide an overview of the current industrial practices in the development of NLP applications for analyzing app reviews and identify the gap in the state-of-the-art practices. To bridge the gap, this thesis proposes a method to extract information from the app reviews, with the goal to help ridesharing app developers to identify which features are most needed and which are less important. The proposed method is compared with the other similar methods and is validated with Europe's top 10 ridesharing apps, including Bolt, Uber, Blablacar, Cabify, Via, Getaround, OlaCabs, Taxi.eu, Freenow, and Yandex Go. This contribution helps the ridesharing app developers to determine the requirements for developing their apps.
 
 \vspace*{1ex}
 
@@ -296,18 +296,18 @@ P170 Computer science, numerical analysis, systems, control
 %=== Info in Estonian
 \newcommand\EstInfo{{%
 \selectlanguage{estonian}
-\noindent\textbf{\large Topic Modeling for Requirements Engineering: Sõidujagamisrakenduste Arvustuste Analüüs}
+\noindent\textbf{\large Teemade modelleerimine nõuete analüüsiks: sõidujagamisrakenduste arvustuste analüüs}
 \vspace*{1ex}
 
 \noindent\textbf{Lühikokkuvõte:}
 
 \noindent
-Tehisintellekti tehnoloogia uurimine on tänapäeval muutunud populaarsemaks, seda aitavad kaasa andmemahu kasv, võimsad algoritmid ja hõlpsam juurdepääs suure jõudlusega andmetöötlusele. Natural Language Processing (NLP) kui tehisintellekti tehnoloogia alamhulk, millel on oluline roll vestlusliku AI tulevikus, kuna see suudab mõista meie loomulikku keelt. Sõidujagamisrakenduste tööstus kasvab plahvatuslikult, seda aitavad kaasa mobiilseadmete tehnoloogia levik ning vajadus kiiremate ja odavamate liikumisvõimaluste järele. Meie eesmärk on välja selgitada tööstuse praegused tavad NLP arendamise kohta, et analüüsida rakenduste ülevaateid ja mõista erinevust NLP valdkonna tipptasemel tavadega. See lõputöö tutvustab metoodikat rakenduste arvustustest teabe hankimiseks, eesmärgiga aidata sõidujagamisrakenduste arendajatel tuvastada, milliseid funktsioone on kõige rohkem vaja ja milliseid mitte. Kavandatud metoodikat võrreldakse praeguse kaasaegse metoodikaga. See panus aitab sõidujagamisrakenduste arendajatel määrata kindlaks nende tulevaste rakenduste arendamise nõuded.
+Tehisintellekti tehnoloogiate alane uurimistöö on tänapäeval muutunud populaarsemaks, millele aitavad kaasa andmemahtude kasv, kõrge jõudlusegs algoritmid ja hõlpsam juurdepääs suure jõudlusega andmetöötlusele. Loomuliku keele töötlemine (NLP) osana tehisintellekti tehnoloogiatest mängib olulist roll vestluspõhise tehisintellekti tulevikus, sest suudab tõlgendada meie loomulikku keelt. Teisest küljest, sõidujagamisrakenduste tööstus kasvab plahvatuslikult, millele aitavad kaasa mobiilseadmete tehnoloogia levik ning vajadus kiiremate ja odavamate liikumisvõimaluste järele. Käesolevas magistritöös anname ülevaate tôöstuskijest loomuliku keele rakandustest sõidujagamisrakenduste arvustuste analüüsiks ja selgitame välja praeguste praktikate puudujäägid. Puudujääkide leevendamiseks paneme ette meetodi teabe eraldamiseks rakenduste arvustustest eesmärgiga aidata sõidujagamisrakenduste arendajatel tuvastada, milliseid funktsioone on kõige rohkem vaja ja millised on vähem olulised. Töös võrteldakse ettepandud meetodit teiste vastavate meetoditega ja valideeritakse.... See panus aitab sõidujagamisrakenduste arendajatel määrata kindlaks nõuded rakenduste arendamiseks.
 
 \vspace*{1ex}
 
 \noindent\textbf{Võtmesõnad:}\\
-Natural Language Processing, Andmepõhised Nõuded, Sõidujagamine, Rakenduste arvustused
+loomuliku keele töötlus, Andmepõhised nõuded, Sõidujagamine, Rakenduste arvustused
 %Layout, formatting, template
 
 \vspace*{1ex}
@@ -337,21 +337,22 @@ P170 Arvutiteadus, arvutusmeetodid, süsteemid, juhtimine (automaatjuhtimisteoor
 \newpage
 \section{Introduction}
 \subsection{Motivation}
-Requirements engineering as the initial phase of software engineering becomes a critical part in order to ensure that the software development process will succeed. Requirements engineering consists of four core activities including elicitation, documentation, validation, and management \cite{re_fundamentals}. In this thesis, we will concentrate on the elicitation activity to understand the user’s expectations from the ridesharing app. Requirements elicitation is the process to discover some features that our users really need through several kind of methods such as interviews, surveys, brainstorming sessions, or through currently available user reviews in app store. Elicitation using user reviews has a limitation such that it can be a very time-consuming task to analyze large number of user reviews if we’re doing the manual analysis.
+Requirements engineering as the initial phase of software engineering becomes critical to ensuring that the software development process will succeed. Requirements engineering consists of four core activities, including elicitation, documentation, validation, and management \cite{re_fundamentals}. In this thesis, we will concentrate on the elicitation activity to understand the user’s expectations from the ridesharing app. Requirements elicitation is discovering some features that our users need through several methods such as interviews, surveys, brainstorming sessions, or currently available user reviews in the app store. Elicitation using user reviews has a limitation. It can be very time-consuming to analyze a large number of user reviews if we’re doing manual analysis.
 
-Machine learning is a branch of artificial intelligence and computer science that plays an important role in order to uncover key insights from a data science project. It can imitate the way of human learning, supported by improved data quality and algorithms to make it better. There is a lot of data in the digital world today, generated not only by people, but also by computers, phones, and other smart devices. These generated data will continue to grow in the years to come, as stated in Statista\footnote{\url{https://www.statista.com/statistics/871513/worldwide-data-created/}} research department. As the volume of data surpasses the ability for humans to make sense of it and manually analyze it, we will turn increasingly to the machine learning framework that can learn from the data automatically. These powerful capabilities can be applied to wide range of fields, from skin cancer detection\cite{skin_cancer_detection}, self-driving vehicles\cite{ml_for_selfdriving_car}, spam detection\cite{ml_for_spam_detection}, and many more. In correlation with this thesis, following the the exponential growth of app reviews text dataset, machine learning will be required to assist app developers in order to identify relevant app requirement for further app development and continuous improvement.
+Machine learning is a branch of artificial intelligence and computer science that plays an important role in uncovering key insights from a data science project. It can imitate the way of human learning, supported by improved data quality and algorithms to make it better. There is a lot of data in the digital world today, generated not only by people but also by computers, phones, and other smart devices. These generated data will continue to grow in the coming years, as stated in Statista\footnote{\url{https://www.statista.com/statistics/871513/worldwide-data-created/}} research department. As the volume of data surpasses the ability of humans to make sense of it and manually analyze it, we will turn increasingly to the machine learning framework that can learn from the data automatically. These powerful capabilities can be applied to wide range of fields, from skin cancer detection\cite{skin_cancer_detection}, self-driving vehicles\cite{ml_for_selfdriving_car}, spam detection\cite{ml_for_spam_detection}, and many more. In correlation with this thesis, following the exponential growth of the app reviews text dataset, app developers will require machine learning to assist in identifying relevant app requirements for further app development and continuous improvement.
 
-Natural language processing (NLP) techniques have been used in many different subjects such as language translation\cite{nlp_for_language_translation}, predictive text\cite{nlp_for_predictive_text}, sentiment analysis\cite{nlp_for_sentiment_analysis}, chatbot\cite{nlp_for_chatbot}, and many more. NLP had boosted the interest in requirement engineering (RE) research, as RE is one of the most natural language-intensive fields in the software engineering area \cite{nlp_for_re_2}. This close relationship between NLP and RE becomes the source of inspiration for researchers to seek to apply NLP techniques and tools in the step of processing requirements texts \cite{nlp_for_re}. In this past decade, NLP techniques have seen a tremendous breakthrough, especially after the development of game-changing technologies generally classified under the umbrella of deep learning \cite{trend_deep_learning_nlp}. It created stronger synergies between NLP and RE, especially with the recent widespread availability of natural language (NL) content that is relevant to RE, such as app reviews from users in some popular app stores.
+Natural language processing (NLP) techniques have been used in many different subjects such as language translation\cite{nlp_for_language_translation}, predictive text\cite{nlp_for_predictive_text}, sentiment analysis\cite{nlp_for_sentiment_analysis}, chatbot\cite{nlp_for_chatbot}, and many more. NLP has boosted the interest in requirement engineering (RE) research, as RE is one of the most natural language-intensive fields in the software engineering area \cite{nlp_for_re_2}. This close relationship between NLP and RE becomes the source of inspiration for researchers to seek to apply NLP techniques and tools in the step of processing requirements texts \cite{nlp_for_re}. In this past decade, NLP techniques have seen a tremendous breakthrough, especially after the development of game-changing technologies generally classified under the umbrella of deep learning \cite{trend_deep_learning_nlp}. It created stronger synergies between NLP and RE, especially with the recent widespread availability of natural language (NL) content relevant to RE, such as app reviews from users in some popular app stores.
+
 
 App reviews from the two biggest mobile app platforms, Google Play Store\footnote{\url{https://play.google.com/store}} and Apple App Store\footnote{\url{https://www.apple.com/app-store/}} become one of the biggest free available sources for app developers to get users’ feedback about their mobile apps. The positive reviews can lead to more user attraction, but negative reviews can bring a sales loss. Besides that, it also can help app developers to cope with the future development plan through information like feature requests, bug reports, and user experience.
 
 \subsection{Problem Statement}
-The number of app reviews from the most popular ridesharing app such as Uber \cite{onde}, can be massively huge up to 10.1 millions of text reviews according to Google Play Store page of Uber app\footnote{\url{https://play.google.com/store/apps/details?id=com.ubercab}} per July 2022. Unfortunately, not all of the app reviews are informative and useful for app developers. App reviews in the app store are also mixed with many different languages in the world, which will be irrelevant for those countries that only speak English, and vice versa. Some reviews also contain uninformative reviews that need to be filtered out in order to create high-quality input data. Analyzing this massive number of reviews with its variance will be time-consuming and very difficult to process, possibly being error-prone for app developers.
+The number of app reviews from the most popular ridesharing app, such as Uber \cite{onde}, can be massively huge, with up to 10.1 million text reviews according to the Google Play Store page of Uber app\footnote{\url{https://play.google.com/store/apps/details?id=com.ubercab}} per July 2022. Unfortunately, not all app reviews are informative and useful for app developers. App reviews in the app store are also mixed with many different languages worldwide, which will be irrelevant for those countries that only speak English, and vice versa. Some reviews also contain uninformative reviews that need to be filtered out to create high-quality input data. Analyzing this massive number of reviews with its variance will be time-consuming and very difficult to process, possibly being error-prone for app developers.
 
 \subsection{Objectives}
 The main objective of this thesis is to create an analysis report based on the ridesharing app reviews that will be useful for the app developer in the purpose of getting to know what their customer wants with their app. The scope of this thesis project is currently focused only on the field of ridesharing apps.
 
-To avoid the manual approach which is a time-consuming, we are applying some automation approaches, based on the NLP approaches using Python programming language and its supporting libraries. Getting started with some open-source projects, we’re doing the preprocessing steps, such as removing non-English reviews, filtering out inconsistent and uninformative reviews, and applying topic modeling to analyze the app reviews.
+To avoid the manual approach, which is time-consuming, we are applying some automation approaches based on the NLP approaches using Python programming language and its supporting libraries. Getting started with some open-source projects, we’re doing the preprocessing steps, such as removing non-English reviews, filtering out inconsistent and uninformative reviews, and applying topic modeling to analyze the app reviews.
 
 \newpage
 \subsection{Research Questions}
@@ -359,16 +360,17 @@ Based on the problems mentioned in the previous section, we formulated the follo
 \begin{itemize}
 \item \textbf{RQ1}: What kind of NLP approaches are more effective for automatic app review classification?
 
-There are many different NLP approaches that currently available. We will focusing only on the approaches that available as an open-source project and have a good documentation.
+Many different NLP approaches are currently available. We will focus only on the approaches that are available as open-source projects and have good documentation.
+
 
 Answering RQ1 involves: 
 \begin{itemize}
 \item Comparing the performance of different NLP approaches and currently widely used Pre-Trained Models (PTM) for NLP research
 \end{itemize}
 
-\item \textbf{RQ2}: What kind of topics the app developer should focus on based on the analysis of topic proportion with its average rating and sentiment scores?
+\item \textbf{RQ2}: What topics should the app developer focus on based on the analysis of topic proportion with its average rating and sentiment scores?
 
-Using topic proportion, average ratings and sentiment scores, we can measure the performance of each topic and creating the “most important topics” report based on these result.
+Using topic proportion, average ratings, and sentiment scores, we can measure each topic's performance and create the "most important topics" report based on these results.
 
 Answering RQ2 involves:
 \begin{itemize}
@@ -379,29 +381,33 @@ Answering RQ2 involves:
 
 
 \subsection{Contribution}
-This thesis work will contribute to creating a text analysis for ridesharing app reviews which will help the app developer to use this analysis for future development in the domain of ridesharing apps. The proposed approach used 100,000+ app reviews from the top 10 ridesharing apps in Europe.
+This thesis work will contribute to creating a text analysis for ridesharing app reviews which will help the app developer to use this analysis for future development in the domain of ridesharing apps. The proposed approach used 100,000+ app reviews from Europe's top 10 ridesharing apps.
 
 
 \subsection{Outline of the Thesis}
-The thesis is structured into three main chapters with the conclusion, references, and appendices. The remainder of the thesis is structured as follows. Chapter 2, \textbf{Literature Review}, discuss some related literatures to this thesis. Chapter 3, \textbf{Study Setup}, describes a detailed description of the analysis process, starting from how we choose the top ten ridesharing apps in Europe, data preprocessing, and building the text corpus for the next data analysis. Chapter 4, \textbf{Finding and Analysis}, reports on the findings and analysis for our project. Chapter 5, \textbf{Conclusion}, discusses the key results, limitations, and future work for this thesis. Chapter 6, \textbf{References}, include related works of literature and articles. Finally, Chapter 7, \textbf{Appendices}, stated all the necessary information that becomes a part of this thesis project.
+The thesis is structured into three main chapters with the conclusion, references, and appendices. The remainder of the thesis is structured as follows. Chapter 2, \textbf{Literature Review}, discusses some related works of literature to this thesis. Chapter 3, \textbf{Study Setup}, describes a detailed description of the analysis process, starting from how we choose the top ten ridesharing apps in Europe, data preprocessing, and building the text corpus for the following data analysis. Chapter 4, \textbf{Implementation}, explains our proposed topic modeling techniques. Chapter 5, \textbf{Finding and Analysis}, reports on the findings and analysis for our project. Chapter 6, \textbf{Conclusion}, discusses the key results, limitations, and future work for this thesis. For the last two chapters, \textbf{References}, include related works of literature and articles, and \textbf{Appendices}, stated all the necessary information that becomes a part of this thesis project.
 
 
 
 \newpage
 \section{Literature Review} 
-In the past few years, researchers have already proposed many new approaches in order to extract features from app reviews automatically with different kinds of methodologies. However, there are some limitations which prevent app developer teams from using the information in the app reviews. First, app stores has a large number of app reviews, which required a huge effort to analyze them. Second, the quality of app reviews varies widely, from useful suggestion and idea for app development to emotional comments. Third, one review usually contains a mix of sentiment which making it harder to filter positive, neutral, and negative feedback. In this chapter, we discussed some literatures in the field of app review analysis that tried to tackle some of this limitations.
+In the past few years, researchers have proposed many new approaches to extract features from app reviews with different methodologies automatically. However, some limitations prevent app developer teams from using the information in the app reviews. First, app stores have a large number of app reviews, which require a considerable effort to analyzing them. Second, the quality of app reviews varies widely, from helpful suggestions and ideas for app development to emotional comments. Third, one review usually contains a mix of sentiments, which makes it harder to filter positive, neutral, and negative feedback. In this chapter, we discussed some literature in the field of app review analysis that tried to tackle some of these limitations.
 
-The study of Guzman et al. \cite{fine_grained} proposed an automated approach to identify fine-grained features in the app reviews, then give the sentiment scores from the identified features, and use LDA topic modeling techniques to group these features into more meaningful high-level features. The data source including a total of 32210 app reviews from seven apps as the training data, and 2800 manually peer-analyzed app reviews as the test data. Using Collocation Finding Algorithm to get collection of words, SentiStrength to get sentiment scores, and LDA topic modeling to group several of features into a set of words that construct a topic. The result stated that feature extraction has high precision results for apps with short reviews (simply praise or dispraise). They also found out that their approach works well for all app categories except games, and high precision result for apps with short reviews.
+Guzman et al. \cite{fine_grained} proposed an automated approach to identify fine-grained features in the app reviews, then give the sentiment scores from the identified features, and use LDA topic modeling techniques to group these features into more meaningful high-level features. The data source includes 32210 app reviews from seven apps as the training data and 2800 manually peer-analyzed app reviews as the test data. Using Collocation Finding Algorithm to get the collection of words, SentiStrength to get sentiment scores, and LDA topic modeling to group several features into a set of words that construct a topic. The result stated that feature extraction has high precision results for apps with short reviews (simply praise or dispraise). They also found that their approach works well for all app categories except games and high precision results for apps with short reviews.
 
-Di Sorbo et al \cite{surf} identified the difficulty with manual analysis by the app developer when it has a huge amount of app review data and the unstructured nature of their content. Their data sources came from a total of 2622 app reviews, mined from three different app stores and relating to 12 apps. They propose SURF (Summarizer of User Reviews Feedback)  to extract specific topics, and then group each app review according to its topic with a report in XML format.
+Di Sorbo et al. \cite{surf} identified the difficulty with manual analysis by the app developer when it has a massive amount of app review data and the unstructured nature of their content. Their data sources comprised 2622 app reviews, mined from three different app stores and relating to 12 apps. They propose SURF (Summarizer of User Reviews Feedback)  to extract specific topics and then group each app review according to its topic with a report in XML format.
 
-The study of Rekanar et al. \cite{sentiment_analysis_hse_ireland} tried to find out the issue of the ineffectiveness of the digital contract tracing app to be aware of user concerns. Using a total of 1287 app reviews from both Google Play Store and Apple App Store of the Irish HSE COVID-19 contact tracing app, they analyzed the sentiment analysis to classify positive, negative, and neutral sentiment from each app review. They used manual analysis because the precision and recall value from the current automated sentiment analysis is still not good enough for their research. Another reason is because their total number of analyzed app reviews are not huge one and suitable for manual analysis. The final result is the findings that most of the negative comments were aimed at the app’s performance and usability.
+The study of Rekanar et al. \cite{sentiment_analysis_hse_ireland} tried to find out the issue of the ineffectiveness of the digital contract tracing app to be aware of user concerns. Using 1287 app reviews from Google Play Store and Apple App Store of the Irish HSE COVID-19 contact tracing app, they analyzed the sentiment analysis to classify positive, negative, and neutral sentiment from each app review. They used manual analysis because the precision and recall value from the current automated sentiment analysis is still not good enough for their research. Another reason is that the total number of analyzed app reviews is not huge and is suitable for manual analysis. The final result is that most of the negative comments were aimed at the app’s performance and usability.
 
-The study by Binkhonain and Liping Zhao \cite{review_ml} compared 24 related papers related to machine learning (ML) algorithms for identification and classification purposes. Of the 24 selected papers, only 20 of them have reported their performance measures. There are a total of 16 different ML algorithms, categorized into 7 supervised learning (SL), 4 unsupervised learning (USL), and 5 semi-supervised learning (SSL). Rule-Based (RB) has the highest precision scores, but only has one study reporting about this algorithm. Support Vector Machines (SVM), Naive Bayes (NB), and Decision Tree (DT) have multiple reports from different studies, but their performance varies from study to study. The result showed that supervised learning (SL) such as SVM and NB performed better than unsupervised learning (SSL) such as Latent Dirichlet Allocation (LDA) and K-means. Their study stated that SVM and NB have the best performance, while SVM became the most frequently used algorithms. ML algorithms performs better when features are created with individual words, instead of using phrases. The best result also achieved when the original word was used, before stemming or lemmatization pre-process. To tackle some challenges in the implementation of ML algorithms for Requirements Engineering (RE) purpose, the author suggested about the creation of shared datasets in order to take full advantage of supervised ML algorithms and for the better result comparison and also calling for the close collaboration between RE and ML communities to address many challenges in the development of real-world applications of ML to RE.
+The study by Binkhonain and Liping Zhao \cite{review_ml} compared 24 related papers related to machine learning (ML) algorithms for identification and classification purposes. Of the 24 selected papers, only 20 have reported their performance measures. There are a total of 16 different ML algorithms, categorized into seven supervised learning (SL), four unsupervised learning (USL), and five semi-supervised learning (SSL). Rule-Based (RB) has the highest precision scores, but only one study reported this algorithm. Support Vector Machines (SVM), Naive Bayes (NB), and Decision Tree (DT) have multiple reports from different studies, but their performance varies from study to study. The result showed that supervised learning (SL), such as SVM and NB, performed better than unsupervised learning (SSL), such as Latent Dirichlet Allocation (LDA) and K-means. Their study stated that SVM and NB have the best performance, while SVM became the most frequently used algorithm. ML algorithms perform better when features are created with individual words instead of phrases. The best result was also achieved when the original word was used before stemming, or lemmatization pre-process. To tackle some challenges in the implementation of ML algorithms for Requirements Engineering (RE) purposes, the author suggested the creation of shared datasets in order to take full advantage of supervised ML algorithms. Moreover, for better result in comparison and also calling for the close collaboration between RE and ML communities to address many challenges in the development of real-world applications of ML to RE.
 
-The study of Shah et al. \cite{faiz_ali} combined the existing app review classification model with app feature extraction techniques to develop the tool named REVSUM to extract information from app reviews for future software maintenance and release planning activities. The author also prepared the labeled review dataset from previous studies in order to help to train the new model. It stated that having annotated app reviews in the training data will improve recall scores at the cost a drop in precision.
+The study of Shah et al. \cite{faiz_ali} combined the existing app review classification model with app feature extraction techniques to develop the tool named REVSUM to extract information from app reviews for future software maintenance and release planning activities. The author also prepared the labeled review dataset from previous studies in order to help to train the new model. It stated that having annotated app reviews in the training data will improve recall scores at the cost of a drop in precision.
 
-The study of Jung Akim \cite{jung_kim} utilized a total of 12,566 Netflix app reviews from the Amazon app store and compared the classification result from LDA Topic Modeling and BERT Pre-Trained ML model. They found that LDA model works well for app reviews with similar keywords, while BERT model is sensitive to sentiments, especially the sarcastic reviews. Both approaches have only 43\% classification agreement with 6,283 unseen reviews, and BERT occasionally works better to detect sarcasm reviews.
+The study of Jung Akim \cite{jung_kim} utilized 12,566 Netflix app reviews from the Amazon app store and compared the classification result from LDA Topic Modeling and BERT Pre-Trained ML model. They found that LDA model works well for app reviews with similar keywords, while BERT model is sensitive to sentiments, especially sarcastic reviews. Both approaches have only 43\% classification agreement with 6,283 unseen reviews, and BERT occasionally works better to detect sarcasm reviews.
+
+The SAFE approach proposed by Johann et al. \cite{safe_paper} is a simple rule-based approach to extract and match the app features from both app descriptions and app reviews. The authors did a manual analysis of app descriptions from 10 apps in the Apple App Store and identified the most frequent text patterns used to tag each app's features. For the evaluation, the author used a random sample of 5000 app reviews for each app. SAFE first apply some text preprocessing steps, including filtering three types of sentences: URL, email address, and quotations. Then, word-tokenizes each sentence and attach a POS (part-of-speech) tag to each token. For the feature matching, SAFE used the synonym sets of the words. For example, "take photo" and "capture image" is a match. Regarding the study result, SAFE significantly improved precision and recall scores compared to the previous study. Despite the encouraging results, we will need a machine learning approach for the future improvement of SAFE.
+
+SIMBA (SIMilarity Based Approach) from Oehri et al. \cite{simba_paper} is a fine-grained approach for identifying and measuring similarity between feedback across different platforms and languages. Their dataset comprised 464,330 app reviews across four platforms: Google Play, App Store, Twitter, and Facebook. A total of 4,100 manually annotated reviews by two annotators were used for the evaluation process. SIMBA has a translation step for non-English app reviews before transforming it into the preprocessing steps. It combines currently available approaches such as NLP, lexical sentiment analysis, and supervised ML. For the classification in SIMBA, the authors used Multinomial Naive Bayes (MNB) and divided it into three categories: “feature request”, “bug report", and “other.” The results showed that SIMBA had a 79\% average correlation with manually annotated app reviews, which indicated a strong positive correlation with human annotation. Regarding future improvement, the authors mentioned adding lexical databases to handle common slang words in app reviews and creating ML models from a more diverse dataset on different platforms.
 
 \begin{table}
 \caption{Overview of Literature Review Including its Dataset, Methodology, and Result}
@@ -561,13 +567,67 @@ BERT model occasionally works better when detecting sarcastic reviews.
 \end{tabular}
 \hline
 \end{table}
-Table \ref{tab:literature_review} provides the summary of research papers that we’ve discussed including their dataset, methodology, and the result. Most used domain in these research papers are the popular mobile apps in the App Store such as Netflix for entertainment, Whatsapp for communication, TripAdvisor for traveling, etc. By implementing different kind of ML algorithms, these papers are trying to extract information from app reviews automatically while also measuring their performance result. Support Vector Machines (SVM) and Naive Bayes (NB) are the best two of ML algorithms that had been discussed in many different studies. SVM and NB also give the best result in terms of precision and recall score.
 
-After reviewing some related works above, we’ve found some research gaps that we want to explore in this thesis. Even though many different categories of mobile app had been discussed, the domain ridesharing app category has not become the main focus of these researches. Short reviews that only include praise or dispraise (for example: “I love it”, “I hate this app”) according to Guzman et al. \cite{fine_grained}, gave no information for analysis, which will be handled in this thesis in the NLP preprocessing steps. Manual review by Rekanar et al. \cite{sentiment_analysis_hse_ireland} is time-consuming work that leads to a small number of analyzed reviews and has the possibility of losing some important reviews that have not been analyzed. This leads to our decision to use automatic approaches in order to analyze a large number of app reviews. This is related to our first research question (RQ1) which leads to find open-source NLP project that can help us for analyzing huge number of text reviews using automation ML frameworks. Meanwhile, our second research question (RQ2) will try to analyze the topics from app review not only from its sentiment score but also using its rating score, which is missing from the study of Guzman\cite{fine_grained}. Finally, we can fill the resulting gap for the domain of the ridesharing app category using the coherence of app review with its rating and sentiment scores.
+
+\begin{table}
+\begin{tabular}{|p{2cm}|p{2cm}|p{4cm}|p{5cm}|}
+\hline
+\centering
+SAFE: A Simple Approach for Feature Extraction from App Descriptions and App Reviews \cite{safe_paper}
+&
+App descriptions and reviews of 10 apps in category “productivity” from the Apple App Store.\newline
+
+For the evaluation, a random sample of 5000 reviews for each app
+&
+\textbf{Text Preprocessing}\newline
+Filters 3 types of sentences: sentences contain URL, email address, and quotations; bullet points and multiple symbols are removed; word-tokenizes each sentence and attach POS (part-of-speech) tags to each word token.
+\newline
+\newline
+\textbf{Application of SAFE pattern}\newline
+Analyze and decompose sentence; extract raw features; remove duplicate and noise;
+&
+\textbf{Feature Extraction from App Descriptions}
+Based on 10 apps and 197 features (~20 per app), they got overall average precision of 55.9\% and a recall of 43.4\%
+\newline\newline
+\textbf{Feature Extraction from the App Reviews}
+Recall of 70.9\% and precision of 23.9\%
+\newline\newline
+\textbf{Matching Features in the Descriptions and the Reviews}
+Recall of 56\% and precision of 70.4\%
+\\
+\hline
+Same Same but Different: Finding Similar User Feedback Across Multiple Platforms and Languages \cite{simba_paper}
+&
+464,330 user feedback entities from four different platforms, for a duration timespan of 60 days.
+\newline\newline
+4,100 manually annotated feedback.
+&
+SIMBA (SIMilarity Based Ap-
+proach), a fine-grained approach for identifying and measuring
+similarities between feedback written across different plat-
+forms and languages.
+\newline\newline
+Combine some approaches such as automatic machine translation, NLP, lexical sentiment analysis, and supervised ML.
+
+&
+SIMBA strongly correlates to human judgment, with an average correlation of 79\% for cross-platform user feedback written in English and 78\% in four different languages.
+\newline\newline
+SIMBA works slightly better on longer feedback than on
+feedback samples including feedback of less that five words.
+\\
+\end{tabular}
+\hline
+\end{table}
+
+% \clearpage
+% \newpage
+Table \ref{tab:literature_review} provides the summary of the research papers we have discussed, including their dataset, methodology, and the result. The most used domain in these research papers is the popular mobile apps in the App Store, such as Netflix for entertainment, Whatsapp for communication, and TripAdvisor for travel. By implementing different ML algorithms, these papers are trying to extract information from app reviews automatically while also measuring their performance result. Support Vector Machines (SVM) and Naive Bayes (NB) are the best two ML algorithms discussed in many studies. SVM and NB also give the best result in terms of precision and recall score.
+
+After reviewing some related works above, we have found some research gaps that we want to explore in this thesis. Even though many different mobile app categories have been discussed, the domain ridesharing app category has not become the main focus of these researches. Short reviews that only include praise or dispraise (for example: “I love it,” “I hate this app”) according to Guzman et al. \cite{fine_grained}, gave no information for analysis, which will be handled in this thesis in the NLP preprocessing steps. Manual review by Rekanar et al. \cite{sentiment_analysis_hse_ireland} is time-consuming work that leads to a small number of analyzed reviews and has the possibility of losing some important reviews that have not been analyzed. This manual approach leads to our decision to use automatic approaches in order to analyze a large number of app reviews. In correlation to our first research question (RQ1), which leads to finding some open-source NLP projects that can help us analyze a massive number of text reviews using automation ML frameworks. Meanwhile, our second research question (RQ2) will try to analyze the topics from the app review not only from its sentiment score but also using its rating score, which is missing from the study of Guzman\cite{fine_grained}. Finally, we can fill the resulting gap for the domain of the ridesharing app category using the coherence of app review with its rating and sentiment scores.
 
 \newpage
 \section{Study Setup}
-This study focused on the ridesharing app category. The main goal of our study is to automatically identify app features as mentioned in ridesharing app review. We select the top ten ridesharing apps in Europe based on these articles from CNBC \cite{cnbc} and Onde \cite{onde}. After we selected 10 ridesharing app, for each app we used AppAnnie to find information about its total downloads, release date, and latest update based on data in November 2020, when we finished the data collection process. For all ten ridesharing apps, Table \ref{tab:top10_playstore} shows information from Google Play Store and Table \ref{tab:top10_appstore} shows information from Apple App Store. In AppAnnie, the total downloads and latest updates from Apple App Store were not available for free users, and we are not able to include it.
+This study focused on the ridesharing app category. The main goal of our study is to automatically identify app features as mentioned in the ridesharing app review. We select the top ten ridesharing apps in Europe based on these articles from CNBC \cite{cnbc} and Onde \cite{onde}. After we selected ten ridesharing apps, for each app, we used AppAnnie to find information about its total downloads, release date, and latest update based on data in November 2020, when we finished the data collection process. For all ten ridesharing apps, Table \ref{tab:top10_playstore} shows information from Google Play Store and Table \ref{tab:top10_appstore} shows information from Apple App Store. In AppAnnie, the total downloads and latest updates from Apple App Store were not available for free users, and we are not able to include them.
 
 \begin{table}[h]
 \centering
@@ -617,7 +677,7 @@ This study focused on the ridesharing app category. The main goal of our study i
 \subsection{Overview of Study Setup}
 For this study, we use data mining techniques, natural language processing, LDA Topic Modeling LDA and BERTopic. Figure 1 shows an overview of the study setup. 
 
-First, we collect the app reviews from ten ridesharing apps, extract text comments and rating score from each review. The collection of app reviews process will be discussed in chapter 3.2. Then, the preprocess data step will be discussed in chapter 3.3, when we preprocess the text data using some NLP techniques. The next steps is to apply the preprocessed reviews into Topic Modeling and BERTopic methods to extract list of topics that will be discussed in chapter 3.4. These list of topics from both methods will be compared in order to get the final topics which is discussed in chapter 3.5. In chapter 4.1 and 4.2, using these final topics, we will calculate the proportion of each topic across all ten ridesharing apps, average rating and sentiment score for each final topic to create final analysis about certain topics that ridesharing app developers need to focus on. In the following we explain the main steps of our study setup.
+First, we collect the app reviews from ten ridesharing apps and extract text comments and rating scores from each review. The collection of the app review process will be discussed in chapter 3.2. Then, the preprocess data step will be discussed in chapter 3.3 when we preprocess the text data using some NLP techniques. The following steps apply the preprocessed reviews into Topic Modeling and BERTopic methods to extract a list of topics discussed in chapters 4.1 and 4.2. This list of topics from both methods will be compared to get the final topics discussed in chapter 5.1. In chapters 5.2 and 5.3, we will calculate the proportion of each topic across all ten ridesharing apps using these final topics. Furthermore, average rating and sentiment score will be calculated for each final topic to create a final analysis about specific topics that ridesharing app developers need to prioritize. In the following, we explain the main steps of our study setup.
 
 
 \begin{figure} [ht]
@@ -630,13 +690,11 @@ First, we collect the app reviews from ten ridesharing apps, extract text commen
 
 
 \subsection{Data Collection Process}
-In the first step we collect and preprocess app reviews. When developing and evaluating our study we used app reviews from Google Play Store and Apple App Store. We used two different Python libraries for each app store. For Google Play Store, we used google-play-scraper \footnote{\url{https://github.com/JoMingyu/google-play-scraper}} developed by JoMingyu. It provides APIs in Python to easily crawl the Google Play Store without any external dependencies. For Apple App Store, we used app-store-scraper \footnote{\url{https://github.com/cowboy-bebug/app-store-scraper}} developed by cowboy-bebug. Similar to previous one, it provides scraper APIs in Python for Apple App Store. 
+In the first step, we collect app reviews from Google Play Store and Apple App Store. For Google Play Store, we used google-play-scraper \footnote{\url{https://github.com/JoMingyu/google-play-scraper}} developed by JoMingyu. For Apple App Store, we used app-store-scraper \footnote{\url{https://github.com/cowboy-bebug/app-store-scraper}} developed by \textit{cowboy-bebug}. Both libraries provide APIs in Python for app store data crawling. We stored the mining result in csv files. A reproducible jupyter notebook for mining the app review is available at this link\footnote{\url{https://github.com/enliktjioe/master-thesis-2021/tree/main/review_mining}}. 
 
-Before we run the data scraping script, some parameters that need to be set up are app id (for each app store) and country code (for Apple App Store only). For each finished app review mining process, we stored the mining result in csv files separately for each app id and its platform. Later, we combined both Android and iOS app reviews into one csv file in order to get more reviews for specific apps regardless of the platform. A reproducible jupyter notebook for mining the app review is available at this link\footnote{\url{https://github.com/enliktjioe/master-thesis-2021/tree/main/review_mining}}. 
+Table \ref{tab:total_reviews_rating} shows the total number of app reviews and average ratings from each ridesharing app in both app stores and combines both numbers for general information for each app. 
 
-We calculated total number of app reviews and average ratings from each ridesharing app for both app stores and combined both number for general information for each app. Table \ref{tab:total_reviews_rating} shows these informations for all ten ridesharing apps.
-
-\begin{table}
+\begin{table}[!h]
 \caption{Total Reviews and Average Ratings from Google Play Store and Apple App Store}
 \centering
 \begin{tabular}{p{0.5cm}lp{1.5cm}lp{2cm}lp{2cm}lp{2cm}lp{2cm}lp{2cm}l}
@@ -669,7 +727,7 @@ We calculated total number of app reviews and average ratings from each rideshar
 \end{table}
 
 \subsection{NLP Preprocessing}
-The data preprocessing is needed to get a better quality of the dataset. To preprocess data means to transform it into a well-format dataset that we can use more effectively in a data science project.   \cite{text_preprocessing_nlp}. There are different types of text preprocessing techniques including
+Data preprocessing is needed to get a better quality of the dataset. To preprocess data means to transform it into a well-format dataset that we can use more effectively in a data science project.   \cite{text_preprocessing_nlp}. There are different types of text preprocessing techniques, including
 \begin{enumerate}
   \item Lowercasing, mapping all words into the same lowercase form
   \item Stemming, transforming words into their root form, for example, ‘playing’ becomes ‘play’. Examples are listed in Figure \ref{fig:stemming}
@@ -678,25 +736,26 @@ The data preprocessing is needed to get a better quality of the dataset. To prep
 \end{enumerate}
 
 
-\begin{figure}
+\begin{figure}[!h]
     \centering
-    \includegraphics[width=0.6\textwidth]{figures/stemming.png}
+    \includegraphics[width=0.5\textwidth]{figures/stemming.png}
     \caption{Example of Stemming}
     \label{fig:stemming}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[!h]
     \centering
-    \includegraphics[width=0.6\textwidth]{figures/lemmatize.png}
+    \includegraphics[width=0.5\textwidth]{figures/lemmatize.png}
     \caption{Example of Lemmatization}
     \label{fig:lemmatization}
 \end{figure}
 
 
 
-It became an important part of the NLP task in order to make machine learning models perform better. The study of Jiahao Weng \cite{text_preprocessing_nlp_2} tried to compare the result of text analysis with and without preprocessing steps.
+The study of Jiahao Weng \cite{text_preprocessing_nlp_2} tried to compare the result of text analysis with and without preprocessing steps. The authors stated how preprocessing could improve the accuracy of sentiment analysis by clearing the context of the analyzed sentence.
 
-Before the first preprocessing steps (P1), we already did the basic of NLP preprocessing steps including lowercasing text, lemmatization, and stopword removal. After that, we started the planned preprocessing steps, including removing non-English reviews, filtering out inconsistent and uninformative reviews, correcting typos, and building a text corpus. Table \ref{tab:preprocessing_result} shows the total number of app reviews before and after each preprocessing step for every app. P1 is the first preprocessing step where we removed non-English app reviews. P2 is the second step where we removed inconsistent app reviews (star rating and sentiment are not matched). P3 is the third step where we remove uninformative reviews, which are usually short reviews that only include praise or dispraise (for example: “I love it”, “I hate this app”) according to Guzman et al. \cite{fine_grained}. In the following, we explain all these preprocessing steps in more detail.
+Before the first preprocessing steps (P1), we already did the basics of NLP preprocessing steps. These include lowercasing text, lemmatization, and stopword removal. After that, we started the planned preprocessing steps, including removing non-English reviews, filtering out inconsistent and uninformative reviews, correcting typos, and building a text corpus. Table \ref{tab:preprocessing_result} shows the total number of app reviews before and after each preprocessing step for every app. P1 is the first preprocessing step where we removed non-English app reviews. P2 is the second step where we removed inconsistent app reviews (star rating and sentiment are not matched). P3 is the third step where we remove uninformative reviews, which are usually short reviews that only include praise or dispraise (for example: “I love it,” “I hate this app”) according to Guzman et al. \cite{fine_grained}. In the following, we explain all these preprocessing steps in more detail.
+
 \begin{table}[!h]
 \caption{List of the Top 10 Ridesharing Apps, Followed by the Initial Number of User-Reviews, and Number of Consistent and Informative User-Reviews}
 \centering
@@ -721,7 +780,7 @@ Before the first preprocessing steps (P1), we already did the basic of NLP prepr
 \label{tab:preprocessing_result}
 \end{table}
 \subsubsection{Remove Non-English Reviews}
-We found out that some app reviews we’ve collected contain non-English reviews. Most of the non-English reviews come from Apple App Store, as our data scraper for Apple App Store doesn’t have a language filter parameter. We’re using the Python library name \textit{langdetect}\cite{langdetect} to remove around 70,000+ non-English app reviews. The languages in the non-English reviews are from European countries which not use English as the main language, such as Russia, Germany, and France.
+We found out that some app reviews we have collected contain non-English reviews. Most of the non-English reviews come from Apple App Store, as our data scraper for Apple App Store does not have a language filter parameter. We’re using the Python library name \textit{langdetect}\cite{langdetect} to remove around 70,000+ non-English app reviews. The languages in the non-English reviews are from European countries which not use English as the main language, such as Russia, Germany, and France.
 
 The \textit{langdetect} library has a scoring system for every app review text, including the language code (two letters) and its probability score. The example of \textit{langdetect} library can be seen in Figure \ref{fig:langdetect_1}. In Figure \ref{fig:langdetect_2} when the app review is too short, it might give multiple language probability.
 
@@ -739,7 +798,7 @@ detect_langs("pourquoi ne pas afficher toutes les voitures disponibles autour du
 \label{fig:langdetect_1}
 \end{figure}
 
-\begin{figure}
+\begin{figure}[!h]
 \begin{lstlisting}
 detect_langs("Very fast and affordable")
 [en:0.5714280394408676, da:0.42857192445741144]
@@ -771,26 +830,26 @@ detect_langs("Best app ever")
 % \end{figure}
 
 
-To decide if it’s English or non-English, we made a Python function to get English ‘en’ probability score. If ‘en’ scores exceed 0.1, it will be categorized as English text. If ‘en’ score is below or equal to 0.1 or doesn’t contain ‘en’ score, it will be categorized as non-English text. Here are the example results from the function,
+To decide if it is English or non-English, we made a Python function to get an English ‘en’ probability score. If ‘en’ scores exceed 0.1, it will be categorized as English text. If ‘en’ score is below or equal to 0.1 or does not contain ‘en’ score, it will be categorized as non-English text. Here are the example results from the function,
 
 
 
 \subsubsection{Remove Inconsistent Reviews}
-Inconsistent reviews happen when users give negative reviews, but high star ratings are given. In a similar case, users give positive reviews, but low star ratings are given instead. For example, the review text is “Horrible app, not user friendly,” but it was associated with five stars. To detect inconsistent reviews, we’re using a comparison between star rating with its sentiment score. We calculated the sentiment score using SentiStrength Python library \cite{sentistrength}, the wrapper for its original Java library.
+Inconsistent reviews happen when users give negative reviews but give high star ratings instead. Similarly, users give positive reviews but give low star ratings instead. For example, the review text is “Horrible app, not user friendly,” but it was associated with five stars. To detect inconsistent reviews, we are using a comparison between star ratings with their sentiment score. We calculated the sentiment score using SentiStrength Python library \cite{sentistrength}, the wrapper for its original Java library.
 
 SentiStrength gives scores to app reviews with a value ranging from -5 (most negative) to +5 (most positive). Sentiments with scores -5, -4, -3, and -2 are considered as negative sentiments, while scores -1, 0, and +1 as neutral sentiments, and +2, +3, +4, +5 are positive sentiments. For star rating, the possible values are between 1 and 5. Negative ratings are 1 and 2, neutral ratings are 3, and positive ratings are 4 and 5. Figure \ref{fig:example_of_consistent} shows the example of consistent app reviews. Figure \ref{fig:example_of_inconsistent} shows the example of inconsistent app reviews.
 
-We kept only the consistent review in order to minimize the misinformation that can happen in our analysis. For example, an app review with a sentiment score of +4 and a rating score of 5 will be considered a consistent review. Meanwhile, an app review with a sentiment score of +4 and a rating score of -1 will be considered an inconsistent review. Table 6 shows the mapping of positive, neutral, and negative scores for both sentiment and rating.
+We kept only the consistent review in order to minimize the misinformation that can happen in our analysis. For example, an app review with a sentiment score of +4 and a rating of 5 will be considered a consistent review. Meanwhile, an app review with a sentiment score of +4 and a rating of -1 will be considered an inconsistent review. Table 6 shows the mapping of positive, neutral, and negative scores for both sentiment and rating.
 
 \begin{figure}[!h]
 \begin{center}
-\includegraphics[width=0.3\textwidth]{figures/example_consistent_review.png}
+\includegraphics[width=0.2\textwidth]{figures/example_consistent_review.png}
 \caption{Example of Consistent App Reviews}
 \label{fig:example_of_consistent}
 \end{center}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[!h]
 \begin{center}
 \includegraphics[width=1\textwidth]{figures/example_inconsistent_review.png}
 \caption{Example of Inconsistent App Reviews}
@@ -825,7 +884,7 @@ We kept only the consistent review in order to minimize the misinformation that 
 
 \newpage
 \subsubsection{Remove Uninformative Reviews}
-Some uninformative app reviews don’t give app developers any beneficial information. We used the AR-Miner framework introduced by Chen et al.\cite{arminer}. As AR-Miner source code was not available publicly, we implemented the logic using the SVM (Support Vector Machine) classifier. Several examples of uninformative app reviews that we’ve found in our dataset:
+Some uninformative app reviews do not give app developers any beneficial information. We used the AR-Miner framework introduced by Chen et al.\cite{arminer}. As AR-Miner source code was not available publicly, we implemented the logic using the SVM (Support Vector Machine) classifier. Several examples of uninformative app reviews that we have found in our dataset:
 
 \begin{itemize}
 \itemsep0em
@@ -837,10 +896,10 @@ Some uninformative app reviews don’t give app developers any beneficial inform
 \item it very easy and nice
 \end{itemize}
 
-Most uninformative reviews are very short app reviews without significant information to be analyzed.
+Most uninformative reviews are short app reviews without significant information to analyze.
 
 \subsubsection{Building Corpus}
-The final step before running statistical analysis like topic modeling \cite{text_corpus} is to create a text corpus Before building the text corpus, we normalize the app reviews, including removing the stop words, removing the punctuation, and lemmatizing the words.  We used Gensim corpora library \cite{gensim} to create the text corpus amd convert it into \textit{tf\_idf}\footnote{\url{https://radimrehurek.com/gensim/models/tfidfmodel.html}} format, short for \textbf{term frequency–inverse document frequency}. It is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus \cite{rajaraman_ullman_2011}. We saved the corpus file into a binary file for Python named \textit{pickle}\footnote{\url{https://docs.python.org/3/library/pickle.html/}}. Figure \ref{fig:img_corpus} shows the example in Gensim to create \textit{tf\_idf} corpus using Jupyter Notebook. This binary file of \textit{tf\_idf} corpus will be used for Gensim's text classification and clustering framework.
+The final step before running statistical analysis like topic modeling \cite{text_corpus} is to create a text corpus. Before building the text corpus, we normalize the app reviews, including removing the stop words, removing the punctuation, and lemmatizing the words. We used Gensim corpora library \cite{gensim} to create the text corpus and convert it into \textit{tf\_idf}\footnote{\url{https://radimrehurek.com/gensim/models/tfidfmodel.html}} format, short for \textbf{term frequency–inverse document frequency}. It is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus \cite{rajaraman_ullman_2011}. We saved the corpus file into a binary file for Python named \textit{pickle}\footnote{\url{https://docs.python.org/3/library/pickle.html/}}. Figure \ref{fig:img_corpus} shows the example in Gensim to create \textit{tf\_idf} corpus using Jupyter Notebook. This binary file of \textit{tf\_idf} corpus will be used for Gensim's text classification and clustering framework.
 
 
 \begin{figure}[!h]
@@ -864,10 +923,9 @@ Topic modeling is one of the unsupervised machine learning techniques that is us
 \end{center}
 \end{figure}
 
-Each app review contains some contexts that will be useful if we can understand them. LDA is one of the most popular topic modeling techniques. We’re using Gensim as one of the most widely-used Python libraries for implementing LDA Topic Modeling. Other than LDA, we’re also using Pre-Trained Model BERT to implement topic modeling, utilizing an open-source library named BERTopic \cite{bertopic}.
+Each app review contains some contexts that will be useful if we can understand them. LDA is one of the most popular topic modeling techniques. We use Gensim as one of the most widely-used Python libraries for implementing LDA Topic Modeling. Other than LDA, we are also using Pre-Trained Model BERT to implement topic modeling, utilizing an open-source library named BERTopic \cite{bertopic}.
 
-To find the optimal number of topics, we compute coherence scores using a different number of topics ranging from 2 to 40, as shown in Figure \ref{fig:img_coherence_score}. We chose 20 as the number of optimal topics as this number gave the highest value before the coherence score flattened out.
-
+To find the optimal number of topics, we compute coherence scores using different topics ranging from 2 to 40, as shown in Figure \ref{fig:img_coherence_score}. We chose 20 as the number of optimal topics as this number gave the highest value before the coherence score flattened out.
 \newline
 
 \begin{figure}
@@ -897,7 +955,7 @@ Bolt P3 (P2 + \\Remove \\Uninformative \\Reviews)                & 17930        
 \end{table}
 
 
-We realized that the data preprocessing step has filtered out more than 50\% of total app reviews. By comparing the coherence score from three different datasets and three different topic modeling approaches. We used Bolt app reviews because it has the highest number of app reviews compared to the other nine ridesharing apps, and we thought it was enough to get a coherence score comparison. Table \ref{tab:coherence_score} shows the total number of app reviews from Bolt app using three different datasets and its coherence score for three different topic modeling approaches. Based on coherence score comparison, we selected two out of three methods for topic modeling comparison, LDA Mallet and BERTopic, as both perform better compared to the LDA Standard model. In the following, we explain the topic result from both LDA Mallet and BERTopic.
+We realized that the data preprocessing step has filtered out more than 50\% of the total app reviews by comparing the coherence score from three different datasets and three different topic modeling approaches. We used Bolt app reviews because it has the highest number of app reviews compared to the other nine ridesharing apps, and we thought it was enough to get a coherence score comparison. Table \ref{tab:coherence_score} shows the total number of app reviews from Bolt app using three different datasets and its coherence score for three different topic modeling approaches. Based on coherence score comparison, we selected two out of three methods for topic modeling comparison, LDA Mallet and BERTopic, as both perform better compared to the LDA Standard model. In the following, we explain the topic result from both LDA Mallet and BERTopic.
 
 \subsection{LDA Mallet}
 Mallet (MAchine Learning for LanguagE Toolkit) \cite{mallet} is a java-based open-source toolkit written by Andrew McCallum and used for many machine learning applications to text, including Topic Modeling. Gensim is a Python library that provides a wrapper for LDA. To use LDA Mallet in Gensim, we can call the module with syntax gensim.models.wrappers.LdaMallet. This module contains Gibbs sampling from Mallet that allows LDA model to get the topic result from the unseen documents. Table \ref{tab:lda_mallet_tm} shows all 20 topics based on the top 10 keywords extracted using LDA Mallet technique. LDA technique only puts the topic as a number, so we need to label it manually. There are several topics with the same name because it has very similar keywords, and we decide to give the same one.
@@ -945,7 +1003,7 @@ Mallet (MAchine Learning for LanguagE Toolkit) \cite{mallet} is a java-based ope
 
 \newpage
 \subsection{BERTopic}
-Bidirectional Encoder Representations from Transformers (BERT) is one of the best NLP pre-training models developed by Google and released as an open source project in 2018. It was pre-trained using massive amounts of text data from English Wikipedia. In its research stages, BERT achieved revolutionary results in 11 natural language understanding tasks, including sentiment analysis, sentence classification, semantic role labeling, and disambiguation of words with multiple meaning. It effectively addresses ambiguity, which is the greatest challenge to natural language understanding field. BERT gives the capability to parse the human language with a relatively human-like common sense.
+Bidirectional Encoder Representations from Transformers (BERT) is one of the best NLP pre-training models developed by Google and released as an open source project in 2018. It was pre-trained using massive amounts of text data from English Wikipedia. In its research stages, BERT achieved revolutionary results in 11 natural language understanding tasks, including sentiment analysis, sentence classification, semantic role labeling, and disambiguation of words with multiple meanings. It effectively addresses ambiguity, which is the greatest challenge in natural language understanding. BERT gives the capability to parse the human language with a relatively human-like common sense.
 
 Meanwhile, BERTopic \cite{bertopic} is a topic modeling tool developed by Marteen Grootendorst in 2020 that utilizes Transformers to create dense clusters allowing for easily interpretable topics while keeping important words in the topic description. Figure \ref{fig:img_bertopic_main_components} shows the BERTopic components based on its official documentation. Table \ref{tab:bertopic_result} shows 20 topics extracted using BERTopic, including its top 4 keywords. Similar to the previous technique, we needed to label these topics manually and got several topics with the same name.
 
@@ -993,7 +1051,7 @@ N/A         & (OUTLIER)         & -1\_app\_my\_driver\_on                    & 3
 \clearpage
 \newpage
 \section{Finding and Analysis}
-In this chapter, some findings and analyses were discussed in order to determine what is going well, and what is the thing that can be improved for future improvement.
+In this chapter, some findings and analyses were discussed to determine what is going well and what is the thing that can be improved for future improvement.
 
 \subsection{Final Results}
 Based on the LDA Mallet and BERTopic results above, we do the manual analysis to interpret the LDA model and select the final topics. We merge some topics with very similar meanings based on the keyword given by the model and the related app reviews. We follow these criteria before merging the topics:
@@ -1033,9 +1091,9 @@ All final 13 topics are listed in Table \ref{tab:final_topics}, followed by the 
 \clearpage
 \newpage
 \subsection{Proportion of Topics Across 10 Apps}
-Several topics frequently appear in a specific app, while other topics appear infrequently. For example, in Getaround app, users mentioned more about customer support than promotion. It could be that Getaround app didn’t give much promotion compared to other ridesharing apps.
+Several topics frequently appear in a specific app, while other topics appear infrequently. For example, in Getaround app, users mentioned more about customer support than promotion. It could be that Getaround app did not give much promotion compared to other ridesharing apps.
 
-Table \ref{tab:proportion} shows the proportion of topics in each ridesharing app. We put bold text in the table cell to highlight the topic that contribute at least 10 percents of total reviews. Topic praising features appeared frequently in most apps except Ola Cabs. Getaround has the highest proportion of topic customer support compared to the other nine ridesharing app. Ridesharing app users are more likely to praise the app feature (praising features) more than report the app issue (reporting issues) or request a new feature (feature request). For more performance analysis of each topic, we used the average rating and average sentiment score as the metric in the following.
+Table \ref{tab:proportion} shows the proportion of topics in each ridesharing app. We put bold text in the table cell to highlight the topic contributing at least ten percent of total reviews. Topic "praising features" frequently appeared in most apps except Ola Cabs. Getaround has the highest proportion of topic customer support compared to the other nine ridesharing app. Ridesharing app users are more likely to praise the app feature (praising features) more than report the app issue (reporting issues) or request a new feature (feature request). For more performance analysis of each topic, we used the average rating and average sentiment score as the metric in the following.
 
 
 \begin{table}[!h]
@@ -1066,7 +1124,7 @@ T13         & \textcolor[rgb]{0.067,0.067,0.067}{Time}                          
 
 
 \subsection{Average Rating and Sentiments of Each Topic}
-In order to measure the performance of each topic to the selected ridesharing app, we calculated its average rating and sentiment score. Average rating is the mean value from total accumulation of star rating values per topic, and average sentiment score is the mean value from total accumulation of sentiment scores per topic. For example, for star rating, if topic 1 has a total 10 reviews with accumulated star rating values equal to 35, then the average rating is 35 divided by 10, which is 3.5. Using the same total 10 reviews from topic 1, if the accumulated sentiment score values equal to -7, then the average sentiment score is -7 divided by 10, which is -0.7.
+In order to measure the performance of each topic to the selected ridesharing app, we calculated its average rating and sentiment score. The average rating is the mean value from the total accumulation of star rating values per topic, and the average sentiment score is the mean value from the total accumulation of sentiment scores per topic. For example, for star rating, if topic 1 has a total of 10 reviews with accumulated star rating values equal to 35, then the average rating is 35 divided by 10, which is 3.5. Using the exact total of 10 reviews from topic 1, if the accumulated sentiment score values equal to -7, then the average sentiment score is -7 divided by 10, which is -0.7.
 
 \begin{table}[!h]
 \caption{Average Rating (R) and Sentiments (S) for first 5 ridesharing apps (Bolt, Uber, Blablacar, Cabify, and Via)}
@@ -1123,37 +1181,37 @@ T13         & \textcolor[rgb]{0.067,0.067,0.067}{Time}                          
 \end{table}
 
 
-Table \ref{tab:average_rating_sentiment_1} shows the average rating and sentiment score for the first 5 ridesharing apps (Bolt, Uber, Blablacar, Cabify, and Via). Table \ref{tab:average_rating_sentiment_2} shows the same information for the last 5 ridesharing apps (Getaround, Olacabs, Taxi.eu, Freenow, and Yandex Go). In both tables, we used a blue color to highlight the highest score and a red color for the lowest score of rating or sentiment per topic.
+Table \ref{tab:average_rating_sentiment_1} shows the average rating and sentiment score for the first five ridesharing apps (Bolt, Uber, Blablacar, Cabify, and Via). Table \ref{tab:average_rating_sentiment_2} shows the same information for the last 5 ridesharing apps (Getaround, Olacabs, Taxi.eu, Freenow, and Yandex Go). In both tables, we used blue color to highlight the highest score and red color for the lowest score of rating or sentiment per topic.
 
-In Bolt app, praising features became the topic with the highest score while pricing became the lowest score topic. Considering the proportion of topic praising features in Bolt app which takes 24\% of total app reviews based on Table \ref{tab:proportion}, there is a correlation between this topic with positive ratings and sentiments, as users talked mostly about their positive experience with the Bolt app feature. This condition also happened in other apps including Uber, Blablacar, Via, Getaround, Freenow, and Yandex Go when their ratings have scored at least 4 and their sentiment score was above +1. Meanwhile, pricing is the lowest score topic in Bolt app which means some users have a problem with the app pricing system. This issue also can be found in other apps except for Blablacar which gave the highest score for pricing topic. That means Blablacar users really liked its pricing system as one of the plus points compared to its compared to other apps.
+In Bolt app, praising features became the topic with the highest score, while pricing became the lowest score topic. Considering the proportion of topic praising features in Bolt app, which takes 24\% of total app reviews based on Table \ref{tab:proportion}, there is a correlation between this topic with positive ratings and sentiments, as users mainly talked about their positive experience with the Bolt app feature. This condition also happened in other apps, including Uber, Blablacar, Via, Getaround, Freenow, and Yandex Go, when their ratings have scored at least four, and their sentiment score was above +1. Meanwhile, pricing is the lowest score topic in Bolt app which means some users have a problem with the app pricing system. This issue also can be found in other apps except for Blablacar, which gave the highest score for the pricing topic. That means Blablacar users liked its pricing system as one of the plus points compared to other apps.
 
-Besides pricing, another topic with the lowest score is time. Some apps including Bolt, Uber, Cabify, Gearound, Olacabs, Freenow, and Yandex Go have low scores on this topic. It is related to pickup and arrival time for every ride, that app developers need to concern about. Meanwhile, Blablacar and Via have a positive score for this time topic which mean most of their users have a good experience with pickup and arrival time. Olacabs became the ridesharing app with the most negative scores for all 13 topics. This app needs further improvement in order to give their user a better ridesharing experience.
+Besides pricing, another topic with the lowest score is time. Some apps, including Bolt, Uber, Cabify, Getaround, Olacabs, Freenow, and Yandex Go have low scores on this topic. It is related to pickup and arrival times for every ride that app developers need to prioritize. Meanwhile, Blablacar and Via have a positive score for this time topic which means most of their users have a good experience with pickup and arrival times. Olacabs became the ridesharing app with the most negative scores for all 13 topics. This app needs further improvement to give users a better ridesharing experience.
 
 \newpage
 \section{Conclusions}
-In this thesis, we fill the gap in the academic literature by analyzing ridesharing app reviews using some open-source libraries and compared their result. We identify the list of useful topics that ridesharing app developers should focus on for the next development cycle of their app. Topics that have been investigated will help app developers with a smaller and more useful subset of app reviews which will be less time-consuming compared to analyzing all the user reviews. 
+In this thesis, we filled the academic literature gap by analyzing the ridesharing app reviews domain using some open-source libraries and compared their result. We identify the list of important topics that ridesharing app developers should focus on for the next development cycle of their app. Topics that have been investigated will help app developers with a smaller and more helpful subset of app reviews which will be less time-consuming than analyzing all the user reviews. 
 
 \subsection{Key Results}
-Based on the provided analysis in this chapter 3 and 4, we can draw the following conclusions for our two research questions as stated below:
+Based on the provided analysis in this chapter 4 and 5, we can draw the following conclusions for our two research questions as stated below:
 
 \begin{itemize}
-    \item BERTopic gave a high coherence score of 0.4410 for the first preprocessed dataset (P1) while LDA Mallet gave a higher coherence score of 0.4874 and 0.4905 for second and third preprocessed dataset (P2 and P3). The improvement of coherence scores from each preprocessing steps proved that these steps were needed to improve the quality of the dataset before implemented to topic modeling techniques.
-    \item The proportion of topics help us to know about the majority and minority topics that mentioned by the user, while average rating and sentiment score give the prioritization score for each topic by giving blue marker for the positive topic, red marker for the negative topic, and blank marker for the neutral topic. Praising features and driver service topics appeared frequently in most of ridesharing apps and gave positive scores. Meanwhile, pricing, time and reporting issues topics lead to negative scores. These negative score topics are needed to be prioritized by ridesharing app developers when they want to update their apps.
+    \item BERTopic gave a high coherence score of 0.4410 for the first preprocessed dataset (P1), while LDA Mallet gave a higher coherence score of 0.4874 and 0.4905 for the second and third preprocessed dataset (P2 and P3). The improvement of coherence scores from each preprocessing step proved that these steps were needed to improve the dataset's quality before implementing topic modeling techniques.
+    \item The proportion of topics helps us to know about the majority and minority topics mentioned by the user. Furthermore, the average rating and sentiment score give the prioritization score for each topic by giving a blue marker for the positive topic, a red marker for the negative topic, and a blank marker for the neutral topic. Praising features and driver service topics frequently appeared in most ridesharing apps and gave positive scores. Meanwhile, pricing, time, and reporting issues lead to negative scores. These negative score topics are needed to be prioritized by ridesharing app developers when they want to update their apps.
 \end{itemize}
 
 \subsection{Limitations}
 The limitations of this thesis can be divided into three key points: data, software, and hardware, which are explained in the following:
 
 \begin{itemize}
-    \item \emph{Data limitations:} the data used in this thesis was from November 2020 which might be not relevant to the current situation of ridesharing app user experiences. There is also a very low number of app reviews for an app like Taxi.eu which caused the distribution of final topics and calculation of ratings and sentiment became unavailable.
-    \item \emph{Software limitations:} the topic modeling technique required manual labeling for each extracted topic since it only gave the list of keywords that represent the topic. SentiStrength \cite{sentistrength}, the open-source library that we used to calculate the sentiment score required some dependencies that required extra setup for some operating systems. The second preprocessing step to remove inconsistent app reviews had filtered out more than fifty percent of total reviews which need to be improved in future development.
-    \item \emph{Hardware limitations:} this study analyzes a large number of app reviews which is a time-consuming task when using a less-powered computer such as our personal laptop. We needed a more powerful and faster computer in order to work faster and efficiently. We tried the University of Tartu’s High-Performance Computing cloud server to do our analysis, but later we found out that some software dependencies can’t be installed normally on this server. Our insufficient hardware made some of our text analyses go slow and nearly impossible to complete on time. For example, the calculation of sentiment scores using the SentiStrength library took around 1 hour to complete for one ridesharing app.
+    \item \emph{Data limitations:} the data used in this thesis was from November 2020, which might not be relevant to the current situation of ridesharing app user experiences. There is also a deficient number of app reviews for an app like Taxi.eu, which caused the distribution of final topics and calculation of ratings and sentiment to become unavailable.
+    \item \emph{Software limitations:} the topic modeling technique required manual labeling for each extracted topic since it only gave the list of keywords that represent the topic. SentiStrength \cite{sentistrength}, the open-source library we used to calculate the sentiment score, required some dependencies that required extra setup for some operating systems. The second preprocessing step to remove inconsistent app reviews had filtered out more than fifty percent of total reviews, which need to be improved in future development.
+    \item \emph{Hardware limitations:} this study analyzes many app reviews, which is time-consuming when using a less-powered computer such as our laptop. We needed a more robust and faster computer in order to work faster and efficiently. We tried the University of Tartu’s High-Performance Computing cloud server to do our analysis. However, later we discovered that some software dependencies could not be installed normally on this server. Our insufficient hardware made some of our text analyses slow and nearly impossible to complete on time. For example, the calculation of sentiment scores using the SentiStrength library took around 1 hour to complete for one ridesharing app.
 \end{itemize}
 
 \subsection{Future Work}
-For further studies, the limitations related to data, software, and hardware as we’ve mentioned before, will need to be improved following the recent situation and technological advancement.
+For further studies, the limitations related to data, software, and hardware, as we have mentioned before, will need to be improved following the recent situation and technological advancement.
 
-This study focused only on the top 10 ridesharing apps in Europe, while there are some ridesharing apps available only in certain regions such as Lyft in US, Gojek and Grab in Southeast Asia. It would be possible to continue the similar analyses from another region’s perspective.
+This study focused only on the top 10 ridesharing apps in Europe. At the same time, there are some ridesharing apps available only in certain regions, such as Lyft in US, Gojek, and Grab in Southeast Asia. It would be possible to continue similar analyses from another region’s perspective.
 
 With the rising of NLP research and the development of pre-trained models like BERT, we would like to explore more pre-trained models in the field of NLP that are possibly able to give a better quality of feature and topic extraction. In summary, with the future development of NLP machine learning models, this study can be optimized in order to help app developers to prioritize the future changes in their app development life cycle.
 
