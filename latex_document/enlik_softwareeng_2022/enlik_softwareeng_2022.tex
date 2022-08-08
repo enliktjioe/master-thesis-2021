@@ -302,7 +302,7 @@ P170 Computer science, numerical analysis, systems, control
 \noindent\textbf{Lühikokkuvõte:}
 
 \noindent
-Tehisintellekti tehnoloogiate alane uurimistöö on tänapäeval muutunud populaarsemaks, millele aitavad kaasa andmemahtude kasv, kõrge jõudlusegs algoritmid ja hõlpsam juurdepääs suure jõudlusega andmetöötlusele. Loomuliku keele töötlemine (NLP) osana tehisintellekti tehnoloogiatest mängib olulist roll vestluspõhise tehisintellekti tulevikus, sest suudab tõlgendada meie loomulikku keelt. Teisest küljest, sõidujagamisrakenduste tööstus kasvab plahvatuslikult, millele aitavad kaasa mobiilseadmete tehnoloogia levik ning vajadus kiiremate ja odavamate liikumisvõimaluste järele. Käesolevas magistritöös anname ülevaate tôöstuskijest loomuliku keele rakandustest sõidujagamisrakenduste arvustuste analüüsiks ja selgitame välja praeguste praktikate puudujäägid. Puudujääkide leevendamiseks paneme ette meetodi teabe eraldamiseks rakenduste arvustustest eesmärgiga aidata sõidujagamisrakenduste arendajatel tuvastada, milliseid funktsioone on kõige rohkem vaja ja millised on vähem olulised. Töös võrteldakse ettepandud meetodit teiste vastavate meetoditega ja valideeritakse.... See panus aitab sõidujagamisrakenduste arendajatel määrata kindlaks nõuded rakenduste arendamiseks.
+Tehisintellekti tehnoloogiate alane uurimistöö on tänapäeval muutunud populaarsemaks, millele aitavad kaasa andmemahtude kasv, kõrge jõudlusegs algoritmid ja hõlpsam juurdepääs suure jõudlusega andmetöötlusele. Loomuliku keele töötlemine osana tehisintellekti tehnoloogiatest mängib olulist roll vestluspõhise tehisintellekti tulevikus, sest suudab tõlgendada meie loomulikku keelt. Teisest küljest, sõidujagamisrakenduste tööstus kasvab plahvatuslikult, millele aitavad kaasa mobiilseadmete tehnoloogia levik ning vajadus kiiremate ja odavamate liikumisvõimaluste järele. Käesolevas magistritöös anname ülevaate tôöstuslikest sõidujagamisrakenduste arvustuste analüüsi loomuliku keele rakendustest ja selgitame välja praeguste praktikate puudujäägid. Puudujääkide leevendamiseks paneme ette meetodi teabe eraldamiseks rakenduste arvustustest eesmärgiga aidata sõidujagamisrakenduste arendajatel tuvastada, milliseid funktsioone on kõige rohkem vaja ja millised on vähem olulised. Töös võrreldakse ettepandud meetodit teiste vastavate meetoditega ja valideeritakse Euroopa kümne kõige populaarsema sõidujagamise rakendusega, kaasa arvatud Bolt, Uber, Blablacar, Cabify, Via, Getaround, OlaCabs, Taxi.eu, Freenow, ja Yandex Go.. See panus aitab sõidujagamisrakenduste arendajatel määrata kindlaks nõuded rakenduste arendamiseks.
 
 \vspace*{1ex}
 
@@ -385,7 +385,7 @@ This thesis work will contribute to creating a text analysis for ridesharing app
 
 
 \subsection{Outline of the Thesis}
-The thesis is structured into three main chapters with the conclusion, references, and appendices. The remainder of the thesis is structured as follows. Chapter 2, \textbf{Literature Review}, discusses some related works of literature to this thesis. Chapter 3, \textbf{Study Setup}, describes a detailed description of the analysis process, starting from how we choose the top ten ridesharing apps in Europe, data preprocessing, and building the text corpus for the following data analysis. Chapter 4, \textbf{Implementation}, explains our proposed topic modeling techniques. Chapter 5, \textbf{Finding and Analysis}, reports on the findings and analysis for our project. Chapter 6, \textbf{Conclusion}, discusses the key results, limitations, and future work for this thesis. For the last two chapters, \textbf{References}, include related works of literature and articles, and \textbf{Appendices}, stated all the necessary information that becomes a part of this thesis project.
+The thesis is structured into three main chapters with the conclusion, references, and appendices. The remainder of the thesis is structured as follows. Chapter 2, \textbf{Literature Review}, discusses some related works of literature to this thesis. Chapter 3, \textbf{Study Setup}, describes a detailed description of the analysis process, starting from how we choose the top ten ridesharing apps in Europe, data preprocessing, and building the text corpus for the following data analysis. Chapter 4, \textbf{Implementation}, explains our proposed topic modeling techniques. Chapter 5, \textbf{Findings and Analysis}, reports on the findings and analysis for our project. Chapter 6, \textbf{Conclusion}, discusses the key results, limitations, and future work for this thesis. For the last two chapters, \textbf{References}, include related works of literature and articles, and \textbf{Appendices}, stated all the necessary information that becomes a part of this thesis project.
 
 
 
@@ -1050,8 +1050,8 @@ N/A         & (OUTLIER)         & -1\_app\_my\_driver\_on                    & 3
 
 \clearpage
 \newpage
-\section{Finding and Analysis}
-In this chapter, some findings and analyses were discussed to determine what is going well and what is the thing that can be improved for future improvement.
+\section{Findings and Analysis}
+In this chapter, some findings and analysis were discussed to determine what is going well and what is the thing that can be improved for future improvement.
 
 \subsection{Final Results}
 Based on the LDA Mallet and BERTopic results above, we do the manual analysis to interpret the LDA model and select the final topics. We merge some topics with very similar meanings based on the keyword given by the model and the related app reviews. We follow these criteria before merging the topics:
@@ -1192,7 +1192,7 @@ Besides pricing, another topic with the lowest score is time. Some apps, includi
 In this thesis, we filled the academic literature gap by analyzing the ridesharing app reviews domain using some open-source libraries and compared their result. We identify the list of important topics that ridesharing app developers should focus on for the next development cycle of their app. Topics that have been investigated will help app developers with a smaller and more helpful subset of app reviews which will be less time-consuming than analyzing all the user reviews. 
 
 \subsection{Key Results}
-Based on the provided analysis in this chapter 4 and 5, we can draw the following conclusions for our two research questions as stated below:
+Based on the implementation and analysis in chapters 4 and 5, we can draw the following conclusions for our two research questions as stated below:
 
 \begin{itemize}
     \item BERTopic gave a high coherence score of 0.4410 for the first preprocessed dataset (P1), while LDA Mallet gave a higher coherence score of 0.4874 and 0.4905 for the second and third preprocessed dataset (P2 and P3). The improvement of coherence scores from each preprocessing step proved that these steps were needed to improve the dataset's quality before implementing topic modeling techniques.
@@ -1205,7 +1205,7 @@ The limitations of this thesis can be divided into three key points: data, softw
 \begin{itemize}
     \item \emph{Data limitations:} the data used in this thesis was from November 2020, which might not be relevant to the current situation of ridesharing app user experiences. There is also a deficient number of app reviews for an app like Taxi.eu, which caused the distribution of final topics and calculation of ratings and sentiment to become unavailable.
     \item \emph{Software limitations:} the topic modeling technique required manual labeling for each extracted topic since it only gave the list of keywords that represent the topic. SentiStrength \cite{sentistrength}, the open-source library we used to calculate the sentiment score, required some dependencies that required extra setup for some operating systems. The second preprocessing step to remove inconsistent app reviews had filtered out more than fifty percent of total reviews, which need to be improved in future development.
-    \item \emph{Hardware limitations:} this study analyzes many app reviews, which is time-consuming when using a less-powered computer such as our laptop. We needed a more robust and faster computer in order to work faster and efficiently. We tried the University of Tartu’s High-Performance Computing cloud server to do our analysis. However, later we discovered that some software dependencies could not be installed normally on this server. Our insufficient hardware made some of our text analyses slow and nearly impossible to complete on time. For example, the calculation of sentiment scores using the SentiStrength library took around 1 hour to complete for one ridesharing app.
+    \item \emph{Hardware limitations:} this study analyzes many app reviews, which is time-consuming when using a less-powered computer such as our laptop. We needed a more robust and faster computer to work faster and efficiently. We tried the University of Tartu’s High-Performance Computing cloud server to do our analysis. However, later we discovered that we could not install some software dependencies on this server. Our insufficient hardware made some of our text analyses slow and nearly impossible to complete on time. For example, the calculation of sentiment scores using the SentiStrength library took around 1 hour to complete for one ridesharing app.
 \end{itemize}
 
 \subsection{Future Work}
