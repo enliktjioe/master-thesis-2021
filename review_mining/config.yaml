@@ -1,0 +1,28 @@
+APP: ReviewMining
+
+app_id:
+  bolt_apple: 'bolt-fast-affordable-rides'
+  bolt_google: 'ee.mtakso.client'
+  uber_apple: 'uber'
+  uber_google: 'com.ubercab'
+  blablacar_apple: 'blablacar-carpooling-and-bus'
+  blablacar_google: 'com.comuto'
+  cabify_apple: 'cabify'
+  cabify_google: 'com.cabify.rider'
+  via_apple: 'via-low-cost-ride-sharing'
+  via_google: 'via.rider'
+  getaround_apple: 'getaround-europe-ex-drivy'
+  getaround_google: 'com.c4mprod.voiturelib'
+  olacabs_apple: 'ola-cabs'
+  olacabs_google: 'com.olacabs.customer'
+  taxieu_apple: 'taxi-eu'
+  taxieu_google: 'at.austrosoft.t4me.MB_BerlinTZBEU'
+  freenow_apple: 'free-now-mytaxi'
+  freenow_google: 'taxi.android.client'
+  yandexgo_apple: 'yandex-go-taxi-and-delivery'
+  yandexgo_google: 'ru.yandex.taxi'
+
+country_code: 'gb'
+# country_code: ['gb','ee','fr', 'de']
+
+review_colname: ['review']
